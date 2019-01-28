@@ -11,7 +11,7 @@
         "icon": "lrn:network",
         "hexCode": "#aeff00",
         "created": 1548653466,
-        "updated": 1548653466,
+        "updated": 1548653982,
         "cssVariable": "--simple-colors-lime-background5",
         "publishing": {
             "git": {
@@ -29,11 +29,11 @@
             "location": "pages\/item-c97a8e67-971e-4e92-8b38-e348c780d072\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
-            "description": "I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His auto",
+            "title": "Golden, shimmering, joy.",
+            "description": "",
             "metadata": {
-                "created": 1548653466,
-                "updated": 1548653955
+                "created": 1548653982,
+                "updated": 1548653982
             }
         }
     ]
