@@ -17,10 +17,11 @@
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages",
-                "url": "git@github.com:elmsln\/btopro.git",
-                "cdn": "webcomponents.psu.edu"
+                "url": "git@github.com:btopro\/blog.git",
+                "cdn": "cdn.waxam.io"
             }
-        }
+        },
+        "lastPublished": 1548657590
     },
     "items": [
         {
