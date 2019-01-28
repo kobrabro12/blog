@@ -1,0 +1,41 @@
+{
+    "id": "deea4d65-63cb-4e0d-8270-4beccd662063",
+    "title": "btopro",
+    "author": "",
+    "description": "Crazy, abrasive, caring, dreaming the world into existence we need, not the one we have.",
+    "license": "by-sa",
+    "metadata": {
+        "siteName": "btopro",
+        "image": "assets\/banner.jpg",
+        "theme": "simple-blog",
+        "icon": "lrn:network",
+        "hexCode": "#aeff00",
+        "created": 1548653466,
+        "updated": 1548653466,
+        "cssVariable": "--simple-colors-lime-background5",
+        "publishing": {
+            "git": {
+                "vendor": "github",
+                "branch": "gh-pages",
+                "url": "git@github.com:elmsln\/btopro.git",
+                "cdn": "webcomponents.psu.edu"
+            }
+        }
+    },
+    "items": [
+        {
+            "id": "item-c97a8e67-971e-4e92-8b38-e348c780d072",
+            "indent": 0,
+            "location": "pages\/item-c97a8e67-971e-4e92-8b38-e348c780d072\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "New page",
+            "description": "",
+            "metadata": {
+                "created": 1548653466,
+                "updated": 1548653466
+            }
+        }
+    ],
+    "location": "\/_sites\/btopro\/index.html"
+}
