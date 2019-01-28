@@ -11,7 +11,7 @@
         "icon": "lrn:network",
         "hexCode": "#aeff00",
         "created": 1548653466,
-        "updated": 1548653982,
+        "updated": 1548654202,
         "cssVariable": "--simple-colors-lime-background5",
         "publishing": {
             "git": {
@@ -24,30 +24,29 @@
     },
     "items": [
         {
+            "id": "item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a",
+            "indent": 0,
+            "location": "pages\/occupy\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "OCCUPY... the bridge.",
+            "description": "",
+            "metadata": {
+                "created": 1548654202,
+                "updated": 1548654202
+            }
+        },
+        {
             "id": "item-c97a8e67-971e-4e92-8b38-e348c780d072",
             "indent": 0,
             "location": "pages\/item-c97a8e67-971e-4e92-8b38-e348c780d072\/index.html",
-            "order": 0,
+            "order": 1,
             "parent": null,
             "title": "Golden, shimmering, joy.",
             "description": "",
             "metadata": {
-                "created": 1548653982,
-                "updated": 1548653982
-            }
-        },
-        {
-            "id": "item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a",
-            "indent": "0",
-            "location": "pages\/occupy\/index.html",
-            "order": "0",
-            "parent": null,
-            "title": "OCCUPY... the bridge.",
-            "description": "Bridges\u00a0 get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the bridge",
-            "metadata": {
-                "siteName": "btopro",
-                "created": 1548654117,
-                "updated": 1548654158
+                "created": 1548654202,
+                "updated": 1548654202
             }
         }
     ]
