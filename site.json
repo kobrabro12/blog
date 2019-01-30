@@ -11,7 +11,7 @@
         "icon": "lrn:network",
         "hexCode": "#aeff00",
         "created": 1548653466,
-        "updated": 1548822738,
+        "updated": 1548823380,
         "cssVariable": "--simple-colors-lime-background5",
         "publishing": {
             "git": {
@@ -25,29 +25,575 @@
     },
     "items": [
         {
+            "id": "item-cd716dd0-59b0-a24d-1ddb-2779369c52b2",
+            "indent": 0,
+            "location": "pages\/2018-innovation-submission\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "2018 Innovation Submission",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
             "id": "item-c97a8e67-971e-4e92-8b38-e348c780d072",
             "indent": 0,
             "location": "pages\/item-c97a8e67-971e-4e92-8b38-e348c780d072\/index.html",
-            "order": 0,
+            "order": 1,
             "parent": null,
             "title": "Golden, shimmering, joy.",
             "description": "",
             "metadata": {
-                "created": 1548822738,
-                "updated": 1548822738
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-5e860e67-2444-0304-6180-9cb7dee92321",
+            "indent": 0,
+            "location": "pages\/common-web-component-state-question\n\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "Common web component state question\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-e165f124-11d5-4b9a-06ed-7b6bf1802ca8",
+            "indent": 0,
+            "location": "pages\/ngdle-is-really-just-enigma-misspelled\n\/index.html",
+            "order": 3,
+            "parent": null,
+            "title": "NGDLE is really just Enigma misspelled\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0",
+            "indent": 0,
+            "location": "pages\/compartmentalizing\n\/index.html",
+            "order": 4,
+            "parent": null,
+            "title": "Compartmentalizing\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
             }
         },
         {
             "id": "item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a",
             "indent": 0,
             "location": "pages\/occupy\/index.html",
-            "order": 1,
+            "order": 5,
             "parent": null,
             "title": "OCCUPY... the bridge.",
             "description": "",
             "metadata": {
-                "created": 1548822738,
-                "updated": 1548822738
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-46aa6443-ebf1-62b2-6523-760490d5ce9b",
+            "indent": 0,
+            "location": "pages\/when-educators-left-the-lms\n\/index.html",
+            "order": 6,
+            "parent": null,
+            "title": "When Educators left the LMS\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-8cef1ad3-7cc7-778a-b125-1d85f265742d",
+            "indent": 0,
+            "location": "pages\/the-lms-is-cable,-we-are-roku.-expect-us.\n\/index.html",
+            "order": 7,
+            "parent": null,
+            "title": "The LMS is Cable, We are Roku. Expect Us.\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-6c53744c-1b33-97a1-976f-90484f5bc450",
+            "indent": 0,
+            "location": "pages\/innovation's-four-ingredients\n\/index.html",
+            "order": 8,
+            "parent": null,
+            "title": "Innovation's four ingredients\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-401610da-127f-602f-5298-265f5eea00ee",
+            "indent": 0,
+            "location": "pages\/straddling-the-abyss\n\/index.html",
+            "order": 9,
+            "parent": null,
+            "title": "Straddling the Abyss\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-f82147b6-1844-d3c0-9515-01130ce85c79",
+            "indent": 0,
+            "location": "pages\/the-knowledge-decentralization-manifesto\n\/index.html",
+            "order": 10,
+            "parent": null,
+            "title": "The Knowledge Decentralization Manifesto\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9",
+            "indent": 0,
+            "location": "pages\/the-knowledge-decentralization-manifesto-(the-prolog)\n\/index.html",
+            "order": 11,
+            "parent": null,
+            "title": "The Knowledge Decentralization Manifesto (The Prolog)\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-79649f12-a6d2-98f5-3c0b-8b88f2a24457",
+            "indent": 0,
+            "location": "pages\/hax-apereo-piece\n\/index.html",
+            "order": 12,
+            "parent": null,
+            "title": "HAX apereo piece\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-02eb8047-1b01-750d-4862-ad5940d00fc5",
+            "indent": 0,
+            "location": "pages\/infographic:-breaking-the-cost-cycle-of-education\n\/index.html",
+            "order": 13,
+            "parent": null,
+            "title": "Infographic: Breaking the cost cycle of education\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-c9e2488a-44dd-f0d4-4b3f-651245add81a",
+            "indent": 0,
+            "location": "pages\/the-perfect-cup-of-coffee\n\/index.html",
+            "order": 14,
+            "parent": null,
+            "title": "The perfect cup of coffee\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0",
+            "indent": 0,
+            "location": "pages\/watch-the-ripples-and-you'll-miss-the-waves\n\/index.html",
+            "order": 15,
+            "parent": null,
+            "title": "Watch the ripples and you'll miss the waves\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-40122e25-5673-4544-133f-2acb042dbb23",
+            "indent": 0,
+            "location": "pages\/i-challenge-you-to-transform-education;-together.\n\/index.html",
+            "order": 16,
+            "parent": null,
+            "title": "I challenge you to Transform Education; together.\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3",
+            "indent": 0,
+            "location": "pages\/ngdle,-oer,-cost-reduction,-accessibility-and-decentralization:-the-future-of-our-institutions.\n\/index.html",
+            "order": 17,
+            "parent": null,
+            "title": "NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-4080a73d-360e-7a65-131b-705b8c6169e7",
+            "indent": 0,
+            "location": "pages\/actually,-curing-edtech\n\/index.html",
+            "order": 18,
+            "parent": null,
+            "title": "Actually, curing edtech\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-1f14703a-1e61-d454-f03a-52a94333e9d1",
+            "indent": 0,
+            "location": "pages\/in-my-own-words:-zero-cost-education.\n\/index.html",
+            "order": 19,
+            "parent": null,
+            "title": "In my own words: Zero cost education.\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-bea307e8-0af9-4518-dc18-c5323302165c",
+            "indent": 0,
+            "location": "pages\/education,-technology...-action.\n\/index.html",
+            "order": 20,
+            "parent": null,
+            "title": "Education, Technology... Action.\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-897d5115-b6de-2c55-afa7-ba3262f4d9ca",
+            "indent": 0,
+            "location": "pages\/pure-joy\/index.html",
+            "order": 21,
+            "parent": null,
+            "title": "Pure Joy",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2",
+            "indent": 0,
+            "location": "pages\/creating-the-decentralized-instructional-experience-app\/index.html",
+            "order": 22,
+            "parent": null,
+            "title": "Creating the decentralized instructional experience app",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-1222b362-d24d-0aa7-20e7-724767f57656",
+            "indent": 0,
+            "location": "pages\/using-webcomponents-to-unearth-the-ngdle\n\/index.html",
+            "order": 23,
+            "parent": null,
+            "title": "Using Webcomponents to unearth the NGDLE\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-be6f30a2-8a4d-e986-6af3-930f91e00464",
+            "indent": 0,
+            "location": "pages\/this-is-not-reality\n\/index.html",
+            "order": 24,
+            "parent": null,
+            "title": "This is not reality\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0",
+            "indent": 0,
+            "location": "pages\/playing-for-40\/index.html",
+            "order": 25,
+            "parent": null,
+            "title": "Playing for 40",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-e8c71c40-1351-7293-ae61-2e01b348f71f",
+            "indent": 0,
+            "location": "pages\/dood\/index.html",
+            "order": 26,
+            "parent": null,
+            "title": "Dood",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-930234f4-c1d5-1d04-b08a-fddc47aa98dd",
+            "indent": 0,
+            "location": "pages\/generation-uine\n\/index.html",
+            "order": 27,
+            "parent": null,
+            "title": "Generation Uine\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-8099a4ba-8fbc-a60f-7451-ac12d8d17409",
+            "indent": 0,
+            "location": "pages\/birthday-party\n\/index.html",
+            "order": 28,
+            "parent": null,
+            "title": "Birthday party\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-773011dc-d235-36bf-7c70-fb0f8a4f4f1c",
+            "indent": 0,
+            "location": "pages\/[alt]-+-{{reality}}\n\/index.html",
+            "order": 29,
+            "parent": null,
+            "title": "[Alt] + {{reality}}\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e",
+            "indent": 0,
+            "location": "pages\/end-of-summer\n\/index.html",
+            "order": 30,
+            "parent": null,
+            "title": "End of Summer\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-bf9b2910-4880-c87f-4026-143bb334d1a6",
+            "indent": 0,
+            "location": "pages\/combating-the-rise-of-authoritarianism\n\/index.html",
+            "order": 31,
+            "parent": null,
+            "title": "Combating the rise of authoritarianism\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-e479640f-e5e2-189a-1ae1-2a3f44d01a59",
+            "indent": 0,
+            "location": "pages\/attacking-the-false-binary-(of-politics)\n\/index.html",
+            "order": 32,
+            "parent": null,
+            "title": "Attacking the false Binary (of politics)\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-92c8d1d5-e579-930b-2c57-e9753e9dfefe",
+            "indent": 0,
+            "location": "pages\/singularity,-digital-activism,-and-saving-our-institutions\n\/index.html",
+            "order": 33,
+            "parent": null,
+            "title": "Singularity, Digital Activism, and saving our institutions\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d",
+            "indent": 0,
+            "location": "pages\/ddosa\/index.html",
+            "order": 34,
+            "parent": null,
+            "title": "DDoSA",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-f7c4705e-c70b-6cf9-0623-095830584d4d",
+            "indent": 0,
+            "location": "pages\/occutea-wallparty\n\/index.html",
+            "order": 35,
+            "parent": null,
+            "title": "OccuTea WallParty\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e",
+            "indent": 0,
+            "location": "pages\/efficiency-as-activism\n\/index.html",
+            "order": 36,
+            "parent": null,
+            "title": "Efficiency as Activism\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-093425c7-cba0-e10b-60f8-9bf6afd32f9a",
+            "indent": 0,
+            "location": "pages\/rate-of-perception\n\/index.html",
+            "order": 37,
+            "parent": null,
+            "title": "Rate of perception\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-f8a9a36b-2d96-17ec-0a07-356191bb57ff",
+            "indent": 0,
+            "location": "pages\/ministry-of-information\n\/index.html",
+            "order": 38,
+            "parent": null,
+            "title": "Ministry of information\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-2ddc5396-01fe-60fc-5c23-fa40abae58e9",
+            "indent": 0,
+            "location": "pages\/organic-deployment-architecture\n\/index.html",
+            "order": 39,
+            "parent": null,
+            "title": "Organic Deployment Architecture\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70",
+            "indent": 0,
+            "location": "pages\/legacy-of-human-hierarchy\n\/index.html",
+            "order": 40,
+            "parent": null,
+            "title": "Legacy of Human Hierarchy\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-07d2884a-9e17-32f2-3175-0887f02bb49c",
+            "indent": 0,
+            "location": "pages\/transform-control\n\/index.html",
+            "order": 41,
+            "parent": null,
+            "title": "Transform Control\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-25e65b02-61b2-b987-7e86-601a241f74c9",
+            "indent": 0,
+            "location": "pages\/transforming-industry-through-information-altruism\n\/index.html",
+            "order": 42,
+            "parent": null,
+            "title": "Transforming industry through information altruism\n",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
+            }
+        },
+        {
+            "id": "item-c6866e7a-1981-8c76-293a-0b96181e4945",
+            "indent": 0,
+            "location": "pages\/sustainable-systems-development:-a-moral-issue\/index.html",
+            "order": 43,
+            "parent": null,
+            "title": "Sustainable Systems Development: A moral issue",
+            "description": "",
+            "metadata": {
+                "created": 1548823380,
+                "updated": 1548823380
             }
         }
     ]
