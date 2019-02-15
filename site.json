@@ -564,10 +564,10 @@
             "order": 39,
             "parent": null,
             "title": "Organic Deployment Architecture",
-            "description": "",
+            "description": "Decentralized deployment architectureAll deployments currently imply a central authority, whether a company or developer running some kind of master system with control over the rest of the network.",
             "metadata": {
                 "created": 1451007640,
-                "updated": 1548824000,
+                "updated": 1550196777,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
