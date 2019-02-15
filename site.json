@@ -8,7 +8,7 @@
         "siteName": "btopro",
         "image": "assets\/banner.jpg",
         "theme": "simple-blog",
-        "icon": "",
+        "icon": "lrn:network",
         "hexCode": "#aeff00",
         "created": 1548653466,
         "updated": 1550196837,
@@ -21,7 +21,7 @@
                 "cdn": "cdn.waxam.io"
             }
         },
-        "lastPublished": 1550004905
+        "lastPublished": 1550196884
     },
     "items": [
         {
