@@ -8,11 +8,11 @@
         "siteName": "btopro",
         "image": "assets\/banner.jpg",
         "theme": "simple-blog",
-        "icon": "lrn:network",
+        "icon": "",
         "hexCode": "#aeff00",
         "created": 1548653466,
-        "updated": 1548824000,
-        "cssVariable": "--simple-colors-lime-background5",
+        "updated": 1550196837,
+        "cssVariable": "",
         "publishing": {
             "git": {
                 "vendor": "github",
