@@ -590,10 +590,10 @@
             "order": 41,
             "parent": null,
             "title": "Transform Control",
-            "description": "Now, very few people build anything from scratch (of any scale). They always use frameworks, whether CMS frameworks like Drupal or Wordpress, or system scaffolding frameworks like Symfony or Zend.",
+            "description": "The old addage of IT managers of the 90's was that technology didn't matter. As in, it didn't matter which technology you choose, just that you align with one and execute. This mindset was wrought w",
             "metadata": {
                 "created": 1449884440,
-                "updated": 1550196132,
+                "updated": 1550196183,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
