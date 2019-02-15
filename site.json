@@ -580,7 +580,17 @@
             "description": "",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1548824000
+                "updated": 1548824000,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
+                        "url": "files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
+                        "type": "image\/jpeg",
+                        "name": "037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
+                        "size": 28645
+                    }
+                ]
             }
         },
         {
