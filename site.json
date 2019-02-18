@@ -21,7 +21,7 @@
                 "cdn": "cdn.waxam.io"
             }
         },
-        "lastPublished": 1550196884
+        "lastPublished": 1550464396
     },
     "items": [
         {
@@ -214,19 +214,6 @@
             "parent": null,
             "title": "HAX apereo piece",
             "description": "Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media ",
-            "metadata": {
-                "created": 1548824000,
-                "updated": 1550464341
-            }
-        },
-        {
-            "id": "item-02eb8047-1b01-750d-4862-ad5940d00fc5",
-            "indent": 0,
-            "location": "pages\/infographic-breaking-the-cost-cycle-of-education\/index.html",
-            "order": 13,
-            "parent": null,
-            "title": "The perfect cup of coffee",
-            "description": "",
             "metadata": {
                 "created": 1548824000,
                 "updated": 1550464341
