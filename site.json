@@ -43,7 +43,7 @@
             "location": "pages\/item-c97a8e67-971e-4e92-8b38-e348c780d072\/index.html",
             "order": 1,
             "parent": null,
-            "title": "Golden, shimmering, joy.",
+            "title": "Golden, shimmering, joy",
             "description": "",
             "metadata": {
                 "created": 1548824000,
@@ -121,7 +121,7 @@
             "location": "pages\/occupy\/index.html",
             "order": 5,
             "parent": null,
-            "title": "OCCUPY... the bridge.",
+            "title": "OCCUPY... the bridge",
             "description": "",
             "metadata": {
                 "created": 1548824000,
@@ -147,7 +147,7 @@
             "location": "pages\/the-lms-is-cable-we-are-roku-expect-us\/index.html",
             "order": 7,
             "parent": null,
-            "title": "The LMS is Cable, We are Roku. Expect Us.",
+            "title": "The LMS is Cable, We are Roku. Expect Us",
             "description": "Cable\nIn the 40s and 50s, the Cable industry was born.\nBy the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on",
             "metadata": {
                 "created": 1548824000,
@@ -261,10 +261,10 @@
         {
             "id": "item-40122e25-5673-4544-133f-2acb042dbb23",
             "indent": 0,
-            "location": "pages\/i-challenge-you-to-transform-education;-together.\/index.html",
+            "location": "pages\/i-challenge-you-to-transform-education-together\/index.html",
             "order": 16,
             "parent": null,
-            "title": "I challenge you to Transform Education; together.",
+            "title": "I challenge you to Transform Education; together",
             "description": "",
             "metadata": {
                 "created": 1548824000,
@@ -274,14 +274,14 @@
         {
             "id": "item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3",
             "indent": 0,
-            "location": "pages\/ngdle-oer-cost-reduction-accessibility-and-decentralization:-the-future-of-our-institutions.\/index.html",
+            "location": "pages\/ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions\/index.html",
             "order": 17,
             "parent": null,
             "title": "NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.",
-            "description": "",
+            "description": "I'm done with talk about the Next Generation Digital Learning Environment; it's time for action. I have had a plan for laying out the future of technology in higher education that I've formulated sinc",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1548824000
+                "updated": 1550449560
             }
         },
         {
@@ -300,7 +300,7 @@
         {
             "id": "item-1f14703a-1e61-d454-f03a-52a94333e9d1",
             "indent": 0,
-            "location": "pages\/in-my-own-words:-zero-cost-education.\/index.html",
+            "location": "pages\/in-my-own-words-zero-cost-education\/index.html",
             "order": 19,
             "parent": null,
             "title": "In my own words: Zero cost education.",
@@ -313,7 +313,7 @@
         {
             "id": "item-bea307e8-0af9-4518-dc18-c5323302165c",
             "indent": 0,
-            "location": "pages\/education-technology-action.\/index.html",
+            "location": "pages\/education-technology-action\/index.html",
             "order": 20,
             "parent": null,
             "title": "Education, Technology... Action.",
