@@ -8,12 +8,12 @@
         "siteName": "btopro",
         "image": "assets\/banner.jpg",
         "theme": "simple-blog",
-        "icon": "lrn:network",
-        "hexCode": "#aeff00",
-        "domain": "https:\/\/btopro.com\/",
+        "icon": "",
+        "hexCode": "#da004e",
+        "domain": "https:\/\/btopro.com",
         "created": 1548653466,
-        "updated": 1550464341,
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "updated": 1550709956,
+        "cssVariable": "pink",
         "publishing": {
             "git": {
                 "vendor": "github",
