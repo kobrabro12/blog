@@ -9,11 +9,11 @@
         "image": "assets\/banner.jpg",
         "theme": "simple-blog",
         "icon": "",
-        "hexCode": "#429d00",
+        "hexCode": "#009d75",
         "domain": "https:\/\/btopro.com",
         "created": 1548653466,
-        "updated": 1550720557,
-        "cssVariable": "light-green",
+        "updated": 1550720562,
+        "cssVariable": "teal",
         "publishing": {
             "git": {
                 "vendor": "github",
