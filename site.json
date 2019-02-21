@@ -10,9 +10,10 @@
         "theme": "simple-blog",
         "icon": "lrn:network",
         "hexCode": "#aeff00",
+        "domain": "https:\/\/btopro.com\/",
         "created": 1548653466,
         "updated": 1550464341,
-        "cssVariable": "",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
         "publishing": {
             "git": {
                 "vendor": "github",
@@ -21,7 +22,7 @@
                 "cdn": "cdn.waxam.io"
             }
         },
-        "lastPublished": 1550464396
+        "lastPublished": 1550708836
     },
     "items": [
         {

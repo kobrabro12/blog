@@ -3,6 +3,9 @@
 <head>
   <meta charset="utf-8">
   <title>My site</title>
+  <script type="text/javascript">
+  document.write("<base href='" + document.location.pathname.replace('index.html', '') + "' />");
+  </script>
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,user-scalable=yes">
   <meta name="generator" content="HAXCMS">
   <meta name="description" content="My HAXCMS site description">
@@ -22,6 +25,7 @@
   <link rel="apple-touch-icon" sizes="144x144" href="assets/icon-144x144.png">
   <link rel="apple-touch-icon" sizes="192x192" href="assets/icon-192x192.png">
   <link rel="manifest" href="manifest.json">
+  <link rel="prefetch" href="site.json">
   <link rel="stylesheet" href="build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/base.css">
   <script src="build/es6/node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
   <script src="build/es6/node_modules/web-animations-js/web-animations-next-lite.min.js"></script>
