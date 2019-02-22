@@ -679,7 +679,17 @@
             "metadata": {
                 "siteName": "btopro",
                 "created": 1550810167,
-                "updated": 1550810167
+                "updated": 1550810167,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
+                        "url": "files\/IMG_20190221_184100.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190221_184100.jpg",
+                        "size": 132868
+                    }
+                ]
             }
         }
     ]
