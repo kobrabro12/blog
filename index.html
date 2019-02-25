@@ -79,15 +79,15 @@
 <body>
   <haxcms-site-builder file="site.json"><div>HAXcms</div><div>loading<div></haxcms-site-builder>
   <noscript>Please enable JavaScript to view this website.</noscript>
-  <script async src="build/es6/node_modules/web-animations-js/web-animations-next-lite.min.js"></script>
-  <script async src="build/es6/node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
   <script src="assets/babel-top.js"></script>
-  <script src="assets/babel-bottom.js"></script>
-  <script>function supportsImports() { try { new Function('import("")'); return true; } catch (err) { return false; } }</script>
-  <script nomodule>window.nomodule = true;</script>
   <script>if (!window.customElements) { document.write("<!--") }</script>
   <script src="build/es6/node_modules/@webcomponents/webcomponentsjs/custom-elements-es5-adapter.js"></script>
   <!--! do not remove -->
+  <script src="build/es6/node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+  <script async src="build/es6/node_modules/web-animations-js/web-animations-next-lite.min.js"></script>
+  <script src="assets/babel-bottom.js"></script>
+  <script>function supportsImports() { try { new Function('import("")'); return true; } catch (err) { return false; } }</script>
+  <script nomodule>window.nomodule = true;</script>
   <script>
     if (window.nomodule || !supportsImports()) {
       define(["build/es5-amd/dist/build.js"], function () { "use strict" });
@@ -97,11 +97,11 @@
   <script type="module" src="build/es6/dist/build.js"></script>
   <!--! do not remove -->
   <script>
-    let link = document.createElement('link');
+    var link = document.createElement('link');
     link.rel = 'stylesheet';
     link.href = 'build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/base.css';
     link.type = 'text/css';
-    let def = document.getElementsByTagName('link')[0];
+    var def = document.getElementsByTagName('link')[0];
     def.parentNode.insertBefore(link, def);
   </script>
   </body>
