@@ -691,6 +691,20 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "item-985e5628-b3e6-44e5-85dc-c4d7be7bd754",
+            "indent": 0,
+            "location": "pages\/sa\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Structured Anarchy",
+            "description": "",
+            "metadata": {
+                "siteName": "btopro",
+                "created": 1551160008,
+                "updated": 1551160008
+            }
         }
     ]
 }
