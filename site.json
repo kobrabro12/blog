@@ -8,16 +8,16 @@
         "siteName": "btopro",
         "image": "assets\/banner.jpg",
         "theme": {
-            "element": "simple-blog",
-            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-            "name": "Simple blog"
+            "element": "haxcms-slide-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/haxcms-slide-theme.js",
+            "name": "Slide player"
         },
         "icon": "",
-        "hexCode": "#da004e",
+        "hexCode": "#008c37",
         "domain": "https:\/\/btopro.com",
         "created": 1548653466,
-        "updated": 1551302482,
-        "cssVariable": "pink",
+        "updated": 1551458815,
+        "cssVariable": "green",
         "publishing": {
             "git": {
                 "vendor": "github",
