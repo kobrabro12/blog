@@ -56,9 +56,10 @@
             "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
+            "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
-        "lastPublished": 1551460967
+        "lastPublished": 1551461459
     },
     "items": [
         {
