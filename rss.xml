@@ -473,7 +473,7 @@ As the "Apple of Eden
       </description>
       <category></category>
       <guid>https://btopro.com/hangouts-elmsln</guid>
-      <pubDate>Sun, 13 Mar 8253 15:51:45 +0000</pubDate>
+      <pubDate>Fri, 25 Mar 8253 15:51:45 +0000</pubDate>
     </item>
     <item>
       <title>HAXcms Theme layer Code Review</title>
@@ -483,7 +483,17 @@ As the "Apple of Eden
       </description>
       <category></category>
       <guid>https://btopro.com/haxcms-theme-layer</guid>
-      <pubDate>Fri, 13 Mar 1215 15:51:47 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 1215 15:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reclaim the web</title>
+      <link>https://btopro.com/reclaim-the-web</link>
+      <description>
+          <![CDATA[ Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/reclaim-the-web</guid>
+      <pubDate>Tue, 25 Mar 4583 15:53:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
