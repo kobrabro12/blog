@@ -781,6 +781,19 @@
                 "created": 1553524583,
                 "updated": 1553524777
             }
+        },
+        {
+            "id": "item-8f85b86c-0619-4fb5-8c19-39b49c11e96b",
+            "indent": 0,
+            "location": "pages\/all-screen-rights\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "All screens have rights",
+            "description": "",
+            "metadata": {
+                "created": 1553786677,
+                "updated": 1553786677
+            }
         }
     ]
 }
