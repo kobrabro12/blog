@@ -792,7 +792,17 @@
             "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned; na",
             "metadata": {
                 "created": 1553786677,
-                "updated": 1553796341
+                "updated": 1553796341,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie8.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/ie8.jpg",
+                        "url": "files\/ie8.jpg",
+                        "type": "image\/jpeg",
+                        "name": "ie8.jpg",
+                        "size": 33248
+                    }
+                ]
             }
         }
     ]
