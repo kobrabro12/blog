@@ -789,10 +789,10 @@
             "order": 0,
             "parent": null,
             "title": "All screens have rights",
-            "description": "",
+            "description": "Every screen has a right to content",
             "metadata": {
                 "created": 1553786677,
-                "updated": 1553786677
+                "updated": 1553786742
             }
         }
     ]
