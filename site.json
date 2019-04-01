@@ -855,7 +855,17 @@
             "description": "",
             "metadata": {
                 "created": 1554140865,
-                "updated": 1554140865
+                "updated": 1554140865,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "url": "files\/scale-50\/IMG_20190127_153429.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190127_153429.jpg",
+                        "size": 27242
+                    }
+                ]
             }
         }
     ]
