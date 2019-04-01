@@ -844,6 +844,19 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74",
+            "indent": 0,
+            "location": "pages\/hax-the-dux\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Drunken UX interview",
+            "description": "",
+            "metadata": {
+                "created": 1554140865,
+                "updated": 1554140865
+            }
         }
     ]
 }
