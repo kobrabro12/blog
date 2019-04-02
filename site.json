@@ -59,7 +59,7 @@
             "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
-        "lastPublished": 1554150998
+        "lastPublished": 1554151018
     },
     "items": [
         {
@@ -73,6 +73,169 @@
             "metadata": {
                 "created": 1548824000,
                 "updated": 1550464341
+            }
+        },
+        {
+            "id": "item-15cbf071-ff46-4ec6-90dd-35c57537af97",
+            "indent": 0,
+            "location": "pages\/fortify\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Fortify",
+            "description": "\"FORT. NIGHT.\"They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort",
+            "metadata": {
+                "siteName": "btopro",
+                "created": 1550810167,
+                "updated": 1550811493,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
+                        "url": "files\/IMG_20190221_184100.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190221_184100.jpg",
+                        "size": 132868
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-8f85b86c-0619-4fb5-8c19-39b49c11e96b",
+            "indent": 0,
+            "location": "pages\/all-screen-rights\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "All screens have rights",
+            "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned;",
+            "metadata": {
+                "created": 1553786677,
+                "updated": 1553805250,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie8.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/ie8.jpg",
+                        "url": "files\/ie8.jpg",
+                        "type": "image\/jpeg",
+                        "name": "ie8.jpg",
+                        "size": 33248
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/safari4.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/safari4.jpg",
+                        "url": "files\/safari4.jpg",
+                        "type": "image\/jpeg",
+                        "name": "safari4.jpg",
+                        "size": 31316
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ff3.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/ff3.jpg",
+                        "url": "files\/ff3.jpg",
+                        "type": "image\/jpeg",
+                        "name": "ff3.jpg",
+                        "size": 27317
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/android22.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/android22.jpg",
+                        "url": "files\/android22.jpg",
+                        "type": "image\/jpeg",
+                        "name": "android22.jpg",
+                        "size": 19865
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ipad2.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/ipad2.jpg",
+                        "url": "files\/ipad2.jpg",
+                        "type": "image\/jpeg",
+                        "name": "ipad2.jpg",
+                        "size": 28313
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie6.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/ie6.jpg",
+                        "url": "files\/ie6.jpg",
+                        "type": "image\/jpeg",
+                        "name": "ie6.jpg",
+                        "size": 33838
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-7502f3ce-134f-4c88-beaf-85e539c0e801",
+            "indent": 0,
+            "location": "pages\/reclaim-the-web\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Reclaim the web",
+            "description": "Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p",
+            "metadata": {
+                "created": 1553524583,
+                "updated": 1553524777
+            }
+        },
+        {
+            "id": "item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d",
+            "indent": 0,
+            "location": "pages\/haxcms-theme-layer\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "HAXcms Theme layer Code Review",
+            "description": "Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s",
+            "metadata": {
+                "created": 1551471215,
+                "updated": 1551471471
+            }
+        },
+        {
+            "id": "item-44797f99-e67b-41ce-a32f-57ccafea33ec",
+            "indent": 0,
+            "location": "pages\/hangouts-elmsln\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "ELMS:LN Code review series Part 1",
+            "description": "  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b",
+            "metadata": {
+                "created": 1551458253,
+                "updated": 1551471190
+            }
+        },
+        {
+            "id": "item-985e5628-b3e6-44e5-85dc-c4d7be7bd754",
+            "indent": 0,
+            "location": "pages\/sa\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Structured Anarchy",
+            "description": "A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS. \u00a0I am writing now to talk about how I\u2019ve begun working towards that goal that you might ",
+            "metadata": {
+                "siteName": "btopro",
+                "created": 1300665600,
+                "updated": 1300665600
+            }
+        },
+        {
+            "id": "item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74",
+            "indent": 0,
+            "location": "pages\/hax-the-dux\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Drunken UX interview",
+            "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve",
+            "metadata": {
+                "created": 1554140865,
+                "updated": 1554174282,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "url": "files\/scale-50\/IMG_20190127_153429.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190127_153429.jpg",
+                        "size": 27242
+                    }
+                ]
             }
         },
         {
@@ -701,169 +864,6 @@
                         "type": "image\/jpeg",
                         "name": "243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
                         "size": 12098
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-15cbf071-ff46-4ec6-90dd-35c57537af97",
-            "indent": 0,
-            "location": "pages\/fortify\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "Fortify",
-            "description": "\"FORT. NIGHT.\"They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort",
-            "metadata": {
-                "siteName": "btopro",
-                "created": 1550810167,
-                "updated": 1550811493,
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
-                        "url": "files\/IMG_20190221_184100.jpg",
-                        "type": "image\/jpeg",
-                        "name": "IMG_20190221_184100.jpg",
-                        "size": 132868
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-985e5628-b3e6-44e5-85dc-c4d7be7bd754",
-            "indent": 0,
-            "location": "pages\/sa\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "Structured Anarchy",
-            "description": "A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS. \u00a0I am writing now to talk about how I\u2019ve begun working towards that goal that you might ",
-            "metadata": {
-                "siteName": "btopro",
-                "created": 1300665600,
-                "updated": 1300665600
-            }
-        },
-        {
-            "id": "item-44797f99-e67b-41ce-a32f-57ccafea33ec",
-            "indent": 0,
-            "location": "pages\/hangouts-elmsln\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "ELMS:LN Code review series Part 1",
-            "description": "  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b",
-            "metadata": {
-                "created": 1551458253,
-                "updated": 1551471190
-            }
-        },
-        {
-            "id": "item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d",
-            "indent": 0,
-            "location": "pages\/haxcms-theme-layer\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "HAXcms Theme layer Code Review",
-            "description": "Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s",
-            "metadata": {
-                "created": 1551471215,
-                "updated": 1551471471
-            }
-        },
-        {
-            "id": "item-7502f3ce-134f-4c88-beaf-85e539c0e801",
-            "indent": 0,
-            "location": "pages\/reclaim-the-web\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "Reclaim the web",
-            "description": "Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p",
-            "metadata": {
-                "created": 1553524583,
-                "updated": 1553524777
-            }
-        },
-        {
-            "id": "item-8f85b86c-0619-4fb5-8c19-39b49c11e96b",
-            "indent": 0,
-            "location": "pages\/all-screen-rights\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "All screens have rights",
-            "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned;",
-            "metadata": {
-                "created": 1553786677,
-                "updated": 1553805250,
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie8.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/ie8.jpg",
-                        "url": "files\/ie8.jpg",
-                        "type": "image\/jpeg",
-                        "name": "ie8.jpg",
-                        "size": 33248
-                    },
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/safari4.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/safari4.jpg",
-                        "url": "files\/safari4.jpg",
-                        "type": "image\/jpeg",
-                        "name": "safari4.jpg",
-                        "size": 31316
-                    },
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ff3.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/ff3.jpg",
-                        "url": "files\/ff3.jpg",
-                        "type": "image\/jpeg",
-                        "name": "ff3.jpg",
-                        "size": 27317
-                    },
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/android22.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/android22.jpg",
-                        "url": "files\/android22.jpg",
-                        "type": "image\/jpeg",
-                        "name": "android22.jpg",
-                        "size": 19865
-                    },
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ipad2.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/ipad2.jpg",
-                        "url": "files\/ipad2.jpg",
-                        "type": "image\/jpeg",
-                        "name": "ipad2.jpg",
-                        "size": 28313
-                    },
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie6.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/ie6.jpg",
-                        "url": "files\/ie6.jpg",
-                        "type": "image\/jpeg",
-                        "name": "ie6.jpg",
-                        "size": 33838
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74",
-            "indent": 0,
-            "location": "pages\/hax-the-dux\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "Drunken UX interview",
-            "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve",
-            "metadata": {
-                "created": 1554140865,
-                "updated": 1554146453,
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
-                        "url": "files\/scale-50\/IMG_20190127_153429.jpg",
-                        "type": "image\/jpeg",
-                        "name": "IMG_20190127_153429.jpg",
-                        "size": 27242
                     }
                 ]
             }

@@ -3,7 +3,7 @@
   <title>btopro</title>
   <link href="https://btopro.com/atom.xml" rel="self" />
   <subtitle>Crazy, abrasive, caring, dreaming the future into existence.</subtitle>
-  <updated>2019-03-01T16:48:18+00:00</updated>
+  <updated>2019-04-01T20:28:43+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -18,6 +18,90 @@
     
     <content type="html">
       <![CDATA[ This is my submission to the TLT 2018 Open Innovation Challenge. We have amazing capabilities and solutions available to us as an R1 research institution. But like many of fellow institutions, we  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Fortify</title>
+    <id>https://btopro.com/fortify</id>
+    <updated>2019-02-22T04:58:13+00:00</updated>
+    <published>2019-02-22T04:36:07+00:00</published>
+    <summary>"FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort</summary>
+    <link href="https://btopro.com/fortify"/>
+    
+    <content type="html">
+      <![CDATA[ "FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>All screens have rights</title>
+    <id>https://btopro.com/all-screen-rights</id>
+    <updated>2019-03-28T20:34:10+00:00</updated>
+    <published>2019-03-28T15:24:37+00:00</published>
+    <summary>The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned;</summary>
+    <link href="https://btopro.com/all-screen-rights"/>
+    
+    <content type="html">
+      <![CDATA[ The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned; ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Reclaim the web</title>
+    <id>https://btopro.com/reclaim-the-web</id>
+    <updated>2019-03-25T14:39:37+00:00</updated>
+    <published>2019-03-25T14:36:23+00:00</published>
+    <summary>Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p</summary>
+    <link href="https://btopro.com/reclaim-the-web"/>
+    
+    <content type="html">
+      <![CDATA[ Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAXcms Theme layer Code Review</title>
+    <id>https://btopro.com/haxcms-theme-layer</id>
+    <updated>2019-03-01T20:17:51+00:00</updated>
+    <published>2019-03-01T20:13:35+00:00</published>
+    <summary>Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s</summary>
+    <link href="https://btopro.com/haxcms-theme-layer"/>
+    
+    <content type="html">
+      <![CDATA[ Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ELMS:LN Code review series Part 1</title>
+    <id>https://btopro.com/hangouts-elmsln</id>
+    <updated>2019-03-01T20:13:10+00:00</updated>
+    <published>2019-03-01T16:37:33+00:00</published>
+    <summary>  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b</summary>
+    <link href="https://btopro.com/hangouts-elmsln"/>
+    
+    <content type="html">
+      <![CDATA[   Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Structured Anarchy</title>
+    <id>https://btopro.com/sa</id>
+    <updated>2011-03-21T00:00:00+00:00</updated>
+    <published>2011-03-21T00:00:00+00:00</published>
+    <summary>A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might </summary>
+    <link href="https://btopro.com/sa"/>
+    
+    <content type="html">
+      <![CDATA[ A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Drunken UX interview</title>
+    <id>https://btopro.com/hax-the-dux</id>
+    <updated>2019-04-02T03:04:42+00:00</updated>
+    <published>2019-04-01T17:47:45+00:00</published>
+    <summary>I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve</summary>
+    <link href="https://btopro.com/hax-the-dux"/>
+    
+    <content type="html">
+      <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve ]]>
     </content>
   </entry>
   <entry>
@@ -536,90 +620,6 @@ As the "Apple of Eden
     
     <content type="html">
       <![CDATA[ Sustainability has been a "hot" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Fortify</title>
-    <id>https://btopro.com/fortify</id>
-    <updated>2019-02-22T04:58:13+00:00</updated>
-    <published>2019-02-22T04:36:07+00:00</published>
-    <summary>"FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort</summary>
-    <link href="https://btopro.com/fortify"/>
-    
-    <content type="html">
-      <![CDATA[ "FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Structured Anarchy</title>
-    <id>https://btopro.com/sa</id>
-    <updated>2011-03-21T00:00:00+00:00</updated>
-    <published>2011-03-21T00:00:00+00:00</published>
-    <summary>A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might </summary>
-    <link href="https://btopro.com/sa"/>
-    
-    <content type="html">
-      <![CDATA[ A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>ELMS:LN Code review series Part 1</title>
-    <id>https://btopro.com/hangouts-elmsln</id>
-    <updated>2019-03-01T20:13:10+00:00</updated>
-    <published>2019-03-01T16:37:33+00:00</published>
-    <summary>  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b</summary>
-    <link href="https://btopro.com/hangouts-elmsln"/>
-    
-    <content type="html">
-      <![CDATA[   Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>HAXcms Theme layer Code Review</title>
-    <id>https://btopro.com/haxcms-theme-layer</id>
-    <updated>2019-03-01T20:17:51+00:00</updated>
-    <published>2019-03-01T20:13:35+00:00</published>
-    <summary>Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s</summary>
-    <link href="https://btopro.com/haxcms-theme-layer"/>
-    
-    <content type="html">
-      <![CDATA[ Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Reclaim the web</title>
-    <id>https://btopro.com/reclaim-the-web</id>
-    <updated>2019-03-25T14:39:37+00:00</updated>
-    <published>2019-03-25T14:36:23+00:00</published>
-    <summary>Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p</summary>
-    <link href="https://btopro.com/reclaim-the-web"/>
-    
-    <content type="html">
-      <![CDATA[ Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>All screens have rights</title>
-    <id>https://btopro.com/all-screen-rights</id>
-    <updated>2019-03-28T20:34:10+00:00</updated>
-    <published>2019-03-28T15:24:37+00:00</published>
-    <summary>The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned;</summary>
-    <link href="https://btopro.com/all-screen-rights"/>
-    
-    <content type="html">
-      <![CDATA[ The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned; ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Drunken UX interview</title>
-    <id>https://btopro.com/hax-the-dux</id>
-    <updated>2019-04-01T19:20:53+00:00</updated>
-    <published>2019-04-01T17:47:45+00:00</published>
-    <summary>I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve</summary>
-    <link href="https://btopro.com/hax-the-dux"/>
-    
-    <content type="html">
-      <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve ]]>
     </content>
   </entry>
 </feed>

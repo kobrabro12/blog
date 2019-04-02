@@ -6,7 +6,7 @@
     <description>Crazy, abrasive, caring, dreaming the future into existence.</description>
     <copyright>Copyright (C) 2019 https://btopro.com</copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 16:48:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 20:28:43 +0000</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>2018 Innovation Submission</title>
@@ -16,6 +16,76 @@
       </description>
       <category></category>
       <guid>https://btopro.com/2018-innovation-submission</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fortify</title>
+      <link>https://btopro.com/fortify</link>
+      <description>
+          <![CDATA[ "FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/fortify</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>All screens have rights</title>
+      <link>https://btopro.com/all-screen-rights</link>
+      <description>
+          <![CDATA[ The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned; ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/all-screen-rights</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reclaim the web</title>
+      <link>https://btopro.com/reclaim-the-web</link>
+      <description>
+          <![CDATA[ Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/reclaim-the-web</guid>
+      <pubDate>Wed, 02 Apr 4583 15:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>HAXcms Theme layer Code Review</title>
+      <link>https://btopro.com/haxcms-theme-layer</link>
+      <description>
+          <![CDATA[ Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/haxcms-theme-layer</guid>
+      <pubDate>Thu, 02 Apr 1215 15:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ELMS:LN Code review series Part 1</title>
+      <link>https://btopro.com/hangouts-elmsln</link>
+      <description>
+          <![CDATA[   Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/hangouts-elmsln</guid>
+      <pubDate>Sat, 02 Apr 8253 15:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structured Anarchy</title>
+      <link>https://btopro.com/sa</link>
+      <description>
+          <![CDATA[ A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might  ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/sa</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drunken UX interview</title>
+      <link>https://btopro.com/hax-the-dux</link>
+      <description>
+          <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/hax-the-dux</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -443,76 +513,6 @@ As the "Apple of Eden
       </description>
       <category></category>
       <guid>https://btopro.com/sustainable-systems-development-a-moral-issue</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fortify</title>
-      <link>https://btopro.com/fortify</link>
-      <description>
-          <![CDATA[ "FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/fortify</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Structured Anarchy</title>
-      <link>https://btopro.com/sa</link>
-      <description>
-          <![CDATA[ A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/sa</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ELMS:LN Code review series Part 1</title>
-      <link>https://btopro.com/hangouts-elmsln</link>
-      <description>
-          <![CDATA[   Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this b ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/hangouts-elmsln</guid>
-      <pubDate>Fri, 01 Apr 8253 15:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>HAXcms Theme layer Code Review</title>
-      <link>https://btopro.com/haxcms-theme-layer</link>
-      <description>
-          <![CDATA[ Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/haxcms-theme-layer</guid>
-      <pubDate>Wed, 01 Apr 1215 15:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reclaim the web</title>
-      <link>https://btopro.com/reclaim-the-web</link>
-      <description>
-          <![CDATA[ Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/reclaim-the-web</guid>
-      <pubDate>Tue, 01 Apr 4583 15:53:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>All screens have rights</title>
-      <link>https://btopro.com/all-screen-rights</link>
-      <description>
-          <![CDATA[ The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned; ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/all-screen-rights</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drunken UX interview</title>
-      <link>https://btopro.com/hax-the-dux</link>
-      <description>
-          <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/hax-the-dux</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>

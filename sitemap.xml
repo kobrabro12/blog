@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator="icamys/SitemapGenerator/1.0.0" -->
 <!-- sitemap-generator-version="1.0.0" -->
-<!-- generated-on="2019-04-01T19:20:54+00:00" -->
+<!-- generated-on="2019-04-02T03:04:42+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9                                  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://btopro.com/2018-innovation-submission</loc>
     <lastmod>2019-02-18T04:32:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/fortify</loc>
+    <lastmod>2019-02-22T04:58:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/all-screen-rights</loc>
+    <lastmod>2019-03-28T20:34:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/reclaim-the-web</loc>
+    <lastmod>2019-03-25T14:39:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/haxcms-theme-layer</loc>
+    <lastmod>2019-03-01T20:17:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/hangouts-elmsln</loc>
+    <lastmod>2019-03-01T20:13:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/sa</loc>
+    <lastmod>2011-03-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/hax-the-dux</loc>
+    <lastmod>2019-04-02T03:04:42+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -258,48 +300,6 @@
   <url>
     <loc>https://btopro.com/sustainable-systems-development-a-moral-issue</loc>
     <lastmod>2019-03-13T00:44:42+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/fortify</loc>
-    <lastmod>2019-02-22T04:58:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/sa</loc>
-    <lastmod>2011-03-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/hangouts-elmsln</loc>
-    <lastmod>2019-03-01T20:13:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/haxcms-theme-layer</loc>
-    <lastmod>2019-03-01T20:17:51+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/reclaim-the-web</loc>
-    <lastmod>2019-03-25T14:39:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/all-screen-rights</loc>
-    <lastmod>2019-03-28T20:34:10+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/hax-the-dux</loc>
-    <lastmod>2019-04-01T19:20:53+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
