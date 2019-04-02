@@ -9,6 +9,16 @@
     <lastBuildDate>Mon, 01 Apr 2019 20:28:43 +0000</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Drunken UX interview</title>
+      <link>https://btopro.com/hax-the-dux</link>
+      <description>
+          <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/hax-the-dux</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2018 Innovation Submission</title>
       <link>https://btopro.com/2018-innovation-submission</link>
       <description>
@@ -76,16 +86,6 @@
       </description>
       <category></category>
       <guid>https://btopro.com/sa</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drunken UX interview</title>
-      <link>https://btopro.com/hax-the-dux</link>
-      <description>
-          <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/hax-the-dux</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
     <item>
