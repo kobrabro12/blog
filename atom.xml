@@ -3,7 +3,7 @@
   <title>btopro</title>
   <link href="https://btopro.com/atom.xml" rel="self" />
   <subtitle>Crazy, abrasive, caring, dreaming the future into existence.</subtitle>
-  <updated>2019-04-01T20:28:43+00:00</updated>
+  <updated>2019-04-02T03:05:56+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,13 +11,13 @@
   <entry>
     <title>Drunken UX interview</title>
     <id>https://btopro.com/hax-the-dux</id>
-    <updated>2019-04-02T03:05:55+00:00</updated>
+    <updated>2019-04-09T00:28:39+00:00</updated>
     <published>2019-04-01T17:47:45+00:00</published>
-    <summary>I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve</summary>
+    <summary>I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The con</summary>
     <link href="https://btopro.com/hax-the-dux"/>
     
     <content type="html">
-      <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The conve ]]>
+      <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The con ]]>
     </content>
   </entry>
   <entry>
