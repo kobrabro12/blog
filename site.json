@@ -60,7 +60,57 @@
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
         "lastPublished": 1554769724,
-        "publishedLocation": "https:\/\/btopro.com"
+        "publishedLocation": "https:\/\/btopro.com",
+        "fields": {
+            "configure": [
+                {
+                    "property": "images",
+                    "description": "List of images",
+                    "required": false,
+                    "icon": "image:collections",
+                    "title": "Other sources",
+                    "inputMethod": "array",
+                    "properties": [
+                        {
+                            "property": "src",
+                            "title": "Source",
+                            "description": "The URL for the image",
+                            "inputMethod": "haxupload"
+                        },
+                        {
+                            "property": "alt",
+                            "title": "Alt",
+                            "description": "Alt text",
+                            "inputMethod": "textfield"
+                        }
+                    ]
+                },
+                {
+                    "property": "subtitle",
+                    "title": "Subtitle",
+                    "description": "An additional subtitle",
+                    "inputMethod": "textfield",
+                    "icon": "editor:text-fields"
+                },
+                {
+                    "property": "tags",
+                    "description": "Tags for the page",
+                    "required": false,
+                    "icon": "image:collections",
+                    "title": "Tags",
+                    "inputMethod": "array",
+                    "properties": [
+                        {
+                            "property": "tag",
+                            "title": "Tag",
+                            "description": "Individual tag",
+                            "inputMethod": "textfield"
+                        }
+                    ]
+                }
+            ],
+            "advanced": []
+        }
     },
     "items": [
         {
@@ -73,7 +123,7 @@
             "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The con",
             "metadata": {
                 "created": 1554140865,
-                "updated": 1554769719,
+                "updated": 1556155681,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
@@ -83,7 +133,12 @@
                         "name": "IMG_20190127_153429.jpg",
                         "size": 27242
                     }
-                ]
+                ],
+                "fields": {
+                    "images": {},
+                    "subtitle": "Drunken Experience?",
+                    "tags": {}
+                }
             }
         },
         {
