@@ -188,10 +188,10 @@
             "order": 3,
             "parent": null,
             "title": "All screens have rights",
-            "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned;",
+            "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned",
             "metadata": {
                 "created": 1553786677,
-                "updated": 1554174356,
+                "updated": 1556158319,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie8.jpg",
@@ -241,7 +241,8 @@
                         "name": "ie6.jpg",
                         "size": 33838
                     }
-                ]
+                ],
+                "readtime": 5
             }
         },
         {
