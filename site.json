@@ -120,10 +120,10 @@
             "order": 0,
             "parent": null,
             "title": "Drunken UX interview",
-            "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The con",
+            "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb.The c",
             "metadata": {
                 "created": 1554140865,
-                "updated": 1556158198,
+                "updated": 1556158302,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
@@ -138,7 +138,8 @@
                     "images": {},
                     "subtitle": "Drunken Experience?",
                     "tags": {}
-                }
+                },
+                "readtime": 6
             }
         },
         {
