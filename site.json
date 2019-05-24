@@ -16,7 +16,7 @@
         "hexCode": "#da004e",
         "domain": "https:\/\/btopro.com",
         "created": 1548653466,
-        "updated": 1558709807,
+        "updated": 1558709844,
         "cssVariable": "pink",
         "publishing": {
             "git": {
@@ -123,49 +123,20 @@
             "description": "",
             "metadata": {
                 "created": 1558709795,
-                "updated": 1558709803
-            }
-        },
-        {
-            "id": "item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74",
-            "indent": 0,
-            "location": "pages\/hax-the-dux\/index.html",
-            "order": 1,
-            "parent": null,
-            "title": "Drunken UX interview",
-            "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb",
-            "metadata": {
-                "created": 1554140865,
-                "updated": 1558709803,
-                "files": [
-                    {
-                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
-                        "fullUrl": "\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
-                        "url": "files\/scale-50\/IMG_20190127_153429.jpg",
-                        "type": "image\/jpeg",
-                        "name": "IMG_20190127_153429.jpg",
-                        "size": 27242
-                    }
-                ],
-                "fields": {
-                    "images": {},
-                    "subtitle": "Drunken Experience?",
-                    "tags": {}
-                },
-                "readtime": 6
+                "updated": 1558709839
             }
         },
         {
             "id": "item-70f48666-098d-42fa-8b9d-064f3e678583",
             "indent": 0,
             "location": "pages\/ocean-so-deep\/index.html",
-            "order": 2,
+            "order": 1,
             "parent": null,
             "title": "Ocean",
             "description": "Now and then, life feels like your adrift in an ocean of work on a sinking ship. There's water so choppy that it feels like you can't see land off in the distance let alone dream of swimming there. Th",
             "metadata": {
                 "created": 1556907679,
-                "updated": 1558709803,
+                "updated": 1558709840,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/headshot.jpg",
@@ -188,31 +159,46 @@
             }
         },
         {
-            "id": "item-cd716dd0-59b0-a24d-1ddb-2779369c52b2",
+            "id": "item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74",
             "indent": 0,
-            "location": "pages\/2018-innovation-submission\/index.html",
-            "order": 3,
+            "location": "pages\/hax-the-dux\/index.html",
+            "order": 2,
             "parent": null,
-            "title": "2018 Innovation Submission",
-            "description": "This is my submission to the TLT 2018 Open Innovation Challenge. We have amazing capabilities and solutions available to us as an R1 research institution. But like many of fellow institutions, we ",
+            "title": "Drunken UX interview",
+            "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1558709803,
-                "readtime": 1
+                "created": 1554140865,
+                "updated": 1558709840,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "fullUrl": "\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
+                        "url": "files\/scale-50\/IMG_20190127_153429.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190127_153429.jpg",
+                        "size": 27242
+                    }
+                ],
+                "fields": {
+                    "images": {},
+                    "subtitle": "Drunken Experience?",
+                    "tags": {}
+                },
+                "readtime": 6
             }
         },
         {
             "id": "item-15cbf071-ff46-4ec6-90dd-35c57537af97",
             "indent": 0,
             "location": "pages\/fortify\/index.html",
-            "order": 4,
+            "order": 3,
             "parent": null,
             "title": "Fortify",
             "description": "\"FORT. NIGHT.\"They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort",
             "metadata": {
                 "siteName": "btopro",
                 "created": 1550810167,
-                "updated": 1558709804,
+                "updated": 1558709840,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
@@ -230,13 +216,13 @@
             "id": "item-8f85b86c-0619-4fb5-8c19-39b49c11e96b",
             "indent": 0,
             "location": "pages\/all-screen-rights\/index.html",
-            "order": 5,
+            "order": 4,
             "parent": null,
             "title": "All screens have rights",
             "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned",
             "metadata": {
                 "created": 1553786677,
-                "updated": 1558709804,
+                "updated": 1558709840,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie8.jpg",
@@ -294,14 +280,29 @@
             "id": "item-7502f3ce-134f-4c88-beaf-85e539c0e801",
             "indent": 0,
             "location": "pages\/reclaim-the-web\/index.html",
-            "order": 6,
+            "order": 5,
             "parent": null,
             "title": "Reclaim the web",
             "description": "Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p",
             "metadata": {
                 "created": 1553524583,
-                "updated": 1558709804,
+                "updated": 1558709840,
                 "readtime": 3
+            }
+        },
+        {
+            "id": "item-985e5628-b3e6-44e5-85dc-c4d7be7bd754",
+            "indent": 0,
+            "location": "pages\/sa\/index.html",
+            "order": 6,
+            "parent": null,
+            "title": "Structured Anarchy",
+            "description": "A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS. \u00a0I am writing now to talk about how I\u2019ve begun working towards that goal that you might",
+            "metadata": {
+                "siteName": "btopro",
+                "created": 1300665600,
+                "updated": 1558709840,
+                "readtime": 4
             }
         },
         {
@@ -314,7 +315,21 @@
             "description": "Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s",
             "metadata": {
                 "created": 1551471215,
-                "updated": 1558709804,
+                "updated": 1558709840,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-cd716dd0-59b0-a24d-1ddb-2779369c52b2",
+            "indent": 0,
+            "location": "pages\/2018-innovation-submission\/index.html",
+            "order": 8,
+            "parent": null,
+            "title": "2018 Innovation Submission",
+            "description": "This is my submission to the TLT 2018 Open Innovation Challenge. We have amazing capabilities and solutions available to us as an R1 research institution. But like many of fellow institutions, we ",
+            "metadata": {
+                "created": 1548824000,
+                "updated": 1558709840,
                 "readtime": 1
             }
         },
@@ -322,29 +337,14 @@
             "id": "item-44797f99-e67b-41ce-a32f-57ccafea33ec",
             "indent": 0,
             "location": "pages\/hangouts-elmsln\/index.html",
-            "order": 8,
+            "order": 9,
             "parent": null,
             "title": "ELMS:LN Code review series Part 1",
             "description": "  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this ",
             "metadata": {
                 "created": 1551458253,
-                "updated": 1558709804,
+                "updated": 1558709840,
                 "readtime": 1
-            }
-        },
-        {
-            "id": "item-985e5628-b3e6-44e5-85dc-c4d7be7bd754",
-            "indent": 0,
-            "location": "pages\/sa\/index.html",
-            "order": 9,
-            "parent": null,
-            "title": "Structured Anarchy",
-            "description": "A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS. \u00a0I am writing now to talk about how I\u2019ve begun working towards that goal that you might",
-            "metadata": {
-                "siteName": "btopro",
-                "created": 1300665600,
-                "updated": 1558709804,
-                "readtime": 4
             }
         },
         {
@@ -357,7 +357,7 @@
             "description": "I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His auto",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804
+                "updated": 1558709840
             }
         },
         {
@@ -370,7 +370,7 @@
             "description": "I wanted to post an answer I gave recently to a web component question post training that we gave at Open Apereo. I asked Toben and he said it was ok if I posted the question \/ answer here because it'",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804
+                "updated": 1558709841
             }
         },
         {
@@ -383,7 +383,7 @@
             "description": "I mean look at it! It's a bunch of random letters that's hard to pronounced or use in a sentence. Years after initial usage, people still have difficulty saying what one is beyond pictures of childhoo",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804,
+                "updated": 1558709841,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -422,7 +422,7 @@
             "description": "bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lov",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804
+                "updated": 1558709841
             }
         },
         {
@@ -435,7 +435,7 @@
             "description": "Bridges\u00a0 get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the bridge",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804
+                "updated": 1558709841
             }
         },
         {
@@ -448,7 +448,7 @@
             "description": "While not seeing it beyond previews and reviews, the movie When God left the building\n reviews an intreging concept: that people who leave the christian church are just leaving the building and pursui",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804
+                "updated": 1558709841
             }
         },
         {
@@ -461,7 +461,7 @@
             "description": "Cable\nIn the 40s and 50s, the Cable industry was born.\nBy the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804
+                "updated": 1558709841
             }
         },
         {
@@ -474,7 +474,7 @@
             "description": "I saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about car",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709804
+                "updated": 1558709841
             }
         },
         {
@@ -487,7 +487,7 @@
             "description": "The tight rope walker\nHe looks to his left..\ncertain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward, ",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709841
             }
         },
         {
@@ -500,7 +500,7 @@
             "description": "Access to knowledge is a control system.\nAs the \"Apple of Eden\n\" unlocked the power to question so too is the case with all modern knowledge transfer technologies. Knowledge corrupts established thoug",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709841
             }
         },
         {
@@ -513,7 +513,7 @@
             "description": "This is the start of a manifesto.Consider this background readingThere's an argument I heard brought up by a high level manager at a land grant institution (cough) that I've NEVER heard anyone in",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709841
             }
         },
         {
@@ -526,7 +526,7 @@
             "description": "Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media ",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709841
             }
         },
         {
@@ -539,7 +539,7 @@
             "description": "(post via @btopro on twitter)good people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into @",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709841
             }
         },
         {
@@ -552,7 +552,7 @@
             "description": "  \"I don't understand why you give this stuff away, it's worth a lot. I mean screw capitalism, yea I get it I mean right there. But Universities pay a lot of money for these things. Why make them for",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709841
             }
         },
         {
@@ -565,7 +565,7 @@
             "description": "Institutions and employees within them will remain at rest unto acted upon by an internal or external force. Externally, this is the preasures of society, markets and learners demanding change. Intern",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709841
             }
         },
         {
@@ -578,7 +578,7 @@
             "description": "I'm done with talk about the Next Generation Digital Learning Environment; it's time for action. I have had a plan for laying out the future of technology in higher education that I've formulated sinc",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709842
             }
         },
         {
@@ -591,7 +591,7 @@
             "description": "I read an article recently by Educause Review and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of ",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709842
             }
         },
         {
@@ -604,7 +604,7 @@
             "description": "I was recently given a question on twitter from a twitter-friend and fellow edtech industry person that I felt was worth expanding into a cohesive blog post.> I really would love to know your deeper ",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709842
             }
         },
         {
@@ -617,7 +617,7 @@
             "description": "The only barrier is an internet connection and a device to access a multi-verse of easy to use options, the weight of published opinion has lessened. At one time, people's endorsements made a differen",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709842
             }
         },
         {
@@ -630,7 +630,7 @@
             "description": "The family gathered, friends came and we all shared a laugh.Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. \"I have to start getting ready for bed can",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709805
+                "updated": 1558709842
             }
         },
         {
@@ -643,7 +643,7 @@
             "description": "This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the log",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709842
             }
         },
         {
@@ -656,7 +656,7 @@
             "description": "I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look o",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709842
             }
         },
         {
@@ -669,7 +669,7 @@
             "description": "Chapter 1: The ShowerA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in th",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709842
             }
         },
         {
@@ -682,7 +682,7 @@
             "description": "A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through impa",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709842
             }
         },
         {
@@ -695,7 +695,7 @@
             "description": "dudes crying.dude\u2019s crying.dude, is, crying.This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much mor",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709842
             }
         },
         {
@@ -708,7 +708,7 @@
             "description": "I'd like to put a positive spin on Millennials \/ Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read arti",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709842
             }
         },
         {
@@ -721,7 +721,7 @@
             "description": "A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in a",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709842
             }
         },
         {
@@ -734,7 +734,7 @@
             "description": "Our construction of reality is not the only one. This has always been the case, but I often fall victim to the assumption that because we now have access to more information that we will congeal to a",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709843
             }
         },
         {
@@ -747,7 +747,7 @@
             "description": "The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thing",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709843
             }
         },
         {
@@ -760,7 +760,7 @@
             "description": "You may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the mas",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709843
             }
         },
         {
@@ -773,7 +773,7 @@
             "description": "I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league\u00a0can be",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709843
             }
         },
         {
@@ -786,7 +786,7 @@
             "description": "*This talk was originally posted on elmsln.org. I've removed it there and moved it here because even though it's about Drupal \/ ELMSLN, it's the first talk I gave that I started speaking my mind and t",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709806
+                "updated": 1558709843
             }
         },
         {
@@ -799,7 +799,7 @@
             "description": "We live in the age of Citizen agents\u200f. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have been ",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709807
+                "updated": 1558709843
             }
         },
         {
@@ -812,7 +812,7 @@
             "description": "I, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.I am an observer of politics that tries to \"play the game\" a bit differently. There are tells a",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709807
+                "updated": 1558709843
             }
         },
         {
@@ -825,7 +825,7 @@
             "description": "Efficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with in",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709807
+                "updated": 1558709843
             }
         },
         {
@@ -838,7 +838,7 @@
             "description": "I remember in high school talking about biology and as a test, you have to poke your arm with a small pin (lightly) and report when you can tell the difference between where it is and where your brain",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709807
+                "updated": 1558709843
             }
         },
         {
@@ -851,7 +851,7 @@
             "description": "Are we witness to 1940s style crowd manipulation through propaganda without realizing it? Have you watched the news lately? Does it go by a single day without having a \"Get social\" or \"#HotToday\" kind",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1558709807
+                "updated": 1558709843
             }
         },
         {
@@ -864,7 +864,7 @@
             "description": "Decentralized deployment architectureAll deployments currently imply a central authority, whether a company or developer running some kind of master system with control over the rest of the network.",
             "metadata": {
                 "created": 1451007640,
-                "updated": 1558709807,
+                "updated": 1558709843,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
@@ -895,7 +895,7 @@
             "description": "The hierarchy of humanity is changing.Sorry, let me rephrase.. The hierarchy of humanity\u00a0must\u00a0change in order to survive and remain relevant. Because the way in which we've accessed information h",
             "metadata": {
                 "created": 1449884440,
-                "updated": 1558709807,
+                "updated": 1558709843,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
@@ -918,7 +918,7 @@
             "description": "The old addage of IT managers of the 90's was that technology didn't matter. As in, it didn't matter which technology you choose, just that you align with one and execute. This mindset was wrought w",
             "metadata": {
                 "created": 1449884440,
-                "updated": 1558709807,
+                "updated": 1558709843,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
@@ -941,7 +941,7 @@
             "description": "This posting is a refinement of a concept that I presented earlier: Using OSS to disrupt industries.Through the title, I am suggesting that there are negative network-effects in the form of social ",
             "metadata": {
                 "created": 1295574040,
-                "updated": 1558709807,
+                "updated": 1558709843,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
@@ -964,7 +964,7 @@
             "description": "Sustainability has been a \"hot\" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of ",
             "metadata": {
                 "created": 1277516440,
-                "updated": 1558709807,
+                "updated": 1558709844,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
