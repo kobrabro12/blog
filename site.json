@@ -120,10 +120,10 @@
             "order": 0,
             "parent": null,
             "title": "THE web components high performance video",
-            "description": "I have become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someo",
+            "description": "I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someo",
             "metadata": {
                 "created": 1558709795,
-                "updated": 1558711701,
+                "updated": 1558716348,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/2019-05-24_11-14-49.jpg",
@@ -138,14 +138,20 @@
                 "contentDetails": {
                     "headings": 1,
                     "paragraphs": 6,
-                    "schema": [],
+                    "schema": [
+                        {
+                            "resource": "#3e3cee5f-bc3f-b445-8b9f",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
                         "p": 6,
                         "h2": 1,
                         "img": 1,
-                        "ul": 1
+                        "ul": 1,
+                        "video-player": 1
                     },
-                    "elements": 9
+                    "elements": 10
                 },
                 "fields": {
                     "images": {},
