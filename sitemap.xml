@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator="icamys/SitemapGenerator/1.0.0" -->
 <!-- sitemap-generator-version="1.0.0" -->
-<!-- generated-on="2019-05-24T14:57:24+00:00" -->
+<!-- generated-on="2019-05-24T15:17:24+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9                                  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://btopro.com/lighthouse-100</loc>
     <lastmod>2019-05-24T14:57:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/hax-the-dux</loc>
-    <lastmod>2019-05-24T14:57:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -22,7 +16,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.com/2018-innovation-submission</loc>
+    <loc>https://btopro.com/hax-the-dux</loc>
     <lastmod>2019-05-24T14:57:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,19 +40,25 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://btopro.com/sa</loc>
+    <lastmod>2019-05-24T14:57:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://btopro.com/haxcms-theme-layer</loc>
     <lastmod>2019-05-24T14:57:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.com/hangouts-elmsln</loc>
+    <loc>https://btopro.com/2018-innovation-submission</loc>
     <lastmod>2019-05-24T14:57:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.com/sa</loc>
+    <loc>https://btopro.com/hangouts-elmsln</loc>
     <lastmod>2019-05-24T14:57:20+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

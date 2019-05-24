@@ -123,7 +123,17 @@
             "description": "",
             "metadata": {
                 "created": 1558709795,
-                "updated": 1558709839
+                "updated": 1558709839,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/2019-05-24_11-14-49.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/scale-50\/2019-05-24_11-14-49.jpg",
+                        "url": "files\/scale-50\/2019-05-24_11-14-49.jpg",
+                        "type": "image\/jpeg",
+                        "name": "2019-05-24_11-14-49.jpg",
+                        "size": 30556
+                    }
+                ]
             }
         },
         {
