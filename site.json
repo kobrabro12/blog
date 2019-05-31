@@ -161,6 +161,19 @@
             }
         },
         {
+            "id": "item-73248929-e4a5-44eb-aea5-8e2373a34b69",
+            "indent": 0,
+            "location": "pages\/i-made-a-thing\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "I made a thing",
+            "description": "",
+            "metadata": {
+                "created": 1559336489,
+                "updated": 1559336489
+            }
+        },
+        {
             "id": "item-70f48666-098d-42fa-8b9d-064f3e678583",
             "indent": 0,
             "location": "pages\/ocean-so-deep\/index.html",
