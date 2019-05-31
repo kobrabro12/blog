@@ -167,10 +167,26 @@
             "order": 0,
             "parent": null,
             "title": "I made a thing",
-            "description": "",
+            "description": "Hey hey, ho ho. Welcome. To the revolution.Come say hi at Apereo 2019 or Domains 2019.",
             "metadata": {
                 "created": 1559336489,
-                "updated": 1559336489
+                "updated": 1559336576,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [
+                        {
+                            "resource": "#cdcc0336-59b6-9b44-a040",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 2,
+                        "video-player": 1
+                    },
+                    "elements": 3
+                }
             }
         },
         {
