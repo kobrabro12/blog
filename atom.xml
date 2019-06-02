@@ -3,11 +3,23 @@
   <title>btopro</title>
   <link href="https://btopro.com/atom.xml" rel="self" />
   <subtitle>Crazy, abrasive, caring, dreaming the future into existence.</subtitle>
-  <updated>2019-05-24T14:57:24+00:00</updated>
+  <updated>2019-05-31T21:03:10+00:00</updated>
   <author>
       <name></name>
   </author>
   <id>https://btopro.com/feed</id>
+  <entry>
+    <title>I made a thing</title>
+    <id>https://btopro.com/i-made-a-thing</id>
+    <updated>2019-06-02T23:52:47+00:00</updated>
+    <published>2019-05-31T21:01:29+00:00</published>
+    <summary>Hey hey, ho ho. Welcome. To the revolution!!!!!Come say hi at Apereo 2019 or Domains 2019.</summary>
+    <link href="https://btopro.com/i-made-a-thing"/>
+    
+    <content type="html">
+      <![CDATA[ Hey hey, ho ho. Welcome. To the revolution!!!!!Come say hi at Apereo 2019 or Domains 2019. ]]>
+    </content>
+  </entry>
   <entry>
     <title>THE web components high performance video</title>
     <id>https://btopro.com/lighthouse-100</id>
@@ -18,18 +30,6 @@
     
     <content type="html">
       <![CDATA[ I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someo ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>I made a thing</title>
-    <id>https://btopro.com/i-made-a-thing</id>
-    <updated>2019-05-31T21:03:05+00:00</updated>
-    <published>2019-05-31T21:01:29+00:00</published>
-    <summary>Hey hey, ho ho. Welcome. To the revolution.Come say hi at Apereo 2019 or Domains 2019.</summary>
-    <link href="https://btopro.com/i-made-a-thing"/>
-    
-    <content type="html">
-      <![CDATA[ Hey hey, ho ho. Welcome. To the revolution.Come say hi at Apereo 2019 or Domains 2019. ]]>
     </content>
   </entry>
   <entry>
