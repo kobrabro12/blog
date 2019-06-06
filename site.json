@@ -139,7 +139,17 @@
                         "video-player": 1
                     },
                     "elements": 3
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/headshot18171.065.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/scale-50\/headshot18171.065.jpg",
+                        "url": "files\/scale-50\/headshot18171.065.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot18171.065.jpg",
+                        "size": 150157
+                    }
+                ]
             }
         },
         {
