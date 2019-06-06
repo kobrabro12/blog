@@ -161,6 +161,19 @@
             }
         },
         {
+            "id": "item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814",
+            "indent": 0,
+            "location": "pages\/technical-weapons\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Technical weapons",
+            "description": "",
+            "metadata": {
+                "created": 1559789483,
+                "updated": 1559789483
+            }
+        },
+        {
             "id": "item-04fb0667-5539-4d0a-b841-a203d6117d69",
             "indent": 0,
             "location": "pages\/lighthouse-100\/index.html",
