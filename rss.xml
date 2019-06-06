@@ -6,8 +6,18 @@
     <description>Crazy, abrasive, caring, dreaming the future into existence.</description>
     <copyright>Copyright (C) 2019 https://btopro.com</copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 May 2019 15:03:10 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 20:51:34 -0600</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Technical weapons</title>
+      <link>https://btopro.com/technical-weapons</link>
+      <description>
+          <![CDATA[ Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/technical-weapons</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
     <item>
       <title>I made a thing</title>
       <link>https://btopro.com/i-made-a-thing</link>
@@ -16,16 +26,6 @@
       </description>
       <category></category>
       <guid>https://btopro.com/i-made-a-thing</guid>
-      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>Technical weapons</title>
-      <link>https://btopro.com/technical-weapons</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/technical-weapons</guid>
       <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
     <item>
