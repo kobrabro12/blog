@@ -135,7 +135,17 @@
                         "h3": 1
                     },
                     "elements": 56
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/headshot3389968.250000001.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/scale-50\/headshot3389968.250000001.jpg",
+                        "url": "files\/scale-50\/headshot3389968.250000001.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot3389968.250000001.jpg",
+                        "size": 276959
+                    }
+                ]
             }
         },
         {
