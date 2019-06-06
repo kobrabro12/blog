@@ -123,17 +123,18 @@
             "description": "Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl",
             "metadata": {
                 "created": 1559789483,
-                "updated": 1559791671,
-                "readtime": 5,
+                "updated": 1559830666,
+                "readtime": 6,
                 "contentDetails": {
                     "headings": 7,
-                    "paragraphs": 46,
+                    "paragraphs": 49,
                     "schema": [],
                     "tags": {
-                        "p": 46,
-                        "h2": 7
+                        "p": 49,
+                        "h2": 6,
+                        "h3": 1
                     },
-                    "elements": 53
+                    "elements": 56
                 }
             }
         },
