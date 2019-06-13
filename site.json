@@ -6,6 +6,11 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "btopro",
+        "author": {
+            "name": "Bryan Ollendyke",
+            "image": "files\/headshot.jpg",
+            "socialLink": "https:\/\/twitter.com\/btopro"
+        },
         "image": "assets\/banner.jpg",
         "theme": {
             "element": "haxor-slevin",
@@ -155,6 +160,19 @@
                         "size": 255873
                     }
                 ]
+            }
+        },
+        {
+            "id": "item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2",
+            "indent": 0,
+            "location": "pages\/ed-tech-joker\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "EdTechJoker",
+            "description": "",
+            "metadata": {
+                "created": 1560392061,
+                "updated": 1560392061
             }
         },
         {
