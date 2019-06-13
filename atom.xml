@@ -3,11 +3,23 @@
   <title>btopro</title>
   <link href="https://btopro.com/atom.xml" rel="self" />
   <subtitle>Crazy, abrasive, caring, dreaming the future into existence.</subtitle>
-  <updated>2019-06-05T20:51:34-06:00</updated>
+  <updated>2019-06-12T20:14:33-06:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
   <id>https://btopro.com/feed</id>
+  <entry>
+    <title>EdTechJoker</title>
+    <id>https://btopro.com/ed-tech-joker</id>
+    <updated>2019-06-12T20:31:53-06:00</updated>
+    <published>2019-06-12T20:14:21-06:00</published>
+    <summary>Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a</summary>
+    <link href="https://btopro.com/ed-tech-joker"/>
+    
+    <content type="html">
+      <![CDATA[ Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a ]]>
+    </content>
+  </entry>
   <entry>
     <title>Technical weapons</title>
     <id>https://btopro.com/technical-weapons</id>
@@ -18,18 +30,6 @@
     
     <content type="html">
       <![CDATA[ Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>EdTechJoker</title>
-    <id>https://btopro.com/ed-tech-joker</id>
-    <updated>2019-06-12T20:14:28-06:00</updated>
-    <published>2019-06-12T20:14:21-06:00</published>
-    <summary></summary>
-    <link href="https://btopro.com/ed-tech-joker"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
     </content>
   </entry>
   <entry>

@@ -125,10 +125,26 @@
             "order": 0,
             "parent": null,
             "title": "EdTechJoker",
-            "description": "",
+            "description": "Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a",
             "metadata": {
                 "created": 1560392061,
-                "updated": 1560392068
+                "updated": 1560393113,
+                "readtime": 4,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 16,
+                    "schema": [
+                        {
+                            "resource": "#c8a03996-0fc2-0d4d-c022",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 16,
+                        "video-player": 1
+                    },
+                    "elements": 17
+                }
             }
         },
         {

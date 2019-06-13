@@ -6,8 +6,18 @@
     <description>Crazy, abrasive, caring, dreaming the future into existence.</description>
     <copyright>Copyright (C) 2019 https://btopro.com</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2019 20:51:34 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 20:14:33 -0600</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EdTechJoker</title>
+      <link>https://btopro.com/ed-tech-joker</link>
+      <description>
+          <![CDATA[ Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/ed-tech-joker</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
     <item>
       <title>Technical weapons</title>
       <link>https://btopro.com/technical-weapons</link>
@@ -16,16 +26,6 @@
       </description>
       <category></category>
       <guid>https://btopro.com/technical-weapons</guid>
-      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
-    </item>
-    <item>
-      <title>EdTechJoker</title>
-      <link>https://btopro.com/ed-tech-joker</link>
-      <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/ed-tech-joker</guid>
       <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
     <item>
