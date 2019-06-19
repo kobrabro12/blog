@@ -148,6 +148,19 @@
             }
         },
         {
+            "id": "item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc",
+            "indent": 0,
+            "location": "pages\/stand-against-ocean\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Stand against the ocean",
+            "description": "",
+            "metadata": {
+                "created": 1560976855,
+                "updated": 1560976855
+            }
+        },
+        {
             "id": "item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814",
             "indent": 0,
             "location": "pages\/technical-weapons\/index.html",
