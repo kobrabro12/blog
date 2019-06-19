@@ -154,10 +154,10 @@
             "order": 0,
             "parent": null,
             "title": "Stand against the ocean",
-            "description": "",
+            "description": "The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be",
             "metadata": {
                 "created": 1560976855,
-                "updated": 1560976855,
+                "updated": 1560977803,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/IMG_20190307_142300.jpg",
@@ -167,7 +167,25 @@
                         "name": "IMG_20190307_142300.jpg",
                         "size": 98301
                     }
-                ]
+                ],
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 9,
+                    "schema": [
+                        {
+                            "resource": "#2a70bb89-4959-afee-809a",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "meme-maker": 1,
+                        "p": 9,
+                        "h2": 1,
+                        "video-player": 1
+                    },
+                    "elements": 12
+                }
             }
         },
         {
