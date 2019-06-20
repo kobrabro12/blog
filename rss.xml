@@ -6,18 +6,8 @@
     <description>Crazy, abrasive, caring, dreaming the future into existence.</description>
     <copyright>Copyright (C) 2019 https://btopro.com</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2019 20:14:33 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 14:56:56 -0600</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>EdTechJoker</title>
-      <link>https://btopro.com/ed-tech-joker</link>
-      <description>
-          <![CDATA[ Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/ed-tech-joker</guid>
-      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
-    </item>
     <item>
       <title>Stand against the ocean</title>
       <link>https://btopro.com/stand-against-ocean</link>
@@ -26,6 +16,16 @@
       </description>
       <category></category>
       <guid>https://btopro.com/stand-against-ocean</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>EdTechJoker</title>
+      <link>https://btopro.com/ed-tech-joker</link>
+      <description>
+          <![CDATA[ Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/ed-tech-joker</guid>
       <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
     <item>
@@ -106,7 +106,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/reclaim-the-web</guid>
-      <pubDate>Thu, 19 Jun 4583 15:53:52 -0700</pubDate>
+      <pubDate>Fri, 20 Jun 4583 15:53:52 -0700</pubDate>
     </item>
     <item>
       <title>Structured Anarchy</title>
@@ -126,7 +126,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/haxcms-theme-layer</guid>
-      <pubDate>Fri, 19 Jun 1215 15:51:47 -0659</pubDate>
+      <pubDate>Sat, 20 Jun 1215 15:51:47 -0659</pubDate>
     </item>
     <item>
       <title>2018 Innovation Submission</title>
@@ -146,7 +146,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/hangouts-elmsln</guid>
-      <pubDate>Sun, 19 Jun 8253 15:51:45 -0700</pubDate>
+      <pubDate>Mon, 20 Jun 8253 15:51:45 -0700</pubDate>
     </item>
     <item>
       <title>Golden, shimmering, joy</title>
