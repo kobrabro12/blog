@@ -160,6 +160,19 @@
             }
         },
         {
+            "id": "item-e3d7d519-9549-4e44-9ab8-b9df805a3531",
+            "indent": 0,
+            "location": "pages\/open-community-pedagogy\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Open Community Pedagogy",
+            "description": "",
+            "metadata": {
+                "created": 1561129642,
+                "updated": 1561129642
+            }
+        },
+        {
             "id": "item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2",
             "indent": 0,
             "location": "pages\/ed-tech-joker\/index.html",
