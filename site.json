@@ -169,7 +169,7 @@
             "description": "  This instructional designer didn't need to know HTML in order to convey an instructional concept.  Your right! No one should need to understand HTML in order to contribute meaningful knowledge to t",
             "metadata": {
                 "created": 1561129642,
-                "updated": 1561130554,
+                "updated": 1561139648,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/color-spectrum.jpg",
@@ -180,21 +180,23 @@
                         "size": 78574
                     }
                 ],
-                "readtime": 1,
+                "readtime": 2,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 4,
+                    "headings": 1,
+                    "paragraphs": 5,
                     "schema": [
                         {
-                            "resource": "#da3c5576-a553-6cf1-e53c",
+                            "resource": "#14d3e7f4-6c51-533f-5986",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         }
                     ],
                     "tags": {
                         "self-check": 1,
-                        "p": 4
+                        "p": 5,
+                        "h2": 1,
+                        "ul": 1
                     },
-                    "elements": 5
+                    "elements": 8
                 }
             }
         },
