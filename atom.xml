@@ -3,23 +3,11 @@
   <title>btopro</title>
   <link href="https://btopro.com/atom.xml" rel="self" />
   <subtitle>Crazy, abrasive, caring, dreaming the future into existence.</subtitle>
-  <updated>2019-06-19T14:56:56-06:00</updated>
+  <updated>2019-06-21T11:54:47-06:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
   <id>https://btopro.com/feed</id>
-  <entry>
-    <title>Stand against the ocean</title>
-    <id>https://btopro.com/stand-against-ocean</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
-    <published>2019-06-19T14:40:55-06:00</published>
-    <summary>The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be</summary>
-    <link href="https://btopro.com/stand-against-ocean"/>
-    
-    <content type="html">
-      <![CDATA[ The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be ]]>
-    </content>
-  </entry>
   <entry>
     <title>Open Community Pedagogy</title>
     <id>https://btopro.com/open-community-pedagogy</id>
@@ -29,7 +17,58 @@
     <link href="https://btopro.com/open-community-pedagogy"/>
     
     <content type="html">
-      <![CDATA[   This instructional designer didn't need to know HTML in order to convey an instructional concept.  Your right! No one should need to understand HTML in order to contribute meaningful knowledge to t ]]>
+      <![CDATA[ <self-check style="width: 100%;" title="Pedagogical innovation" image="files/color-spectrum.jpg" alt="Infographic from a course on photo design that previously would have been very difficult to make or make accessible." link="https://haxtheweb.org/" schema-resource-id="#14d3e7f4-6c51-533f-5986" accent-color="red" resource="#14d3e7f4-6c51-533f-5986" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org ">  <span slot="question">This instructional designer didn't need to know HTML in order to convey an instructional concept.</span>
+  <span>Your right! No one should need to understand HTML in order to contribute meaningful knowledge to the world. Now with HAX possibilities are endless.</span>
+</self-check>
+<p>Pedagogical innovation of the day brought to you by <a href="https://haxtheweb.org/">HAXTheWeb</a>
+ & possibilities that new technologies bring to instructional design. This is an <i>accessible</i>
+ color spectrum listing for teaching photography students about color wave length. This would have previously been a textbook image that looked dated and couldn't be updated without specialized knowledge (image editors, etc).</p>
+<p>Instead, the ID support specialist in the office saw an opportunity to use an element in HAX in a unique way. He added 7 accent-card's to the interface, wrote on each the wave length and details to convey concepts of color in a photo course being built using HAX. The card made sure that there wasn't an accessibility issue as far as text color contrast, he didn't have "wave length layout" as an option, he saw building blocks, clicked a few things and built something creative.</p>
+<p>I couldn't have scaled myself enough to teach him how to build this without HAX. I couldn't have written this "1 small thing" accessibility without completely derailing my efforts. This is just 1 small example of the world to come as HAX spreads into other courses, platforms, and SaaS offerings.</p>
+<p>If you have faculty that are interested in trying something new feel free to reach out! We're building an open community of faculty, instructional designers & technologists passionate about accessibility, Open Educational Resources (OER), and improving pedagogical possibilities online through HAX the the HAXcms platform.</p>
+<p>We require that you enjoy having fun, seeing progress made on ideas, and contributing your knowledge and efforts where ever possible to make HAX the best way to do online courses possible!</p>
+<h2 class="hax-active">How to get involved</h2>
+<ul><li><a href="http://elmsln.slack.com/">https://elmsln.slack.com</a>
+ - Join our slack group</li>
+
+<li><a href="https://twitter.com/btopro">https://twitter.com/btopro</a>
+ - tweet me asking questions</li>
+<li><a href="https://github.com/elmsln/haxcms">https://github.com/elmsln/haxcms</a>
+ - Join us in the issue queues for the project with ideas, bugs and suggestion<br/></li>
+<li><a href="http://haxcms.do1.demos.elmsln.org">http://haxcms.do1.demos.elmsln.org</a>
+ - Play with our public demo</li>
+<ul><li>resets hourly so use it for testing / experience</li>
+<li>Username: <b>admin</b>
+</li>
+<li>Password: <b>admin</b>
+</li>
+</ul>
+</ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Stand against the ocean</title>
+    <id>https://btopro.com/stand-against-ocean</id>
+    <updated>2019-07-11T21:08:44-06:00</updated>
+    <published>2019-06-19T14:40:55-06:00</published>
+    <summary>The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be</summary>
+    <link href="https://btopro.com/stand-against-ocean"/>
+    
+    <content type="html">
+      <![CDATA[ <meme-maker style="width: 75%; margin: 0px auto; display: block;" image-url="files/scale-50/IMG_20190307_142300.jpg" top-text="Stand Against" bottom-text="Complacency" imageurl="files/scale-50/IMG_20190307_142300.jpg" toptext="Stop what your doing" bottomtext="Stand and be counted" dataeditable="" datahaxray="Meme"></meme-maker>
+<p>The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be expected to behave, when rebellion is necessary.</p>
+<p>When they tell you to sit, these forces of complacency, know that with each passing wave, you drift further from the goal back to shore. When we sit by the waters edge, deciding whether to wade into uncharted territory, we're hit with relentlessly strong currents.</p>
+<p>The water seeks to pull us down to the depth below. To consume those that enter the unknown. If we step into the waters a few inches, get concerns and then merely sit still, we have to face the force of the crashing wave.</p>
+<p>These waves are far stronger than we realize, each crash lifting you off your seat and shifting you back ever slightly, sometimes so little that we hardly notice. But rest assured, you are being pushed backward. If you sit long enough, the waves will push you back till your nearly on dry land; the journey over.</p>
+<p>If you stand though, you'll be hit by those heavy waves. And you must be, for if not broken against the waves we harden and are made stronger. For we are anti-fragile my child. We were born to be strengthen with each passing wave.</p>
+<p>If we step forward in between these waves, never ceasing, never resting but to achieve eternity, then we will be where we want to in this world. Out beyond the currents, beyond the waters of today. Stand my child and cut through the waves.</p>
+<h2 class="hax-active">Be different.</h2>
+<p>Be abnormal. <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Be Bold. Live Free. Burn Bright. Never back down. Never surrender. Never let anyone tell you who you are not, show them who you are.</span></p>
+<p>For if we all stand and cut through the waves, they become increasingly less difficult. The deeper the water gets, the less impactful the crashing of the waves.</p>
+<p>And we may yet be able to swim to the brighter shores across the chasm we've been told exists but was never the reality.</p>
+<video-player accent-color="deep-purple" iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="The humbling river" preload="metadata" source="https://www.youtube.com/watch?v=O0YxeTjFn70" source-type="youtube" sticky-corner="top-right" youtube-id="O0YxeTjFn70" resource="#2a70bb89-4959-afee-809a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " sources="[]" tracks="[]" schema-resource-id="#2a70bb89-4959-afee-809a"></video-player>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -41,7 +80,28 @@
     <link href="https://btopro.com/ed-tech-joker"/>
     
     <content type="html">
-      <![CDATA[ Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a ]]>
+      <![CDATA[ <p>Ex Plures Plures</p>
+<p>From many, many. The phrase of a new publishing revolution.</p>
+<p>I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up at Domains19. That spoke with a burning passion about what he's doing, why he's doing it, and without fear. That guy is working towards who I want to be.</p>
+<p>Sustaining momentum is a difficult beast in software projects, especially passion and mission driven ones. It takes recognition that hundreds of hours of work. Sleepless nights, broken builds, mis-named variables, enter and escape key pushes, all culminate in 5 minutes if your lucky, 5 seconds more than likely.</p>
+<p>All that work. All that lost sleep, often the pain of which is detailed here in specific posts about losing time with my children to pursuit what I've been made to do, the person I want them to proud of some day.... boils down to those few minutes.</p>
+<p>I've had "shots" before, times when I said "yes, this is it. this is the moment that people will understand the picture in my head. I'll explain it right <i>this</i>
+
+ time. <b>This time they'll get it</b>
+
+." A false fairytale that you'll ever wake up from; a scene in a movie and say there's the scene that they "made it".</p>
+<p>Last year around this time is a perfect example; presenting to a New York based audience about HAX. Money to solve problems, audience receptive to headless solutions; and me with a system that gobbled our presenters content just hours before the talk. A tech demo blow up prior to what would be a tech talk disaster.</p>
+<p>The co-presenters thought it went fine and talking to people after they generally got it. But I didn't want "generally got it". I wanted effect, impact, realization. And there I was.. with a broken "solution" projecting an alternative view of reality that didn't just look half baked but was.</p>
+<p>It was painful. Really. deeply painful. To realize that I wasn't there yet. That I still had nothing to show for all my sleeplessness. I did another talk the next week and it was fine, much better but I didn't seek it to have this impact. I knew I had over hyped myself as to what would happen.</p>
+<p>After those, I shifted gears to process. We shifted to internal workflow and process that needed realigned if we would ever make it there. It was demoralizing work; at times copy and paste, run a job that had to pass on 180 project repos in an unknown configuration taking upwards of an hour to process, failing if it didn't get every single one. We didn't know what we were doing, we just knew we had to regroup code organization wise.</p>
+<p>But after two months, and having a process that appeared to finally be correct. I began the hard work of converting and normalizing all of our elements, our labor that was well intentioned but slightly off course if it would ever hit the quality standards of a production project / product.</p>
+<p>I took a week several months ago and just normalized some doc blocks, some placement of basic syntax, demos, all the nitty gritty.</p>
+<p>There are hundreds of hours. Painful, hours, that go into being able to pull off where we are now, and where we'll get to from here. It's all for those 5 minutes, those 5 seconds.</p>
+<p>But to hear that spark. Those eyes light up. To see another human being you don't know or have just met connect with your work, your vision, for the first time... that's what I live for. I live for changing minds, teaching, helping empower others.</p>
+<p>I have a very supportive wife and family; friends and colleagues too, all that I love. They got me through that darkness by believing that what I was saying was possible and picked me up either through coffee or venting or a drink after work or a goal on the hockey rink. They helped keep me from my darker parts.</p>
+<p>But those new eyes. Those delights, those people we unplug form the matrix of what was. They aren't people I know. They aren't sold based on knowing me. They sometimes aren't deeply technical.</p>
+<video-player accent-color="deep-purple" iframed is-a11y-media is-youtube lang="en" media-title="HAXTheWeb: Chaotic good" preload="metadata" source="https://www.youtube.com/watch?v=Eksr9y4nxQ4" sources="[]" source-type="youtube" sticky-corner="top-right" tracks="[]" youtube-id="Eksr9y4nxQ4" resource="#38020ce8-4c27-cdc1-9060" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "></video-player>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -53,7 +113,95 @@
     <link href="https://btopro.com/technical-weapons"/>
     
     <content type="html">
-      <![CDATA[ Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl ]]>
+      <![CDATA[ <p>Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain people and ideas are marked out of bounds or deemed acceptable, just by what surrounds them.</p>
+<p>We worry so much about words, and so rarely about the places we place them. Sure, online your words can be used against you. Weapons in the wait, waiting to be taken out of context. But what about the store houses of words? These books we fill with digital prose. Do we speak of them as weaponry?</p>
+<p>A gun is a piece of technology. By itself, it sits lifeless. In the hand of a criminal, the gun shapes intention. In the hand of a police officer, soldier, frightening home owner in the middle of the night, the narrative is different. There's a reason these many users pick up the gun. It's not because it remains lifeless and intentionless, it takes form through what it is capable of.</p>
+<h2>Algorithmic weapons</h2>
+<p>Platforms, and more specifically, their owners, are the holders of powerful weapons. Seemingly intentionless, harmless data stores, just ripe with potential. Waiting to be set off. An algorithm can be used to change housing prices, get your eyes to see a product to buy, shift elections, alter the mood of the person being pushed negative or positive articles.</p>
+<p>The algorithm is a complex, and complicated weapon because the intentions of those who make them are unknown (sometimes even to the authors). It is why liberals (and conservatives as well to a different extent) are so concerned about the words they quantify, the metadata, the ability to codify -ism's, separate -ist's, and produce digital ghettoes that mirror the real world. Ensuring future division in the name of eye traffic through invisibly walled gardens.</p>
+<h2>The invisible hand</h2>
+<p>Technology shapes our perceptions. It shapes the way we interface with huge pieces of the world. What we buy, where we go, where we walk; influencing every blade of grass we'll pass and molecule of air inhaled.</p>
+<p>Raw, faceless, innocent technology (there's no such thing) does amazing things without us even noticing. How best to shape our technology than to wield maximal power? That's been the path of Silicon Valley the last decade. How best, to shape consumers to "<i>improve their lives</i>
+
+" by capturing dollars and tunneling them to the few from the many. Dollars and eye traffic in exchange for <i>conveniences</i>
+
+.</p>
+<h2>What of values beyond mere convenience?</h2>
+<p>A small example</p>
+<p>You want a website.</p>
+<p>I can build you a website.</p>
+<p>I can do all the work myself.</p>
+<p>I can do all the work myself to build you a website in WIX.</p>
+<p>I can give you the website and you'll never need me again (you didn't already there).</p>
+<p>However, this convenience comes at a cost. <i><b>You'll never be able to stop using them</b>
+
+</i>
+
+.</p>
+<h2>Non-vendor (and hyperbolic)</h2>
+<p>You want to be educated.</p>
+<p>I can educate you.</p>
+<p>You enroll in classes, pay tens of thousands of dollars to get access to me.</p>
+<p>I'm allowed to educate you in exchange for monetary compensation that barely allows me to make a living as a knowledge expert.</p>
+<p>You want to learn. I want to teach. Structures limit this effectiveness.</p>
+<h2 class="hax-active">Worse</h2>
+<p>Worse, you need to learn. You can't move in society without learning. You. Need. Me. My knowledge. My expertise. My ability. And yet, you can't have it unless you sign away the next 10, maybe 15, at times 20 years of your life to ensure that you can have a <i>future</i>
+
+.</p>
+<p>Was, the positioning of the information behind the institution, a weapon? Did it have grave negative impacts on you just because we force technology to flow in a way that replicates this power flow dynamic?</p>
+<p>What's limiting in both scenarios is that an organization has abstracted you away from what you want. You want access to the individual with the knowledge. You want access to the thing at the end, and yet there is no technology to get you there or a gap too wide for you to cross on your own.</p>
+<p>And in each case, knowledge has failed you. It's been weaponized against you. Those with knowledge, able to manipulate (financially, eye traffic) those without.</p>
+<p><br/></p>
+<p>Such a cruel marketplace.</p>
+<p>A cruel world.</p>
+<p>(said tongue in cheek, I want to make it very clear how anti free college I am so that this next line is not taken out of context)</p>
+<p><i>What if College was free</i>
+
+? What if we didn't need to pay for College and instead just got College service for free.</p>
+<h3>Framed another way</h3>
+<p>What if <i style="">Wix</i>
+
+
+ was free? What if we didn't need to pay for <i>Wix</i>
+
+
+ and instead just got <i>Wix</i>
+
+
+ service for free.</p>
+<p>Who has the most to gain in this scenario? <b>The codification of knowledge brokering into the fabric of society</b>
+
+. Saying that an institutional need is important for individual success.</p>
+<p>Is this so? Or is this the false reality we've been handed?</p>
+<p>Must we implement solutions of the future based on structures of the past?</p>
+<p class="hax-active">Or can we go another way..</p>
+<h2>Individual as weapon</h2>
+<p>What if we constructed technology to not live with the institution or the corporation, but to live with the individual instead? Why is it we accept that a computer can live in our hand and conform to our desires but yet access to information or the ability to self publish. Those.. those <i>COULDN'T POSSIBLY</i>
+
+ be done without institutions, organizations, and corporations. What happened to the text-editor, note-pad, the calculator, the web browser itself? Why is it we expect these to be free, the windows to low fidelity self expression on the same playing field as the portal to information across the world. These applications are free... why not additional levels of abstraction up from them?</p>
+<p>How could we, the little people, ever be able to compete with the faceless mega corporations of our world? These Gods of our copybook heading. These titans of industry.</p>
+<p><br/></p>
+<p>It's simple. We don't play their game. And the game; is that central structures exist and are funded and thus must continue to exist and continue to be funded. There's no reason you need to continue going to traditional academia, but the belief that people do, keeps it going. Historical trends dictating future ones indefinitely.</p>
+<p>There's no reason you need to keep paying for websites that lock publishing capabilities with no export or migration methods. To be bilked into thinking that because organization X recommends institution Y uses corporation Z's product, we must all.</p>
+<p>"You can't do it on your own, you need us" the demons of industry beckon.</p>
+<p>That's just what they want us to think; need, us, to, think.</p>
+<p><i>"We empower them, they do not control us"</i>
+
+ to quote a line from a house genre song I enjoy.</p>
+<p><br/></p>
+<p>It's that simple an idea.</p>
+<p>If we intentionally build solutions that stem from the individual, could we eliminate the power structures at play? If we can make personal ownership convenient, powerful, highly usable, "easy", accessible, visually appealing, and locally controlled... will power flow away from the powerful and back to the people. When privacy and empowerment are more than ideals but more convenient then giving them away... will we walk away from the powers of the past and empower the individuals of the future?</p>
+<p>Can we reclaim publishing? Education? Knowledge construction? Media production? Can we claim all of these spaces, returning them to the individual and defeat authoritarian edtech in the process?</p>
+<p>We live in a technologically weaponized age. It's time we bring a pen to the gun fight and write a new future without them.</p>
+<p><br/></p>
+<meme-maker image-url="files/scale-50/headshot3408605.23.jpg" top-text="I need you" bottom-text="To tansform education"></meme-maker>
+<p>This post, and this website, were written with <a href="https://haxtheweb.org/">HAX</a>
+
+ using <a href="https://haxtheweb.org/haxcms-1">HAXcms</a>
+
+. My pen. Our weapon.</p>
+<p>Ex plures, plures.</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -65,7 +213,14 @@
     <link href="https://btopro.com/i-made-a-thing"/>
     
     <content type="html">
-      <![CDATA[ Hey hey, ho ho. Welcome. To the revolution!!!!!Come say hi at Apereo 2019 or Domains 2019. ]]>
+      <![CDATA[ <p>Hey hey, ho ho. Welcome. To the revolution!!!!!</p>
+<video-player accent-color="purple" iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="And we're just getting started" preload="metadata" source="https://www.youtube.com/watch?v=US0D9tPc7Mk" source-type="youtube" sticky-corner="top-right" youtube-id="US0D9tPc7Mk" resource="#cdcc0336-59b6-9b44-a040" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " sources="[]" tracks="[]"></video-player>
+<p>Come say hi at <a href="https://www.apereo.org/conferences/open-apereo-2019">Apereo 2019</a>
+
+ or <a href="https://domains.reclaimhosting.com/">Domains 2019</a>
+
+.</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -77,7 +232,35 @@
     <link href="https://btopro.com/lighthouse-100"/>
     
     <content type="html">
-      <![CDATA[ I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someo ]]>
+      <![CDATA[ <p>I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someone isn't hooked visually in about 5 seconds, you're not going to get them interested in your work.</p>
+<p>To that end, I've been performance obsessed in web components, <a href="https://haxtheweb.org/">HAXTheWeb</a>
+, and all server configuration areas. I was able to take our scores previously from pretty bad to decent on Google Lighthouse, just by making some tweaks to how things rendered, timing, etc.</p>
+<p>I neglected one factor in all my previous testing though... I wasn't actually using a live, running, out there in the open web server. It was always local development or github pages, which can only go so far on their own. I expected to get the same results when I pushed things up to a live server and ran some tests. Boy was I wrong...</p>
+<h2>It was even faster in production!</h2>
+<img src="files/scale-50/2019-05-24_11-14-49.jpg" alt="Insanely high scores on Google's Lighthouse appliance to demonstrate performance of up coming project." style="width: 100%; margin: 0px auto; display: block;"/><p>These rather insane scores are showing an upcoming <a href="https://github.com/elmsln/haxiam">SaaS version of HAXcms</a>
+ that I'm currently building. Other team members reactions to playing with the SaaS offering recently have ranged from "I love you" to "I can't believe it's this far along" to "why is it this fast? This is stupid fast" to utter disbelief.</p>
+<p><a href="https://twitter.com/hey__mp">@hey__mp</a>
+ opened our test site on his phone, on rural wifi (so DSL, and not good DSL) and had the site in 1 second. This HAXcms in production, is stupid fast. I decided to shoot a video talking about how we were able to achieve these stupidly fast scores given the following constraints we intentionally place on ourselves:</p>
+<ul><li>We do not bundle assets, we ship ES6 modules / AMD directly to browsers</li>
+
+
+
+<li>IE11 / things outside of ES6 window are shipped a watered down design</li>
+
+
+<li>Users must click through a UI and build a site much like they would in a CMS context, yet the system produce a high scoring offline capable PWA (so no developers hands in the PWA construction)</li>
+
+
+<li>We do not do server side rendering, it's all client side processed</li>
+
+
+<li>All decisions are made to ensure HAXcms micro-sites can run with or without HAXcms as part of our publishing methodology (so all sites are decentralizable / copy and paste capable and run anywhere)</li>
+
+
+</ul>
+<p><span style="caret-color: rgb(0, 0, 0);">So given these constrains,... how the hell were we able to achieve these scores? I encourage you to watch and find out.</span></p>
+<video-player accent-color="lime" dark="dark" iframed="" is-a11y-media="" is-youtube="" lang="en" media-title="Crazy deep performance walk through with HAXcms" preload="metadata" source="https://www.youtube.com/watch?v=7o8T1eymTnQ" source-type="youtube" sticky-corner="top-right" youtube-id="7o8T1eymTnQ" resource="#3e3cee5f-bc3f-b445-8b9f" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " sources="[]" tracks="[]"></video-player>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -89,7 +272,51 @@
     <link href="https://btopro.com/ocean-so-deep"/>
     
     <content type="html">
-      <![CDATA[ Now and then, life feels like your adrift in an ocean of work on a sinking ship. There's water so choppy that it feels like you can't see land off in the distance let alone dream of swimming there. Th ]]>
+      <![CDATA[ <p>Now and then, life feels like your adrift in an ocean of work on a sinking ship. There's water so choppy that it feels like you can't see land off in the distance let alone dream of swimming there. That was this week of converting elements by hand. But sometimes, when you think that the shore line is too far to swim, you prove yourself wrong.</p>
+<p>I haven't felt this confident in my abilities, process, team, and vision of where we're heading. I'm starting to be able to embrace it as opposed to grasping at straws. I'm finding my voice in this space and making my message more coherent.</p>
+<p>Usually I write of family victories or to recount something I see in the world. This is different though. I feel confident I'm going the right direction. I may exude confidence (loudness will come across that way at time) but really, I'm just trying to find my way in the dark water like we all are.</p>
+<h2 class="hax-active">What's taken place the last month</h2>
+<p>DrupalCon</p>
+<p>Drupalcon was a huge success. I've had interest in my work previously and it's always a cool feeling but it leaves you empty when you walk away without changing anyone's process. That you're trying to impart knowledge but also get people to join you on the life raft you stumbled on.</p>
+<p>This year we got people adopting our work (both HAX and WCFactory) on site, across multiple days. We worked out documentation issues and clearly struck a cord as far as coherence of message both me personally and Potter (<a href="https://twitter.com/hey__mp">@hey__mp</a>
+).</p>
+<p>And this isn't even to speak to the talk we did with <a href="https://twitter.com/kendalltotten">Kendall</a>
+ and <a href="https://twitter.com/castastrophee">Casandra</a>
+ from Red Hat. That talk was awesome and we got a lot of really good feedback and I think finally moved the needle on adoption of web components. That and I love their passion for our craft and Potter nailed his part too so I was so happy for him.</p>
+<p>Why do I care about adoption? Because the only way we'll transform the industry is if we're all pushing together. I have no idea what element or idea or library that someone in that road will produce that I can leverage next month, next year or further on.</p>
+<lrndesign-blockquote display-mode="photo" image="files/scale-50/headshot.jpg" citation="Activist" author="Btopro" resource="#f4e4aca7-d589-2bb6-3db6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;">  <span>If we just get everyone adopting the platform, we can build a more vibrant, open education environment that much faster. The faster we work together, the faster we can liberate a lot of people..</span>
+</lrndesign-blockquote>
+<h2 class="hax-active">Google</h2>
+<p>I found a bug in the polymer CLI that directly related to our build routine. Unfortunately I'd never looked at typescript before, and the idea of contributing to a <b>google</b>
+ property is a bit daunting. Web components has been a bear just for me to figure out how to leverage their work, let alone rewrite part of their core compiler that allows us to work.</p>
+<p>But. 7 hours of frustration paid off and I was able to fix the issue (it was related to Firefox build routines and <a href="https://github.com/Polymer/tools/pull/3404">dynamic imports / bare path resolution</a>
+. boring stuff). My pull request was accepted rather quickly after explaining the problem to their engineers.</p>
+<p>This has left me feeling pretty good about what we're doing. You get those gut check situations occasionally and continue to soldier through hoping to find your way out of the ocean you're lost in. Imposter syndrome strikes us all, so it was a big break through for me to contribute to something we depend on and do so in a manner that tells me I know what I'm doing in this space.</p>
+<h2 class="hax-active">Porting our entire code base</h2>
+<p>It took about three days, but I completely rewrote and optimized all of our elements in our portfolio. In working towards this, I came to realize that we've made <b>433 elements </b>
+to date. I tend to say we have 168 or so elements but that's repos.</p>
+<p>That's an insanely daunting figure that's a testament to our team, as well as my process / workflow improvements of the last 6 months that would allow me to wrangle and enhance the quality of <b>433 items in three days.</b>
+</p>
+<p>In editing files by hand / bulk replace / preg, in the end I only came up with about 10 issues. This is after 7+ hour sprints of doing 0 testing. The web component development methodology in general as well as how we are doing it, is insane. The <a href="https://twitter.com/btopro/status/1124337677388668928">performance gains are nice</a>
+ but the process gains in this work are far greater.</p>
+<h2 class="hax-active">Reaching shore</h2>
+<p>I said, <a href="https://twitter.com/btopro/status/1124311582610284544">I'm finding my voice again in this space</a>
+ (<a href="https://www.youtube.com/watch?v=IPvEh3u6wU8&feature=youtu.be&t=969">I've had it before</a>
+ but have gone a bit dark in order to just swim to shore). We've been building an arsenal of elements, process, and people that believe in what we're doing. I <a href="https://drupal.psu.edu/blog/post/drupal-thesis">wrote my thesis</a>
+ in changing organizations through open contribution, and this.. "research project"... is... much wider in scope then that small scale exercise of the past.</p>
+<p>I've written before about the next research project. And now, we begin the climb on land toward that vision. The place where pedagogy is unleashed. Fun facts you can piece together, even if <b>you</b>
+ is just future me reading this to recall who I used to be.. and who I hopefully still am.</p>
+<ul><li>Last year (2018) the only place our work was rejected was internally and 1 national event (20/22). We've gotten 2 internal process proposals rejected internally, but that doesn't really matter because major companies and government agencies are moving to our approaches.</li>
+
+<li>HAXcms allows me to publish fluidly. Each time we go to get it installed some place else it's frustrating to get people over the "minor" hurdles, but these documentation and process refinements are reaching a tipping point.</li>
+<li>The non-code side of the team (who I build these things for) are very much on board with our vision of distributed data as well as the "rapid prototyping location" that is having the ground word laid for. As of this writing it has not been announced what's happening there.</li>
+<li>We've gotten commitments from multiple faculty to use the "rapid prototyping location" throughout summer, giving us feedback for what we hope to emerge in the fall.</li>
+<li>There's nothing you can't f'ing do kid. Keep going. The future is so bright and that light is finally shining on us brighter and brighter.</li>
+</ul>
+<h2 class="hax-active"><span style="caret-color: rgb(0, 0, 0);">The letter</span></h2>
+<p><span style="caret-color: rgb(0, 0, 0);">I posted this online.. I held it back for a long time. It was in the lead up to my first son being born (about a month before hand) and represents the day I woke up... finally... woke up to the fact that the industry I was in had been coopted. It's my formula for disruption and bringing about lasting social change, using technology as the vehicle.</span></p>
+<p><span style="caret-color: rgb(0, 0, 0);">I dated it because I knew one day, I'd look back on it. It's been on my desk every day since. I've never felt so alive.</span></p>
+<img src="files/scale-50/collapse.jpg" alt="The methodology of disruption as expressed by me, the day I decided to become an activist developer." style="width: 100%;"/> ]]>
     </content>
   </entry>
   <entry>
@@ -101,19 +328,112 @@
     <link href="https://btopro.com/hax-the-dux"/>
     
     <content type="html">
-      <![CDATA[ I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Fortify</title>
-    <id>https://btopro.com/fortify</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
-    <published>2019-02-21T21:36:07-07:00</published>
-    <summary>"FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort</summary>
-    <link href="https://btopro.com/fortify"/>
-    
-    <content type="html">
-      <![CDATA[ "FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort ]]>
+      <![CDATA[ <p>I was recently interviewed on the <a href="https://drunkenux.com/podcast/33-hax-the-planet/">Drunken UX podcast</a>
+
+
+
+
+
+
+
+
+
+
+
+
+, a show about all things web and user experience design. I was there to talk web components, block editors, and of course <a href="https://haxtheweb.org/">#HAXTheWeb</a>
+
+
+
+
+
+
+
+
+
+.</p>
+<p><br/></p>
+<p>The conversation steered into the advantages of web components over past technology solutions and libraries and is a really good consolidation of a lot of my thoughts about web components and their importance in building a more sustainable, open web. Half way through we turn to HAX and I'm left open to rant... (so I do)</p>
+<p>I'd like to unpack a statement because I realize that while I did an ok job of explaining it, I'd like to have it written down if it end sup coming up. I said something intentionally controversial because if we don't challenge those with power, regardless of their intention, then we are left accepting powerlessness as a feature instead of the bug that it is.</p>
+<h2>The quote</h2>
+<p>The takes place at 44:41 remaining in the show. <a href="https://drunkenux.com/podcast/">Please subscribe to, rate and review their podcast</a>
+
+
+
+
+
+
+
+
+
+
+
+
+ but I wanted to link to the audio here in context in case you wanted to listen to it while reading why I feel this way.</p>
+<paper-audio-player src="https://episodes.drunkenux.com/drunkenux/dux-e33.mp3" title="#33: HAX the Planet!" preload="auto" current-time="4036.446044" time-left="5387.833469" small-skip="15" large-skip="60" role="application" aria-label="Audio Player" aria-describedby="title" accent-color="purple" resource="#7b05d228-7263-fb95-435e" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;"></paper-audio-player>
+<lrndesign-blockquote citation="04/01/2019" image="files/crop-sm/IMG_20190127_153429.jpg" author="btopro" display-mode="leather" resource="#f2d9bcf3-7000-eacb-cf69" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%; margin: 0px auto; display: block;">  <span>I see Gutenberg as a<br/>
+<strong>direct existential threat</strong>
+
+
+
+
+
+
+
+
+
+
+
+
+ to the open web [and OER].</span></lrndesign-blockquote>
+<p>So this critique is not of the people who work on Gutenberg. It is a deeper philosophical question of trust and control in open source and the open web. When I say do you trust Matt. I don't mean as a person, I mean do you trust one person with control of your entire UX, forever.</p>
+<p>It's a fair comparison to say the same could be lodged at me in designing HAX; and yes I am aware other people have worked on Gutenberg (and HAX has more then just me on it...). My primary criticisms grouped:</p>
+<h2 class="hax-active">Sustainability</h2>
+<p>React is the flavor of this five year segment of time and we're coming up on its end. Being from Drupal I saw core developers jump on javascript trains that had already fallen out of favor by the time they deployed. This will not be the case with web components. Web components are in the browser you're viewing this on. They aren't going away.</p>
+<p>You may say "But React isn't going away" and that's reasonable. But I mean... jQuery didn't go anywhere... so why did we all move away from it for these advanced platforms? It's all "just" javascript right?</p>
+<p>React's destiny is pegged to Facebook's desire for it; which means WordPress will have to keep pace with where they take that community. I don't view this as long term sustainable. Will a WordPress site site, without being touched, and still function correctly 10 years from now when needing to update the Gutenblocks as well as surrounding JS library ecosystem?</p>
+<p>HAX output no longer requires HAX. Content pulled into HAX is just reading DOM and then processing it. We can disappear tomorrow and our elements will still work. Since we treat the DOM as an API, we will continue to expand it at a rate that far outpaces Gutenberg.</p>
+<h2 class="hax-active">A story</h2>
+<p>Our components work anywhere, with or without HAX. We make a public website (like this one you're viewing). As part of the build we make a new card element. It can go from usage on this website to generalized, HAX capable element in about 5 minutes. The web expands our platform, not WordPress. WordPress (Drupal too) will never keep pace with our expansion just given this fact.</p>
+<p>As we build the web, we build up the base of legos for all of it. Not just specific pockets of it.</p>
+<p>Accessibility</p>
+<p>Gutenberg and accessibility have had a rocky time out of the gate. Learning React, just to participate in accessibility testing is a non-starter. We keep our web components compiled but not bundled in part for this reason. Anyone can run an accessibility audit on something we make, find the element in the DOM that wraps what failed, and make a report. They can also see the file it came from and trace it back to the source; which what they'll find...looks...like...html.</p>
+<p>This may seem petty but it's not. We're actually at odds with the web component community standards (which is to roll things like Webpack / bundlers to reduce assets delivered). It's more important to us that anyone can find, diagnose, and remix what we're doing, and the traceability by the average web professional (not WP pro + React pro) is critical to long term sustainability.</p>
+<p>HAX also originates in higher education, where we have <i><b>legal</b>
+
+
+
+
+
+
+
+
+
+
+
+</i>
+
+
+
+
+
+
+
+
+
+
+
+ and ethical responsibilities to generate, maintain and improve the accessibility of what we produce. Web components represent an immense opportunity for us to generate a more open and accessible web as a result of remix.</p>
+<h2 class="hax-active">Power consolidation</h2>
+<p>Please don't confuse charity with corporate interests. "OH THANK YOU FOR THIS EDITOR"... which you only produced because you need to in order to try and go after markets like Wix and Squarespace. The goal isn't democratizing the web anymore, it's consolidating power under one banner. Non-conspiratorially, the less people that understand the authoring experience of WordPress, the more business for WordPress.com and vendor space.</p>
+<p>Our component library is highly readable, has tooling (and soon front end assets) to completely automate the writing of the wiring for our editor. Editor outputs are no longer tied to the editor; we seek a great rebalancing of the powers of the web. HAX has ties into multiple CMS ecosystems already and can easily be ported over to others.</p>
+<p>Yes, we're building a "CMS" to manage pages because the editor eliminates the vast majority of needs for database driven anything. Yes, I'll continue to criticize database backed solutions (while still having to maintain my own slew of them). However, HAXcms will be completely built out of open and reusable components that aside from our theme scaffolding will make sense in other solutions (that are non-HAX). We are actively tearing down power structures in the methodologies by which we are approaching development.</p>
+<p>We publish all our components to webcomponents.org, a public, non-CMS specific location. I've seen talk of WP having its own Blocks catalog, which makes sense... but again, why consolidate UX discovery to one ecosystem. Why develop for a single ecosystem when you can improve the web holistically?</p>
+<h2>Not being a jerk.</h2>
+<p>Gutenberg is a fantastic idea with a lot of effort and resources and sleepless nights poured into it. It will empower people to produce things and is open source and those are great things. I think it threatens long term sustainability, accessibility, and development interest. I think web components provide a unique opportunity to tear down the power silos we've all built over the last decade.</p>
+<p>You shouldn't need someone else in order to present yourself online. It shouldn't cost you anything. You should have total ownership and control over your information. It shouldn't be tied to any platform beyond the browser itself.</p>
+<p>We have a unique opportunity to ensure that happens. <span style="caret-color: var(--hax-color-text);">Don't throw your efforts into a single silo that will let you down.</span></p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -125,7 +445,149 @@
     <link href="https://btopro.com/all-screen-rights"/>
     
     <content type="html">
-      <![CDATA[ The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned ]]>
+      <![CDATA[ <p>The <a href="https://www.engadget.com/2019/03/26/european-parliament-copyright-directive-article-13/">EU recently passed Article 13</a>
+
+
+
+
+
+, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned; namely, because their interests are in direct competition with those of their citizens (governments enjoy having major international enterprises they can sue to fill their coffers after all).</p>
+<p>That whole thing had me thinking about access to information and the ideas of <a href="https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html">Aaron Swartz</a>
+
+
+
+
+
+; namely that information seeks to be free. In the years since Aaron's unfortunate death, we've seen silicon valley accelerate in its quest to put up barriers to the free flow of information in the name of a new enemy: User Experience.</p>
+<p>Facebook: "We have the best experiences, and so you should <i><b>share</b>
+
+
+
+
+
+</i>
+
+
+
+
+
+ all your content here without thinking about it"<br/>Twitter: "We have the fastest experience, so you should <i><b>share</b>
+
+
+
+
+
+</i>
+
+
+
+
+
+ your stream of consciousness here without thinking about it"<br/>Medium: "We have the best writing experience, so you should share your ideas here while working them out."<br/></p>
+<p>These platforms. These digital silos, do empower people to share and have a voice. But they are antithetical to the open content and open access vision that Aaron is often credited with.</p>
+<p>I was passed along some links recently related to <a href="https://indieweb.org/">Indieweb</a>
+
+
+
+
+
+ and <a href="https://ioo.coop/">The Internet of Ownership</a>
+
+
+
+
+
+, and it got me thinking. HAX and HAXcms are in this sphere of local control, better control, better tools, more access to those tools, but I haddn't really thought through the additional technical requirements not talked about in that pursuit. Namely, that every screen has a right to content.</p>
+<h2 class="hax-active">Extending the vision of Information seeks to be Free</h2>
+<p>Every screen you possess has a right to access content. If you are connected to the internet, there should be no barriers between that screen and web based HTML data structures... otherwise known as all information that exists on the internet.</p>
+<p>Every site you access adopts the web platform standards.. with a catch.</p>
+<h3 class="hax-active">Click here to upgrade your app?</h3>
+<p><i>Not using Chrome? Click here to switch</i>
+
+
+
+
+
+</p>
+<p><i>You appear to be using an outdated browser, please upgrade.</i>
+
+
+
+
+
+</p>
+<p>Now look, upgrading, and modernizing with the web are nice. Helpful especially to the developer. But if we as developers</p>
+<p>Every screens have a right to content. The internet has given birth to incredible communications possibilities (duh). But in that rise, we've seen an ebb and flow as far as access to content, ideas and media. Facebook, twitter and others require you to use updated devices and software in order to access their platform.</p>
+<h3>I'm sorry let's reframe that</h3>
+<p>Facebook, twitter and others require you to upgrade and pay additional monies for modern, fancy devices, <b>in order to read and express ideas with one another.</b>
+
+
+
+
+
+</p>
+<p>The platforms require you to use them and manipulate you into using them more. They connect you to people but at a price; that you will always connect through them. One of the major methods of dissolving decentralized individual ownership of the web was by killing RSS.</p>
+<p>Google played a huge role in this through killing it's podcasting platform; and not that they controlled the universe in this regard, but it forced content producers to think of other ways of doing syndication. Namely, through Google and Apple app stores.</p>
+<h2 class="hax-active">We want to bring the old web back</h2>
+<p>And here's the plan. Beyond just HAX and HAXcms, its important to realize the philosophical design decisions that have now been baked into the HAXcms platform which I'll list as features in headings below.</p>
+<h3 class="hax-active">Automatic RSS and Atom feed generation</h3>
+<p>RSS and Atom allow sites to share updates about what's been produced. It is (an old) format that is a pure form of notifying others sites about your latest postings and work. HAXcms now automatically generates these data feeds and then provides buttons for designers that automatically wire them up. This will let more people start publishing in these formats without having to think about it or know they exist.</p>
+<h3 class="hax-active">Automatic sitemap / robots generation</h3>
+<p>For search engines to find you, you need good SEO. HAXcms outputs with SEO best practices automatically baked into the platform. Again, you shouldn't have to think about getting high search rankings in order to do it. It should just happen.</p>
+<h3 class="hax-active">Automatic Offline / lack of internet usage</h3>
+<p>All HAXcms sites are what is known as "Progressive Web Apps" (PWA). A PWA can leverage modern browser techniques to allow users to install your website on their phone (or laptop), which improves performance and makes reading more enjoyable. Also, if a user has been to your website (installed or not) and loses internet connection, they'll still have access to all of the content of your site (minus things like remotely loaded images / links to other websites). This ensures a high quality experience even when internet is of low quality (big for rural, low income, mass transit or otherwise lacking in data connection users).</p>
+<h3 class="hax-active">Support for all screens</h3>
+<p>This was a tricky one. HAXcms is now able to deliver to all platforms of the web going back to <i>IE6 / FF 3 / Safari 4</i>
+
+
+
+
+, possibly even earlier. For reference, <a href="https://en.wikipedia.org/wiki/Internet_Explorer_6">IE6 is 20 years old</a>
+
+ . In order to achieve this, we've implemented a (brilliant) progressive enhancement strategy that works like so:</p>
+<ul><li>Modern / evergreen? You get the highest quality, fastest method of shipping assets to you (~85% traffic)</li>
+
+
+
+
+
+<li>Slightly behind / off version? You get the same quality, slightly slower to load (ES5 versions, still works great tho. ~8% traffic)</li>
+
+
+<li>Edge / semi-modern but not web components native platforms - You get an alternate experience though still web components (~4%)</li>
+
+
+
+
+
+<li>IE 6 - 11 / Anything made in the last 20 years, or has javascript disabled (~3% or less). You get an iframe / dramatically simplified version of the site. Web components in content won't work, but you'll still get all the images and text of the website.</li>
+
+
+
+
+
+</ul>
+<p> This approach will let us hit <b><i>effectively 100% of global web traffic with content</i>
+
+
+
+
+
+</b>
+
+
+
+
+
+, without changing the workflow of you, the publisher. Own you content. Own your experience. HAX the current market that has forced us all to require they exist in order to have a voice. <a href="https://haxtheweb.org/">HAXTheWeb</a>
+
+
+
+
+
+.</p>
+<p>Here are screenshots of IE6, Safari 4, iPad2, Android 2.2 and Firefox 3 of this site!</p>
+<img src="files/safari4.jpg" style="width: 75%;"/><img src="files/ff3.jpg" style="width: 75%;"/><img src="files/android22.jpg" style="width: 25%;"/><img src="files/ipad2.jpg" style="width: 50%;"/><img src="files/ie6.jpg" style="width: 100%;"/> ]]>
     </content>
   </entry>
   <entry>
@@ -137,19 +599,34 @@
     <link href="https://btopro.com/reclaim-the-web"/>
     
     <content type="html">
-      <![CDATA[ Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Structured Anarchy</title>
-    <id>https://btopro.com/sa</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2011-03-20T18:00:00-06:00</published>
-    <summary>A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might</summary>
-    <link href="https://btopro.com/sa"/>
-    
-    <content type="html">
-      <![CDATA[ A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS.  I am writing now to talk about how I’ve begun working towards that goal that you might ]]>
+      <![CDATA[ <p>Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.</p>
+<p>Now with HAXcms, I can capture and publish to my own location forever with the same ease of use.</p>
+<h2>Original tweets (line breaks = tweet)</h2>
+<p>last interview I did started to go from mildly technical / heavy on philosophy into mission / vision statement about burning down the old web and replacing it with one that achieves a greater equality.....
+
+Let's see if I have enough coffee that I deflect the UX talk into this ;)</p>
+<p>1st talk when I started to care about something in this world (that mattered). I put up a picture of my son and said that I had something to live for and that everything I was about to do was for him.
+
+I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
+<p>The future is too important for it to be left to silicon valley board rooms. The only way to prevent a dystopian future (Which we're rapidly progressing towards) is for people to talk heavy. To give shits about that which seems too much to handle..
+
+<br/></p>
+<p>You have corporations that view China's enslavement of dissidents as just a "feature" of their "market" and so to extract capital from the land we must adhere to their rules. Oh how "Do no Evil" has taken a back seat to the gentrification of California and wealth disparity.<br/></p>
+<p>Does your code liberate or enslave? We would harass engineers going to work at Lockheed with "well, if your ok with making bombs to kill then I guess you should do that math over there" we have a similar world emerging with developers of all software, yet SV is tone deaf..
+
+<br/></p>
+<p>You w/ your lofty "progressive" ideals that extract maximum dollars from your neighborhoods so that you can have a nicer coffee shop or micro brewery where there were "slums". What do you think caused the slum? was it just a failure of the gov or did those b4 you pillage?
+
+<br/></p>
+<p>You. With your open code and your corrupted ideals. We'll take your Apache and try and bring society to 2.0 when you corrupted it in 1.0.</p>
+<p>Doubt us. Please. Continue. The anti-big tech movement is gaining developers. the Dweb crowd is growing stronger w/ better tools and vision.<br/></p>
+<p>Information seeks to be free -- https://en.wikipedia.org/wiki/Aaron_Swartz #OER starts at content but has shit for platforms and those with platforms have direct reason to lock down your platform even if your content opens up. We won't just stop there when we've fixed that problem.<br/></p>
+<p>When the web is the platform, we can once again decentralize away from that which are symbols of the dystopian future. Unlike other "truth tellers" in the "edtech" space, we craft solutions out of the darkness, not just identity to get a keynote but solve. We solve.
+
+<br/></p>
+<p>We aren't here to "play the game", we're here to restore the system to replace games with higher ground for more level playing fields.</p>
+<p>Getting this all out of the way so that the interview doesn't devolve into this ;)<br/></p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -161,19 +638,26 @@
     <link href="https://btopro.com/haxcms-theme-layer"/>
     
     <content type="html">
-      <![CDATA[ Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>2018 Innovation Submission</title>
-    <id>https://btopro.com/2018-innovation-submission</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>This is my submission to the TLT 2018 Open Innovation Challenge. We have amazing capabilities and solutions available to us as an R1 research institution. But like many of fellow institutions, we </summary>
-    <link href="https://btopro.com/2018-innovation-submission"/>
-    
-    <content type="html">
-      <![CDATA[ This is my submission to the TLT 2018 Open Innovation Challenge. We have amazing capabilities and solutions available to us as an R1 research institution. But like many of fellow institutions, we  ]]>
+      <![CDATA[ <h2 class="hax-active">Weekly Code Review</h2>
+<p class="hax-active">This 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions surrounding it / needs</p>
+<video-player accent-color="light-green" dark="dark" lang="en" preload="metadata" source="https://www.youtube.com/watch?v=ZZIE7oCcM_Q&feature=youtu.be" sticky-corner="top-right" youtube-id="ZZIE7oCcM_Q?feature=youtu.be" iframed="" source-type="youtube" is-a11y-media="" is-youtube="" media-title="HAXcms - Theme layer discussion" style="width: 75%; margin: 0px auto; display: block;"></video-player>
+<p>We start getting into what we can add to the theme layer and the JSON object structure we're using could be extended to effectively bring content types and field APIs to HAXcms while keeping life relative to a small JSON format. It's a bit ridiculous how fast this system is.<br/></p>
+<p>I talk through the developer theme, slide player, and kick around ideas for what can come next and then <a href="https://twitter.com/hey__mp">@hey__MP</a>
+
+ and <a href="https://twitter.com/cgldevel">@CGLDevel</a>
+
+ show their progress on on a custom theme they're developing for <b><a href="https://haxtheweb.org/">HAXcms</a>
+
+</b>
+
+ which will start to reshape minds about what this is and is possible.<br/></p>
+<p><a href="https://twitter.com/nikkimk">@NikkiMK</a>
+
+ closes us out by showing how her new rich-text-editor tag is coming along as well as explaining to Chuck (and anyone watching) why we're working on two text editors simultaneously.<br/></p>
+<h2>I. Love. This. Team.</h2>
+<p>The video closes the way I really feel. I. Love. This. Team.</p>
+<p>Keep pushing gang, we're building something amazing that will change the world.</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -185,345 +669,97 @@
     <link href="https://btopro.com/hangouts-elmsln"/>
     
     <content type="html">
-      <![CDATA[   Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this  ]]>
+      <![CDATA[ <grid-plate style="width: 100%;" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" columns="2" layout="1:1" responsive-size="xs">  <h2 slot="col-1">Going to get really meta here..</h2>
+
+
+
+
+
+
+  <p slot="col-1">This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this blog and haxtheweb.org and... effectively anything.</p>
+
+<p slot="col-1">The state management in HAXcms is dramatically improved from a few weeks ago and the editing experience in HAXeditor is becoming increasingly more fluid and robust.</p>
+
+
+
+
+
+
+  <video-player accent-color="blue" dark="dark" lang="en" preload="metadata" source="https://www.youtube.com/watch?v=V8UQOo5d4LQ" sticky-corner="top-right" youtube-id="V8UQOo5d4LQ?undefined" iframed="" source-type="youtube" is-a11y-media="" is-youtube="" media-title="Video showing how this blog post was made" slot="col-2"></video-player>
+
+
+
+
+
+
+
+</grid-plate>
+<p><br/></p>
+<p>This is to let you all know, that we've got a new "podcast" if you will that will give you a window into our world. Check out <a href="https://github.com/elmsln/hangouts">ELMS:LN hangouts on github</a>
+
+
+
+
+
+
+
+
+.</p>
+<video-player accent-color="teal" lang="en" preload="metadata" source="https://www.youtube.com/watch?v=o55m5yfdF-o" sticky-corner="top-right" youtube-id="o55m5yfdF-o?undefined" iframed="" source-type="youtube" is-a11y-media="" is-youtube="" media-title="ELMS:LN Code Review - Episode 1" style="width: 75%; margin: 0px auto; display: block;"></video-player>
+<p>Here's the <a href="https://github.com/elmsln/hangouts/blob/master/2019/02.11.md">show notes from episode one</a>
+
+
+
+
+
+
+:</p>
+<md-block source="https://raw.githubusercontent.com/elmsln/hangouts/master/2019/02.11.md" style="width: 100%; margin: 0px auto; display: block;"></md-block>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Golden, shimmering, joy</title>
-    <id>https://btopro.com/item-c97a8e67-971e-4e92-8b38-e348c780d072</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His auto</summary>
-    <link href="https://btopro.com/item-c97a8e67-971e-4e92-8b38-e348c780d072"/>
+    <title>Fortify</title>
+    <id>https://btopro.com/fortify</id>
+    <updated>2019-06-21T11:54:43-06:00</updated>
+    <published>2019-02-21T21:36:07-07:00</published>
+    <summary>"FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort</summary>
+    <link href="https://btopro.com/fortify"/>
     
     <content type="html">
-      <![CDATA[ I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His auto ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Common web component state question</title>
-    <id>https://btopro.com/common-web-component-state-question</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I wanted to post an answer I gave recently to a web component question post training that we gave at Open Apereo. I asked Toben and he said it was ok if I posted the question / answer here because it'</summary>
-    <link href="https://btopro.com/common-web-component-state-question"/>
-    
-    <content type="html">
-      <![CDATA[ I wanted to post an answer I gave recently to a web component question post training that we gave at Open Apereo. I asked Toben and he said it was ok if I posted the question / answer here because it' ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>NGDLE is really just Enigma misspelled</title>
-    <id>https://btopro.com/ngdle-is-really-just-enigma-misspelled</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I mean look at it! It's a bunch of random letters that's hard to pronounced or use in a sentence. Years after initial usage, people still have difficulty saying what one is beyond pictures of childhoo</summary>
-    <link href="https://btopro.com/ngdle-is-really-just-enigma-misspelled"/>
-    
-    <content type="html">
-      <![CDATA[ I mean look at it! It's a bunch of random letters that's hard to pronounced or use in a sentence. Years after initial usage, people still have difficulty saying what one is beyond pictures of childhoo ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Compartmentalizing</title>
-    <id>https://btopro.com/compartmentalizing</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lov</summary>
-    <link href="https://btopro.com/compartmentalizing"/>
-    
-    <content type="html">
-      <![CDATA[ bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lov ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>OCCUPY... the bridge</title>
-    <id>https://btopro.com/occupy</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Bridges  get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the bridge</summary>
-    <link href="https://btopro.com/occupy"/>
-    
-    <content type="html">
-      <![CDATA[ Bridges  get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the bridge ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>When Educators left the LMS</title>
-    <id>https://btopro.com/when-educators-left-the-lms</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>While not seeing it beyond previews and reviews, the movie When God left the building
- reviews an intreging concept: that people who leave the christian church are just leaving the building and pursui</summary>
-    <link href="https://btopro.com/when-educators-left-the-lms"/>
-    
-    <content type="html">
-      <![CDATA[ While not seeing it beyond previews and reviews, the movie When God left the building
- reviews an intreging concept: that people who leave the christian church are just leaving the building and pursui ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>The LMS is Cable, We are Roku. Expect Us</title>
-    <id>https://btopro.com/the-lms-is-cable-we-are-roku-expect-us</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Cable
-In the 40s and 50s, the Cable industry was born.
-By the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on</summary>
-    <link href="https://btopro.com/the-lms-is-cable-we-are-roku-expect-us"/>
-    
-    <content type="html">
-      <![CDATA[ Cable
-In the 40s and 50s, the Cable industry was born.
-By the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Innovation's four ingredients</title>
-    <id>https://btopro.com/innovations-four-ingredients</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about car</summary>
-    <link href="https://btopro.com/innovations-four-ingredients"/>
-    
-    <content type="html">
-      <![CDATA[ I saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about car ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Straddling the Abyss</title>
-    <id>https://btopro.com/straddling-the-abyss</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>The tight rope walker
-He looks to his left..
-certain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward, </summary>
-    <link href="https://btopro.com/straddling-the-abyss"/>
-    
-    <content type="html">
-      <![CDATA[ The tight rope walker
-He looks to his left..
-certain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward,  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>The Knowledge Decentralization Manifesto</title>
-    <id>https://btopro.com/the-knowledge-decentralization-manifesto</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Access to knowledge is a control system.
-As the "Apple of Eden
-" unlocked the power to question so too is the case with all modern knowledge transfer technologies. Knowledge corrupts established thoug</summary>
-    <link href="https://btopro.com/the-knowledge-decentralization-manifesto"/>
-    
-    <content type="html">
-      <![CDATA[ Access to knowledge is a control system.
-As the "Apple of Eden
-" unlocked the power to question so too is the case with all modern knowledge transfer technologies. Knowledge corrupts established thoug ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>The Knowledge Decentralization Manifesto (The Prolog)</title>
-    <id>https://btopro.com/the-knowledge-decentralization-manifesto-the-prolog</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>This is the start of a manifesto.Consider this background readingThere's an argument I heard brought up by a high level manager at a land grant institution (cough) that I've NEVER heard anyone in</summary>
-    <link href="https://btopro.com/the-knowledge-decentralization-manifesto-the-prolog"/>
-    
-    <content type="html">
-      <![CDATA[ This is the start of a manifesto.Consider this background readingThere's an argument I heard brought up by a high level manager at a land grant institution (cough) that I've NEVER heard anyone in ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>HAX apereo piece</title>
-    <id>https://btopro.com/hax-apereo-piece</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media </summary>
-    <link href="https://btopro.com/hax-apereo-piece"/>
-    
-    <content type="html">
-      <![CDATA[ Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>The perfect cup of coffee</title>
-    <id>https://btopro.com/the-perfect-cup-of-coffee</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>(post via @btopro on twitter)good people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into @</summary>
-    <link href="https://btopro.com/the-perfect-cup-of-coffee"/>
-    
-    <content type="html">
-      <![CDATA[ (post via @btopro on twitter)good people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into @ ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Watch the ripples and you'll miss the waves</title>
-    <id>https://btopro.com/watch-the-ripples-and-youll-miss-the-waves</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>  "I don't understand why you give this stuff away, it's worth a lot. I mean screw capitalism, yea I get it I mean right there. But Universities pay a lot of money for these things. Why make them for</summary>
-    <link href="https://btopro.com/watch-the-ripples-and-youll-miss-the-waves"/>
-    
-    <content type="html">
-      <![CDATA[   "I don't understand why you give this stuff away, it's worth a lot. I mean screw capitalism, yea I get it I mean right there. But Universities pay a lot of money for these things. Why make them for ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>I challenge you to Transform Education; together</title>
-    <id>https://btopro.com/i-challenge-you-to-transform-education-together</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Institutions and employees within them will remain at rest unto acted upon by an internal or external force. Externally, this is the preasures of society, markets and learners demanding change. Intern</summary>
-    <link href="https://btopro.com/i-challenge-you-to-transform-education-together"/>
-    
-    <content type="html">
-      <![CDATA[ Institutions and employees within them will remain at rest unto acted upon by an internal or external force. Externally, this is the preasures of society, markets and learners demanding change. Intern ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.</title>
-    <id>https://btopro.com/ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I'm done with talk about the Next Generation Digital Learning Environment; it's time for action. I have had a plan for laying out the future of technology in higher education that I've formulated sinc</summary>
-    <link href="https://btopro.com/ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions"/>
-    
-    <content type="html">
-      <![CDATA[ I'm done with talk about the Next Generation Digital Learning Environment; it's time for action. I have had a plan for laying out the future of technology in higher education that I've formulated sinc ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Actually, curing edtech</title>
-    <id>https://btopro.com/actually-curing-edtech</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I read an article recently by Educause Review and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of </summary>
-    <link href="https://btopro.com/actually-curing-edtech"/>
-    
-    <content type="html">
-      <![CDATA[ I read an article recently by Educause Review and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>In my own words: Zero cost education.</title>
-    <id>https://btopro.com/in-my-own-words-zero-cost-education</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I was recently given a question on twitter from a twitter-friend and fellow edtech industry person that I felt was worth expanding into a cohesive blog post.> I really would love to know your deeper </summary>
-    <link href="https://btopro.com/in-my-own-words-zero-cost-education"/>
-    
-    <content type="html">
-      <![CDATA[ I was recently given a question on twitter from a twitter-friend and fellow edtech industry person that I felt was worth expanding into a cohesive blog post.> I really would love to know your deeper  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Education, Technology... Action.</title>
-    <id>https://btopro.com/education-technology-action</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>The only barrier is an internet connection and a device to access a multi-verse of easy to use options, the weight of published opinion has lessened. At one time, people's endorsements made a differen</summary>
-    <link href="https://btopro.com/education-technology-action"/>
-    
-    <content type="html">
-      <![CDATA[ The only barrier is an internet connection and a device to access a multi-verse of easy to use options, the weight of published opinion has lessened. At one time, people's endorsements made a differen ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Pure Joy</title>
-    <id>https://btopro.com/pure-joy</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>The family gathered, friends came and we all shared a laugh.Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. "I have to start getting ready for bed can</summary>
-    <link href="https://btopro.com/pure-joy"/>
-    
-    <content type="html">
-      <![CDATA[ The family gathered, friends came and we all shared a laugh.Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. "I have to start getting ready for bed can ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Creating the decentralized instructional experience app</title>
-    <id>https://btopro.com/creating-the-decentralized-instructional-experience-app</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the log</summary>
-    <link href="https://btopro.com/creating-the-decentralized-instructional-experience-app"/>
-    
-    <content type="html">
-      <![CDATA[ This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the log ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Using Webcomponents to unearth the NGDLE</title>
-    <id>https://btopro.com/using-webcomponents-to-unearth-the-ngdle</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look o</summary>
-    <link href="https://btopro.com/using-webcomponents-to-unearth-the-ngdle"/>
-    
-    <content type="html">
-      <![CDATA[ I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look o ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>This is not reality</title>
-    <id>https://btopro.com/this-is-not-reality</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Chapter 1: The ShowerA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in th</summary>
-    <link href="https://btopro.com/this-is-not-reality"/>
-    
-    <content type="html">
-      <![CDATA[ Chapter 1: The ShowerA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in th ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Playing for 40</title>
-    <id>https://btopro.com/playing-for-40</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through impa</summary>
-    <link href="https://btopro.com/playing-for-40"/>
-    
-    <content type="html">
-      <![CDATA[ A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through impa ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Dood</title>
-    <id>https://btopro.com/dood</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>dudes crying.dude’s crying.dude, is, crying.This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much mor</summary>
-    <link href="https://btopro.com/dood"/>
-    
-    <content type="html">
-      <![CDATA[ dudes crying.dude’s crying.dude, is, crying.This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much mor ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Generation Uine</title>
-    <id>https://btopro.com/generation-uine</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read arti</summary>
-    <link href="https://btopro.com/generation-uine"/>
-    
-    <content type="html">
-      <![CDATA[ I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read arti ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Birthday party</title>
-    <id>https://btopro.com/birthday-party</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in a</summary>
-    <link href="https://btopro.com/birthday-party"/>
-    
-    <content type="html">
-      <![CDATA[ A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in a ]]>
+      <![CDATA[ <full-width-image source="files/IMG_20190221_184100.jpg" caption="FORT NIGHT!" style="width: 50%;"></full-width-image>
+<h2>"FORT. NIGHT."</h2>
+<p>They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort together.</p>
+<p>To build.</p>
+<p>I love building things with my kids. Whether it's a pinewood derby car (where the adults do most of the work cause... saws) or lego sets or snowmen or pillow and blanket forts in the basement, it's all... everything I've ever wanted.</p>
+<p>I love building with my kids. Watching them get overjoyed at the simple and peculiar things. Like taking all their blankets out of the closet, ripping the couch cushions off to stack them juuuuuust right.</p>
+<p>We also enjoy playing zombie / monster attack in the basement. The lights go off and the flash lights come out, trying to find the zombie / monster that's roaming the basement, scratching the walls.</p>
+<p>YouTube entered into the equasion this evening</p>
+<grid-plate layout="8/4" responsive-size="xs" columns="2" style="width: 100%;">
+<p slot="col-1">Youtube helped expand the sense of adventure. I threw on some monster sound effects (suuppper creepy) and then set the phone at one end of the room.</p>
+
+<p slot="col-1">Slowly... creeping to the other side while they were confused (in the dark w/ flash lights) about all the noises and wondering how I was making creepy sounds like that... I snuck slowly over to the other side of the fort.</p>
+
+<p slot="col-1">Just as a flash light revealed my true, dad form, I lunged at the fort, chasing the children back inside.</p>
+
+
+<video-player slot="col-2" lang="en" preload="metadata" source="https://www.youtube.com/watch?v=Z-sSy8urj-c" sticky-corner="top-right" youtube-id="Z-sSy8urj-c" iframed="" source-type="youtube" is-a11y-media="" is-youtube="" class="active-item"></video-player>
+
+
+
+</grid-plate>
+<h2>What I really live for</h2>
+<p>It's not all the code. It's not what powers this website even though I may talk about it a lot. It's those two crazies. "Our crazies" as my wife and I often say it. They keep us young, fun, silly, and smiling all the time.</p>
+<p>If I do have any selfish motivation for making this technology it's this -- I want my boys to not only know how much their dad loves them today, but in the future when they come across all the things I've written about them. About our time together. About how they've made me a better person.</p>
+<p>I've tried four times to accomplish that now. Four, different, blogs, all just trying to catalog my journeys through life, sometimes to stop and have an outlet when I'm in the middle of an emotional break (see, <a href="dood">Dood</a>
+
+). It took me several hours over multiple days just copying, pasting, reformatting, and correcting those blog posts. My own work. In systems I understood.</p>
+<h2 class="hax-active">Not again.</h2>
+<p>This is the last migration. To a format that's pure and simple HTML, with web components to orchestrate it all. It's not some cheesy transition from talking about my kids into talking about our tech. It's reality.</p>
+<p>When we build tools that make our lives easier, more able to share and express what we experience, others can join a conversation previously not possible. Living through many systems now I can tell you that permanence needs to be just as at the front of your mind as ease of use. Will this last. Will it stand the test of technologies.</p>
+<p>I can finally say that I've landed some place that I can write all about my boys and our adventures without worrying it'll go away. I'll still keep everything pretty vague (I value their anonymity so that they one day may do the same) but I want you to know, they are my world, and they make me the insane, caffeinated person you see at events.</p>
+<p>They motivate me every day by wanting to build something together.</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -535,67 +771,401 @@ As the "Apple of Eden
     <link href="https://btopro.com/alt-reality"/>
     
     <content type="html">
-      <![CDATA[ Our construction of reality is not the only one. This has always been the case, but I often fall victim to the assumption that because we now have access to more information that we will congeal to a ]]>
+      <![CDATA[ <video-player lang="en" preload="metadata" source="https://www.youtube.com/watch?v=bVV2Zk88beY" sticky-corner="top-right" youtube-id="bVV2Zk88beY" iframed source-type="youtube" is-a11y-media is-youtube></video-player>
+<p><span style="caret-color: rgb(0, 0, 0);">Our construction of reality is not the only one. This has always been the case, but I often fall victim to the assumption that because we now have access to more information that we will congeal to a singular perspective on subjects. The idea being that more diversity and access to greater world view of people will lead to better opinions.
+Unfortunately, this doesn't appear to be the case. Unlike the keystrokes at our disposal and terminal prompts ferrying away command sets with blazing speed and accuracy, the human psyche can't be simple commanded to change.</span><br/></p>
+<p class="hax-active">We can't grow up with a set of experiences, form an opinion on a subject, and then have it completely altered effectively in 140 characters. Yet social media and the internet of today, full of drying up "news" rooms and revenue models that favor catching eyeballs as opposed to expanding minds, leads us to dig in harder.
+It leads me to two questions: Why do we feel the need to change someone's perspective? And more valuable, how best to go about doing so?</p>
+<h3><a id="user-content-why" class="anchor" aria-hidden="" href="#why"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden=""><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+
+</svg>
+
+</a>
+
+Why</h3>
+<p>Let's start with the easy one: Why? Why must we try and get others to think the way we do when their construction of reality is an alternative fact universe to our own. Part of the human condition is the drive for acceptance. Acceptance by those around us, our group, our circle, whatever you call it, we all want to "fit-in" even when fitting in means associating with the "out" crowd.
+So knowing this, how could we possibly expect to get strangers on the internet to agree with our worldview when we have no concept of what their lives actually are? Why do we get consumed by social media and vitriolic arguments simply in the name of our truth being the one real truth (Now where have I heard this argument throughout history let me number the thousands of time periods...).
+The Why, is the simplest answer and easier path to achieve to personal satisfaction. It is our primal instinct and hyper-me-centric technology based culture that promotes it. To improve as a society, we must improve as individuals and encourage others to improve as individuals as well. Not by telling why, but by leading others to arrive at our why. Only through honest questioning and engagement can we get others alt-reality to align with our own. When it isn't possible, it's also best to just accept that and move on. There's only a few billion other minds to try and align with anyway.</p>
+<h3><a id="user-content-how" class="anchor" aria-hidden="" href="#how"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden=""><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+
+</svg>
+
+</a>
+
+How</h3>
+<p>So how best to generate the Why in others? The first step is back tracing how we arrived at our own conclusion. How did we become sensative, caring, accepting, loving, charitable, kind, compassionate, whatever the adjective is which is the behaviors we're wishing to exhibit in others. Was it learned through experiences (good or bad)? If so, perhaps it's better to tell a story to try and generate empathy rather then calling someone evil.
+How is by far the harder option for engagement, both online and in real life. "I'm depressed" for example can be met with "Why are you depressed?", requiring a level of self-reflection probably not available to the asker (or comes across quazi-confrontational). However, "How can I help you?" is not accusitory or requiring self-reflection, it's walls are down and it's empathizing with the asker.
+I wonder how many we could reach with our world view if we treated everyone with an equal level of compassion, regardless of how "evil" their opinion might be. Taking the "How did you come to think that way?" rather than "Why on earth would you ever think that!?" or "Why are you such a monster?"</p>
+<h3><a id="user-content-engage" class="anchor" aria-hidden="" href="#engage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden=""><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+
+</svg>
+
+</a>
+
+Engage</h3>
+<ul>
+<li>When was the last time you deescalated a situation when you were "in the right"? Did it end the conflict or did it burn you more to not win then it was worth?</li>
+
+
+</ul>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>End of Summer</title>
-    <id>https://btopro.com/end-of-summer</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <title>Creating the decentralized instructional experience app</title>
+    <id>https://btopro.com/creating-the-decentralized-instructional-experience-app</id>
+    <updated>2019-06-21T11:54:45-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thing</summary>
-    <link href="https://btopro.com/end-of-summer"/>
+    <summary>This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the log</summary>
+    <link href="https://btopro.com/creating-the-decentralized-instructional-experience-app"/>
     
     <content type="html">
-      <![CDATA[ The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thing ]]>
+      <![CDATA[ <p>This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the logical extension to HAX for desktop over 2018 which could be utilized to decentralize instructional experience creation. If this sounds of use to your institution, good, let's work together on it.</p>
+<h2><a id="user-content-problem" class="anchor" aria-hidden href="#problem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Problem</h2>
+<p>Faculty and staff have no idea what they can use at our institution. No matter how many registries of information or solutions we provide, people will need to practically be marketted to just to know they exist in the sea of information about what makes the university work. Beyond this, there is no way to provide continuous innovation to those not at high-touch units which work hand in hand with faculty to produce highly experimental course spaces and approaches. Even if we could find the things we need, very few of them talk to each other, their user experiences are all over the map, and most aren't very good for creating materials without needing to understand technical topics (like HTML). This isn't a PSU specific problem, Duke has an illustration that highlights 93+ solutions available to faculty, many of which don't talk even if they knew them all.
+How to solve the problem of finding and once getting there creating engaging experiences?</p>
+<h2><a id="user-content-leading-questions" class="anchor" aria-hidden href="#leading-questions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Leading questions</h2>
+<ul>
+<li>What if faculty and staff involved in producing instructional experiences had an app that told them what services existed and made it instantly possible to use?</li>
+
+<li>What would it look like institutionally and what would the use experience look like?</li>
+
+<li>What needs would we have technically in order to support this?</li>
+
+</ul>
+<h2><a id="user-content-vision" class="anchor" aria-hidden href="#vision"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Vision</h2>
+<p>This is the vision of HAX, a distributed instructional creation tool. <a href="http://haxtheweb.org/" rel="nofollow">HAX can be viewed as a public demo here</a>
+. The important thing to keep in mind with this is that desktop publishing of applications can be done using HTML, making them far easier to build when you just make it work on the web. Imagine if users could log into the app on their laptop or phone and just create. Creating a new course? Start one on your local machine and with the press of a button publish it to Canvas, Drupal, ELMS:LN, GravCMS or a static website. Want to see what colleagues have shared from their courses? Fork their materials by searching an institution protected repository right from the app or connect to global shared object repositories. Instead of trying to market to faculty and staff what services are available, have people utilize a unified app which connects to the registry of everything available to them for teaching and learning.
+Want to stream video? Upload it to the app and it'll publish it to youtube or the video provider the university supports. Want to create H5P but don't understand hosting? Build it in the app and it'll save to the correct, FERPA valid location. Want to create a slideshow? Drag and drop a series of images which automatically get uploaded to Amazon S3 and then click a UI to "build" your slideshow. Worry about accessibility? HAX will take care of it for you automatically and without the ability to make in-accessible content. Content in HAX is accessible by default due to the game changing technology called <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents</a>
+.
+Let's get faculty and staff out of the business of understanding HTML and instead build materials that allow them to leverage the services the institution provides without increased cognitive load.</p>
+<h2><a id="user-content-2018" class="anchor" aria-hidden href="#2018"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+2018</h2>
+<p>The ELMS:LN team has begun work on such a desktop app called <a href="https://github.com/LRNWebComponents/hax-desktop-app">HAX deskop app</a>
+ which seeks to achieve this vision. Help us make this a reality in 2018 and beyond as we seek to empower faculty and align technology deployments with academic freedom and student curiosity.</p>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Combating the rise of authoritarianism</title>
-    <id>https://btopro.com/combating-the-rise-of-authoritarianism</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <title>Using Webcomponents to unearth the NGDLE</title>
+    <id>https://btopro.com/using-webcomponents-to-unearth-the-ngdle</id>
+    <updated>2019-06-21T11:54:45-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>You may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the mas</summary>
-    <link href="https://btopro.com/combating-the-rise-of-authoritarianism"/>
+    <summary>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look o</summary>
+    <link href="https://btopro.com/using-webcomponents-to-unearth-the-ngdle"/>
     
     <content type="html">
-      <![CDATA[ You may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the mas ]]>
+      <![CDATA[ <p>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look outside the island of edtech first, always asking "What can I bring back to our space to make it better?". 10 years ago, that was Drupal. I evangelized Drupal everywhere I could, wrote hundreds of modules, positively impacted tens of 1000s of sites in and out of education while making it possible for individual developers to leverage open source automation to do awesome things. Today I write to talk about the next thing I want to bring back to our island which I think is <em>the</em>
+ technology to bring about an open ecosystem for the Next Generation Digital Learning Environment (NGDLE).</p>
+<h2><a id="user-content-webcomponents-explained" class="anchor" aria-hidden href="#webcomponents-explained"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Webcomponents explained</h2>
+<p>That technology, is webcomponents. Webcomponents, which you can find out more about on <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents.org</a>
+ is a four part browser standard that fundamentally changes what's possible in web based application development. The important thing to know is that webcomponents allows developers to define <em>custom HTML elements and expresses how the browser handles them</em>
+. So, bringing this back to education: <em>We can use this technology standard in order to build <a href="https://github.com/LRNWebComponents/">pedagogically focused, valid, HTML tags</a>
+</em>
+.</p>
+<h3><a id="user-content-quick-note" class="anchor" aria-hidden href="#quick-note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Quick note</h3>
+<p>This is a standard that all major browser vendors have committed to adopting and largely have, though polyfills are required to get full browser support. It also is leaving the IE6/7/8/9/10 world behind (the good news is, <a href="http://www.telegraph.co.uk/technology/microsoft/12087103/Microsoft-to-kill-off-Internet-Explorer-8-9-and-10.html" rel="nofollow">so has Microsoft</a>
+).</p>
+<h2><a id="user-content-ngdle-backstory" class="anchor" aria-hidden href="#ngdle-backstory"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+NGDLE backstory</h2>
+<p>For <a href="http://btopro.wordpress.com" rel="nofollow">four years</a>
+ I've been building <a href="https://www.elmsln.org/" rel="nofollow">ELMS: Learning Network</a>
+; trying to build a platform that can produce and sustain innovation in educational technology. For about that long, Educause has talked about the concept of NGDLE; what it might look like, what it might do, how to do it. Because it's a big concept to unpack, it's taken a few years to get people all on board with the idea and to agree that it's not an LMS (much like webcomponents was proposed in 2011 yet didn't become a real thing implemented until 2016). Because of the patterns of behaviors and methodology of ELMS:LN I currently consider it the only public NGDLE. For that reason, we're misunderstood but if NGDLE is Lego'ing / app-ifying the LMS; ELMS:LN wants to be the grid-plate. The fundamental base-plate to be plugged into. A routing system to stitch it all together and satisfy the need that no vendor will ever provide: a middleware to pull our ecosystems together.</p>
+<h2><a id="user-content-so-how-do-we-all-lego" class="anchor" aria-hidden href="#so-how-do-we-all-lego"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+So how do we all lego</h2>
+<p>Ok, so back to webcomponents. If we have a gridplate (you could provide your own, I'm not suggesting ELMS:LN be the only one) then we need lego bricks to plug into the board. But what fits that paradigm? Webcomponents allow you to take simple forms of HTML and build it up into increasingly complex elements. Let's look at a simple concept of a custom tag and how it would start to get towards pedagogically centric HTML.</p>
+<p>Just like HTML, custom tags can go into other custom tags. It can also use and retain semantic meaning just like HTML markup. So let's imagine that we had a semantic, custom element that provides the same thing as above. Now we have a tag called <code>paper-button</code>
+ and every time I want to do above, I put that tag. Ok, now let's say I want a comment card. A comment card might be:</p>
+<p>Which I can then use in something bigger and now I have a tag called <a href="https://lrnwebcomponents.github.io/lrnsys-comment/components/lrnsys-comment/demo/#" rel="nofollow">comment-list</a>
+ or <code>discussion-board</code>
+. A discussion-board could be made out of any number of other smaller lego brick tags. Now I wire it up to a backend to save the data and I've got a fully functional HTML element that can be shared and remixed anywhere and so long as someone provides a backend to store it, it's going to work.</p>
+<h2><a id="user-content-critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right" class="anchor" aria-hidden href="#critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Critical concepts that webcomponents provide to NGDLE if we do this right</h2>
+<ol>
+<li>Visual consistency - right now when using multiple systems everyone decrys the cognitive load on students. webcomponents can provide a common visual design language and templated approach to help alleviate this. Everything will feel like it's the same (even if it's not)</li>
+
+<li>Accessibility - Because most accessibility mistakes happen when HTML is created, this allows us to make elements with high accessibility baked in, eliminating the ability for end-users to make that design element inaccessible.</li>
+
+<li>Maintainability - If we were to produce a tag such as <code>lrn-assignment</code>
+ that expressed an assignment's properties visually, we can now swap out the guts of that tag and so long as the properties going into it are the same we don't need to update any existing content produced.</li>
+
+<li>Interoperability - By design, anything that imports the custom element (which is jsut an HTML file supplying the definition of what to do with that tag) will work. These will work in any system because it's the user's browser that's unpacking what it is and the specification itself gives the element definition and encapsulation.</li>
+
+<li>Standards based approach - by using a common methodology for front-end creation, we can standardize the UX and interaction patterns of our users and allow developers to all work together and utilize each other's lego bricks.</li>
+
+<li>Schema without Schema - We can start to wire up our custom elements to be schematized for indexing by search engines or our own advanced crawlers, ensuring there is additional semantic meaning to our content no matter where it lives. This has <a href="http://oerschema.org" rel="nofollow">huge implications for OER</a>
+ for example.</li>
+
+<li>Common Authoring - Because <a href="http://haxtheweb.org" rel="nofollow">we just made this</a>
+ and it works anywhere.</li>
+
+</ol>
+<h2><a id="user-content-anywhere" class="anchor" aria-hidden href="#anywhere"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Anywhere?</h2>
+<p>Yeah, anywhere. HAX is another step towards my vision of NGDLE and the solutions we can craft when we work in this approach. An authoring experience that can pull data from anywhere and assemble it in a standards based format (HTML) which can be deployed anywhere. Imagine having identical authoring and instructional capabilities regardless of where an instructor is assembling a course. Open system? Do it in the open. Closed to the institution? Do it in the LMS. Training exercise or learning module on a random blog? Yeah, with an NGDLE based authoring approach, everything can be a mini-LMS and everything can feed other things to make new Learning experiences.
+In the coming months through demonstration, documentation and seemingly impossible levels of progress (webcomponents + elmsln make application development trivial) I'll begin to show the path towards anyone building an NGDLE. What it provides users, How we are sharing things across institutions and systems, and how we can start to dissolve all learning systems into the NGDLE based worldview to provide better solutions for instructors and more engaging learning spaces online for learners.</p>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Attacking the false Binary (of politics)</title>
-    <id>https://btopro.com/attacking-the-false-binary-of-politics</id>
+    <title>This is not reality</title>
+    <id>https://btopro.com/this-is-not-reality</id>
     <updated>2019-06-21T11:54:46-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league can be</summary>
-    <link href="https://btopro.com/attacking-the-false-binary-of-politics"/>
+    <summary>Chapter 1: The ShowerA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in th</summary>
+    <link href="https://btopro.com/this-is-not-reality"/>
     
     <content type="html">
-      <![CDATA[ I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league can be ]]>
+      <![CDATA[ <h2><a id="user-content-chapter-1-the-shower" class="anchor" aria-hidden href="#chapter-1-the-shower"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 1: The Shower</h2>
+<p>A Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in the pressense of light, synapese fire off randomly. These random firings of "light" dance in the retina of the Developer seeking the answer to a problem. The retinas of the developer see the sparks trickel away as color fades back in.
+The developer pauses.. then does it again, this time focusing on those whips of ocular static fizzle away. The whips form a pattern that looks like a central star that everything is firing out and away, creating their own central stars to fire out and away from. The occular misfires form a fractual image in the minds eye.</p>
+<h2><a id="user-content-chapter-2-the-fractal" class="anchor" aria-hidden href="#chapter-2-the-fractal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 2: The fractal</h2>
+<p>The developer talks through how a fractal could be used in the design of a system. The developer writes down the fractal. The developer sees a video the next day expressing, visually, the concept of divergent ideas spawning ohter divergent ideas, expressed as a series of hexagons firing off at a tangent and forming new hexagons. The developer recreates the pattern on a whiteboard and begins to theorize how this pattern could be used to represent systems.</p>
+<h2><a id="user-content-chapter-3-the-monster-within" class="anchor" aria-hidden href="#chapter-3-the-monster-within"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 3: The monster within</h2>
+<p>The developer explains this to one other person over two hours. The manager is excited but leaves with: "Who else would ever understand how any of this works though." The developer smiles, "I guess I'll just have to build it to find out". The developer works on prototypes, burning through hundreds of hours beyond what normal projects there are to pursue. The idea is like a dagger in his mind. He starts shutting down from the rest of the world and focusing solely on this one idea. This one fractal.</p>
+<h2><a id="user-content-chapter-4-the-friend" class="anchor" aria-hidden href="#chapter-4-the-friend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 4: The friend</h2>
+<p>He explains an early prototype to a friend. The friend is intrigued but doesn't get it or see how it's the fractal. The developer keeps pushing on, convinced there is a fractal there. The developer makes prototype after prototype, pouring through hours of tutorials and producing posts and videos looking for someone to understand what he's claiming to have discovered. No one gets it. Again, and again, over the next 2 years, the developer repeats this cycle, trying desperately to get someone to understand the picture in his mind now layed out as code and directory trees. Symlinks and .gitignores. But no one. Gets it.</p>
+<h2><a id="user-content-chapter-5-the-group" class="anchor" aria-hidden href="#chapter-5-the-group"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 5: The group</h2>
+<p>Until... Someone does. Two people actually. And then from two, three, and three, four; and four, five; and five, a dozen, and dozens. Until the fractal no longer is some obscure concept it's the way of visualizing and attacking the problem. The Developer is no longer a developer, and no longer is a young developer either...</p>
+<h2><a id="user-content-chapter-6-the-team" class="anchor" aria-hidden href="#chapter-6-the-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 6: The team</h2>
+<p>The Developer is part of a team. A Team hell bent on innovation. A Team that doesn't accept the world and the educational system the way it is but dreams of what it can be, what it will be. A Team that believes education is not a pidgenholed public service job but the place that fosters and grows innovations of it's own. A Team believes that noone is better then the sun of it's parts.</p>
+<h2><a id="user-content-chapter-7-the-way-forward" class="anchor" aria-hidden href="#chapter-7-the-way-forward"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 7: The way forward</h2>
+<p>A Team of Developers, instructors, instructional designers, designers, students, management; of mixed talents and backgrounds and abilities, form a new fractal pattern within a traditionally stasis laden system.</p>
+<h2><a id="user-content-chapter-8-the-upside-down" class="anchor" aria-hidden href="#chapter-8-the-upside-down"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 8: The upside down</h2>
+<p>The Developer is no longer alone in the wilderness. The Developer is now part of the Team poised to change education, and the world. Join <em>us</em>
+.</p>
+<iframe src="https://www.elmsln.org/stranger-things/" width="100%" height="500px"></iframe>
+<a href="https://www.elmsln.org/stranger-things/">Stranger Things...</a>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Singularity, Digital Activism, and saving our institutions</title>
-    <id>https://btopro.com/singularity-digital-activism-and-saving-our-institutions</id>
+    <title>Playing for 40</title>
+    <id>https://btopro.com/playing-for-40</id>
     <updated>2019-06-21T11:54:46-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>*This talk was originally posted on elmsln.org. I've removed it there and moved it here because even though it's about Drupal / ELMSLN, it's the first talk I gave that I started speaking my mind and t</summary>
-    <link href="https://btopro.com/singularity-digital-activism-and-saving-our-institutions"/>
+    <summary>A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through impa</summary>
+    <link href="https://btopro.com/playing-for-40"/>
     
     <content type="html">
-      <![CDATA[ *This talk was originally posted on elmsln.org. I've removed it there and moved it here because even though it's about Drupal / ELMSLN, it's the first talk I gave that I started speaking my mind and t ]]>
+      <![CDATA[ <p>A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through imparted knowledge.
+> ..thank you for teaching me more about being a developer than my degree did
+Now, the compliment wasn't meant as a swipe at his education, meerly that "on the job" training was more impactful. As we talked, things came to money and endevours he was undertaking which didn't pay anything currently but gave him something to keep busy.
+I've been thinking about writing for awhile and so my response to him (more or less) is what follows. It's less a reponse for him then it is for you, whoever you are. Many, many years ago I went on a rant about getting off the bench and into the game; And the concept keeps coming back to me as I see the view from 2017 looking back on btopro in 2012 when I wrote that. Oh Bryan, if only I could have told you how the next 5 years would play out.
+I felt it important in talks, blogging, social media, to always reference that this was my life. That I wasn't going away (at least of my own doing) as a way of trying to solidify my commitments to you, the future of education or those currently engaged in it, that these ideas will not dissipate. I will not bow to the monsters of edtech.
+Today, I write to these ends as a means of illustrating the next 5 years. Where I see us going, and how bright the future is.</p>
+<h2><a id="user-content-dr-jonas-salk" class="anchor" aria-hidden href="#dr-jonas-salk"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Dr. Jonas Salk</h2>
+<p>So this is written before it's written about me.
+</p>
+<p>I'm not here for fame.</p>
+<p>I'm not here for treasure.</p>
+<p>I'm not here for ego.</p>
+<p>I'm not here for "work-life balance".</p>
+<p>I'm not here for traditional advancement.</p>
+<p>I'm here to solve problems using the God given talents and fortunate circumstances I find myself in. I recognition, appreciate, and seek to pursue the fullness of the oppurtunity I have before me. It comes to simple truths.</p>
+<p>I <strong>know</strong>
+ <em>we</em>
+ will change the world. In the last year, ELMS:LN has grown from two people with lines to contributing to the platform to five, internally. Externally there is also a developer at another organization with another one starting soon and <strong>multiple contributions coming from random individuals across the globe</strong>
+.</p>
+<p>I'm here to be like Dr. Jonas Salk, a hero of mine, who when asked who owned the patent on the cure said:</p>
+<p></p>
+<h2><a id="user-content-playing-for-40" class="anchor" aria-hidden href="#playing-for-40"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+"playing for 40"</h2>
+<p>> You see every day, every week and every year of my life I'm always 10 years away from being my hero - <a href="https://youtu.be/wD2cVhC-63I?t=3m11s" rel="nofollow">https://youtu.be/wD2cVhC-63I?t=3m11s</a>
+
+Knowing our history, seeing where we're heading and what is soon to come.. I feel it important to share the phrase I've been focusing on to keep myself grounded. I keep telling people I'm "playing for 40". This is definitely a departure in mindset from me 5 years ago who would claim a stake in the ground for success based on today. No. I'm behaving as if we're only half way there...and I always will.
+I love that clip from the video above; I'm always 10 years away from being my hero. Right now, one of my hero's is me at 40. Now, for context, that's 6.5 years away (oi i'm getting old). But it's true. I'm not focusing on today, I'm focusing on where I see us heading in the next 6.5 years as a community and thinking about how we get to that spot.
+Right now, ELMS as a project idea is 10 years old. The Learning Network that we breathe is currently ~4 years old. So if we're only 1/2 way to wher I envision us being... what does that look like? Who do we want to be when we grow up?</p>
+<h2><a id="user-content-dreaming-reality" class="anchor" aria-hidden href="#dreaming-reality"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Dreaming reality</h2>
+<p>Feb 18th, 2024:
+Get every university on earth to have a level, technical playing field. Ideas should be the drivers of the future, not who's knowledge economy is more built up or financial situation better. Level the technical playing field, start to level other inequalities and disparities in education.
+Try to impact every possible learner within or without institutions. Both through formal adoption as well as empowering those with knowledge and information to freely produce, disseminate and mentor with those who are in need of that knowledge.
+I believe that through free solutions that work every and anywhere, we can transform education and through transformation of education we can create a better, more perfect society.</p>
+<h2><a id="user-content-how-do-we-get-there" class="anchor" aria-hidden href="#how-do-we-get-there"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+How do we get there?</h2>
+<p>Together. It is a small part of a much more complex ecosystem (society), but I believe that by creating the highest quality authoring and learner experiences imaginable and requiring those toolsets be open source that we can do our small part in making that dream a reality.</p>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>DDoSA</title>
-    <id>https://btopro.com/ddosa</id>
+    <title>Dood</title>
+    <id>https://btopro.com/dood</id>
     <updated>2019-06-21T11:54:46-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>We live in the age of Citizen agents‏. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have been </summary>
-    <link href="https://btopro.com/ddosa"/>
+    <summary>dudes crying.dude’s crying.dude, is, crying.This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much mor</summary>
+    <link href="https://btopro.com/dood"/>
     
     <content type="html">
-      <![CDATA[ We live in the age of Citizen agents‏. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have been  ]]>
+      <![CDATA[ <p>dudes crying.
+dude’s crying.
+dude, is, crying.
+This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much more then that.
+We went to a <a href="http://borntobebravetour.com/" rel="nofollow">father son thing about fatherhood and raising sons of integrity</a>
+; youth group sorta stuff, a good mix of message, prayer, and fun. The part I wasn't ready for was the label breaking. We had a part where we talked about labels; labels placed on you by others and that you know who you are and you know who God wants you to be and that no one else knows that and can define those labels, those gifts you've been given.</p>
+<h2><a id="user-content-label" class="anchor" aria-hidden href="#label"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Label</h2>
+<p>So for this part, your supposed to ask each other what a label people have given you has been (this is admittedly geared toward like 7-15 years old so that's more like teenager question). So I asked him if anyone's said anything mean to him or called him a name at school and he said no (we had very different school experiences apparently already).
+So I thought and went, ok, well I'm going to label you Smart and wrote smart on a duct tape (sticker) and placed it on him. Without being asked, he grabbed the pen and wrote on my sticker "Loved" with tears in his eyes he put it on me. I asked why he was crying (afterwards) and he told me "sometimes when people say really nice things about me I feel like... I feel so happy that I start to cry".</p>
+<h2><a id="user-content-stars2" class="anchor" aria-hidden href="#stars2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Stars+2</h2>
+<p>After this we sat and listened and watched some more. Heard some good stories about integrity (that cheez wiz has none) and how society will tell you that "being a real man" is about money, power, influence, attractiveness, having a wife; and that that's not what's really important. That it's what's on the inside, the person behind the labels and the "things" and the attractiveness that really matters. It was an uplifting message that we all have a role to play and that it's not what you have on the outside but how you live your life that really matters.
+We had to leave early because of school early in the morning so we waited for intermission and headed out. The building was on top of a hill overlooking the valley and it was very dark up there outside of the parking lot. As we walked toward the car I scooped him up on my shoulders and instead walked toward a pond in the dark. He wanted to know where we were going and I said he'd see when we got there.
+As we got beyond the flood lights of the parking lot I told him to stop and look up. The sky lit up with far more stars then we see at our house.
+“woahhhh there’s so many” he said.
+"You see those?"
+“Yes poppa”
+“I love you more then the stars in this sky”
+“wow… that’s so nice… I love you more then the stars in the sky… plus 2”
+“when I’m older like… 8 and your 54; I’ll still love you cause your the best poppa”
+I've been the happiest wreck I've been probably since he was born.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Generation Uine</title>
+    <id>https://btopro.com/generation-uine</id>
+    <updated>2019-06-21T11:54:46-06:00</updated>
+    <published>2019-01-29T21:53:20-07:00</published>
+    <summary>I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read arti</summary>
+    <link href="https://btopro.com/generation-uine"/>
+    
+    <content type="html">
+      <![CDATA[ <p>I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read articles about Gen Y and come to a similar conclusion: Lazy, entitled, bored, unmotivated.
+<a href="https://www.youtube.com/watch?v=hER0Qp6QJNU" rel="nofollow">Simon Sinek on Millennials</a>
+
+I enjoy his positive spin on the "Millennial problem", that they (well.. we) find ourself coming into work contexts that we don't believe in. I'd like to expand out of just the positive things about Millennials and what we seek into a single word that I've started to hear to describe my own speaking style.</p>
+<h2><a id="user-content-how-do-you-get-away-with-that" class="anchor" aria-hidden href="#how-do-you-get-away-with-that"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+"How do you get away with that?"</h2>
+<p>I've been told since about the 2nd year in the working world (10 years into same career as of this writing) that I can seemingly say anything without retribution. Now obviously this isn't true; but there does seem to be a feeling at times that I'm able to say what people are thinking or address problems directly without emotion or concern for what the consequence.
+This may manifest in simple ways such as challenging the status quo or looking at a problem differently then the team is attacking it and not being affraid to say so. At other times this manifests as dropping the F word in meetings to emphasize how much I disagree with a current direction (not angrily, just to emphacize that we need to consider this seriously).
+So how is this possible? How do I have so many great friends and enemies (probably way more in this column for those that don't get me). It's because of a single word that I think we desperately lack in the world. It's because I'm <em>Genuine</em>
+.</p>
+<h2><a id="user-content-gen-uine" class="anchor" aria-hidden href="#gen-uine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Gen Uine</h2>
+<p>What does Generation Y stand for? Beats me, but I will say that I've noticed we are largely attracted to anything that is genuine. Society is marketing, image management, social studies, over produced vocals, and politicians that run on words like Hope and making things Great; yet still perpetuate the same levels of corruption as previous generations.
+We stop going to churches that speak yet don't provide action or community (for refernece I have a church I love and it's because of action and community). We stop watching things that are heavily produced in favor of organic expression online (I'm a cord cutter). We stop paying attention to anything that we don't believe in (I'm not apathetic, I just know what I can/'t influence and focus). We crave genuine discussion and see it avoided in much of the social sphere in favor of arguments from talking points memos fed to mouth pieces for/against whatever the topic (this is why I'm often misidentified as both Liberal and Conservative because I follow logic and truth, not ideological purity).
+Be, Genuine. Gen Uine is what I'd much rather be known as then a Millennial or Gen Y or even Bryan Ollendyke or btopro. I don't care if you like me, but I never want you to doubt where I stand on a subject. That's Gen Uine; that's "raw" that's real that's what we desperately lack in society and need to embrace if we're ever to fix the problems we face.
+How? Stop worrying about what other people think. Seek out facts, challenge bias. Speak up; for yourself and others. Don't follow the crowd and always question why a group feels the way it does and why you feel that way before joining a group.</p>
+<h3><a id="user-content-be" class="anchor" aria-hidden href="#be"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Be.</h3>
+<p><a href="https://en.oxforddictionaries.com/definition/genuine" rel="nofollow"><em>Gen Uine.</em>
+</a>
+</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Birthday party</title>
+    <id>https://btopro.com/birthday-party</id>
+    <updated>2019-06-21T11:54:46-06:00</updated>
+    <published>2019-01-29T21:53:20-07:00</published>
+    <summary>A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in a</summary>
+    <link href="https://btopro.com/birthday-party"/>
+    
+    <content type="html">
+      <![CDATA[ <p>A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in a population through more relatable technology platforms that connect humanity rather then divide. Improve educational outcomes and experiences, improve everything. Innovate with us.
+<a href="https://twitter.com/elmsln/status/910870809216012288" rel="nofollow">https://twitter.com/elmsln/status/910870809216012288</a>
+</p>
+<h2><a id="user-content-faith" class="anchor" aria-hidden href="#faith"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Faith</h2>
+<p>It's not here yet, but I wanted to write about the birthday of something very important in my life. An idea. An idea planted like a seed in my historical timeline to ever alter the course of my small history. That idea was originally called ELMS.
+Before the network (ELMS: Learning Network), before 1 million + downloads of code produced by the project, 100s of reusable modules, the automated deployments of today and the architecture we have... there was a document, a white board, and a mission statement. In the basement of an dormatory at Penn State, I started my first and only career; building instructional technology.
+The document in question was to put into writing the ideas we had on a whiteboard of the applications we needed to build. Nothing existed that did what we needed, and online education was still an infant. But in this basement, we drafted the statement that would unknowingly shape my future.
+This is from the document with a timestamp of <em>09/20/2007</em>
+:
+>ELMS stands for E-Learning Management System and is an open-source effort developed at Penn State’s e-Learning Institute. ELMS looks to make courses easier for staff to develop, deploy, and manage through a simple drag-and-drop method of content creation and organization. <em>The overall goal of ELMS is to improve the student’s experience with e-learning courses by allowing educators to be more creative and flexible with the way their material is presented online</em>
+. (emphasis added)</p>
+<h2><a id="user-content-fate" class="anchor" aria-hidden href="#fate"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Fate</h2>
+<p>It would only make sense that I rediscovered this statement in 2017 shortly before the 10 year birthday of the idea of the project. This isn't the birthday of ELMS:LN (that's around 4 years old) but it's our history. In those days we were arguing to exist, to invest and build better options then existed at the time (which look childish by today). It was not about expansion, it was about survival.
+Today, in the expansion season of the project, we just scheduled interviews for a new hire with direct ties to the project. Another developer was hired recently a few streets over, interviews are being conducted for another who will contribute, and a 3rd party has hired a developer who has been active in contributions.
+Our interviews are set to take place, of all dates, <em>09/20/2017</em>
+. If only that little whiteboard meeting and word doc could see where we were now. The types of projects we work on, the things we take for granted now, the pace at which we can roll out prototypes and bring ideas to fruition. The increasing gains in areas of UX and accessibility of our applications (plural now since those early days).</p>
+<h2><a id="user-content-futures" class="anchor" aria-hidden href="#futures"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Futures</h2>
+<p>Where we go from here, into the next 10 years of ELMS, as a learning network, I'll try to hold off on spilling. I know where we're going. I know the power of what we're building, the automation, the decentralized publishing models, the collapse of inefficencies, the deeper connections we can weave in humanity. We're going places far beyond just the notion of placing media on a screen and helping to manage it. We seek, eat, sleep, and breath transformation.
+The two lead developers (me and @hey__mp), as well as those we direct, have completely overhauled and retooled our skillset in order to launch a new application in a bleeding edge framework (Polymer). Riding on top of an increasingly headless Drupal, we are pushing increasingly towards a highly polished, 1-page app style experience that's approachable and able to orcestrate the multi-domain monster.
+Why is this important? I just said we. We retooled. I'm increasingly not the only voice in the destiny of our project...
+our.. project.
+Yes, I quite like the sound of that. The direction for our future is being set by more and more people buying into the pattern, the vision, the idea I disrupted myself with.
+We don't think we can influence and transform the education technology and outcomes of tomorrow: we know we can.
+Happy Birthday little tree; how beautiful your branches are becoming this season. And thank you for giving me purpose in my work.</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -607,103 +1177,145 @@ As the "Apple of Eden
     <link href="https://btopro.com/occutea-wallparty"/>
     
     <content type="html">
-      <![CDATA[ I, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.I am an observer of politics that tries to "play the game" a bit differently. There are tells a ]]>
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-i">I</span>, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.</p>
+<p>I am an observer of politics that tries to "play the game" a bit differently. There are tells at times to my "leanings" but I try very hard to make it difficult to understand how I view the world or who I stand with. As a result, I follow many people on both "sides" of many issues. I follow people of many parties, view points, and affiliations in order to better understand (140 characters at a time mind you) how they try to draw support for their truth being more correct then others. In doing this, I've identified a common thread that should form the 3rd major political party, but hasn't (yet) because the other two require us all to be divided (it sells better on the news).</p>
+<p>Let's abstract potentially negative messaging and viewpoints; what common threads exist between the two "extremist" (media deemed, not my own) political movements that make up both "major" political parties? Because if we study and understand the concerns of the "extremists" maybe we can figure out how to form a new camp that encompasses both.</p>
+<p>Two candidates right now are offshoots of grassroots activism the last decade.</p>
+<h3>Occupy</h3>
+<p>Bernie Sanders probably immediately comes to mind if you follow or believe in this political movement. It's largely (but not exclusively) thought of as:</p>
+<ul><li>Banks are corrupt</li>
+<li>Tax policy isn't tipped in the favor of the little guy</li>
+<li>The system is rigged so the rich keep getting richer</li>
+<li>Minorities are especially excluded and abused by this system of control</li>
+<li>We are in endless wars we have no business being in</li>
+<li>Politics needs reform to prevent corruption</li>
+</ul>
+<p>In this world view, Banks and The Rich are largely thought of as the source of corruption so we need government to be brought back into control of the people in order to eliminate the corruption.</p>
+<h3>Tea</h3>
+<p>There are several Republican figures that come to mind when the Tea Party is evoked but based on the principles of less government involvement, lower taxes and anti-corruption I'd have to say Ted Cruz is the spokesperson. Bullet points here:</p>
+<ul><li>Government is too big and corrupt (as a result)</li>
+<li>Taxes are too high (as a result of too big bureaucracy)</li>
+<li>The system is rigged, political elites keep getting richer</li>
+<li>Everyone is abused by this system</li>
+<li>Politics needs reform to prevent corruption</li>
+<li>In this world view, Government and hierarchies are largely to blame, not them in and of themselves, but because of the types of people that find their way into these hierarchies. For example, a complex tax code leads to it being written in a way to benefit some and not others.</li>
+</ul>
+<p>I largely ignore social issues in analysis and selection on candidates. It's weird to say but I've seen that social change is enacted from pressures from society as a whole. As a result, the rising up of people that are passionate about change is how to enact social change.</p>
+<h3>This is 2016</h3>
+<p>With the internet, with technology, with all our capabilities to spread positivity, crowd fund and disseminate information; how are we still here? A two party system with media coverage and collusion that leads us to largely all unhappy. We're allowing our media and social media to keep us apart. What can we agree on even in these two extreme propositions of Occupy and Tea Party movements.</p>
+<h3>Corruption is king</h3>
+<p>How can we reduce corruption? Both sides identify this but then have different views on Taxes (we aren't doing enough vs we're doing too much). This will be my tell as a classic liberal, but we need less of a system in order to have less corruption. This doesn't mean we don't need a system but we do need a less complex system (taxes and in general); and here's why.</p>
+<p>If you are a developer you may have heard of "legacy code" and the need to refactor code. Unlike other resources, having more code does not equate to having more effective code. Well friends, we're running on legacy code that is in desperate need of refactorring. We've got a great operating system, but we've been adding way too much functionality and it's bringing the whole thing down. We don't need to throw away everything we've ever done, but we do need to take those concepts and completely rewrite them for the modern era.</p>
+<p>Yes, Government needs it's Drupal 8 moment. Is the end product "the same"? In some ways yes. We still make a CMS, it still makes great websites and it's still responsive. But we're rooting out all the bloat that's weighing our awesome product down. We're doing things smarter, not always differently.</p>
+<p>Corruption and governmental refactoring needs to be the focus of a unified movement between Occupy and Tea people. Quit arguing over social policy, quit arguing your party or person vs their party or person. Look beyond parties, look at what we're doing to our country and unite to pull us back from the edge (where edge is Fascism, rioting because of corruption, further deepening of racial divides). Quit pointing the finger and start reaching out with love. Lay down your ideologies and realize this: We are all not that different, we all want the corruption to end. Seek out those that have this message. One says we can have less corruption through regulation while the other proposes solutions that involve tearing down parts of the institution to reduce corruption though there being less of it.</p>
+<p>Personally, I'm for the refactor (because where are these more perfect Angels) but align on anti-corruption and we will solve our problems.</p>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Efficiency as Activism</title>
-    <id>https://btopro.com/efficiency-as-activism</id>
+    <title>End of Summer</title>
+    <id>https://btopro.com/end-of-summer</id>
     <updated>2019-06-21T11:54:46-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Efficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with in</summary>
-    <link href="https://btopro.com/efficiency-as-activism"/>
+    <summary>The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thing</summary>
+    <link href="https://btopro.com/end-of-summer"/>
     
     <content type="html">
-      <![CDATA[ Efficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with in ]]>
+      <![CDATA[ <p>The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure things are ready to go for Fall in the semester. The time to finally take a moment, a quiet moment, and reflect on everything you've hoped to see.</p>
+<p>I saw my boys grow this summer, a lot, and I'm happy to have gotten to be there. I finally started to slow down. Not in the slacking way, but in the focusing energies on the things that I need to, when I need to. I stopped working or thinking about work for those precious moments when I got to see my son realize that the world is not the constraints of the city you grow up in.</p>
+<p>When we climbed rocks in the woods, and his face lighting up when I said "Let's go climb that".. "That? We can climb that? We're allowed?!"</p>
+<p>The joy in his face, the thrill and "danger" of climbing some small boulders in the Poconos. The memories that I see my son making that were my memories, now, together we share them. It's a wonderful feeling, living in a shifted reality. Experiencing things from the perspective of my father years back, getting to see the pure joy and excitement in experiencing the little things.</p>
+<p>The first roller coaster, the first water ride, the first experience revealed going some place new, and the fun associated with not knowing what's around the bend of the twisty carpet slide. It brings me great joy seeing their joy, and it reminds me even more then the nagging in my brain of a few short words: Stop. Breathe. See.</p>
+<h2><a id="user-content-stop" class="anchor" aria-hidden href="#stop"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Stop.</h2>
+<p>Stop focusing on the things that don't make their world better. Stop ingesting worthless media, social or otherwise. Stop living recklessly, alcohol or late nights working or otherwise. Stop doing anything that takes away from the small moments we get to share together when the devices go down and the emotions shine out.</p>
+<h2><a id="user-content-breathe" class="anchor" aria-hidden href="#breathe"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Breathe.</h2>
+<p>It's all gone quickly. Everything. The stresses will pass, and often aren't warrented anyway. Take a deep breathe and let reality seep in and the concerns of what may happen, might be happening or could happen dissolve away in the flow of deeper oxygen. These moments, each and every one are a gift. Embrace them, and you will flourish.</p>
+<h2><a id="user-content-see" class="anchor" aria-hidden href="#see"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+See.</h2>
+<p>See what's right before your eyes. See your family growing up, maturing, phases and seasons of life dancing before your eyes. See the amazing people you have in your life. Your family, friends, neighbors. See the world you're constructing for your children and know that one day, through pictures, they'll look back during their recognition of seasons and realize they want to give it to their children too.</p>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Rate of perception</title>
-    <id>https://btopro.com/rate-of-perception</id>
+    <title>Combating the rise of authoritarianism</title>
+    <id>https://btopro.com/combating-the-rise-of-authoritarianism</id>
     <updated>2019-06-21T11:54:46-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I remember in high school talking about biology and as a test, you have to poke your arm with a small pin (lightly) and report when you can tell the difference between where it is and where your brain</summary>
-    <link href="https://btopro.com/rate-of-perception"/>
+    <summary>You may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the mas</summary>
+    <link href="https://btopro.com/combating-the-rise-of-authoritarianism"/>
     
     <content type="html">
-      <![CDATA[ I remember in high school talking about biology and as a test, you have to poke your arm with a small pin (lightly) and report when you can tell the difference between where it is and where your brain ]]>
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-y">Y</span>ou may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the masses, only ingesting media in sound bytes, into openly abandoning their typical view points simply to support their team. To the general depression of the global population, the solutions projected by both of these "major" parties suggest that people from afar will solve all your problems.</p>
+<h3>Magic</h3>
+<p>Ignoring the obviousness that no one far away can instantly improve your own situation seems to be something the masses are embracing as if it is fact. Regardless of your feelings about what governments need to do, no one person can magically make things safe, put food on your table, etc. At least not in a timely manner. So why are people in open revolt of logic in favor of a strong-(wo)man to solve problems for them? A corrector, a protector, a demigod. Looking beyond notions of creator and general godlessness, giving rise to humans taking the place of gods in many American homes, we must ask; what are people in worship of?</p>
+<h3>Worship</h3>
+<p>The American population as been worshiping stuff for a very long time. When presidents' declare the most patriotic thing to do is to go to the mall, regardless of the populous adherence, there is a problem. We worship stuff and things, and have for some time. Hyper consumerism and "throw away" culture have only accelerated with the advent of "cheap" personal computing and information systems. We now not only expect to have stuff, we expect that stuff to work faster, cheaper, be more portable, and always accessible to us.</p>
+<h3>Addiction</h3>
+<p>Worship of things has given way to technological addiction. It's become too easy to look at your phone or computer screen rather then the humans you are "talking to" in the room. As you interface more with humans through technology mediated methods, you expect and rely on your things to provide the deep human connection you are missing. All the while, you are missing out on what's going on around you. You've allowed engagement and control over your life to be trumped by the medium you are engaging with.</p>
+<h3>Control</h3>
+<p>Why has this happened? People expecting things instantly from the global avatar-ization of humanity, I argue, has given rise to the demand for strong-(wo)men. <em><strong>We want someone to just go fix it, we want someone else to deal with it, because we're already delegating much of our human existence to our stuff in the form of information technology.</strong>
+</em>
+ When I tweet an emoji of a pizza to Domino's pizza, I have eliminated all human connections from the process and just expect, <strong><em>no</em>
+</strong>
+, <em>demand</em>
+ a pizza show up and that money leave my bank account (or debt) to accomplish this fact. I, as a consumer have been lead to believe that it is fundamentally better to not engage with humans (in this case for food) and instead rely on my things to bring me things.</p>
+<h3>Re-humanizing through deployment</h3>
+<p>How can we bring harmony to this disharmonious social context? How did we reach the point that we expect, no, demand satisfaction and that someone else will just deal with it, without concern for others as humans (just as others). We must re-humanize society in all ways we can. Now, this is not to suggest that information technology is all the blame or that it can fix it (people were on trains decades ago staring at newspapers instead of talking to each other and the world got along just fine...ish). But, technology CAN be implemented in ways that encourage and foster human connections. I don't mean Face Time (this is still owned by Apple and you have no control over it or the data), I mean through redecentralization of overly centralized spaces.</p>
+<h3>Wait for green</h3>
+<p>People like to try and align with the path presented before them. It's the normalcy bias. We see people walking a certain way, we want to walk a certain way. We're not all sheep, but there is an inherit human flaw that wants to go along to get along (for many people at some level). So when you see a red light, most people stop. Why? Because of "the law". Is the "the law" behind you, in front of you, over you at all times? No. But yet the social awareness of "the rules" drives us to want to do what's best for everyone (including us) and wait for green.</p>
+<p>Well what if we remade roads? What if we fundamentally transformed them; created on-ramps for our flying cars to launch off of and then eventually demolished the original roads and planted trees.</p>
+<h3>Radical digital transformation</h3>
+<p>We can achieve this through structured (or rather largely unstructured) deployment of information technology. Through enough chain automation, we can effectively render modern technology unusable by comparison. If free, hyper-connected, hyper-flexible, liberty driven system deployment methodologies are used; could we not start to drive social change where people demand this level of flexibility in all things?</p>
+<p>Part of the dismay with the political system we find ourselves in today is that the internet makes everything too easy. Too instant. Too awesome and too many possibilities; it's blinding at some level. It's the radical transparency of binary data that's lead us to become disenfranchised with traditional forms of governance. Organizations are "being disrupted" aka collapsed through radical automation / usability / "free technologies" (ok so Uber, Hulu, etc, aren't free but relative to traditional models in these spaces they might as well be) all the time.</p>
+<h3>Libertarian ideal driven technology</h3>
+<p>We need to create more hubs, more voices, more flexibility, more "company-less" spaces. And no, I don't mean an abandoning of capitalism; I mean the world needs to think more like email (protocol) and less like twitter (company, with apps that connect you to protocol). We need systems that operate more like living things if we want people to work, act, and behave more like humans and less like machines. By humanizing our technology deployments, we can deploy a better social fabric, and hopefully, together, in some small way, defeat the calls for authoritarian models and behaviors in favor of truly liberating ones.</p>
+<p> </p>
+<p> </p>
+ ]]>
     </content>
   </entry>
   <entry>
-    <title>Ministry of information</title>
-    <id>https://btopro.com/ministry-of-information</id>
+    <title>Attacking the false Binary (of politics)</title>
+    <id>https://btopro.com/attacking-the-false-binary-of-politics</id>
     <updated>2019-06-21T11:54:46-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>Are we witness to 1940s style crowd manipulation through propaganda without realizing it? Have you watched the news lately? Does it go by a single day without having a "Get social" or "#HotToday" kind</summary>
-    <link href="https://btopro.com/ministry-of-information"/>
+    <summary>I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league can be</summary>
+    <link href="https://btopro.com/attacking-the-false-binary-of-politics"/>
     
     <content type="html">
-      <![CDATA[ Are we witness to 1940s style crowd manipulation through propaganda without realizing it? Have you watched the news lately? Does it go by a single day without having a "Get social" or "#HotToday" kind ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Organic Deployment Architecture</title>
-    <id>https://btopro.com/organic-deployment-architecture</id>
-    <updated>2019-06-21T11:54:47-06:00</updated>
-    <published>2015-12-24T18:40:40-07:00</published>
-    <summary>Decentralized deployment architectureAll deployments currently imply a central authority, whether a company or developer running some kind of master system with control over the rest of the network.</summary>
-    <link href="https://btopro.com/organic-deployment-architecture"/>
-    
-    <content type="html">
-      <![CDATA[ Decentralized deployment architectureAll deployments currently imply a central authority, whether a company or developer running some kind of master system with control over the rest of the network. ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Legacy of Human Hierarchy</title>
-    <id>https://btopro.com/legacy-of-human-hierarchy</id>
-    <updated>2019-06-21T11:54:47-06:00</updated>
-    <published>2015-12-11T18:40:40-07:00</published>
-    <summary>The hierarchy of humanity is changing.Sorry, let me rephrase.. The hierarchy of humanity must change in order to survive and remain relevant. Because the way in which we've accessed information h</summary>
-    <link href="https://btopro.com/legacy-of-human-hierarchy"/>
-    
-    <content type="html">
-      <![CDATA[ The hierarchy of humanity is changing.Sorry, let me rephrase.. The hierarchy of humanity must change in order to survive and remain relevant. Because the way in which we've accessed information h ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Transform Control</title>
-    <id>https://btopro.com/transform-control</id>
-    <updated>2019-06-21T11:54:47-06:00</updated>
-    <published>2015-12-11T18:40:40-07:00</published>
-    <summary>The old addage of IT managers of the 90's was that technology didn't matter. As in, it didn't matter which technology you choose, just that you align with one and execute. This mindset was wrought w</summary>
-    <link href="https://btopro.com/transform-control"/>
-    
-    <content type="html">
-      <![CDATA[ The old addage of IT managers of the 90's was that technology didn't matter. As in, it didn't matter which technology you choose, just that you align with one and execute. This mindset was wrought w ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Transforming industry through information altruism</title>
-    <id>https://btopro.com/transforming-industry-through-information-altruism</id>
-    <updated>2019-06-21T11:54:47-06:00</updated>
-    <published>2011-01-20T18:40:40-07:00</published>
-    <summary>This posting is a refinement of a concept that I presented earlier: Using OSS to disrupt industries.Through the title, I am suggesting that there are negative network-effects in the form of social </summary>
-    <link href="https://btopro.com/transforming-industry-through-information-altruism"/>
-    
-    <content type="html">
-      <![CDATA[ This posting is a refinement of a concept that I presented earlier: Using OSS to disrupt industries.Through the title, I am suggesting that there are negative network-effects in the form of social  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Sustainable Systems Development: A moral issue</title>
-    <id>https://btopro.com/sustainable-systems-development-a-moral-issue</id>
-    <updated>2019-06-21T11:54:47-06:00</updated>
-    <published>2010-06-25T19:40:40-06:00</published>
-    <summary>Sustainability has been a "hot" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of </summary>
-    <link href="https://btopro.com/sustainable-systems-development-a-moral-issue"/>
-    
-    <content type="html">
-      <![CDATA[ Sustainability has been a "hot" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of  ]]>
+      <![CDATA[ <p><span><span>I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league can be. But what is absolutely diverse though is age and politics. The older guys will often razz each other with running conversations about politics, continuing discussions from Facebook, and (oddly) often times relatively rational (if you've been in a locker room, this is never to be expected).</span></span></p>
+<p><span><span>When someone (jokingly said) "Hilary is so terrible I'd almost vote for Drumpf...{razzing} I SAID ALMOST" I stopped and gained insight into the flawed logic of much of American politics (#thanksmedia). To this discussion I said "vomit" (the group is aware I'm pretty outspoken politically). Someone then said "Well what if it was reversed" and I said "Double-vomit". Some people laughed and said they'd write in Mickey mouse, etc.</span></span></p>
+<h2><span>It's a Binary decision</span></h2>
+<p><span><span>Then the phrase came up "Well, it's a binary decision" and for the first time in a long time... I kept a conversation going about politics when I'd honestly rather just go play hockey. "No. it's not, or if it is it's Binary between 2 terrible options and 1 option that isn't that" (Eloquent I know). This was met with other small laughs and a few discussing that they can't vote 3rd party because they've done that before and nothing happens. The heard mentality, the need to vote one way the media tells you to or the other, is exactly why we are in the current mess we are.</span></span></p>
+<h2><span>There are no good options</span></h2>
+<p><span><span>This simply isn't true. As I've written about previously in the unity of thought that exists between Tea Party and Occupy Wall street people, the two party system perpetuated by media and advertising dollars is the problem and a reality TV "star" parading under the banner of one of those (while being blatantly racist to play upon people's fears) is not going to solve anything.</span></span></p>
+<h2><span>To my Conservative friends</span></h2>
+<p><span>To my Conservative friends, </span><span><span>there is a far better option and you are being played by the same media that your false choice is the only choice (at the same time decrying how corrupt / worthless the media is). You are being played by a media and political class that insist you either are for (the evil) Hilary (<em>HHHHEERRRRRR</em>
+
+) or not. You claim to believe in small government (HA), being socially conservative (HA), open minded, having the moral high ground, better on the economy, better on tax policy, better on local control; and yet you will claim that <em>this</em>
+
+ is your best option. "Sad".</span></span></p>
+<h2><span>To my Socialist friends.</span></h2>
+<p><span><span>You "believe" in what you claim to believe on the basis of social justice, criminal justice reform, the need for fairness, anti-corruption and getting wall street out of the business of the people. You march in the streets, you demand change, and yet somehow here you are even after "change" sweeps into power, still here, on the streets, powerless and more divided and broken then before. Almost 50% of you latched onto someone who said you could get free stuff in this country if we just changed everything, if we just taxed more, if we just had Wallstreet less, etc. And yet you lay down your principles that you "fought" for and spoke out about for months to support someone who is clearly above the law and funded heavily by the same people you claim to need to get out of politics.</span></span></p>
+<h2><span>Addiction</span></h2>
+<p><span><span>I love you, I care about you both (all of you actually) and I wish you could get out of your own way. I wish you could embrace each other and see the goodness in each but sadly, you are too busy worrying about "winning" (which isn't a thing, this isn't a sports league, there is no concept of win eternally nor in your life time, there's always <em>more</em>
+
+). But you both are arguing with each other instead of realizing that you can unite against a common enemy: Corruption, Greed, authoritarianism.</span></span></p>
+<p><span><span>Another way out</span></span></p>
+<p><span><span>There is another way out, which has a foothold in American politics, which is socially minded, which is fiscally minded, which is on the ballot in all 50 states, which has a base to its movement and a message. It's too small (relatively speaking) to be backed in the same way by the same corrupt institutions that have brought us to this point. It is largely ignored by the media because it doesn't see the same click throughs as the corrupt two parties we see today. I'm speaking of course about Libertarianism and the Libertarian party.</span></span></p>
+<p><span><span>Historically I am a libertarian leaning conservative, but seeing what conservatives supposedly support and stand for, I increasingly identify as only Libertarian. It is the way out. What policies do they represent? Minimal government involvement in the lives of people. They are counter to the establishment of each political party because they voice that the government and structure of government is the problem. Not that we need no government, that we need an emphasis on people and individual liberty. Live and let live.</span></span></p>
+<h2><span>Google it</span></h2>
+<p><span><span>What policies specifically? You can use Google, I don't need to spell that out for you. But when someone asked me about such a question I answered with "does it really matter? You currently have the same authoritarian 1 or authoritarian 2 option." Some binary decision that is.</span></span></p>
+<p><span><span><span style="line-height: 20px;">Look, search, seek out information, especially beyond what you are comfortable with. In the age of the digital revolution, it's insane that we only have two options to set the course for society. To all options though, regardless of who that is; instead of asking do I agree with these policies, ask yourself who will make</span><span style="line-height: 20px;"> you more free? What points in the direction of the internet, more free, more choice, more speech, more options, more ideas? Then you'll have your answer of who to vote for, rather then simply who to vote against. We deserve better then this, make it so.</span></span></span></p>
+ ]]>
     </content>
   </entry>
 </feed>
