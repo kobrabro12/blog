@@ -160,6 +160,19 @@
             }
         },
         {
+            "id": "item-006601d9-4063-4bd9-ba32-3e959b631d31",
+            "indent": 0,
+            "location": "pages\/a-new-day\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "A new day",
+            "description": "",
+            "metadata": {
+                "created": 1563756349,
+                "updated": 1563756349
+            }
+        },
+        {
             "id": "item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc",
             "indent": 0,
             "location": "pages\/stand-against-ocean\/index.html",
