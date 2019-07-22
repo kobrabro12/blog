@@ -9,9 +9,21 @@
   </author>
   <id>https://btopro.com/feed</id>
   <entry>
+    <title>A new day</title>
+    <id>https://btopro.com/a-new-day</id>
+    <updated>2019-07-21T18:45:55-06:00</updated>
+    <published>2019-07-21T18:45:49-06:00</published>
+    <summary></summary>
+    <link href="https://btopro.com/a-new-day"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Open Community Pedagogy</title>
     <id>https://btopro.com/open-community-pedagogy</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:55-06:00</updated>
     <published>2019-06-21T09:07:22-06:00</published>
     <summary>  This instructional designer didn't need to know HTML in order to convey an instructional concept.  Your right! No one should need to understand HTML in order to contribute meaningful knowledge to t</summary>
     <link href="https://btopro.com/open-community-pedagogy"/>
@@ -50,7 +62,7 @@
   <entry>
     <title>Stand against the ocean</title>
     <id>https://btopro.com/stand-against-ocean</id>
-    <updated>2019-07-11T21:08:56-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-06-19T14:40:55-06:00</published>
     <summary>The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be</summary>
     <link href="https://btopro.com/stand-against-ocean"/>
@@ -74,7 +86,7 @@
   <entry>
     <title>EdTechJoker</title>
     <id>https://btopro.com/ed-tech-joker</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-06-12T20:14:21-06:00</published>
     <summary>Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a</summary>
     <link href="https://btopro.com/ed-tech-joker"/>
@@ -107,7 +119,7 @@
   <entry>
     <title>Technical weapons</title>
     <id>https://btopro.com/technical-weapons</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-06-05T20:51:23-06:00</published>
     <summary>Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl</summary>
     <link href="https://btopro.com/technical-weapons"/>
@@ -207,7 +219,7 @@
   <entry>
     <title>I made a thing</title>
     <id>https://btopro.com/i-made-a-thing</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-05-31T15:01:29-06:00</published>
     <summary>Hey hey, ho ho. Welcome. To the revolution!!!!!Come say hi at Apereo 2019 or Domains 2019.</summary>
     <link href="https://btopro.com/i-made-a-thing"/>
@@ -226,7 +238,7 @@
   <entry>
     <title>THE web components high performance video</title>
     <id>https://btopro.com/lighthouse-100</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-05-24T08:56:35-06:00</published>
     <summary>I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someo</summary>
     <link href="https://btopro.com/lighthouse-100"/>
@@ -266,7 +278,7 @@
   <entry>
     <title>Ocean</title>
     <id>https://btopro.com/ocean-so-deep</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-05-03T12:21:19-06:00</published>
     <summary>Now and then, life feels like your adrift in an ocean of work on a sinking ship. There's water so choppy that it feels like you can't see land off in the distance let alone dream of swimming there. Th</summary>
     <link href="https://btopro.com/ocean-so-deep"/>
@@ -322,7 +334,7 @@ to date. I tend to say we have 168 or so elements but that's repos.</p>
   <entry>
     <title>Drunken UX interview</title>
     <id>https://btopro.com/hax-the-dux</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-04-01T11:47:45-06:00</published>
     <summary>I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb</summary>
     <link href="https://btopro.com/hax-the-dux"/>
@@ -439,7 +451,7 @@ to date. I tend to say we have 168 or so elements but that's repos.</p>
   <entry>
     <title>All screens have rights</title>
     <id>https://btopro.com/all-screen-rights</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:57-06:00</updated>
     <published>2019-03-28T09:24:37-06:00</published>
     <summary>The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned</summary>
     <link href="https://btopro.com/all-screen-rights"/>
@@ -593,7 +605,7 @@ to date. I tend to say we have 168 or so elements but that's repos.</p>
   <entry>
     <title>Reclaim the web</title>
     <id>https://btopro.com/reclaim-the-web</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
+    <updated>2019-07-21T18:45:57-06:00</updated>
     <published>2019-03-25T08:36:23-06:00</published>
     <summary>Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p</summary>
     <link href="https://btopro.com/reclaim-the-web"/>
@@ -632,7 +644,7 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
   <entry>
     <title>HAXcms Theme layer Code Review</title>
     <id>https://btopro.com/haxcms-theme-layer</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
+    <updated>2019-07-21T18:45:57-06:00</updated>
     <published>2019-03-01T13:13:35-07:00</published>
     <summary>Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s</summary>
     <link href="https://btopro.com/haxcms-theme-layer"/>
@@ -663,7 +675,7 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
   <entry>
     <title>ELMS:LN Code review series Part 1</title>
     <id>https://btopro.com/hangouts-elmsln</id>
-    <updated>2019-06-21T11:54:44-06:00</updated>
+    <updated>2019-07-21T18:45:57-06:00</updated>
     <published>2019-03-01T09:37:33-07:00</published>
     <summary>  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this </summary>
     <link href="https://btopro.com/hangouts-elmsln"/>
@@ -721,7 +733,7 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
   <entry>
     <title>Fortify</title>
     <id>https://btopro.com/fortify</id>
-    <updated>2019-06-21T11:54:43-06:00</updated>
+    <updated>2019-07-21T18:45:56-06:00</updated>
     <published>2019-02-21T21:36:07-07:00</published>
     <summary>"FORT. NIGHT."They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort</summary>
     <link href="https://btopro.com/fortify"/>
@@ -765,7 +777,7 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
   <entry>
     <title>[Alt] + {{reality}}</title>
     <id>https://btopro.com/alt-reality</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:01-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>Our construction of reality is not the only one. This has always been the case, but I often fall victim to the assumption that because we now have access to more information that we will congeal to a</summary>
     <link href="https://btopro.com/alt-reality"/>
@@ -814,7 +826,7 @@ Engage</h3>
   <entry>
     <title>Creating the decentralized instructional experience app</title>
     <id>https://btopro.com/creating-the-decentralized-instructional-experience-app</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
+    <updated>2019-07-21T18:46:00-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the log</summary>
     <link href="https://btopro.com/creating-the-decentralized-instructional-experience-app"/>
@@ -860,7 +872,7 @@ Let's get faculty and staff out of the business of understanding HTML and instea
   <entry>
     <title>Using Webcomponents to unearth the NGDLE</title>
     <id>https://btopro.com/using-webcomponents-to-unearth-the-ngdle</id>
-    <updated>2019-06-21T11:54:45-06:00</updated>
+    <updated>2019-07-21T18:46:00-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look o</summary>
     <link href="https://btopro.com/using-webcomponents-to-unearth-the-ngdle"/>
@@ -935,7 +947,7 @@ In the coming months through demonstration, documentation and seemingly impossib
   <entry>
     <title>This is not reality</title>
     <id>https://btopro.com/this-is-not-reality</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:00-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>Chapter 1: The ShowerA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in th</summary>
     <link href="https://btopro.com/this-is-not-reality"/>
@@ -991,7 +1003,7 @@ Chapter 8: The upside down</h2>
   <entry>
     <title>Playing for 40</title>
     <id>https://btopro.com/playing-for-40</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:00-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through impa</summary>
     <link href="https://btopro.com/playing-for-40"/>
@@ -1049,7 +1061,7 @@ How do we get there?</h2>
   <entry>
     <title>Dood</title>
     <id>https://btopro.com/dood</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:01-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>dudes crying.dude’s crying.dude, is, crying.This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much mor</summary>
     <link href="https://btopro.com/dood"/>
@@ -1087,7 +1099,7 @@ I've been the happiest wreck I've been probably since he was born.</p>
   <entry>
     <title>Generation Uine</title>
     <id>https://btopro.com/generation-uine</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:01-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read arti</summary>
     <link href="https://btopro.com/generation-uine"/>
@@ -1126,7 +1138,7 @@ Be.</h3>
   <entry>
     <title>Birthday party</title>
     <id>https://btopro.com/birthday-party</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:01-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in a</summary>
     <link href="https://btopro.com/birthday-party"/>
@@ -1169,53 +1181,33 @@ Happy Birthday little tree; how beautiful your branches are becoming this season
     </content>
   </entry>
   <entry>
-    <title>OccuTea WallParty</title>
-    <id>https://btopro.com/occutea-wallparty</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <title>Efficiency as Activism</title>
+    <id>https://btopro.com/efficiency-as-activism</id>
+    <updated>2019-07-21T18:46:02-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.I am an observer of politics that tries to "play the game" a bit differently. There are tells a</summary>
-    <link href="https://btopro.com/occutea-wallparty"/>
+    <summary>Efficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with in</summary>
+    <link href="https://btopro.com/efficiency-as-activism"/>
     
     <content type="html">
-      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-i">I</span>, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.</p>
-<p>I am an observer of politics that tries to "play the game" a bit differently. There are tells at times to my "leanings" but I try very hard to make it difficult to understand how I view the world or who I stand with. As a result, I follow many people on both "sides" of many issues. I follow people of many parties, view points, and affiliations in order to better understand (140 characters at a time mind you) how they try to draw support for their truth being more correct then others. In doing this, I've identified a common thread that should form the 3rd major political party, but hasn't (yet) because the other two require us all to be divided (it sells better on the news).</p>
-<p>Let's abstract potentially negative messaging and viewpoints; what common threads exist between the two "extremist" (media deemed, not my own) political movements that make up both "major" political parties? Because if we study and understand the concerns of the "extremists" maybe we can figure out how to form a new camp that encompasses both.</p>
-<p>Two candidates right now are offshoots of grassroots activism the last decade.</p>
-<h3>Occupy</h3>
-<p>Bernie Sanders probably immediately comes to mind if you follow or believe in this political movement. It's largely (but not exclusively) thought of as:</p>
-<ul><li>Banks are corrupt</li>
-<li>Tax policy isn't tipped in the favor of the little guy</li>
-<li>The system is rigged so the rich keep getting richer</li>
-<li>Minorities are especially excluded and abused by this system of control</li>
-<li>We are in endless wars we have no business being in</li>
-<li>Politics needs reform to prevent corruption</li>
-</ul>
-<p>In this world view, Banks and The Rich are largely thought of as the source of corruption so we need government to be brought back into control of the people in order to eliminate the corruption.</p>
-<h3>Tea</h3>
-<p>There are several Republican figures that come to mind when the Tea Party is evoked but based on the principles of less government involvement, lower taxes and anti-corruption I'd have to say Ted Cruz is the spokesperson. Bullet points here:</p>
-<ul><li>Government is too big and corrupt (as a result)</li>
-<li>Taxes are too high (as a result of too big bureaucracy)</li>
-<li>The system is rigged, political elites keep getting richer</li>
-<li>Everyone is abused by this system</li>
-<li>Politics needs reform to prevent corruption</li>
-<li>In this world view, Government and hierarchies are largely to blame, not them in and of themselves, but because of the types of people that find their way into these hierarchies. For example, a complex tax code leads to it being written in a way to benefit some and not others.</li>
-</ul>
-<p>I largely ignore social issues in analysis and selection on candidates. It's weird to say but I've seen that social change is enacted from pressures from society as a whole. As a result, the rising up of people that are passionate about change is how to enact social change.</p>
-<h3>This is 2016</h3>
-<p>With the internet, with technology, with all our capabilities to spread positivity, crowd fund and disseminate information; how are we still here? A two party system with media coverage and collusion that leads us to largely all unhappy. We're allowing our media and social media to keep us apart. What can we agree on even in these two extreme propositions of Occupy and Tea Party movements.</p>
-<h3>Corruption is king</h3>
-<p>How can we reduce corruption? Both sides identify this but then have different views on Taxes (we aren't doing enough vs we're doing too much). This will be my tell as a classic liberal, but we need less of a system in order to have less corruption. This doesn't mean we don't need a system but we do need a less complex system (taxes and in general); and here's why.</p>
-<p>If you are a developer you may have heard of "legacy code" and the need to refactor code. Unlike other resources, having more code does not equate to having more effective code. Well friends, we're running on legacy code that is in desperate need of refactorring. We've got a great operating system, but we've been adding way too much functionality and it's bringing the whole thing down. We don't need to throw away everything we've ever done, but we do need to take those concepts and completely rewrite them for the modern era.</p>
-<p>Yes, Government needs it's Drupal 8 moment. Is the end product "the same"? In some ways yes. We still make a CMS, it still makes great websites and it's still responsive. But we're rooting out all the bloat that's weighing our awesome product down. We're doing things smarter, not always differently.</p>
-<p>Corruption and governmental refactoring needs to be the focus of a unified movement between Occupy and Tea people. Quit arguing over social policy, quit arguing your party or person vs their party or person. Look beyond parties, look at what we're doing to our country and unite to pull us back from the edge (where edge is Fascism, rioting because of corruption, further deepening of racial divides). Quit pointing the finger and start reaching out with love. Lay down your ideologies and realize this: We are all not that different, we all want the corruption to end. Seek out those that have this message. One says we can have less corruption through regulation while the other proposes solutions that involve tearing down parts of the institution to reduce corruption though there being less of it.</p>
-<p>Personally, I'm for the refactor (because where are these more perfect Angels) but align on anti-corruption and we will solve our problems.</p>
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-e">E</span>fficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with intention is activism and so, If you don't like someone, automate them.</p>
+<h3>Huh?</h3>
+<p>Automate them. Do your job in 90% of the time it takes to do, use the other 10% to study and analyze their process. What is it they do? How do they make money? Now, start to carve around that person via process modification. You can intentionally disrupt their job, all the while claiming it in the name of efficiency.</p>
+<h3>That's evil</h3>
+<p>Yeah, kind of; but not in any way different then what happens when corporations (now called Start-Ups because it's less evil sounding) intentionally enter a space in a different way to "Disrupt" a marketplace. Efficiency is generally viewed as a social good and a net positive but it destroys ways of doing business and the humans attached to those hierarchies. Can you imagine what it must be like to have been a telephone operator and see them wheel in a machine that automatically did routing, putting 1000s out of work?</p>
+<p>So, for those of you out there with root access to things; what will you do with these powers? What can you make the machine do that you cannot yet producing the same net effect? What percentage of your job can you automate in order to do other things to produce Magic?</p>
+<h3>Magic?</h3>
+<p>Yeah, Magic. That which we can't comprehend is indiscernible from Magic -- <a href="https://en.wikipedia.org/wiki/Clarke%27s_three_laws" target="_blank" rel="nofollow" class="external-link no-image">Clarke's three laws</a>
+. I got asked this weekend when I realized I could automate and no one would notice what i was doing. I looked up and way... thought... and said... 6 years ago. I've been able to automate for about 6 years, and I have. It's why what we're doing doesn't seem believable, because I've been working on the scaffolding of what it is we're standing on today, 3 years ago. I intentionally, painfully so at times, focused on under the hood automation rather then front-facing usability. Because you can always make people like the way something looks, you can never change what it's built on top of (or at least not easily).</p>
+<p>And so, when I say we can pick up and give you every innovation our group has made and let you produce new ones; and do so with exponentially increasing accuracy, capability, ease of use and ease of setup. I'm not lying, we're just making Magic, through efficiency, done so to empower others to produce innovations of their own. Ultimately seeking to boil self-empowerment down to choice. Do you copy and paste the line and liberate yourself and others? Do you help others to disrobe these cloaks, so invisibly <span style="font-size: 13px; line-height: 20px;">placed</span> upon creativity or do we continue onward without direct control of educational experiences?</p>
+<h3>What is my activist intention you may ask?</h3>
+<p>Empowerment. More importantly, what's yours? Who will you automate today?</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>End of Summer</title>
     <id>https://btopro.com/end-of-summer</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:01-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thing</summary>
     <link href="https://btopro.com/end-of-summer"/>
@@ -1247,7 +1239,7 @@ See.</h2>
   <entry>
     <title>Combating the rise of authoritarianism</title>
     <id>https://btopro.com/combating-the-rise-of-authoritarianism</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
+    <updated>2019-07-21T18:46:01-06:00</updated>
     <published>2019-01-29T21:53:20-07:00</published>
     <summary>You may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the mas</summary>
     <link href="https://btopro.com/combating-the-rise-of-authoritarianism"/>
@@ -1279,42 +1271,6 @@ See.</h2>
 <p>We need to create more hubs, more voices, more flexibility, more "company-less" spaces. And no, I don't mean an abandoning of capitalism; I mean the world needs to think more like email (protocol) and less like twitter (company, with apps that connect you to protocol). We need systems that operate more like living things if we want people to work, act, and behave more like humans and less like machines. By humanizing our technology deployments, we can deploy a better social fabric, and hopefully, together, in some small way, defeat the calls for authoritarian models and behaviors in favor of truly liberating ones.</p>
 <p> </p>
 <p> </p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Attacking the false Binary (of politics)</title>
-    <id>https://btopro.com/attacking-the-false-binary-of-politics</id>
-    <updated>2019-06-21T11:54:46-06:00</updated>
-    <published>2019-01-29T21:53:20-07:00</published>
-    <summary>I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league can be</summary>
-    <link href="https://btopro.com/attacking-the-false-binary-of-politics"/>
-    
-    <content type="html">
-      <![CDATA[ <p><span><span>I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league can be. But what is absolutely diverse though is age and politics. The older guys will often razz each other with running conversations about politics, continuing discussions from Facebook, and (oddly) often times relatively rational (if you've been in a locker room, this is never to be expected).</span></span></p>
-<p><span><span>When someone (jokingly said) "Hilary is so terrible I'd almost vote for Drumpf...{razzing} I SAID ALMOST" I stopped and gained insight into the flawed logic of much of American politics (#thanksmedia). To this discussion I said "vomit" (the group is aware I'm pretty outspoken politically). Someone then said "Well what if it was reversed" and I said "Double-vomit". Some people laughed and said they'd write in Mickey mouse, etc.</span></span></p>
-<h2><span>It's a Binary decision</span></h2>
-<p><span><span>Then the phrase came up "Well, it's a binary decision" and for the first time in a long time... I kept a conversation going about politics when I'd honestly rather just go play hockey. "No. it's not, or if it is it's Binary between 2 terrible options and 1 option that isn't that" (Eloquent I know). This was met with other small laughs and a few discussing that they can't vote 3rd party because they've done that before and nothing happens. The heard mentality, the need to vote one way the media tells you to or the other, is exactly why we are in the current mess we are.</span></span></p>
-<h2><span>There are no good options</span></h2>
-<p><span><span>This simply isn't true. As I've written about previously in the unity of thought that exists between Tea Party and Occupy Wall street people, the two party system perpetuated by media and advertising dollars is the problem and a reality TV "star" parading under the banner of one of those (while being blatantly racist to play upon people's fears) is not going to solve anything.</span></span></p>
-<h2><span>To my Conservative friends</span></h2>
-<p><span>To my Conservative friends, </span><span><span>there is a far better option and you are being played by the same media that your false choice is the only choice (at the same time decrying how corrupt / worthless the media is). You are being played by a media and political class that insist you either are for (the evil) Hilary (<em>HHHHEERRRRRR</em>
-
-) or not. You claim to believe in small government (HA), being socially conservative (HA), open minded, having the moral high ground, better on the economy, better on tax policy, better on local control; and yet you will claim that <em>this</em>
-
- is your best option. "Sad".</span></span></p>
-<h2><span>To my Socialist friends.</span></h2>
-<p><span><span>You "believe" in what you claim to believe on the basis of social justice, criminal justice reform, the need for fairness, anti-corruption and getting wall street out of the business of the people. You march in the streets, you demand change, and yet somehow here you are even after "change" sweeps into power, still here, on the streets, powerless and more divided and broken then before. Almost 50% of you latched onto someone who said you could get free stuff in this country if we just changed everything, if we just taxed more, if we just had Wallstreet less, etc. And yet you lay down your principles that you "fought" for and spoke out about for months to support someone who is clearly above the law and funded heavily by the same people you claim to need to get out of politics.</span></span></p>
-<h2><span>Addiction</span></h2>
-<p><span><span>I love you, I care about you both (all of you actually) and I wish you could get out of your own way. I wish you could embrace each other and see the goodness in each but sadly, you are too busy worrying about "winning" (which isn't a thing, this isn't a sports league, there is no concept of win eternally nor in your life time, there's always <em>more</em>
-
-). But you both are arguing with each other instead of realizing that you can unite against a common enemy: Corruption, Greed, authoritarianism.</span></span></p>
-<p><span><span>Another way out</span></span></p>
-<p><span><span>There is another way out, which has a foothold in American politics, which is socially minded, which is fiscally minded, which is on the ballot in all 50 states, which has a base to its movement and a message. It's too small (relatively speaking) to be backed in the same way by the same corrupt institutions that have brought us to this point. It is largely ignored by the media because it doesn't see the same click throughs as the corrupt two parties we see today. I'm speaking of course about Libertarianism and the Libertarian party.</span></span></p>
-<p><span><span>Historically I am a libertarian leaning conservative, but seeing what conservatives supposedly support and stand for, I increasingly identify as only Libertarian. It is the way out. What policies do they represent? Minimal government involvement in the lives of people. They are counter to the establishment of each political party because they voice that the government and structure of government is the problem. Not that we need no government, that we need an emphasis on people and individual liberty. Live and let live.</span></span></p>
-<h2><span>Google it</span></h2>
-<p><span><span>What policies specifically? You can use Google, I don't need to spell that out for you. But when someone asked me about such a question I answered with "does it really matter? You currently have the same authoritarian 1 or authoritarian 2 option." Some binary decision that is.</span></span></p>
-<p><span><span><span style="line-height: 20px;">Look, search, seek out information, especially beyond what you are comfortable with. In the age of the digital revolution, it's insane that we only have two options to set the course for society. To all options though, regardless of who that is; instead of asking do I agree with these policies, ask yourself who will make</span><span style="line-height: 20px;"> you more free? What points in the direction of the internet, more free, more choice, more speech, more options, more ideas? Then you'll have your answer of who to vote for, rather then simply who to vote against. We deserve better then this, make it so.</span></span></span></p>
  ]]>
     </content>
   </entry>
