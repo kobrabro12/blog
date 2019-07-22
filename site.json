@@ -121,14 +121,14 @@
         {
             "id": "item-006601d9-4063-4bd9-ba32-3e959b631d31",
             "indent": 0,
-            "location": "pages\/a-new-day\/index.html",
+            "location": "pages\/hey-remember-when\/index.html",
             "order": 0,
             "parent": null,
-            "title": "A new day",
-            "description": "A couch. It had to be the couch. The bastard scurries away, unheeding in the warnings of the past weeks. Undeterred in his quest for one thing. One, insatiable goal.To build a nest, in my \"Effing\" co",
+            "title": "Hey, remember when",
+            "description": "A couch. It had to be the couch. The bastard scurries away, unheeding in the warnings of the past weeks. Undeterred in his quest for one thing. One, insatiable goal.To build a nest, in my &#34;Effing&#34; co",
             "metadata": {
                 "created": 1563756349,
-                "updated": 1563758106,
+                "updated": 1563758125,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 0,
@@ -167,7 +167,12 @@
                         "name": "IMG_20190713_122826.jpg",
                         "size": 536118
                     }
-                ]
+                ],
+                "fields": {
+                    "images": {},
+                    "subtitle": "",
+                    "tags": {}
+                }
             }
         },
         {
