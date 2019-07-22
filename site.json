@@ -139,7 +139,17 @@
                         "meme-maker": 1
                     },
                     "elements": 5
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190713_185619.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/IMG_20190713_185619.jpg",
+                        "url": "files\/IMG_20190713_185619.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190713_185619.jpg",
+                        "size": 833595
+                    }
+                ]
             }
         },
         {
