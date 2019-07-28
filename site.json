@@ -125,10 +125,31 @@
             "order": 0,
             "parent": null,
             "title": "Annabella",
-            "description": "",
+            "description": "The wheels squeaked on the cart, jerking it away from the rest of them to get out to put my kid sister in. The exact age I'm unaware, but I remember being fourteen or fifteen. Walking into the grocery",
             "metadata": {
                 "created": 1564284842,
-                "updated": 1564284850
+                "updated": 1564288077,
+                "readtime": 7,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 33,
+                    "schema": [
+                        {
+                            "resource": "#2b95c77e-01c9-6a24-2a2f",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#f4f74a88-45e4-607f-a073",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 33,
+                        "lrndesign-blockquote": 1,
+                        "video-player": 1
+                    },
+                    "elements": 35
+                }
             }
         },
         {
