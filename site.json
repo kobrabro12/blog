@@ -128,7 +128,7 @@
             "description": "The wheels squeaked on the cart, jerking it away from the rest of them to get out to put my kid sister in. The exact age I'm unaware, but I remember being fourteen or fifteen. Walking into the grocery",
             "metadata": {
                 "created": 1564284842,
-                "updated": 1564288077,
+                "updated": 1564288213,
                 "readtime": 7,
                 "contentDetails": {
                     "headings": 0,
@@ -146,9 +146,10 @@
                     "tags": {
                         "p": 33,
                         "lrndesign-blockquote": 1,
-                        "video-player": 1
+                        "video-player": 1,
+                        "blockquote": 1
                     },
-                    "elements": 35
+                    "elements": 36
                 }
             }
         },
