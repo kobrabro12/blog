@@ -125,14 +125,14 @@
             "order": 0,
             "parent": null,
             "title": "Annabella",
-            "description": "The wheels squeaked on the cart, jerking it away from the rest of them to get out to put my kid sister in. The exact age I'm unaware, but I remember being fourteen or fifteen. Walking into the grocery",
+            "description": "The wheels squeaked on the cart, boosting my kid sister I placed her in the front part kids sit in. Five years old, happy to have someone who could lift her high. I was fifteen when we went to a rando",
             "metadata": {
                 "created": 1564284842,
-                "updated": 1564288213,
-                "readtime": 7,
+                "updated": 1564367426,
+                "readtime": 8,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 33,
+                    "paragraphs": 37,
                     "schema": [
                         {
                             "resource": "#2b95c77e-01c9-6a24-2a2f",
@@ -144,12 +144,12 @@
                         }
                     ],
                     "tags": {
-                        "p": 33,
+                        "p": 37,
                         "lrndesign-blockquote": 1,
                         "video-player": 1,
                         "blockquote": 1
                     },
-                    "elements": 36
+                    "elements": 40
                 }
             }
         },
