@@ -21,7 +21,7 @@
         "hexCode": "#da004e",
         "domain": "https:\/\/btopro.com",
         "created": 1548653466,
-        "updated": 1564284857,
+        "updated": 1565380158,
         "cssVariable": "pink",
         "publishing": {
             "git": {
@@ -75,49 +75,28 @@
         "fields": {
             "configure": [
                 {
+                    "inputMethod": "array",
                     "property": "images",
+                    "title": "Other sources",
                     "description": "List of images",
                     "required": false,
-                    "icon": "image:collections",
-                    "title": "Other sources",
-                    "inputMethod": "array",
-                    "properties": [
-                        {
-                            "property": "src",
-                            "title": "Source",
-                            "description": "The URL for the image",
-                            "inputMethod": "haxupload"
-                        },
-                        {
-                            "property": "alt",
-                            "title": "Alt",
-                            "description": "Alt text",
-                            "inputMethod": "textfield"
-                        }
-                    ]
+                    "icon": "image:collections"
                 },
                 {
+                    "inputMethod": "textfield",
                     "property": "subtitle",
                     "title": "Subtitle",
                     "description": "An additional subtitle",
-                    "inputMethod": "textfield",
+                    "required": false,
                     "icon": "editor:text-fields"
                 },
                 {
+                    "inputMethod": "array",
                     "property": "tags",
+                    "title": "Tags",
                     "description": "Tags for the page",
                     "required": false,
-                    "icon": "image:collections",
-                    "title": "Tags",
-                    "inputMethod": "array",
-                    "properties": [
-                        {
-                            "property": "tag",
-                            "title": "Tag",
-                            "description": "Individual tag",
-                            "inputMethod": "textfield"
-                        }
-                    ]
+                    "icon": "image:collections"
                 }
             ],
             "advanced": []
