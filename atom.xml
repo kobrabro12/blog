@@ -329,18 +329,20 @@
   <entry>
     <title>I made a thing</title>
     <id>https://btopro.com/i-made-a-thing</id>
-    <updated>2019-08-14T11:36:16-06:00</updated>
+    <updated>2019-08-14T11:40:21-06:00</updated>
     <published>2019-05-31T15:01:29-06:00</published>
-    <summary>Hey hey, ho ho. Welcome. To the revolution!!!!ffgffCome say hi at Apereo 2019 or Domains 2019.</summary>
+    <summary>Hey hey, ho ho. Welcome. To the revolution!!!Come say hi at Apereo 2019 or Domains 2019.</summary>
     <link href="https://btopro.com/i-made-a-thing"/>
     
     <content type="html">
-      <![CDATA[ <p>Hey hey, ho ho. Welcome. To the revolution!!!!ffgff</p>
+      <![CDATA[ <p>Hey hey, ho ho. Welcome. To the revolution!!!</p>
 <video-player accent-color="purple" iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="And we're just getting started" preload="metadata" source="https://www.youtube.com/watch?v=US0D9tPc7Mk" source-type="youtube" sticky-corner="top-right" youtube-id="US0D9tPc7Mk" resource="#cdcc0336-59b6-9b44-a040" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " sources="[]" tracks="[]" schema-resource-id="#cdcc0336-59b6-9b44-a040" __utils="[object HTMLElement]"></video-player>
 <p>Come say hi at <a href="https://www.apereo.org/conferences/open-apereo-2019">Apereo 2019</a>
 
 
+
  or <a href="https://domains.reclaimhosting.com/">Domains 2019</a>
+
 
 
 .</p>
