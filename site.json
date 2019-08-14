@@ -5,101 +5,112 @@
     "description": "Crazy, abrasive, caring, dreaming the future into existence.",
     "license": "by-sa",
     "metadata": {
-        "siteName": "btopro",
         "author": {
             "name": "Bryan Ollendyke",
             "image": "files\/headshot.jpg",
             "socialLink": "https:\/\/twitter.com\/btopro"
         },
-        "image": "assets\/banner.jpg",
+        "site": {
+            "name": "btopro",
+            "domain": "https:\/\/btopro.com",
+            "created": 1548653466,
+            "updated": 1565380966,
+            "settings": {
+                "pathauto": true,
+                "publishPagesOn": true
+            },
+            "git": {
+                "vendor": "github",
+                "branch": "master",
+                "staticBranch": "gh-pages",
+                "url": "git@github.com:btopro\/blog.git"
+            },
+            "static": {
+                "cdn": "cdn.waxam.io",
+                "lastPublished": 1565660482,
+                "publishedLocation": "https:\/\/btopro.com"
+            }
+        },
         "theme": {
             "element": "haxor-slevin",
             "path": "@lrnwebcomponents\/haxor-slevin\/haxor-slevin.js",
-            "name": "Coder blog"
-        },
-        "icon": "icons:record-voice-over",
-        "hexCode": "#da004e",
-        "domain": "https:\/\/btopro.com",
-        "created": 1548653466,
-        "updated": 1565380966,
-        "cssVariable": "pink",
-        "publishing": {
-            "git": {
-                "vendor": "github",
-                "branch": "gh-pages",
-                "url": "git@github.com:btopro\/blog.git",
-                "cdn": "cdn.waxam.io"
+            "name": "Coder blog",
+            "variables": {
+                "image": "assets\/banner.jpg",
+                "icon": "icons:record-voice-over",
+                "hexCode": "#da004e",
+                "cssVariable": "pink"
             }
         },
-        "dynamicElementLoader": {
-            "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
-            "code-sample": "@lrnwebcomponents\/code-sample\/code-sample.js",
-            "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
-            "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
-            "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
-            "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
-            "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
-            "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
-            "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
-            "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
-            "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
-            "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
-            "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
-            "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
-            "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
-            "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
-            "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
-            "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
-            "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
-            "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
-            "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
-            "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
-            "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
-            "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
-            "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
-            "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
-            "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
-            "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
-            "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
-            "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
-            "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
-            "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
-            "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
-            "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js",
-            "html-block": "@lrnwebcomponents\/html-block\/html-block.js",
-            "user-action": "@lrnwebcomponents\/user-action\/user-action.js",
-            "rss-items": "@lrnwebcomponents\/rss-items\/rss-items.js"
-        },
-        "lastPublished": 1565660482,
-        "publishedLocation": "https:\/\/btopro.com",
-        "fields": {
-            "configure": [
-                {
-                    "inputMethod": "array",
-                    "property": "images",
-                    "title": "Other sources",
-                    "description": "List of images",
-                    "required": false,
-                    "icon": "image:collections"
-                },
-                {
-                    "inputMethod": "textfield",
-                    "property": "subtitle",
-                    "title": "Subtitle",
-                    "description": "An additional subtitle",
-                    "required": false,
-                    "icon": "editor:text-fields"
-                },
-                {
-                    "inputMethod": "array",
-                    "property": "tags",
-                    "title": "Tags",
-                    "description": "Tags for the page",
-                    "required": false,
-                    "icon": "image:collections"
-                }
-            ],
-            "advanced": []
+        "node": {
+            "fields": {
+                "configure": [
+                    {
+                        "inputMethod": "array",
+                        "property": "images",
+                        "title": "Other sources",
+                        "description": "List of images",
+                        "required": false,
+                        "icon": "image:collections"
+                    },
+                    {
+                        "inputMethod": "textfield",
+                        "property": "subtitle",
+                        "title": "Subtitle",
+                        "description": "An additional subtitle",
+                        "required": false,
+                        "icon": "editor:text-fields"
+                    },
+                    {
+                        "inputMethod": "array",
+                        "property": "tags",
+                        "title": "Tags",
+                        "description": "Tags for the page",
+                        "required": false,
+                        "icon": "image:collections"
+                    }
+                ],
+                "advanced": []
+            },
+            "dynamicElementLoader": {
+                "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
+                "code-sample": "@lrnwebcomponents\/code-sample\/code-sample.js",
+                "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
+                "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
+                "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
+                "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
+                "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
+                "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
+                "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
+                "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
+                "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
+                "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
+                "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
+                "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
+                "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
+                "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
+                "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
+                "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
+                "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
+                "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
+                "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
+                "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
+                "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
+                "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
+                "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
+                "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
+                "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
+                "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
+                "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
+                "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
+                "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
+                "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js",
+                "lrndesign-gallery": "@lrnwebcomponents\/lrndesign-gallery\/lrndesign-gallery.js",
+                "lrndesign-timeline": "@lrnwebcomponents\/lrndesign-timeline\/lrndesign-timeline.js",
+                "html-block": "@lrnwebcomponents\/html-block\/html-block.js",
+                "user-action": "@lrnwebcomponents\/user-action\/user-action.js",
+                "rss-items": "@lrnwebcomponents\/rss-items\/rss-items.js"
+            }
         }
     },
     "items": [
@@ -358,10 +369,10 @@
             "order": 6,
             "parent": null,
             "title": "I made a thing",
-            "description": "Hey hey, ho ho. Welcome. To the revolution!!!!!Come say hi at Apereo 2019 or Domains 2019.",
+            "description": "Hey hey, ho ho. Welcome. To the revolution!!!!ffgffCome say hi at Apereo 2019 or Domains 2019.",
             "metadata": {
                 "created": 1559336489,
-                "updated": 1564284851,
+                "updated": 1565804176,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
