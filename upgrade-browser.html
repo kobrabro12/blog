@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Outdated Browser - heymp101</title>
+  <title>Modern browser required</title>
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" crossorigin>
   <style>
     body {
@@ -23,26 +23,34 @@
     }
 
     .check-browser .message--warning {
-      background-color: #c00;
-      color: #fff;
+      background-color: #BB0000;
+      color: #ffffff;
       padding: 2rem;
+      font-size: 26px;
     }
 
     .check-browser__icon-container {
       display: inline-block;
-      color: #fff;
+      color: #000000;
       text-align: center;
     }
 
-    .check-browser__icon {
+    a {
       float: left;
-      padding: 1rem .5rem;
+      width: 150px;
+      height: 150px;
+      display: block;
+      text-decoration: none;
+      margin: 1rem .5rem;
+      padding: 0;
+      outline-width: 10px;
+      outline-color: blueviolet;
+      color: black;
     }
 
-    .check-browser__icon a {
+    a .check-browser__icon {
       clear: both;
       padding: 2.5rem 2rem;
-      color: #fff;
       text-decoration: none;
     }
 
@@ -75,56 +83,54 @@
 </head>
 <body>
   <div class="check-browser">
-      <h1 class="header--lg">Outdated Browser</h1>
-      
-      <p class="message--warning">
-        Support for web components required
-      </p>
-      
-      <p>
-        Your browser does not support the new web components standard.
-        <br>
-        Upgrade your browser to the latest version or download one of these browsers:
-      </p>
+    <h1 class="header--lg">Outdated browser detected</h1>
     
-      <div class="check-browser__icon-container">
+    <p class="message--warning">
+      This website requires a modern browser to give the best experience possible.
+    </p>
+    <p>
+      Upgrade your browser to the latest version or download one of these browsers:
+    </p>
+  
+    <div class="check-browser__icon-container">
+      <a href="http://www.mozilla.com/firefox" target="_blank" rel="noopener noreferrer">
+        <div class="check-browser__icon check-browser--firefox">
+            <span><i class="fa fa-firefox icon--browser"></i></span>
+          <br>Firefox
+          <br>(Mozilla)
+        </div>
+      </a>
+      <a href="https://www.google.com/chrome" target="_blank" rel="noopener noreferrer">
         <div class="check-browser__icon check-browser--chrome">
-          <a href="https://www.google.com/chrome" target="_blank">
             <span><i class="fa fa-chrome icon--browser"></i></span>
-        </a>
           <br>
           Chrome
-          <br> &nbsp;
+          <br>(Google)
         </div>
-        <div class="check-browser__icon check-browser--firefox">
-          <a href="http://www.mozilla.com/firefox" target="_blank">
-            <span><i class="fa fa-firefox icon--browser"></i></span>
-          </a>
-          <br> FireFox
-          <br> &nbsp;
-        </div>
+      </a>
+      <a href="https://www.microsoftedgeinsider.com/en-us/" target="_blank" rel="noopener noreferrer">
         <div class="check-browser__icon check-browser--edge">
-          <a href="https://www.microsoftedgeinsider.com/en-us/" target="_blank">
             <span><i class="fa fa-edge icon--browser"></i></span>
-          </a>
-          <br> Edge Beta
-          <br> (Chromium)
+          <br>Edge
+          <br>(Microsoft)
         </div>
+      </a>
+      <a href="https://support.apple.com/downloads/safari" target="_blank" rel="noopener noreferrer">
         <div class="check-browser__icon check-browser--safari">
-          <a href="https://support.apple.com/downloads/safari" target="_blank">
             <span><i class="fa fa-safari icon--browser"></i></span>
-          </a>
-          <br> Safari
-          <br> &nbsp;
+          <br>Safari
+          <br>(Apple)
         </div>
-        <div class="check-browser__icon check-browser--opera" target="_blank">
-          <a href="http://www.opera.com/download/">
+      </a>
+      <a href="http://www.opera.com/download/">
+        <div class="check-browser__icon check-browser--opera" target="_blank" rel="noopener noreferrer">
             <span><i class="fa fa-opera icon--browser"></i></span>
-          </a>
+          
           <br> Opera
           <br> &nbsp;
         </div>
-      </div>
+      </a>
     </div>
+  </div>
 </body>
 </html>

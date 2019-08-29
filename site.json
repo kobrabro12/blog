@@ -120,6 +120,19 @@
             }
         },
         {
+            "id": "item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711",
+            "indent": 0,
+            "location": "pages\/my-first-time-on-stage\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "My first time on stage",
+            "description": "",
+            "metadata": {
+                "created": 1567105783,
+                "updated": 1567105783
+            }
+        },
+        {
             "id": "item-006601d9-4063-4bd9-ba32-3e959b631d31",
             "indent": 0,
             "location": "pages\/hey-remember-when\/index.html",
