@@ -14,7 +14,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1565380966,
+            "updated": 1567079562,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": true
@@ -28,48 +28,18 @@
             "static": {
                 "cdn": "cdn.waxam.io",
                 "lastPublished": 1565660482,
-                "publishedLocation": "https:\/\/btopro.com"
+                "publishedLocation": "https:\/\/btopro.com",
+                "offline": true
             }
         },
         "theme": {
             "element": "haxor-slevin",
             "path": "@lrnwebcomponents\/haxor-slevin\/haxor-slevin.js",
-            "name": "Coder blog",
-            "variables": {
-                "image": "assets\/banner.jpg",
-                "icon": "icons:record-voice-over",
-                "hexCode": "#da004e",
-                "cssVariable": "pink"
-            }
+            "name": "Coder blog"
         },
         "node": {
             "fields": {
-                "configure": [
-                    {
-                        "inputMethod": "array",
-                        "property": "images",
-                        "title": "Other sources",
-                        "description": "List of images",
-                        "required": false,
-                        "icon": "image:collections"
-                    },
-                    {
-                        "inputMethod": "textfield",
-                        "property": "subtitle",
-                        "title": "Subtitle",
-                        "description": "An additional subtitle",
-                        "required": false,
-                        "icon": "editor:text-fields"
-                    },
-                    {
-                        "inputMethod": "array",
-                        "property": "tags",
-                        "title": "Tags",
-                        "description": "Tags for the page",
-                        "required": false,
-                        "icon": "image:collections"
-                    }
-                ],
+                "configure": [],
                 "advanced": []
             },
             "dynamicElementLoader": {
