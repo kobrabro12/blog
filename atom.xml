@@ -11,16 +11,19 @@
   <entry>
     <title>My first time on stage</title>
     <id>https://btopro.com/my-first-time-on-stage-1</id>
-    <updated>2019-09-03T09:00:49-06:00</updated>
+    <updated>2019-09-03T09:02:00-06:00</updated>
     <published>2019-08-29T13:09:43-06:00</published>
-    <summary>This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker.If you haven't followed the references, I'm code na</summary>
+    <summary>This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker.If you haven't followed the references, I'm code n</summary>
     <link href="https://btopro.com/my-first-time-on-stage-1"/>
     
     <content type="html">
-      <![CDATA[ <p>This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with <i><b>#EdTechJoker</b>
+      <![CDATA[ <p>This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the <b>1st week</b>
+ of class with <i><b>#EdTechJoker</b>
 </i>
 .</p>
-<p>If you haven't followed the references, I'm code naming a research project EdTechJoker, a reference to my Masters Thesis work called Information Altruism. TLDR; I studied the spread of Drupal by performing action research in which I attempted to get others to use Drupal by giving away my efforts for free.</p>
+<p>If you haven't followed the references, I'm code naming a research project EdTechJoker, a reference to my Masters Thesis work called Information Altruism. <i>TLDR;</i>
+ <i>I studied the spread of Drupal by performing action research in which I attempted to get others to use Drupal by giving away my efforts for free.</i>
+</p>
 <p>This "research" is not formal research so don't worry, I'm not needing to file paperwork and being in violation of things. This "research" is more like activism. I have a postulate and I try and make it reality by application of the same principles and tactics learned in my previous work to this new context.</p>
 <p>So what is it?</p>
 <p>Can we build enough social momentum around open source tools produced, enhanced, and implemented by universities that we can improve access, reduce costs, and ultimately regain control of the innovation that LMS / EdTech vendors have a direct incentive to never provide us.</p>
@@ -29,14 +32,18 @@
 <p>So what is class then.. if these are the goals. Well, EdTechJoker is about having the students follow this flow:</p>
 <ul><li>Learn about an idea / concept / aspect of industry revolving around the use of a specific technology</li>
 
+
 <li>Play with that concept in a hello world manner and get comfortable with it to break down imposter syndrome</li>
+
 
 
 <li>Blog and screencast telling others about their experiences and what they learned in the process and teaching others</li>
 
+
 </ul>
 <p><span style="caret-color: rgb(0, 0, 0);">We'll look into spaces like... Open Educational Resources; what it is, why people should be using them, what some are, what technologies often underly them... and then... how web components and HTML are the solution to the elimination of the vendor space that's popped up around it.</span></p>
 <p><span style="caret-color: rgb(0, 0, 0);">The technology selection of a space, while not always political, has political ramifications. Someone asked me about "Should I use a password manager" and I said I mean... i do, I use 1password... but I use an older version because now it requires a subscription <b>and it literally has 0 additional value add other then to keep working</b>
+
 
 .</span></p>
 <p><span style="caret-color: rgb(0, 0, 0);" class="hax-active">The notion of licensing software that EASILY could just run as a flat file or be included by default on my computer... is insane to me. Well.. that's exactly what the industry does with tools like the LMS. It's marketed that it's "always getting better" and then, relative to costs and their budgets (which often spend way more in marketing and administration than actual product)...</span></p>
@@ -51,11 +58,15 @@
 <p class="hax-active"><span style="caret-color: rgb(0, 0, 0);">A few more powerful examples from my first class (as I recall them, again, I free form).</span></p>
 <ul><li><span style="caret-color: rgb(0, 0, 0);" class="hax-active">The terminal window is the ultimate form of imposter syndrome in action. It represents the unknown and danger in a world of safe GUIs. Embracing that unknown is how you more confidently understand what goes on above</span></li>
 
+
 <li><span style="caret-color: rgb(0, 0, 0);">I am them, 14 years removed. I hated public speaking even though I'm really good at it now... the way I improved, was screencasting. Now, My entire career is on youtube. You can go back and watch the first few weeks of work all the way up through now. Thought process, vocalization, quality of the UX all improving as a living thing.</span></li>
+
 
 <li><span style="caret-color: rgb(0, 0, 0);">Employers don't care about your piece of paper, that's assumed. They care about "Do I need to train this person more intensely the first 4-6 months". If you exhibit knowledge and behaviors that suggest to them that you don't need something as simple as understanding what a popular CMS is (as a concept not even developing for it) then that shows you've gone beyond others, that you can learn, and that you will be further ahead day one then the next person.</span></li>
 
+
 <li><span style="caret-color: rgb(0, 0, 0);" class="hax-active">I began the basis for a small talk in which I am making a prediction that in the next 3-5 years we will see a consolidation and collapse in many technology markets due to the raw power of web components being embraced and actualized. (expanded below)</span></li>
+
 
 </ul>
 <p><span style="caret-color: rgb(0, 0, 0);" class="hax-active">Not because of the standard itself, but because of the social implication for businesses. Already organizations are going from a React Native, Angular, Web, iOS, Windows, Chrome structure where all of those are different teams... into a Web as platform structure where all browsers understand 1 standard, all phones (look up Ionic) and all desktops/laptops (look up Electron) are uniformly worked on via Web code.</span></p>
