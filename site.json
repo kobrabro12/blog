@@ -35,7 +35,13 @@
         "theme": {
             "element": "haxor-slevin",
             "path": "@lrnwebcomponents\/haxor-slevin\/haxor-slevin.js",
-            "name": "Coder blog"
+            "name": "Coder blog",
+            "variables": {
+                "image": "assets\/banner.jpg",
+                "hexCode": "#ffffff",
+                "cssVariable": "--simple-colors-default-theme-light-blue-7",
+                "icon": "icons:add-circle-outline"
+            }
         },
         "node": {
             "fields": {
@@ -91,10 +97,10 @@
             "order": "0",
             "parent": null,
             "title": "My first time on stage",
-            "description": "This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker.If you haven't followed the references, I'm code nami",
+            "description": "This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker.If you haven't followed the references, I'm code na",
             "metadata": {
                 "created": 1567105783,
-                "updated": 1567111556,
+                "updated": 1567522849,
                 "readtime": 8,
                 "contentDetails": {
                     "headings": 0,
