@@ -14,7 +14,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1567647699,
+            "updated": 1567686772,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false
@@ -24,7 +24,8 @@
                 "branch": "master",
                 "staticBranch": "gh-pages",
                 "url": "git@github.com:btopro\/blog.git",
-                "autoPush": true
+                "autoPush": true,
+                "publicRepoUrl": "https:\/\/github.com\/btopro\/blog\/tree\/master\/"
             },
             "static": {
                 "cdn": "cdn.waxam.io",
