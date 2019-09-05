@@ -14,10 +14,10 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1567634341,
+            "updated": 1567647699,
             "settings": {
                 "pathauto": true,
-                "publishPagesOn": true
+                "publishPagesOn": false
             },
             "git": {
                 "vendor": "github",
@@ -40,8 +40,8 @@
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#ffffff",
-                "cssVariable": "--simple-colors-default-theme-indigo-7",
-                "icon": "icons:add-circle-outline"
+                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
+                "icon": "social:whatshot"
             }
         },
         "node": {
