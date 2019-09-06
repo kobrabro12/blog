@@ -14,7 +14,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1567686772,
+            "updated": 1567777364,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false
@@ -46,10 +46,10 @@
             }
         },
         "node": {
-            "fields": {
-                "configure": [],
-                "advanced": []
-            },
+            "fields": [
+                [],
+                []
+            ],
             "dynamicElementLoader": {
                 "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
                 "code-sample": "@lrnwebcomponents\/code-sample\/code-sample.js",
