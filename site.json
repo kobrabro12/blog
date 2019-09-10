@@ -14,7 +14,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1567777437,
+            "updated": 1568131696,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false
@@ -35,9 +35,9 @@
             }
         },
         "theme": {
-            "element": "haxor-slevin",
-            "path": "@lrnwebcomponents\/haxor-slevin\/haxor-slevin.js",
-            "name": "Coder blog",
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Documentation",
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#ffffff",
