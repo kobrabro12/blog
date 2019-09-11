@@ -158,6 +158,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190726_105535.jpg",
                         "size": 158038
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190716_102855.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/IMG_20190716_102855.jpg",
+                        "url": "files\/IMG_20190716_102855.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190716_102855.jpg",
+                        "size": 124200
                     }
                 ]
             }
