@@ -101,7 +101,7 @@
             "description": "Hi. I'm Bryan Ollendyke, and I have a vision of the future and, I think, a way to get there. I'm not fancy. I don't have big money. I don't have important people on high; I have something far more imp",
             "metadata": {
                 "created": 1568225571,
-                "updated": 1568227167,
+                "updated": 1568228108,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/EBd7L7eXkAAOW_d.jpg",
@@ -168,10 +168,10 @@
                         "size": 124200
                     }
                 ],
-                "readtime": 3,
+                "readtime": 4,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 17,
+                    "paragraphs": 18,
                     "schema": [
                         {
                             "resource": "#3ad05175-0f0a-9aa3-bd92",
@@ -184,12 +184,12 @@
                         }
                     ],
                     "tags": {
-                        "p": 17,
+                        "p": 18,
                         "video-player": 1,
                         "multiple-choice": 1,
                         "grid-plate": 1
                     },
-                    "elements": 20
+                    "elements": 21
                 }
             }
         },
