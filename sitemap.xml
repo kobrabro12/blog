@@ -1,365 +1,371 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-09-03T09:02:00-06:00" -->
+<!-- generated-on="2019-09-11T12:13:08-06:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://btopro.comhttps://btopro.com/my-first-time-on-stage-1</loc>
-    <lastmod>2019-09-03T09:02:00-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/my-first-time-on-stage</loc>
+    <lastmod>2019-09-11T12:12:59-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/annabella-1</loc>
-    <lastmod>2019-08-29T13:09:52-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/why-i-started-hax-camp</loc>
+    <lastmod>2019-09-11T12:12:59-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/hey-remember-when-1</loc>
-    <lastmod>2019-08-29T13:09:53-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/annabella</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/open-community-pedagogy-1</loc>
-    <lastmod>2019-08-29T13:09:53-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/hey-remember-when</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/stand-against-the-ocean</loc>
-    <lastmod>2019-08-29T13:09:53-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/open-community-pedagogy</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/edtechjoker</loc>
-    <lastmod>2019-08-29T13:09:53-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/stand-against-the-ocean-1</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/technical-weapons-1</loc>
-    <lastmod>2019-08-29T13:09:53-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/edtechjoker-1</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/i-made-a-thing-1</loc>
-    <lastmod>2019-08-29T13:09:54-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/technical-weapons</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/the-web-components-high-performance-video</loc>
-    <lastmod>2019-08-29T13:09:54-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/i-made-a-thing</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.comhttps://btopro.com/the-web-components-high-performance-video-1</loc>
+    <lastmod>2019-09-11T12:13:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://btopro.comhttps://btopro.com/ocean</loc>
-    <lastmod>2019-08-29T13:09:54-06:00</lastmod>
+    <lastmod>2019-09-11T12:13:01-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/drunken-ux-interview</loc>
-    <lastmod>2019-08-29T13:09:54-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/drunken-ux-interview-1</loc>
+    <lastmod>2019-09-11T12:13:01-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/fortify-1</loc>
-    <lastmod>2019-08-29T13:09:55-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/fortify</loc>
+    <lastmod>2019-09-11T12:13:01-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/all-screens-have-rights</loc>
-    <lastmod>2019-08-29T13:09:55-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/all-screens-have-rights-1</loc>
+    <lastmod>2019-09-11T12:13:01-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/reclaim-the-web-1</loc>
-    <lastmod>2019-08-29T13:09:55-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/reclaim-the-web</loc>
+    <lastmod>2019-09-11T12:13:01-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/structured-anarchy</loc>
-    <lastmod>2019-08-29T13:09:55-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/structured-anarchy-1</loc>
+    <lastmod>2019-09-11T12:13:01-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/haxcms-theme-layer-code-review</loc>
-    <lastmod>2019-08-29T13:09:55-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/haxcms-theme-layer-code-review-1</loc>
+    <lastmod>2019-09-11T12:13:02-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/2018-innovation-submission-1</loc>
-    <lastmod>2019-08-29T13:09:56-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/2018-innovation-submission</loc>
+    <lastmod>2019-09-11T12:13:02-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/elms-ln-code-review-series-part-1</loc>
-    <lastmod>2019-08-29T13:09:56-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/elms-ln-code-review-series-part-1-1</loc>
+    <lastmod>2019-09-11T12:13:02-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/golden-shimmering-joy</loc>
-    <lastmod>2019-08-29T13:09:56-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/golden-shimmering-joy-1</loc>
+    <lastmod>2019-09-11T12:13:02-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/common-web-component-state-question-1</loc>
-    <lastmod>2019-08-29T13:09:56-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/common-web-component-state-question</loc>
+    <lastmod>2019-09-11T12:13:02-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/ngdle-is-really-just-enigma-misspelled-1</loc>
-    <lastmod>2019-08-29T13:09:57-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/ngdle-is-really-just-enigma-misspelled</loc>
+    <lastmod>2019-09-11T12:13:02-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/compartmentalizing-1</loc>
-    <lastmod>2019-08-29T13:09:57-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/compartmentalizing</loc>
+    <lastmod>2019-09-11T12:13:03-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/occupy-the-bridge</loc>
-    <lastmod>2019-08-29T13:09:57-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/occupy-the-bridge-1</loc>
+    <lastmod>2019-09-11T12:13:03-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/when-educators-left-the-lms-1</loc>
-    <lastmod>2019-08-29T13:09:57-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/when-educators-left-the-lms</loc>
+    <lastmod>2019-09-11T12:13:03-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/the-lms-is-cable-we-are-roku-expect-us-1</loc>
-    <lastmod>2019-08-29T13:09:57-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/the-lms-is-cable-we-are-roku-expect-us</loc>
+    <lastmod>2019-09-11T12:13:03-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/innovation-s-four-ingredients</loc>
-    <lastmod>2019-08-29T13:09:57-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/innovation-s-four-ingredients-1</loc>
+    <lastmod>2019-09-11T12:13:03-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/straddling-the-abyss-1</loc>
-    <lastmod>2019-08-29T13:09:58-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/straddling-the-abyss</loc>
+    <lastmod>2019-09-11T12:13:04-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/the-knowledge-decentralization-manifesto-1</loc>
-    <lastmod>2019-08-29T13:09:58-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/the-knowledge-decentralization-manifesto</loc>
+    <lastmod>2019-09-11T12:13:04-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/the-knowledge-decentralization-manifesto-the-prolog-</loc>
-    <lastmod>2019-08-29T13:09:58-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/the-knowledge-decentralization-manifesto-the-prolog--1</loc>
+    <lastmod>2019-09-11T12:13:04-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/hax-apereo-piece-1</loc>
-    <lastmod>2019-08-29T13:09:58-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/hax-apereo-piece</loc>
+    <lastmod>2019-09-11T12:13:04-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/the-perfect-cup-of-coffee-1</loc>
-    <lastmod>2019-08-29T13:09:58-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/the-perfect-cup-of-coffee</loc>
+    <lastmod>2019-09-11T12:13:04-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/watch-the-ripples-and-you-ll-miss-the-waves</loc>
-    <lastmod>2019-08-29T13:09:59-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/watch-the-ripples-and-you-ll-miss-the-waves-1</loc>
+    <lastmod>2019-09-11T12:13:04-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/i-challenge-you-to-transform-education-together-1</loc>
-    <lastmod>2019-08-29T13:09:59-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/i-challenge-you-to-transform-education-together</loc>
+    <lastmod>2019-09-11T12:13:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-</loc>
-    <lastmod>2019-08-29T13:09:59-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions--1</loc>
+    <lastmod>2019-09-11T12:13:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/actually-curing-edtech-1</loc>
-    <lastmod>2019-08-29T13:09:59-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/actually-curing-edtech</loc>
+    <lastmod>2019-09-11T12:13:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/in-my-own-words-zero-cost-education-</loc>
-    <lastmod>2019-08-29T13:09:59-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/in-my-own-words-zero-cost-education--1</loc>
+    <lastmod>2019-09-11T12:13:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/education-technology-action-</loc>
-    <lastmod>2019-08-29T13:10:00-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/education-technology-action--1</loc>
+    <lastmod>2019-09-11T12:13:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/pure-joy-1</loc>
-    <lastmod>2019-08-29T13:10:00-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/pure-joy</loc>
+    <lastmod>2019-09-11T12:13:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/creating-the-decentralized-instructional-experience-app-1</loc>
-    <lastmod>2019-08-29T13:10:00-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/creating-the-decentralized-instructional-experience-app</loc>
+    <lastmod>2019-09-11T12:13:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/using-webcomponents-to-unearth-the-ngdle-1</loc>
-    <lastmod>2019-08-29T13:10:00-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/using-webcomponents-to-unearth-the-ngdle</loc>
+    <lastmod>2019-09-11T12:13:06-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/this-is-not-reality-1</loc>
-    <lastmod>2019-08-29T13:10:00-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/this-is-not-reality</loc>
+    <lastmod>2019-09-11T12:13:06-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/playing-for-40-1</loc>
-    <lastmod>2019-08-29T13:10:00-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/playing-for-40</loc>
+    <lastmod>2019-09-11T12:13:06-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/dood-1</loc>
-    <lastmod>2019-08-29T13:10:01-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/dood</loc>
+    <lastmod>2019-09-11T12:13:06-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/generation-uine-1</loc>
-    <lastmod>2019-08-29T13:10:01-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/generation-uine</loc>
+    <lastmod>2019-09-11T12:13:06-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/birthday-party-1</loc>
-    <lastmod>2019-08-29T13:10:01-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/birthday-party</loc>
+    <lastmod>2019-09-11T12:13:06-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/-alt-reality-</loc>
-    <lastmod>2019-08-29T13:10:01-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/-alt-reality--1</loc>
+    <lastmod>2019-09-11T12:13:06-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/end-of-summer-1</loc>
-    <lastmod>2019-08-29T13:10:02-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/end-of-summer</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/combating-the-rise-of-authoritarianism-1</loc>
-    <lastmod>2019-08-29T13:10:02-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/combating-the-rise-of-authoritarianism</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/attacking-the-false-binary-of-politics-</loc>
-    <lastmod>2019-08-29T13:10:03-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/attacking-the-false-binary-of-politics--1</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/singularity-digital-activism-and-saving-our-institutions-1</loc>
-    <lastmod>2019-08-29T13:10:03-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/singularity-digital-activism-and-saving-our-institutions</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/ddosa-1</loc>
-    <lastmod>2019-08-29T13:10:03-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/ddosa</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/occutea-wallparty-1</loc>
-    <lastmod>2019-08-29T13:10:03-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/occutea-wallparty</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/efficiency-as-activism-1</loc>
-    <lastmod>2019-08-29T13:10:04-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/efficiency-as-activism</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/rate-of-perception-1</loc>
-    <lastmod>2019-08-29T13:10:04-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/rate-of-perception</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/ministry-of-information-1</loc>
-    <lastmod>2019-08-29T13:10:04-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/ministry-of-information</loc>
+    <lastmod>2019-09-11T12:13:07-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/organic-deployment-architecture-1</loc>
-    <lastmod>2019-08-29T13:10:04-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/organic-deployment-architecture</loc>
+    <lastmod>2019-09-11T12:13:08-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/legacy-of-human-hierarchy-1</loc>
-    <lastmod>2019-08-29T13:10:05-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/legacy-of-human-hierarchy</loc>
+    <lastmod>2019-09-11T12:13:08-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/transform-control-1</loc>
-    <lastmod>2019-08-29T13:10:05-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/transform-control</loc>
+    <lastmod>2019-09-11T12:13:08-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/transforming-industry-through-information-altruism-1</loc>
-    <lastmod>2019-08-29T13:10:05-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/transforming-industry-through-information-altruism</loc>
+    <lastmod>2019-09-11T12:13:08-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/sustainable-systems-development-a-moral-issue-1</loc>
-    <lastmod>2019-08-29T13:10:05-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/sustainable-systems-development-a-moral-issue</loc>
+    <lastmod>2019-09-11T12:13:08-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
