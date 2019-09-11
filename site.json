@@ -116,6 +116,19 @@
             }
         },
         {
+            "id": "item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91",
+            "indent": 0,
+            "location": "pages\/hax-camp\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Why I started hax-camp",
+            "description": "",
+            "metadata": {
+                "created": 1568225571,
+                "updated": 1568225571
+            }
+        },
+        {
             "id": "item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a",
             "indent": 0,
             "location": "pages\/annabella-1\/index.html",
