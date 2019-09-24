@@ -166,6 +166,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190716_102855.jpg",
                         "size": 124200
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot14025.480000011157.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/headshot14025.480000011157.jpg",
+                        "url": "files\/headshot14025.480000011157.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot14025.480000011157.jpg",
+                        "size": 207453
                     }
                 ],
                 "readtime": 4,
