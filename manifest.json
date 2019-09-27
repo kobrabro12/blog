@@ -46,8 +46,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/sites/",
+    "start_url": "/sites/",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff"
