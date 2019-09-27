@@ -46,9 +46,9 @@
             "density": "4.0"
         }
     ],
-    "scope": "/btopro/",
-    "start_url": "/btopro/",
+    "scope": "/",
+    "start_url": "/",
     "display": "standalone",
-    "theme_color": "#3f51b5",
-    "background_color": "#3f51b5"
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
 }
