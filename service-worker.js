@@ -283,16 +283,56 @@ var precacheConfig = [
         "tI74TTDVG5vUuIuhDt5Wjw"
     ],
     [
+        "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
+        "RMuKEMmXQwyCiEFWW59N0A"
+    ],
+    [
+        "files\/haxcms-managed\/310x310-IMG_20190823_102434 2.jpg",
+        "x5VRkvbVlfcnhZvQ2eLZA"
+    ],
+    [
+        "files\/haxcms-managed\/192x192-IMG_20190823_102434 2.jpg",
+        "wTVCFKtpmsW0SvRGrAFw"
+    ],
+    [
+        "files\/haxcms-managed\/150x150-IMG_20190823_102434 2.jpg",
+        "gjkMQhlMXvrthcbqBSc8Q"
+    ],
+    [
+        "files\/haxcms-managed\/144x144-IMG_20190823_102434 2.jpg",
+        "J9XNQQWTXSKLPJmyOoAWA"
+    ],
+    [
+        "files\/haxcms-managed\/96x96-IMG_20190823_102434 2.jpg",
+        "HzYZ8IvE9wfJHAEjkgONRQ"
+    ],
+    [
+        "files\/haxcms-managed\/72x72-IMG_20190823_102434 2.jpg",
+        "bP4mQkAWnVEa1PFiTobA"
+    ],
+    [
+        "files\/haxcms-managed\/70x70-IMG_20190823_102434 2.jpg",
+        "QHr7eI2l4ETGVE2tmIedQ"
+    ],
+    [
+        "files\/haxcms-managed\/48x48-IMG_20190823_102434 2.jpg",
+        "VC1M2eBkPS47I02q1j2I4A"
+    ],
+    [
+        "files\/haxcms-managed\/36x36-IMG_20190823_102434 2.jpg",
+        "aP82luzmv19QDAnjWvW0aA"
+    ],
+    [
+        "files\/haxcms-managed\/16x16-IMG_20190823_102434 2.jpg",
+        "MC2oEa4LYQvAnSJAw65c2w"
+    ],
+    [
         "manifest.json",
         "gmNXxVtnfpUk2yLp2YOQ"
     ],
     [
         "site.json",
-        "XBP9Qsod1dxnlJXzQQug"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
+        "xaQ9IBAdNWE1ffyr8p5pg"
     ],
     [
         "404.html",
@@ -401,6 +441,10 @@ var precacheConfig = [
     [
         "files\/IMG_20190716_102855.jpg",
         "ms7WdmwvAsGo5dwGzXdLUQ"
+    ],
+    [
+        "files\/headshot143493.3299999684.jpg",
+        "gJwD9axCQTt2nMKKzPDdOA"
     ],
     [
         "files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
