@@ -184,6 +184,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190823_102434 2.jpg",
                         "size": 100516
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot143493.3299999684.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/headshot143493.3299999684.jpg",
+                        "url": "files\/headshot143493.3299999684.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot143493.3299999684.jpg",
+                        "size": 258395
                     }
                 ],
                 "readtime": 4,
