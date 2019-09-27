@@ -6,15 +6,15 @@
     "license": "by-sa",
     "metadata": {
         "author": {
-            "name": "Bryan Ollendyke",
-            "image": "files\/headshot14025.480000011157.jpg",
+            "name": "Bryan btopro Ollendyke",
+            "image": "files\/headshot143493.3299999684.jpg",
             "socialLink": "https:\/\/twitter.com\/btopro"
         },
         "site": {
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1569611120,
+            "updated": 1569614589,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false
@@ -31,7 +31,7 @@
                 "cdn": "cdn.waxam.io",
                 "lastPublished": 1569611613,
                 "publishedLocation": "https:\/\/btopro.com",
-                "offline": true
+                "offline": false
             },
             "logo": "files\/IMG_20190823_102434 2.jpg",
             "version": "0.11.0"
@@ -43,8 +43,8 @@
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#ffffff",
-                "cssVariable": "--simple-colors-default-theme-purple-7",
-                "icon": "social:whatshot"
+                "cssVariable": "--simple-colors-default-theme-teal-7",
+                "icon": "social:public"
             }
         },
         "node": {
