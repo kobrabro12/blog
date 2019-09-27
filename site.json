@@ -14,7 +14,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1569337024,
+            "updated": 1569545372,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false
@@ -32,7 +32,8 @@
                 "lastPublished": 1568985340,
                 "publishedLocation": "https:\/\/btopro.com",
                 "offline": true
-            }
+            },
+            "logo": "files\/IMG_20190823_102434 2.jpg"
         },
         "theme": {
             "element": "haxor-slevin",
