@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/why-i-started-hax-camp\/index.html",
-        "Nm4alRkIlo5ShUAFbPCBg"
+        "AIiwahwGUDwTUv4FqudQ"
     ],
     [
         "pages\/my-first-time-on-stage\/index.html",
@@ -56,7 +56,7 @@ var precacheConfig = [
     ],
     [
         "pages\/open-community-pedagogy\/index.html",
-        "vcivQjArkrrVrJUKiCpvSg"
+        "CfVqASDSKTyRXmHrhXj60A"
     ],
     [
         "pages\/stand-against-the-ocean-1\/index.html",
@@ -280,7 +280,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "XK6SmjoCGwYooEdlDAQN0A"
+        "tI74TTDVG5vUuIuhDt5Wjw"
     ],
     [
         "manifest.json",
@@ -288,7 +288,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "qzBQeOg22pZMDiCGYQIPg"
+        "XBP9Qsod1dxnlJXzQQug"
     ],
     [
         "assets\/favicon.ico",
