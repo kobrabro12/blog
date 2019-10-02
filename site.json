@@ -8,16 +8,18 @@
         "author": {
             "name": "Bryan btopro Ollendyke",
             "image": "files\/headshot143493.3299999684.jpg",
-            "socialLink": "https:\/\/twitter.com\/btopro"
+            "socialLink": "https:\/\/twitter.com\/btopro",
+            "email": "btopro@outlook.com"
         },
         "site": {
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1569614589,
+            "updated": 1569987714,
             "settings": {
                 "pathauto": true,
-                "publishPagesOn": false
+                "publishPagesOn": false,
+                "forceUpgrade": false
             },
             "git": {
                 "vendor": "github",
@@ -34,7 +36,7 @@
                 "offline": false
             },
             "logo": "files\/IMG_20190823_102434 2.jpg",
-            "version": "0.11.0"
+            "version": "0.12.0"
         },
         "theme": {
             "element": "haxor-slevin",
