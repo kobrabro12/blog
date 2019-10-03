@@ -15,12 +15,12 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1570063066,
+            "updated": 1570063085,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false,
                 "forceUpgrade": false,
-                "sw": true
+                "sw": false
             },
             "git": {
                 "vendor": "github",
