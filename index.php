@@ -7,7 +7,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <?php print $site->getSiteMetadata($page); ?>
   <link rel="preload" href="./build/es6/dist/build.js" as="script" crossorigin="anonymous">
   <link rel="preload" href="./custom/build/custom.es6.js" as="script" crossorigin="anonymous">

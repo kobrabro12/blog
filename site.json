@@ -464,23 +464,22 @@
             "order": "7",
             "parent": null,
             "title": "Technical weapons",
-            "description": "Looking for the talk Mark mentioned in Think Like a Hacker episode 48? Here it is! Stephen Rees-Carter shows you how hackers get into vulnerable WordPress websites. You can find episode 48 on your fav",
+            "description": "Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl",
             "metadata": {
                 "created": 1559789483,
-                "updated": 1570061239,
-                "readtime": 7,
+                "updated": 1570061513,
+                "readtime": 6,
                 "contentDetails": {
                     "headings": 7,
                     "paragraphs": 49,
                     "schema": [],
                     "tags": {
-                        "blockquote": 1,
                         "p": 49,
                         "h2": 6,
                         "h3": 1,
                         "meme-maker": 1
                     },
-                    "elements": 58
+                    "elements": 57
                 },
                 "files": [
                     {
