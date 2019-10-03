@@ -68,7 +68,7 @@ var precacheConfig = [
     ],
     [
         "pages\/technical-weapons\/index.html",
-        "w4raRqYuo1I2ueP4K11Aw"
+        "sYGqAw64ObA7X1H6GWT0A"
     ],
     [
         "pages\/i-made-a-thing\/index.html",
@@ -332,7 +332,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "NpFizDhuJoiwn5qJDYV7A"
+        "SXwlmtfCnqfYoQThG1F8w"
     ],
     [
         "404.html",
