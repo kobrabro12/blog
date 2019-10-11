@@ -240,17 +240,23 @@
             "description": "This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker.If you haven't followed the references, I'm code n",
             "metadata": {
                 "created": 1567105783,
-                "updated": 1568225579,
+                "updated": 1570813701,
                 "readtime": 8,
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 29,
-                    "schema": [],
+                    "schema": [
+                        {
+                            "resource": "#9689db4f-1afa-ef47-3ee1",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
                         "p": 29,
+                        "video-player": 1,
                         "ul": 2
                     },
-                    "elements": 31
+                    "elements": 32
                 }
             }
         },
