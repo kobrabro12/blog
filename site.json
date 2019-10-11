@@ -6,7 +6,7 @@
     "license": "by-sa",
     "metadata": {
         "author": {
-            "name": "Bryan btopro Ollendyke",
+            "name": "Bryan Ollendyke",
             "image": "files\/headshot143493.3299999684.jpg",
             "socialLink": "https:\/\/twitter.com\/btopro",
             "email": "btopro@outlook.com"
@@ -15,7 +15,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1570063085,
+            "updated": 1570802665,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false,
@@ -37,7 +37,7 @@
                 "offline": false
             },
             "logo": "files\/IMG_20190823_102434 2.jpg",
-            "version": "0.12.0"
+            "version": "0.12.3"
         },
         "theme": {
             "element": "haxor-slevin",
