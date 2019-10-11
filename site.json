@@ -1,6 +1,6 @@
 {
     "id": "deea4d65-63cb-4e0d-8270-4beccd662063",
-    "title": "btopro",
+    "title": "bto-pro",
     "author": "Bryan Ollendyke",
     "description": "Loud, yelly, abrasive, caring; dreaming the future into reality.",
     "license": "by-sa",
@@ -15,7 +15,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1570802962,
+            "updated": 1570802994,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false,
