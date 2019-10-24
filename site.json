@@ -260,10 +260,20 @@
             "order": 0,
             "parent": null,
             "title": "Our Values: Empowerment",
-            "description": "",
+            "description": "Movements claiming to be without leaders are bullshit. Everything starts somewhere and with someone or a group of someones. It's critical in my mind, as the person starting HAX, to frame what it is th",
             "metadata": {
                 "created": 1571929041,
-                "updated": 1571929041
+                "updated": 1571929078,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 20,
+                    "schema": [],
+                    "tags": {
+                        "p": 20
+                    },
+                    "elements": 20
+                }
             }
         },
         {
