@@ -231,6 +231,19 @@
             }
         },
         {
+            "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
+            "indent": 0,
+            "location": "pages\/the-infinite-void\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "The infinite void",
+            "description": "",
+            "metadata": {
+                "created": 1571928965,
+                "updated": 1571928965
+            }
+        },
+        {
             "id": "item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711",
             "indent": 0,
             "location": "pages\/my-first-time-on-stage\/index.html",
