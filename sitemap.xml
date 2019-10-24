@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-10-24T09:04:44-06:00" -->
+<!-- generated-on="2019-10-24T10:05:47-06:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://btopro.comhttps://btopro.com/why-i-started-hax-camp</loc>
     <lastmod>2019-09-27T11:43:48-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://btopro.comhttps://btopro.com/villains-visionaries</loc>
+    <lastmod>2019-10-24T09:01:45-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -16,8 +22,8 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/abstractionism</loc>
-    <lastmod>2019-10-24T09:04:05-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/reverse-imprinting</loc>
+    <lastmod>2019-10-24T09:59:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -28,8 +34,8 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://btopro.comhttps://btopro.com/villains-visionaries</loc>
-    <lastmod>2019-10-24T09:01:45-06:00</lastmod>
+    <loc>https://btopro.comhttps://btopro.com/abstractionism</loc>
+    <lastmod>2019-10-24T09:04:05-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
