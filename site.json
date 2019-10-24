@@ -260,10 +260,21 @@
             "order": 0,
             "parent": null,
             "title": "Abstractionism",
-            "description": "",
+            "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).This has been happening",
             "metadata": {
                 "created": 1571929384,
-                "updated": 1571929384
+                "updated": 1571929445,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 35,
+                    "schema": [],
+                    "tags": {
+                        "p": 35,
+                        "h2": 5
+                    },
+                    "elements": 40
+                }
             }
         },
         {
