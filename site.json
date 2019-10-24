@@ -254,6 +254,19 @@
             }
         },
         {
+            "id": "item-7080d384-ade3-441e-867f-4d5b955f99a2",
+            "indent": 0,
+            "location": "pages\/our-values-empowerment\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Our Values: Empowerment",
+            "description": "",
+            "metadata": {
+                "created": 1571929041,
+                "updated": 1571929041
+            }
+        },
+        {
             "id": "item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711",
             "indent": 0,
             "location": "pages\/my-first-time-on-stage\/index.html",
