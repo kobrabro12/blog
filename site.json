@@ -255,6 +255,29 @@
             }
         },
         {
+            "id": "item-0589f6d1-3184-4e46-a856-7522d2a1b435",
+            "indent": 0,
+            "location": "pages\/villains-visionaries\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Villains and Visionaries",
+            "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pla",
+            "metadata": {
+                "created": 1571929282,
+                "updated": 1571929305,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 12,
+                    "schema": [],
+                    "tags": {
+                        "p": 12
+                    },
+                    "elements": 12
+                }
+            }
+        },
+        {
             "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
             "indent": 0,
             "location": "pages\/the-infinite-void\/index.html",
@@ -278,27 +301,16 @@
             }
         },
         {
-            "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
+            "id": "item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7",
             "indent": 0,
-            "location": "pages\/abstractionism\/index.html",
+            "location": "pages\/reverse-imprinting\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Abstractionism",
-            "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).This has been happening",
+            "title": "Reverse Imprinting",
+            "description": "",
             "metadata": {
-                "created": 1571929384,
-                "updated": 1571929445,
-                "readtime": 3,
-                "contentDetails": {
-                    "headings": 5,
-                    "paragraphs": 35,
-                    "schema": [],
-                    "tags": {
-                        "p": 35,
-                        "h2": 5
-                    },
-                    "elements": 40
-                }
+                "created": 1571932740,
+                "updated": 1571932740
             }
         },
         {
@@ -325,25 +337,26 @@
             }
         },
         {
-            "id": "item-0589f6d1-3184-4e46-a856-7522d2a1b435",
+            "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
             "indent": 0,
-            "location": "pages\/villains-visionaries\/index.html",
+            "location": "pages\/abstractionism\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Villains and Visionaries",
-            "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pla",
+            "title": "Abstractionism",
+            "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).This has been happening",
             "metadata": {
-                "created": 1571929282,
-                "updated": 1571929305,
+                "created": 1571929384,
+                "updated": 1571929445,
                 "readtime": 3,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 12,
+                    "headings": 5,
+                    "paragraphs": 35,
                     "schema": [],
                     "tags": {
-                        "p": 12
+                        "p": 35,
+                        "h2": 5
                     },
-                    "elements": 12
+                    "elements": 40
                 }
             }
         },
