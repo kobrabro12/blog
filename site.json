@@ -343,6 +343,14 @@
                         "type": "image\/jpeg",
                         "name": "headshot529121.6300000087.jpg",
                         "size": 216612
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot533131.1700000078.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/headshot533131.1700000078.jpg",
+                        "url": "files\/headshot533131.1700000078.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot533131.1700000078.jpg",
+                        "size": 227296
                     }
                 ]
             }
