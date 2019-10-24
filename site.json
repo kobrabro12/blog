@@ -254,26 +254,16 @@
             }
         },
         {
-            "id": "item-0589f6d1-3184-4e46-a856-7522d2a1b435",
+            "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
             "indent": 0,
-            "location": "pages\/villains-visionaries\/index.html",
+            "location": "pages\/abstractionism\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Villains and Visionaries",
-            "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pla",
+            "title": "Abstractionism",
+            "description": "",
             "metadata": {
-                "created": 1571929282,
-                "updated": 1571929305,
-                "readtime": 3,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 12,
-                    "schema": [],
-                    "tags": {
-                        "p": 12
-                    },
-                    "elements": 12
-                }
+                "created": 1571929384,
+                "updated": 1571929384
             }
         },
         {
@@ -296,6 +286,29 @@
                         "p": 20
                     },
                     "elements": 20
+                }
+            }
+        },
+        {
+            "id": "item-0589f6d1-3184-4e46-a856-7522d2a1b435",
+            "indent": 0,
+            "location": "pages\/villains-visionaries\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Villains and Visionaries",
+            "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pla",
+            "metadata": {
+                "created": 1571929282,
+                "updated": 1571929305,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 12,
+                    "schema": [],
+                    "tags": {
+                        "p": 12
+                    },
+                    "elements": 12
                 }
             }
         },
