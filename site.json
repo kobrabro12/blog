@@ -203,6 +203,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190729_103418.jpg",
                         "size": 13500
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot495331.4750000136.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/headshot495331.4750000136.jpg",
+                        "url": "files\/headshot495331.4750000136.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot495331.4750000136.jpg",
+                        "size": 228989
                     }
                 ],
                 "readtime": 4,
