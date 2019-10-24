@@ -260,10 +260,20 @@
             "order": 0,
             "parent": null,
             "title": "Villains and Visionaries",
-            "description": "",
+            "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pla",
             "metadata": {
                 "created": 1571929282,
-                "updated": 1571929282
+                "updated": 1571929305,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 12,
+                    "schema": [],
+                    "tags": {
+                        "p": 12
+                    },
+                    "elements": 12
+                }
             }
         },
         {
