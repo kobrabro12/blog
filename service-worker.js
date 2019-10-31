@@ -43,20 +43,24 @@ var precacheConfig = [
         "AIiwahwGUDwTUv4FqudQ"
     ],
     [
+        "pages\/villains-visionaries\/index.html",
+        "LWtEcbcCGCj8OxmtPpeQ"
+    ],
+    [
         "pages\/the-infinite-void\/index.html",
         "HCnj993OfosQhGYx1l6ZGg"
     ],
     [
-        "pages\/abstractionism\/index.html",
-        "Sps3Ce7ndqSyeKaZiXGA"
+        "pages\/catching-gman\/index.html",
+        "ZZ7k7fNMODJsVpLmBpNUnA"
     ],
     [
         "pages\/our-values-empowerment\/index.html",
         "Wwnk1or1gHWjyNBqgXrGqg"
     ],
     [
-        "pages\/villains-visionaries\/index.html",
-        "LWtEcbcCGCj8OxmtPpeQ"
+        "pages\/abstractionism\/index.html",
+        "Sps3Ce7ndqSyeKaZiXGA"
     ],
     [
         "pages\/my-first-time-on-stage\/index.html",
@@ -296,7 +300,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "tI74TTDVG5vUuIuhDt5Wjw"
+        "NzJOQEHdJPaVVYOl0rqGw"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -348,7 +352,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "yTYRayt558tDvskuExMOEg"
+        "ku5MP7RSJEN5b6nSjaCPPQ"
     ],
     [
         "404.html",
@@ -407,6 +411,14 @@ var precacheConfig = [
         "ABnWktPUavyklcTBuzrxFg"
     ],
     [
+        "files\/headshot422070.074999996.jpg",
+        "LUnzN4NO7ByKLmet2KpuA"
+    ],
+    [
+        "files\/headshot533131.1700000078.jpg",
+        "uYa5u8X2mBeGl0UEsSTdEw"
+    ],
+    [
         "files\/headshot511743.1799999904.jpg",
         "R637p9fdcA9HCiCZ5NHE4Q"
     ],
@@ -447,6 +459,10 @@ var precacheConfig = [
         "a1IjCWVuT80Jcqr1cM3gw"
     ],
     [
+        "files\/headshot451242.7200000384.jpg",
+        "wdcjAmi7h8NoO34DVEePsA"
+    ],
+    [
         "files\/2019-05-24_11-14-49.jpg",
         "HKAmOmArCq11EM1PS8hSw"
     ],
@@ -483,6 +499,10 @@ var precacheConfig = [
         "z77zUoHK2sWjSeTi04Pusg"
     ],
     [
+        "files\/headshot522511.73000002746.jpg",
+        "6MD5JYySNuHQ6gSM4ZQ8Q"
+    ],
+    [
         "files\/IMG_20190713_122826.jpg",
         "uCQ1SsTycMdzlS4XBpcoQ"
     ],
@@ -497,6 +517,10 @@ var precacheConfig = [
     [
         "files\/IMG_20190713_185619.jpg",
         "fHWEWlbpxUmMF70B2vTwQ"
+    ],
+    [
+        "files\/headshot529121.6300000087.jpg",
+        "WqqMjfZOFxJDYejOQxFXQ"
     ],
     [
         "files\/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
