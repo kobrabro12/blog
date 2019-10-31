@@ -15,7 +15,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1572555285,
+            "updated": 1572555313,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false,
@@ -46,8 +46,8 @@
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#ffffff",
-                "cssVariable": "--simple-colors-default-theme--7",
-                "icon": "social:public"
+                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
+                "icon": "icons:gesture"
             }
         },
         "node": {
