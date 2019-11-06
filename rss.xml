@@ -6,7 +6,7 @@
     <description>Loud, yelly, abrasive, caring; dreaming the future into reality.</description>
     <copyright>Copyright (C) 2019 https://btopro.com</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Oct 2019 09:04:49 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 14:55:13 -0600</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Catching Gman</title>
@@ -178,18 +178,12 @@
       <link>https://btopro.com/why-i-started-hax-camp</link>
       <description>
           <![CDATA[ <p>Hi. I'm Bryan Ollendyke, and I have a vision of the future and, I think, a way to get there. I'm not fancy. I don't have big money. I don't have important people on high; I have something far more important than any big tech start up of today: <b>Belief</b>
-
 .</p>
 <p>I believe in the people around me. My coworkers, my friends, my colleagues that have seen what I've been talking about for years and didn't write me off. While many have helped put < <b>hax-camp ></b>
-
-
  on both financially and through time donation, I knew 2019 was the year to plant the flag in the ground and I'm honored to have so many say "Let's do this!".</p>
 <p>I believe we can make a better world by improving education. And yes, I oddly believe a big piece of that can come through the smallest of things: a "cute" little text editor.</p>
 <p>I'm not logical if you're viewing the world through the lens of today. But I'm not "playing" for the markets and systems of today, I'm playing for the markets and systems that will be to come. I'm not here to participate in the marketplace that exist, I'm here to bring us to another level; where we need to be pushing towards.</p>
 <p>I think that the <i>web component standard</i>
-
-
-
  poses an existential threat to the monopoly on talent, power and capabilities previously only held by an elite few. I think this will become more and more understood as people dig into the elements our team has created thus far and the ones we have planned to create which invoke containers on demand to blur the lines of what "static" systems can do.</p>
 <p>Take Drupal, a place I've called home for over a decade. Regularly you can pull $100 to $350 and hour for work because of the knowledge economy that's emerged there. That isn't equality. That isn't stability. Its rampant profiteering and a direct incentive to keep knowledge complex, locked away, and difficult to use.</p>
 <p>Take traditional front end languages like React, places I'm critical of. They require tooling, advanced JavaScript knowledge, conventions that are non-standard and non-uniform across frameworks. These jobs pay in the $140k - $200k a year range and contract work isn't as lucrative as Drupal but still up there.</p>
@@ -204,40 +198,16 @@
 <p>I believe that together, we can all openly share and learn from one another and benefit from each other's experiences, successes and failures, regardless of who we are or where we come from.</p>
 <p>I believe that together, platforms and framework wars aside, we can build a better tomorrow by putting down our shields and locking arms.</p>
 <p>I believe in HAX and the potential of <b>< hax-camp ></b>
-
-
-
-
-
  so much that I've spent <i><b>my own money</b>
-
-
-
-
-
 </i>
-
-
-
-
-
  to purchase over 40, customized hockey jerseys without logos or brands, to symbolize our variety, uniqueness and individuality of developers and platforms yet unified under one common platform.</p>
 <p>I believe in HAX camp 2019 as the beginning of something new and the forging of a new path. <a href="https://www.eventbrite.com/e/hax-camp-web-components-all-the-things-tickets-69761529613?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare">Will you join us and start a new beginning together?</a>
-
-
-
-
 </p>
 <p><a href="https://hax.camp/">hax.camp</a>
-
-
-
-
 </p>
-<grid-plate layout="4/4/4" responsive-size="md" style="width: 100%;"><img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-1" style="width: 75%;"/>
-
+<grid-plate layout="4/4/4" responsive-size="xl" style="width: 100%;" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" column-widths="[&quot;33.3333333%&quot;,&quot;33.3333333%&quot;,&quot;33.3333333%&quot;]"><img src="files/EBd7L7eXkAAOW_d.jpg" slot="col-1" style="width: 75%;"/>
 <img src="files/IMG_20190729_213158.jpg" slot="col-3" style="width: 75%;"/><img src="files/IMG_20190819_205859.jpg" slot="col-3" style="width: 75%;"/>
-<img src="files/IMG_20190729_213151.jpg" slot="col-1" style="width: 75%;"/><img src="files/IMG_20190729_103418.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190726_105535.jpg" slot="col-3" style="width: 75%;"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190716_102855.jpg" slot="col-1" style="width: 100%;"/></grid-plate>
+<img src="files/IMG_20190729_213151.jpg" slot="col-1" style="width: 75%;"/><img style="width: 75%;" class=" active-item" src="files/IMG_20190729_103418.jpg" datadraggable dataeditable datahaxray="Image" alt="HAX the web jersey" slot="col-2"/><img src="files/IMG_20190726_105535.jpg" slot="col-3" style="width: 75%;"/><img src="files/IMG_20190726_110706.jpg" slot="col-2" style="width: 75%;"/><img src="files/IMG_20190716_102855.jpg" slot="col-1" style="width: 100%;"/></grid-plate>
  ]]>
       </description>
       <category></category>
