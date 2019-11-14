@@ -17,15 +17,6 @@
   as="script" crossorigin="anonymous">
   <link rel="preload" href="./build/es6/node_modules/@lrnwebcomponents/simple-colors/simple-colors.js"
   as="script" crossorigin="anonymous">
-  <link rel="preload" href="./build/es6/node_modules/@polymer/paper-progress/paper-progress.js"
-  as="script" crossorigin="anonymous">
-  <link rel="preload" href="./build/es6/node_modules/lit-element/lit-element.js"
-  as="script" crossorigin="anonymous">
-  <link rel="preload" href="./build/es6/node_modules/@polymer/polymer/lib/utils/settings.js"
-  as="script" crossorigin="anonymous">
-  <link rel="preload" href="./build/es6/node_modules/@polymer/polymer/lib/mixins/element-mixin.js"
-  as="script" crossorigin="anonymous">
-
   <link rel="preload" href="./build/es6/dist/my-custom-elements.js" as="script" crossorigin="anonymous">
   <link rel="preload" href="./build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/base.css" as="style">
   <link rel="preload" href="./theme/theme.css" as="style">
@@ -38,7 +29,6 @@
       min-height: 100vh;
     }
     haxcms-site-builder {
-      transition: all 1s linear;
       display: block;
     }
     haxcms-site-builder:not(:defined) div.loading {

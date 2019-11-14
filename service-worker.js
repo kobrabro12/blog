@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/why-i-started-hax-camp\/index.html",
-        "AIiwahwGUDwTUv4FqudQ"
+        "ieSHKeEt1HhtynK5QFg"
     ],
     [
         "pages\/villains-visionaries\/index.html",
@@ -300,7 +300,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "NzJOQEHdJPaVVYOl0rqGw"
+        "TIPfmGXbXA9aLrH48CD3sA"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -352,7 +352,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "T4FES1xXcJy0osqvP0W1w"
+        "HlUuHdzf00C3viUn7pfKmw"
     ],
     [
         "404.html",
@@ -481,6 +481,10 @@ var precacheConfig = [
     [
         "files\/headshot143493.3299999684.jpg",
         "gJwD9axCQTt2nMKKzPDdOA"
+    ],
+    [
+        "files\/headshot14076.185000012629.jpg",
+        "0x4WCdPB4GyYJ5IMxw"
     ],
     [
         "files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
