@@ -103,10 +103,22 @@
             "order": "0",
             "parent": null,
             "title": "The Climb",
-            "description": "",
+            "description": "It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]  if we're going to get to 2020 and what's to come in that year... there",
             "metadata": {
                 "created": 1577734575,
-                "updated": 1577734585
+                "updated": 1577737758,
+                "readtime": 5,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 16,
+                    "schema": [],
+                    "tags": {
+                        "p": 16,
+                        "lrndesign-blockquote": 1,
+                        "ol": 1
+                    },
+                    "elements": 18
+                }
             }
         },
         {

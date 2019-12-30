@@ -3,7 +3,7 @@
   <title>bto-pro</title>
   <link href="https://btopro.com/atom.xml" rel="self" />
   <subtitle>Loud, yelly, abrasive, caring; dreaming the future into reality.</subtitle>
-  <updated>2019-11-14T11:22:31-07:00</updated>
+  <updated>2019-12-30T12:36:40-07:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -11,13 +11,45 @@
   <entry>
     <title>The Climb</title>
     <id>https://btopro.com/the-climb-1</id>
-    <updated>2019-12-30T12:36:25-07:00</updated>
+    <updated>2019-12-30T13:29:18-07:00</updated>
     <published>2019-12-30T12:36:15-07:00</published>
-    <summary></summary>
+    <summary>It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]  if we're going to get to 2020 and what's to come in that year... there</summary>
     <link href="https://btopro.com/the-climb-1"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ <p>It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]</p>
+<lrndesign-blockquote author="btopro" display-mode="default" style="width: 100%;">  <span>if we're going to get to 2020 and what's to come in that year... there's going to be a lot of pain this year</span>
+</lrndesign-blockquote>
+<p>I said then, that 2019 was going to be a climb, the death march toward what we are to become. The royal we as in me personally, but also the "we" as in our little team of core developers.</p>
+<p>Wow, did I have no idea what would change for me this year at the end of 2018 leading into 2019... Not all full thoughts but here's what I can remember about the year.</p>
+<p>My boss put in notice early 2019, like 2 days in, leaving me without a direct super visor until about July. My new manager is actively seeking to expand our project and champion it internally to complement our external championing. This was a huge change for me throughout the year and I think is starting to be reflected in some of the work I'm doing that won't be discussed more openly until July 2020.</p>
+<p>I co-presented on <a href="https://www.youtube.com/watch?v=Akn6keIYZ3k&feature=emb_title">Web Components with RedHat at DrupalCon Seattle</a>
+, in which I announced <b>HAXcms</b>
+ and showed an early prototype; with HAX ultimately being presented on at nine events I can think of off the top of my head by different members of the team, we've started to get outside feedback, and implementations, the most impressive of which being...</p>
+<p>HAXcms can now be installed in Reclaim Hosting! HAXcms is still early on and hell it was incredibly early on at the time they added it, but we've already had contributions and UX reports from people using it via Reclaim hosting (a huge win). I met Jim and Tim at BYU API Unconference where we talked HAX, indieweb and immediately hit it off. They took me and Potter out for dinner the last night there saying that they wanted to be able to tell people they took us out to eat once before we "hit it big". Every time I've gone to BYU I've come away with something unexpected and meeting them, getting encouragement from people I really respect in the field, it meant a lot and was definitely not something I expected.</p>
+<p>ELMS:LN has largely moved to a collective of projects as opposed to a single platform. Between HAX, HAXcms, HAXiam, LRNWebcomponents, WCFactory and ELMSLN itself, it's far more an organization of supported projects then one monolith.</p>
+<p>While still supported, it is largely being driven by HAX related projects and efforts which will hollow out the Drupal theme layer in order to allow HAXcms themes to drive the UI layer. The platform removed (literally) <i>100s of thousands of lines of code</i>
+ and over 50 modules this year as a result of advancements in web components. We also adopted V1 spec elements in production courses ~ March, meaning we successfully switched out all this code live with 1000s of students with all of I think 3 people reporting issues (because they were accessing at the exact moment the JS assets were all upgraded, a simple cache clear fix).<br/></p>
+<p>After meeting Jim at BYU, he mentioned that I should attend Reclaim Hosting's Domain's conference. I not only had a topic accepted... but I finally resolved my abrasiveness and love of tech with what actually drives me and what I actually feel about education. If you want to see the <a href="https://www.youtube.com/watch?v=Eksr9y4nxQ4&list=PLpK5svzslv8qi8YZjqJqKS2hLEGwnUPF0&index=19">1st talk I've ever done completely free of the weight of perception, here ya go</a>
+. I met <a href="https://twitter.com/OnlineCrsLady">Laura Gibbs</a>
+ as a result of my rambling (mention her in the talk as a ranted) she started experimenting with HAXcms, which was still highly experimental and gave invaluable feedback about time to first usage and helped improve HAXcms to the point that I could teach with it in the Fall.</p>
+<p>I'm sorry what? Yeah, I started teaching this Fall and began putting into action the "second research project" I mentioned at the Domain's conference which I call EdTechJoker. I wasn't supposed to teach... if the establishment had it's way. But over a long enough timeline, you get one person that can lower a ladder and recognize those that don't just talk change but live it.</p>
+<p>I got my ladder, and after getting to present to the faculty of the college I graduated from 14 years ago, I think we're going to start shaking things up in a big way. The course follows a three act play:</p>
+<ol><li>Web fundamentals / building yourself as a brand</li>
+<li>Content Management systems / FOSS</li>
+<li>Activism through technology selection</li>
+</ol>
+<p><span>The course revolves around students understanding how the web works, some of the technologies that ride on top of it but also learning how to better communicate through written and spoken word about technology. They had to create their own brand in order to communicate about tech topics as someone getting into the field. And so, 36 students later, here we are with 1 semester complete, high reviews, tons of UX feedback for HAX (24 items, 18 resolved already), and hopefully a lot more open minds about the way education and the web both work.</span></p>
+<p><span>My off the hook, raw, real style of speaking and critiquing structures as well as pointing out how things actually work on the web I hope inspire others to enact greater change in society. We are more than the technology we select and it is more than just a choice, choices (all of them) have politics.</span></p>
+<p><span>It was a highlight of my career, something I've always wanted to do and the tip of the spear as I'm currently slated to teach 46 in Spring of 2020 and while not the focus, the money I am getting from this course is going to go towards helping me bootstrap my dream; the vision I have of what I am to accomplish with this life...</span></p>
+<p>With this additional flexibility, relationships forged, tooling enhancements and general need for community... I organized the 1st ever <a href="https://hax.camp">hax-camp that Duke hosted</a>
+ and we had over 40 people come to learn about web components, including the whole HAXTheWeb core team. I gave a "what's this community for" style lunch address in which I expressed better then I probably ever have been able to, the point of web components and what problem HAX is trying to solve (namely, decentralize power structures). You can <a href="https://www.youtube.com/watch?v=f_tEA9O9pco&t=1s">watch it here if you want</a>
+, or attend <b>one of the four hax-camp's that are anticipated to take place in 2020</b>
+.</p>
+<p>If you want to know what they are like, Check out <a href="https://blog.timowens.io/reflections-on-hax-camp/">Tim's take</a>
+ or <a href="https://bavatuesdays.com/hax-the-web-haxcamp/">Jim's take</a>
+ on them.</p>
+ ]]>
     </content>
   </entry>
   <entry>
