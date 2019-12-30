@@ -106,18 +106,22 @@
             "description": "It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]  if we're going to get to 2020 and what's to come in that year... there",
             "metadata": {
                 "created": 1577734575,
-                "updated": 1577737758,
-                "readtime": 5,
+                "updated": 1577738705,
+                "readtime": 7,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 16,
+                    "headings": 1,
+                    "paragraphs": 19,
                     "schema": [],
                     "tags": {
-                        "p": 16,
+                        "p": 19,
                         "lrndesign-blockquote": 1,
-                        "ol": 1
+                        "ol": 1,
+                        "video-player": 1,
+                        "h2": 1,
+                        "ul": 1,
+                        "grid-plate": 1
                     },
-                    "elements": 18
+                    "elements": 25
                 },
                 "files": [
                     {
