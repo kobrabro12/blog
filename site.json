@@ -127,6 +127,14 @@
                         "type": "image\/gif",
                         "name": "edtechjoker.gif",
                         "size": 838403
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/edtechjoker.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/edtechjoker.jpg",
+                        "url": "files\/edtechjoker.jpg",
+                        "type": "image\/jpeg",
+                        "name": "edtechjoker.jpg",
+                        "size": 68012
                     }
                 ]
             }
