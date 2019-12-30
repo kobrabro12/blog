@@ -263,6 +263,30 @@
             }
         },
         {
+            "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
+            "indent": 0,
+            "location": "pages\/abstractionism\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Abstractionism",
+            "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).This has been happening",
+            "metadata": {
+                "created": 1571929384,
+                "updated": 1571929445,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 35,
+                    "schema": [],
+                    "tags": {
+                        "p": 35,
+                        "h2": 5
+                    },
+                    "elements": 40
+                }
+            }
+        },
+        {
             "id": "item-0589f6d1-3184-4e46-a856-7522d2a1b435",
             "indent": 0,
             "location": "pages\/villains-visionaries\/index.html",
@@ -286,25 +310,38 @@
             }
         },
         {
-            "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
+            "id": "item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0",
             "indent": 0,
-            "location": "pages\/the-infinite-void\/index.html",
+            "location": "pages\/the-climb\/index.html",
             "order": 0,
             "parent": null,
-            "title": "The infinite void",
-            "description": "Staring off, into nothing. Spacing out, focusing on the sound and the feeling of the sun beating down on my arms. I don't know what it is.. but when I see others relax at the beach I can't help but fe",
+            "title": "The Climb",
+            "description": "",
             "metadata": {
-                "created": 1571928965,
-                "updated": 1571929228,
+                "created": 1577734575,
+                "updated": 1577734575
+            }
+        },
+        {
+            "id": "item-7080d384-ade3-441e-867f-4d5b955f99a2",
+            "indent": 0,
+            "location": "pages\/our-values-empowerment\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Our Values: Empowerment",
+            "description": "Movements claiming to be without leaders are bullshit. Everything starts somewhere and with someone or a group of someones. It's critical in my mind, as the person starting HAX, to frame what it is th",
+            "metadata": {
+                "created": 1571929041,
+                "updated": 1571929078,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 12,
+                    "paragraphs": 20,
                     "schema": [],
                     "tags": {
-                        "p": 12
+                        "p": 20
                     },
-                    "elements": 12
+                    "elements": 20
                 }
             }
         },
@@ -380,49 +417,25 @@
             }
         },
         {
-            "id": "item-7080d384-ade3-441e-867f-4d5b955f99a2",
+            "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
             "indent": 0,
-            "location": "pages\/our-values-empowerment\/index.html",
+            "location": "pages\/the-infinite-void\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Our Values: Empowerment",
-            "description": "Movements claiming to be without leaders are bullshit. Everything starts somewhere and with someone or a group of someones. It's critical in my mind, as the person starting HAX, to frame what it is th",
+            "title": "The infinite void",
+            "description": "Staring off, into nothing. Spacing out, focusing on the sound and the feeling of the sun beating down on my arms. I don't know what it is.. but when I see others relax at the beach I can't help but fe",
             "metadata": {
-                "created": 1571929041,
-                "updated": 1571929078,
+                "created": 1571928965,
+                "updated": 1571929228,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 20,
+                    "paragraphs": 12,
                     "schema": [],
                     "tags": {
-                        "p": 20
+                        "p": 12
                     },
-                    "elements": 20
-                }
-            }
-        },
-        {
-            "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
-            "indent": 0,
-            "location": "pages\/abstractionism\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "Abstractionism",
-            "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).This has been happening",
-            "metadata": {
-                "created": 1571929384,
-                "updated": 1571929445,
-                "readtime": 3,
-                "contentDetails": {
-                    "headings": 5,
-                    "paragraphs": 35,
-                    "schema": [],
-                    "tags": {
-                        "p": 35,
-                        "h2": 5
-                    },
-                    "elements": 40
+                    "elements": 12
                 }
             }
         },
