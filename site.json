@@ -118,7 +118,17 @@
                         "ol": 1
                     },
                     "elements": 18
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/edtechjoker.gif",
+                        "fullUrl": "\/sites\/btopro\/files\/edtechjoker.gif",
+                        "url": "files\/edtechjoker.gif",
+                        "type": "image\/gif",
+                        "name": "edtechjoker.gif",
+                        "size": 838403
+                    }
+                ]
             }
         },
         {
