@@ -4,10 +4,20 @@
     <title>bto-pro</title>
     <link>https://btopro.com/rss.xml</link>
     <description>Loud, yelly, abrasive, caring; dreaming the future into reality.</description>
-    <copyright>Copyright (C) 2019 https://btopro.com</copyright>
+    <copyright>Copyright (C) 2020 https://btopro.com</copyright>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2019 12:36:40 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2020 02:47:55 +0000</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Information Altruism 2.0</title>
+      <link>https://btopro.com/information-altruism-2-0</link>
+      <description>
+          <![CDATA[ <p></p> ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/information-altruism-2-0</guid>
+      <pubDate>Tue, 10 Mar 2020 02:48:21 +0000</pubDate>
+    </item>
     <item>
       <title>The Climb</title>
       <link>https://btopro.com/the-climb-1</link>
@@ -78,7 +88,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/the-climb-1</guid>
-      <pubDate>Mon, 30 Dec 2019 12:36:15 -0700</pubDate>
+      <pubDate>Mon, 30 Dec 2019 19:36:15 +0000</pubDate>
     </item>
     <item>
       <title>Catching Gman</title>
@@ -119,7 +129,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/catching-gman-1</guid>
-      <pubDate>Thu, 24 Oct 2019 09:59:00 -0600</pubDate>
+      <pubDate>Thu, 24 Oct 2019 15:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Abstractionism</title>
@@ -169,7 +179,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/abstractionism-1</guid>
-      <pubDate>Thu, 24 Oct 2019 09:03:04 -0600</pubDate>
+      <pubDate>Thu, 24 Oct 2019 15:03:04 +0000</pubDate>
     </item>
     <item>
       <title>Villains and Visionaries</title>
@@ -191,7 +201,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/villains-and-visionaries</guid>
-      <pubDate>Thu, 24 Oct 2019 09:01:22 -0600</pubDate>
+      <pubDate>Thu, 24 Oct 2019 15:01:22 +0000</pubDate>
     </item>
     <item>
       <title>Our Values: Empowerment</title>
@@ -221,7 +231,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/our-values-empowerment-1</guid>
-      <pubDate>Thu, 24 Oct 2019 08:57:21 -0600</pubDate>
+      <pubDate>Thu, 24 Oct 2019 14:57:21 +0000</pubDate>
     </item>
     <item>
       <title>The infinite void</title>
@@ -243,7 +253,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/the-infinite-void-1</guid>
-      <pubDate>Thu, 24 Oct 2019 08:56:05 -0600</pubDate>
+      <pubDate>Thu, 24 Oct 2019 14:56:05 +0000</pubDate>
     </item>
     <item>
       <title>Why I started hax-camp</title>
@@ -284,7 +294,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/why-i-started-hax-camp-1</guid>
-      <pubDate>Wed, 11 Sep 2019 12:12:51 -0600</pubDate>
+      <pubDate>Wed, 11 Sep 2019 18:12:51 +0000</pubDate>
     </item>
     <item>
       <title>My first time on stage</title>
@@ -337,7 +347,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/my-first-time-on-stage-2</guid>
-      <pubDate>Thu, 29 Aug 2019 13:09:43 -0600</pubDate>
+      <pubDate>Thu, 29 Aug 2019 19:09:43 +0000</pubDate>
     </item>
     <item>
       <title>Annabella</title>
@@ -404,7 +414,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/annabella-2</guid>
-      <pubDate>Sat, 27 Jul 2019 21:34:02 -0600</pubDate>
+      <pubDate>Sun, 28 Jul 2019 03:34:02 +0000</pubDate>
     </item>
     <item>
       <title>Hey, remember when</title>
@@ -455,7 +465,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/hey-remember-when-2</guid>
-      <pubDate>Sun, 21 Jul 2019 18:45:49 -0600</pubDate>
+      <pubDate>Mon, 22 Jul 2019 00:45:49 +0000</pubDate>
     </item>
     <item>
       <title>Open Community Pedagogy</title>
@@ -508,7 +518,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/open-community-pedagogy-2</guid>
-      <pubDate>Fri, 21 Jun 2019 09:07:22 -0600</pubDate>
+      <pubDate>Fri, 21 Jun 2019 15:07:22 +0000</pubDate>
     </item>
     <item>
       <title>Stand against the ocean</title>
@@ -530,7 +540,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/stand-against-the-ocean-2</guid>
-      <pubDate>Wed, 19 Jun 2019 14:40:55 -0600</pubDate>
+      <pubDate>Wed, 19 Jun 2019 20:40:55 +0000</pubDate>
     </item>
     <item>
       <title>EdTechJoker</title>
@@ -561,7 +571,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/edtechjoker-2</guid>
-      <pubDate>Wed, 12 Jun 2019 20:14:21 -0600</pubDate>
+      <pubDate>Thu, 13 Jun 2019 02:14:21 +0000</pubDate>
     </item>
     <item>
       <title>Technical weapons</title>
@@ -642,7 +652,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/technical-weapons-2</guid>
-      <pubDate>Wed, 05 Jun 2019 20:51:23 -0600</pubDate>
+      <pubDate>Thu, 06 Jun 2019 02:51:23 +0000</pubDate>
     </item>
     <item>
       <title>I made a thing</title>
@@ -659,7 +669,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/i-made-a-thing-2</guid>
-      <pubDate>Fri, 31 May 2019 15:01:29 -0600</pubDate>
+      <pubDate>Fri, 31 May 2019 21:01:29 +0000</pubDate>
     </item>
     <item>
       <title>THE web components high performance video</title>
@@ -697,7 +707,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/the-web-components-high-performance-video-2</guid>
-      <pubDate>Fri, 24 May 2019 08:56:35 -0600</pubDate>
+      <pubDate>Fri, 24 May 2019 14:56:35 +0000</pubDate>
     </item>
     <item>
       <title>Ocean</title>
@@ -707,7 +717,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/ocean</guid>
-      <pubDate>Fri, 03 May 2019 12:21:19 -0600</pubDate>
+      <pubDate>Fri, 03 May 2019 18:21:19 +0000</pubDate>
     </item>
     <item>
       <title>Drunken UX interview</title>
@@ -822,7 +832,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/drunken-ux-interview-2</guid>
-      <pubDate>Mon, 01 Apr 2019 11:47:45 -0600</pubDate>
+      <pubDate>Mon, 01 Apr 2019 17:47:45 +0000</pubDate>
     </item>
     <item>
       <title>All screens have rights</title>
@@ -974,7 +984,7 @@
       </description>
       <category></category>
       <guid>https://btopro.com/all-screens-have-rights-2</guid>
-      <pubDate>Thu, 28 Mar 2019 09:24:37 -0600</pubDate>
+      <pubDate>Thu, 28 Mar 2019 15:24:37 +0000</pubDate>
     </item>
     <item>
       <title>Reclaim the web</title>
@@ -1011,7 +1021,7 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
       </description>
       <category></category>
       <guid>https://btopro.com/reclaim-the-web-2</guid>
-      <pubDate>Mon, 25 Mar 2019 08:36:23 -0600</pubDate>
+      <pubDate>Mon, 25 Mar 2019 14:36:23 +0000</pubDate>
     </item>
     <item>
       <title>HAXcms Theme layer Code Review</title>
@@ -1040,7 +1050,7 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
       </description>
       <category></category>
       <guid>https://btopro.com/haxcms-theme-layer-code-review-2</guid>
-      <pubDate>Fri, 01 Mar 2019 13:13:35 -0700</pubDate>
+      <pubDate>Fri, 01 Mar 2019 20:13:35 +0000</pubDate>
     </item>
     <item>
       <title>ELMS:LN Code review series Part 1</title>
@@ -1096,7 +1106,7 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
       </description>
       <category></category>
       <guid>https://btopro.com/elms-ln-code-review-series-part-1-2</guid>
-      <pubDate>Fri, 01 Mar 2019 09:37:33 -0700</pubDate>
+      <pubDate>Fri, 01 Mar 2019 16:37:33 +0000</pubDate>
     </item>
     <item>
       <title>Fortify</title>
@@ -1138,61 +1148,35 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
       </description>
       <category></category>
       <guid>https://btopro.com/fortify-2</guid>
-      <pubDate>Thu, 21 Feb 2019 21:36:07 -0700</pubDate>
+      <pubDate>Fri, 22 Feb 2019 04:36:07 +0000</pubDate>
     </item>
     <item>
-      <title>[Alt] + {{reality}}</title>
-      <link>https://btopro.com/-alt-reality--2</link>
+      <title>Pure Joy</title>
+      <link>https://btopro.com/pure-joy-2</link>
       <description>
-          <![CDATA[  ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/-alt-reality--2</guid>
-      <pubDate>Tue, 29 Jan 2019 21:53:20 -0700</pubDate>
-    </item>
-    <item>
-      <title>Creating the decentralized instructional experience app</title>
-      <link>https://btopro.com/creating-the-decentralized-instructional-experience-app-2</link>
-      <description>
-          <![CDATA[ <p>This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the logical extension to HAX for desktop over 2018 which could be utilized to decentralize instructional experience creation. If this sounds of use to your institution, good, let's work together on it.</p>
-<h2><a id="user-content-problem" class="anchor" aria-hidden href="#problem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+          <![CDATA[ <p>The family gathered, friends came and we all shared a laugh.</p>
+<p>Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. "I have to start getting ready for bed can I brush my teeth?" A 7 year old is never one to demand they be put to bed when up snacking and well, not sleeping. But this wasn't an average day. This was December 24th.</p>
+<h2><a id="user-content-why-do-you-want-to-get-ready-for-bed" class="anchor" aria-hidden href="#why-do-you-want-to-get-ready-for-bed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
 </svg>
 </a>
-Problem</h2>
-<p>Faculty and staff have no idea what they can use at our institution. No matter how many registries of information or solutions we provide, people will need to practically be marketted to just to know they exist in the sea of information about what makes the university work. Beyond this, there is no way to provide continuous innovation to those not at high-touch units which work hand in hand with faculty to produce highly experimental course spaces and approaches. Even if we could find the things we need, very few of them talk to each other, their user experiences are all over the map, and most aren't very good for creating materials without needing to understand technical topics (like HTML). This isn't a PSU specific problem, Duke has an illustration that highlights 93+ solutions available to faculty, many of which don't talk even if they knew them all.
-How to solve the problem of finding and once getting there creating engaging experiences?</p>
-<h2><a id="user-content-leading-questions" class="anchor" aria-hidden href="#leading-questions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+"Why do you want to get ready for bed?"</h2>
+<h2><a id="user-content-because-i-have-to-get-ready-for-bed-and-go-to-sleep-so-santa-can-come-at-midnight" class="anchor" aria-hidden href="#because-i-have-to-get-ready-for-bed-and-go-to-sleep-so-santa-can-come-at-midnight"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
 </svg>
 </a>
-Leading questions</h2>
-<ul>
-<li>What if faculty and staff involved in producing instructional experiences had an app that told them what services existed and made it instantly possible to use?</li>
-
-<li>What would it look like institutionally and what would the use experience look like?</li>
-
-<li>What needs would we have technically in order to support this?</li>
-
-</ul>
-<h2><a id="user-content-vision" class="anchor" aria-hidden href="#vision"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Vision</h2>
-<p>This is the vision of HAX, a distributed instructional creation tool. <a href="http://haxtheweb.org/" rel="nofollow">HAX can be viewed as a public demo here</a>
-. The important thing to keep in mind with this is that desktop publishing of applications can be done using HTML, making them far easier to build when you just make it work on the web. Imagine if users could log into the app on their laptop or phone and just create. Creating a new course? Start one on your local machine and with the press of a button publish it to Canvas, Drupal, ELMS:LN, GravCMS or a static website. Want to see what colleagues have shared from their courses? Fork their materials by searching an institution protected repository right from the app or connect to global shared object repositories. Instead of trying to market to faculty and staff what services are available, have people utilize a unified app which connects to the registry of everything available to them for teaching and learning.
-Want to stream video? Upload it to the app and it'll publish it to youtube or the video provider the university supports. Want to create H5P but don't understand hosting? Build it in the app and it'll save to the correct, FERPA valid location. Want to create a slideshow? Drag and drop a series of images which automatically get uploaded to Amazon S3 and then click a UI to "build" your slideshow. Worry about accessibility? HAX will take care of it for you automatically and without the ability to make in-accessible content. Content in HAX is accessible by default due to the game changing technology called <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents</a>
-.
-Let's get faculty and staff out of the business of understanding HTML and instead build materials that allow them to leverage the services the institution provides without increased cognitive load.</p>
-<h2><a id="user-content-2018" class="anchor" aria-hidden href="#2018"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-2018</h2>
-<p>The ELMS:LN team has begun work on such a desktop app called <a href="https://github.com/LRNWebComponents/hax-desktop-app">HAX deskop app</a>
- which seeks to achieve this vision. Help us make this a reality in 2018 and beyond as we seek to empower faculty and align technology deployments with academic freedom and student curiosity.</p>
+"Because, I have to get ready for bed and go to sleep so Santa can come at Midnight!"</h2>
+<p>He was very excited for Christmas this year, more so then any previous. His cousin was in town, his brother was also at an age he could grasp the brevity of the day. It is among the peak of the family joy meter when it comes to kiddo happiness.
+He laid down and made me rush through prayers because he had to go to sleep. He is a wonderful, funny, thoughtful little boy; and after all the hours worked, time on this machine worked, it is incredibly rewarding to sit back and watch them. I'm not taking these years for granted, I know they are fleeting; I can barely hold my boys at night to put into bed or rock them to calm down after a bad dream.</p>
+<p>I got my wife a book this year called <em>The Book of Happiness</em>
+. And it's a large, blank book. It's a replica from the movie Up that the main character and his wife build and I was going to write in it but instead, I left it blank. Because it's not my story to write and build; It's our story, and the pages of our lives we write together are the ones we need to document together. The smiles from a surprise trip, or a long awaited one, the tokens of places visited, artwork, treasures. These are all we'll have left one day. Not the presents, the wrapping, the food; just the few single pages of the incredible story we wrote together.</p>
+<p>Right now though, we're in the think of our story. I pray our pages are many in this book, but no matter what the ending, these will always be years colored with pure golden sunshine. The light that only children bring to our lives as parents. The golden years of our little family growing together, as we all get to be apart of a memorable phenomena:
+<em><strong>Pure Joy</strong>
+</em>
+.</p>
  ]]>
       </description>
       <category></category>
-      <guid>https://btopro.com/creating-the-decentralized-instructional-experience-app-2</guid>
-      <pubDate>Tue, 29 Jan 2019 21:53:20 -0700</pubDate>
+      <guid>https://btopro.com/pure-joy-2</guid>
+      <pubDate>Wed, 30 Jan 2019 04:53:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
