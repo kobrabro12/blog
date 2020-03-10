@@ -150,10 +150,24 @@
             "order": "1",
             "parent": null,
             "title": "Information Altruism 2.0",
-            "description": "",
+            "description": "In 2006 I started Graduate school at Penn State. I didn't know why I was there other then to get an advanced degree and be exposed to different ideas. In that exposure though, I found my purpose. My t",
             "metadata": {
                 "created": 1583808501,
-                "updated": 1583808501
+                "updated": 1583809629,
+                "readtime": 7,
+                "contentDetails": {
+                    "headings": 6,
+                    "paragraphs": 18,
+                    "schema": [],
+                    "tags": {
+                        "p": 18,
+                        "h2": 3,
+                        "ul": 1,
+                        "ol": 2,
+                        "h3": 3
+                    },
+                    "elements": 27
+                }
             }
         },
         {
