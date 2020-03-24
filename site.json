@@ -144,6 +144,19 @@
             }
         },
         {
+            "id": "item-88a3c232-54d6-4179-8059-634223f201c4",
+            "indent": 0,
+            "location": "pages\/keep-moving-week-0\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Kept moving: Week 0",
+            "description": "",
+            "metadata": {
+                "created": 1585017550,
+                "updated": 1585017550
+            }
+        },
+        {
             "id": "item-1235ea3a-9254-4b93-8df3-8909fddcce88",
             "indent": 0,
             "location": "pages\/information-altruism-2-0\/index.html",
