@@ -153,16 +153,18 @@
             "description": "I've felt 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some m",
             "metadata": {
                 "created": 1585017550,
-                "updated": 1585018110,
-                "readtime": 1,
+                "updated": 1585020657,
+                "readtime": 10,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 3,
+                    "headings": 1,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 3
+                        "p": 5,
+                        "ul": 2,
+                        "h2": 1
                     },
-                    "elements": 3
+                    "elements": 8
                 }
             }
         },
