@@ -9,6 +9,20 @@
     <lastBuildDate>Tue, 10 Mar 2020 02:48:22 +0000</lastBuildDate>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Kept moving: Week 0</title>
+      <link>https://btopro.com/keep-moving-week-0</link>
+      <description>
+          <![CDATA[ <p>I've <i>felt</i>
+ 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some meeting as our team was growing and realizing that we were at the start, nowhere near the end of what the journey would be.</p>
+<p>Since 2015, I've said 2020 would be a big year. I didn't know why and I certainly didn't see a global pandemic forcing a total change to the way people work and operate.</p>
+<p>Yea, we'll get past where we are now, but I think it's important to look at what's happening in real time and keep a record of it. I'm going to try and do this weekly while times are as they are. I wrote the </p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>https://btopro.com/keep-moving-week-0</guid>
+      <pubDate>Tue, 24 Mar 2020 02:39:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Information Altruism 2.0</title>
       <link>https://btopro.com/information-altruism-2-0</link>
       <description>
@@ -1196,16 +1210,6 @@ I was told it was a bit heavy for a tech talk. I have no f's I give.<br/></p>
       <category></category>
       <guid>https://btopro.com/fortify-2</guid>
       <pubDate>Fri, 22 Feb 2019 04:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Education, Technology... Action.</title>
-      <link>https://btopro.com/education-technology-action-2</link>
-      <description>
-          <![CDATA[ <p></p> ]]>
-      </description>
-      <category></category>
-      <guid>https://btopro.com/education-technology-action-2</guid>
-      <pubDate>Wed, 30 Jan 2019 04:53:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
