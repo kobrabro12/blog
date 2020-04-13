@@ -112,7 +112,7 @@
             "description": "I&#39;ve felt 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some m",
             "metadata": {
                 "created": 1585017550,
-                "updated": 1586802718,
+                "updated": 1586802723,
                 "readtime": 10,
                 "contentDetails": {
                     "headings": 1,
@@ -125,13 +125,7 @@
                     },
                     "elements": 9
                 },
-                "published": true,
-                "theme": {
-                    "element": "haxcms-basic-theme",
-                    "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-                    "name": "Basic site",
-                    "key": "haxcms-basic-theme"
-                }
+                "published": true
             }
         },
         {
