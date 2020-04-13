@@ -108,11 +108,11 @@
             "location": "pages\/keep-moving-week-0\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Kept moving: Week 0",
-            "description": "I've felt 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some m",
+            "title": "Keep moving: Week 0",
+            "description": "I&#39;ve felt 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some m",
             "metadata": {
                 "created": 1585017550,
-                "updated": 1586798792,
+                "updated": 1586798898,
                 "readtime": 10,
                 "contentDetails": {
                     "headings": 1,
@@ -126,9 +126,7 @@
                     "elements": 9
                 },
                 "published": true
-            },
-            "node-configure-title": "Keep moving: Week 0",
-            "node-configure-description": "I&#39;ve felt 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some m"
+            }
         },
         {
             "id": "item-1235ea3a-9254-4b93-8df3-8909fddcce88",
