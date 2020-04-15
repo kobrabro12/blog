@@ -378,14 +378,15 @@
             "description": "Movements claiming to be without leaders are bullshit. Everything starts somewhere and with someone or a group of someones. It's critical in my mind, as the person starting HAX, to frame what it is th",
             "metadata": {
                 "created": 1571929041,
-                "updated": 1583808501,
+                "updated": 1586986966,
                 "readtime": 3,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 20,
+                    "headings": 1,
+                    "paragraphs": 19,
                     "schema": [],
                     "tags": {
-                        "p": 20
+                        "p": 19,
+                        "h3": 1
                     },
                     "elements": 20
                 }
