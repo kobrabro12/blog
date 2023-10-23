@@ -5,3 +5,5 @@ yarn.lock
 build
 wc-registry.json
 dist
+assets/babel-bottom.js
+assets/babel-top.js
