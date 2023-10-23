@@ -1,12 +1,17 @@
 <?php
-  include_once __DIR__ . '/../../system/backend/php/bootstrapHAX.php';
+  $bootstrapPath = "/../..";
+  if (file_exists("/.dockerenv") && __DIR__ == "/var/www/html") {
+    $GLOBALS["HAXcmsInDocker"] = true;
+    $bootstrapPath = "";
+  }
+  include_once __DIR__ . $bootstrapPath . '/system/backend/php/bootstrapHAX.php';
   include_once $HAXCMS->configDirectory . '/config.php';
   $site = $HAXCMS->loadSite(basename(__DIR__));
   $page = $site->loadNodeByLocation();
   $color = 'var(' . $site->manifest->metadata->theme->variables->cssVariable . ', #FF2222)';
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php print $site->getLanguage(); ?>">
 <head>
   <?php print $site->getBaseTag(); ?>
   <?php print $site->getSiteMetadata($page); ?>
@@ -60,25 +65,7 @@
       top: 50%;
       transform: translateY(-50%);
     }
-    #loading div.messaging h1 {
-      color: white;
-      font-family: 'Open Sans', 'arial', 'serif';
-      font-size: 40px;
-      background-color: <?php print $color; ?>;
-      transition: .4s ease-in-out all;
-    }
-    #loading img {
-      transition: .4s all ease-in-out;
-      width: 300px;
-      height: 300px;
-      margin-bottom: 50px;
-      border-radius: 50%;
-      border: 8px solid <?php print $color;?>;
-      box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.45);
-      -moz-box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.45);
-	    -webkit-box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.45);
-      -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#444444')";
-    }
+
     .progress-line,
     .progress-line:before {
       height: 8px;
@@ -89,7 +76,7 @@
       background-color: rgba(0,0,0, 0.05);
       display: -webkit-flex;
       display: flex;
-      width: 300px;
+      width: 30vw;
     }
     .progress-line:before {
       background-color: <?php print $color;?>;
@@ -132,16 +119,15 @@
           document.querySelector('#loadingstyles').parentNode.removeChild(document.querySelector('#loadingstyles'));
           document.querySelector('#loadingscript').parentNode.removeChild(document.querySelector('#loadingscript'));
         }, 600);
-      }, 1000);
+      }, 300);
     });
   </script>
 </head>
 <body no-js <?php print $site->getSitePageAttributes();?>>
   <div id="loading">
     <div class="messaging">
-      <img src="<?php print $site->getLogoSize('300', '300');?>" alt="" loading="lazy" height="300px" width="300px" />
       <div class="progress-line"></div>
-      <h1>Loading <?php print $site->name; ?>..</h1>
+      <h1 role="alert" aria-busy="true">Loading <?php print $site->name; ?>..</h1>
     </div>
   </div>
   <haxcms-site-builder id="site" file="site.json<?php print $HAXCMS->cacheBusterHash();?>">
@@ -156,8 +142,15 @@
         view our website correctly. <a href="http://outdatedbrowser.com/">Update my browser now</a></div>
     </div>
   </div>
-  <script>document.body.removeAttribute('no-js');window.__appCDN="<?php print $HAXCMS->getCDNForDynamic();?>";window.__appForceUpgrade=<?php print $site->getForceUpgrade();?>;</script>
-  <script src="./build-haxcms.js"></script>
-  <script src="<?php print $HAXCMS->getCDNForDynamic();?>build.js"></script>
+  <script>
+    <?php 
+      // support for local dev overrides of where microservices / other JS comes from
+      if (file_exists('../../_config/.local.microservice.config.php')) {
+        include_once '../../_config/.local.microservice.config.php';
+      }
+    ?>
+    window.HAXCMSContext="php";document.body.removeAttribute('no-js');window.__appCDN="<?php print $HAXCMS->getCDNForDynamic($site);?>";window.__appForceUpgrade=<?php print $site->getForceUpgrade();?>;</script>
+  <script src="<?php print $HAXCMS->getCDNForDynamic($site);?>build-haxcms.js"></script>
+  <script src="<?php print $HAXCMS->getCDNForDynamic($site);?>build.js"></script>
 </body>
 </html>

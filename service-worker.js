@@ -39,556 +39,496 @@
 
 var precacheConfig = [
     [
-        "pages\/the-climb-1\/index.html",
-        "MkRbFyu6THJvPVPAJXi3w"
+        "pages\/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0\/index.html",
+        "sWkJX7JFxLekg0D6iEU9bQ"
     ],
     [
-        "pages\/why-i-started-hax-camp-1\/index.html",
-        "aDZBqL8Pj6PeE3aAR3wQ"
+        "pages\/item-88a3c232-54d6-4179-8059-634223f201c4\/index.html",
+        "XIUewpHoYddlFDrmMXoO4g"
     ],
     [
-        "pages\/abstractionism-1\/index.html",
-        "JOqQTByCxre3kViuny76QA"
+        "pages\/item-1235ea3a-9254-4b93-8df3-8909fddcce88\/index.html",
+        "Ritx5swWPWZg9XrLYyypg"
     ],
     [
-        "pages\/villains-and-visionaries\/index.html",
-        "ATebOj9aY5nmwk6JXcdBNw"
+        "pages\/item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91\/index.html",
+        "Kc7PEXdLx30kZXB5MWUNrw"
     ],
     [
-        "pages\/our-values-empowerment-1\/index.html",
-        "lj3ImRPySX3kin7BnwLVQ"
+        "pages\/item-25c16bd5-a817-4df1-b147-88e448309a4b\/index.html",
+        "666bh1HjhjJjjkXYeP2w"
     ],
     [
-        "pages\/catching-gman-1\/index.html",
-        "RbOWY1adWeZr99zRabeJQ"
+        "pages\/item-0589f6d1-3184-4e46-a856-7522d2a1b435\/index.html",
+        "9E8wzm5l5YJ3KK23zo2A"
     ],
     [
-        "pages\/the-infinite-void-1\/index.html",
-        "HyLeDXqvRW8iePFLrGynQ"
+        "pages\/item-7080d384-ade3-441e-867f-4d5b955f99a2\/index.html",
+        "G47JGNYlNXVycMhTWOmKg"
     ],
     [
-        "pages\/my-first-time-on-stage-2\/index.html",
-        "uwhsNjfR5Zh3G3CAstgaKg"
+        "pages\/item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7\/index.html",
+        "v946Pi1Pt21ngqzdHEWcxA"
     ],
     [
-        "pages\/annabella-2\/index.html",
-        "mX44cCL8ar6KNzAPtFppBA"
+        "pages\/item-2d2887cc-08c8-4f22-8554-abcce1823282\/index.html",
+        "Y1YzWRsS6207TXiUWF6BA"
     ],
     [
-        "pages\/hey-remember-when-2\/index.html",
-        "u1NAjoHVTNojO4tRueDPLw"
+        "pages\/item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711\/index.html",
+        "Hs7nwyQbzOibd6ivQCZg"
     ],
     [
-        "pages\/open-community-pedagogy-2\/index.html",
-        "RYWnQA9lfyDgUXqkHww6g"
+        "pages\/item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a\/index.html",
+        "KetbWKkCsFPPC6AjCseEiw"
     ],
     [
-        "pages\/stand-against-the-ocean-2\/index.html",
-        "Kgr7hAfsQHnuKvDZgLWQ"
+        "pages\/item-006601d9-4063-4bd9-ba32-3e959b631d31\/index.html",
+        "P4ONXyKnLPhfMNmnRXUs8g"
     ],
     [
-        "pages\/edtechjoker-2\/index.html",
-        "TXt1ymPckb9egwr5UaTA"
+        "pages\/item-e3d7d519-9549-4e44-9ab8-b9df805a3531\/index.html",
+        "eZg0d9Ges6e1nGFBNWuB7A"
     ],
     [
-        "pages\/technical-weapons-2\/index.html",
-        "8Su70e5UVvZl4q8D46bkEg"
+        "pages\/item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc\/index.html",
+        "Z7QstBBG7GLZvKBKEuPrQ"
     ],
     [
-        "pages\/i-made-a-thing-2\/index.html",
-        "5JHwoW0B6tMPwO3GMikKkA"
+        "pages\/item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2\/index.html",
+        "uHUxTVdVrcL2IKyP1GlQ"
     ],
     [
-        "pages\/the-web-components-high-performance-video-2\/index.html",
-        "MBXdeF4nZ1UGB55uhU1R5w"
+        "pages\/item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814\/index.html",
+        "0MPdQa2AOTAOSrDsKBCFZw"
     ],
     [
-        "pages\/drunken-ux-interview-2\/index.html",
-        "YIrXqJttKQud5JdcEBVqog"
+        "pages\/item-73248929-e4a5-44eb-aea5-8e2373a34b69\/index.html",
+        "JmL7DIcpILCnKY1dNUzIWA"
     ],
     [
-        "pages\/fortify-2\/index.html",
-        "8hYm5MbVcHtq6XB6K4Ar4A"
+        "pages\/item-04fb0667-5539-4d0a-b841-a203d6117d69\/index.html",
+        "6qYSIz7lzFITjvtdeKdP2Q"
     ],
     [
-        "pages\/all-screens-have-rights-2\/index.html",
-        "UVfscFY2QbsxXyecwSySuA"
+        "pages\/item-70f48666-098d-42fa-8b9d-064f3e678583\/index.html",
+        "S8yKjumkuEeiRXLjJw"
     ],
     [
-        "pages\/reclaim-the-web-2\/index.html",
-        "T1atx0YsGCcnn2WKm2MWA"
+        "pages\/item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74\/index.html",
+        "7JHY2WSprlCljJakc3gw"
     ],
     [
-        "pages\/structured-anarchy-2\/index.html",
-        "OOr9Rf3Pt6ZC8juiVNhdw"
+        "pages\/item-15cbf071-ff46-4ec6-90dd-35c57537af97\/index.html",
+        "2Z1WNXK4Tz0fZaE6xNoGaA"
     ],
     [
-        "pages\/haxcms-theme-layer-code-review-2\/index.html",
-        "82oTxaqmLOf31gfQo5Aqw"
+        "pages\/item-8f85b86c-0619-4fb5-8c19-39b49c11e96b\/index.html",
+        "XxM6agbXMfCVB5CD2qSoA"
     ],
     [
-        "pages\/2018-innovation-submission-2\/index.html",
-        "n8oLh1EZKcdVfnPYdqC6Q"
+        "pages\/item-7502f3ce-134f-4c88-beaf-85e539c0e801\/index.html",
+        "Ar6hVJwxALMQP2Rn5mdXjA"
     ],
     [
-        "pages\/elms-ln-code-review-series-part-1-2\/index.html",
-        "OLYibzIIGxapa57Ogg2jw"
+        "pages\/item-985e5628-b3e6-44e5-85dc-c4d7be7bd754\/index.html",
+        "iscMZdX2DMmp6GABKK1gg"
     ],
     [
-        "pages\/golden-shimmering-joy-2\/index.html",
-        "JBlTnoTsWVlzuS3YPykUFg"
+        "pages\/item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d\/index.html",
+        "3VHInOmq9E1wfsaeRi7i7g"
     ],
     [
-        "pages\/common-web-component-state-question-2\/index.html",
-        "wFhD5h7AxUXfnChSSKWWA"
+        "pages\/item-cd716dd0-59b0-a24d-1ddb-2779369c52b2\/index.html",
+        "gJ2rxanMP166T8H67AWVQ"
     ],
     [
-        "pages\/ngdle-is-really-just-enigma-misspelled-2\/index.html",
-        "tuqRVnrHlwF3HmwGgatyA"
+        "pages\/item-44797f99-e67b-41ce-a32f-57ccafea33ec\/index.html",
+        "gcR0fK8QmSHaLMwb9HA"
     ],
     [
-        "pages\/compartmentalizing-2\/index.html",
-        "lDVsMJOOIYVzPksjd1f7g"
+        "pages\/item-c97a8e67-971e-4e92-8b38-e348c780d072\/index.html",
+        "lwc5cBinwJAZd4RPoeTWgQ"
     ],
     [
-        "pages\/occupy-the-bridge-2\/index.html",
-        "fIjzDCd0GMK6edgGgW7ycw"
+        "pages\/item-5e860e67-2444-0304-6180-9cb7dee92321\/index.html",
+        "CF0r2sGUltnJYcHq5OPSOg"
     ],
     [
-        "pages\/when-educators-left-the-lms-2\/index.html",
-        "BpYAvU0j6h9UC5V81mTdVw"
+        "pages\/item-e165f124-11d5-4b9a-06ed-7b6bf1802ca8\/index.html",
+        "Udau3e9Yod254Xcy4OT4BQ"
     ],
     [
-        "pages\/the-lms-is-cable-we-are-roku-expect-us-2\/index.html",
-        "7gmDrwwG9TpQUsvA09fPA"
+        "pages\/item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0\/index.html",
+        "0mHHENaDAYt0KeATl8iGA"
     ],
     [
-        "pages\/innovation-s-four-ingredients-2\/index.html",
-        "wUtgb4pmRcSo6QfxEEuvA"
+        "pages\/item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a\/index.html",
+        "u6rnSH3IKyJ5y7mJsYZ4cg"
     ],
     [
-        "pages\/straddling-the-abyss-2\/index.html",
-        "mJG3G3u7Qu4vUSVIYRTPA"
+        "pages\/item-46aa6443-ebf1-62b2-6523-760490d5ce9b\/index.html",
+        "szLdgy7JgFsGfznKh14qw"
     ],
     [
-        "pages\/the-knowledge-decentralization-manifesto-2\/index.html",
-        "1h7TigGPbxVVGwHx1nVDtA"
+        "pages\/item-8cef1ad3-7cc7-778a-b125-1d85f265742d\/index.html",
+        "1G5WXgN35x1CNJoelhDMsQ"
     ],
     [
-        "pages\/hax-apereo-piece-2\/index.html",
-        "AsykHl3UuMPJZy3bqxJw"
+        "pages\/item-6c53744c-1b33-97a1-976f-90484f5bc450\/index.html",
+        "digmF38H15KZJxJvJ21ZA"
     ],
     [
-        "pages\/the-perfect-cup-of-coffee-2\/index.html",
-        "5uJSCbofVhBNvglqLjNtQ"
+        "pages\/item-401610da-127f-602f-5298-265f5eea00ee\/index.html",
+        "kq65g6tNhAMfh08haNPA"
     ],
     [
-        "pages\/watch-the-ripples-and-you-ll-miss-the-waves-2\/index.html",
-        "pnuJuSkm6CeCW6vrS93zpg"
+        "pages\/item-f82147b6-1844-d3c0-9515-01130ce85c79\/index.html",
+        "8EhyD6kbo3dj8hogUEsvdA"
     ],
     [
-        "pages\/i-challenge-you-to-transform-education-together-2\/index.html",
-        "cFv09pj0etsH2f5uCb2cA"
+        "pages\/item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9\/index.html",
+        "m4CYCobxkO0soFlSJGoh8Q"
     ],
     [
-        "pages\/actually-curing-edtech-2\/index.html",
-        "YqxXNxxva5VCpltmqiVJQ"
+        "pages\/item-79649f12-a6d2-98f5-3c0b-8b88f2a24457\/index.html",
+        "Kw4xeiTPoGs6jCoDKeMDQQ"
     ],
     [
-        "pages\/pure-joy-2\/index.html",
-        "AOxjnbbPPuVc1gTaAtFG3Q"
+        "pages\/item-c9e2488a-44dd-f0d4-4b3f-651245add81a\/index.html",
+        "xWxjwXrfOHWL72MEi1IQ"
     ],
     [
-        "pages\/creating-the-decentralized-instructional-experience-app-2\/index.html",
-        "yr4cCxeyKJn6fckAoJhQ"
+        "pages\/item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0\/index.html",
+        "A86dbMDYmKvjrCRRmD6pbw"
     ],
     [
-        "pages\/using-webcomponents-to-unearth-the-ngdle-2\/index.html",
-        "xxEUknopjIIl76T32iA"
+        "pages\/item-40122e25-5673-4544-133f-2acb042dbb23\/index.html",
+        "VU9bHKpZAamXb65DzPL0xA"
     ],
     [
-        "pages\/this-is-not-reality-2\/index.html",
-        "6c7JKWEG3STDaZq75eEtlw"
+        "pages\/item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3\/index.html",
+        "l535Cks5YAKG6rcsQtYV6Q"
     ],
     [
-        "pages\/playing-for-40-2\/index.html",
-        "XYzC7WdDD4GpeEUwYpRjrA"
+        "pages\/item-4080a73d-360e-7a65-131b-705b8c6169e7\/index.html",
+        "fSgnUVVzLmsWi0QgrOKfPA"
     ],
     [
-        "pages\/dood-2\/index.html",
-        "PdWy8D4G2dWPglm7xTgaQg"
+        "pages\/item-1f14703a-1e61-d454-f03a-52a94333e9d1\/index.html",
+        "hExoGYaz9Q402xZCYoe59A"
     ],
     [
-        "pages\/generation-uine-2\/index.html",
-        "IY6FwIyLM87vt5rwNgIHw"
+        "pages\/item-bea307e8-0af9-4518-dc18-c5323302165c\/index.html",
+        "P8URs4KXCvthr3QSbgg"
     ],
     [
-        "pages\/birthday-party-2\/index.html",
-        "lmcCuXSrNGzOUrlBf9yXQ"
+        "pages\/item-897d5115-b6de-2c55-afa7-ba3262f4d9ca\/index.html",
+        "lbXyCi26u7pyO7Ew44oXrA"
     ],
     [
-        "pages\/end-of-summer-2\/index.html",
-        "4RK96XElOmm9mYVCO1FxQ"
+        "pages\/item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2\/index.html",
+        "sm7PzGNZ9dJ2dNNr3IUx9A"
     ],
     [
-        "pages\/combating-the-rise-of-authoritarianism-2\/index.html",
-        "wzsqtNrWX4qDQ80dz39b8w"
+        "pages\/item-1222b362-d24d-0aa7-20e7-724767f57656\/index.html",
+        "ZJXPyOTzrEnYiMoWGQpMzg"
     ],
     [
-        "pages\/singularity-digital-activism-and-saving-our-institutions-2\/index.html",
-        "bQ1EeY5SiPMqxaJxlhMg"
+        "pages\/item-be6f30a2-8a4d-e986-6af3-930f91e00464\/index.html",
+        "iXkHOkBuZqasS7OsSa4Jw"
     ],
     [
-        "pages\/ddosa-2\/index.html",
-        "A0DPC1FyiXyh8b06fz2HDg"
+        "pages\/item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0\/index.html",
+        "PgTgCW4jp2CEXLU62Bn9g"
     ],
     [
-        "pages\/occutea-wallparty-2\/index.html",
-        "xmCE4HbfxmFzEaPH32uHA"
+        "pages\/item-e8c71c40-1351-7293-ae61-2e01b348f71f\/index.html",
+        "QdHxhYpXInrurMvBXalWA"
     ],
     [
-        "pages\/efficiency-as-activism-2\/index.html",
-        "7590h4eMWiTZRUwougQ"
+        "pages\/item-930234f4-c1d5-1d04-b08a-fddc47aa98dd\/index.html",
+        "mKwsEVWvlj2NrLQ0lSkA"
     ],
     [
-        "pages\/rate-of-perception-2\/index.html",
-        "9GB3m1egiVzgmDGtTbQ"
+        "pages\/item-8099a4ba-8fbc-a60f-7451-ac12d8d17409\/index.html",
+        "qj3v2GH5jfHujNCujhEHQ"
     ],
     [
-        "pages\/ministry-of-information-2\/index.html",
-        "hkxgWtR5Alua9rw6Seslw"
+        "pages\/item-773011dc-d235-36bf-7c70-fb0f8a4f4f1c\/index.html",
+        "gQEKselgNUgnHva0kmup1g"
     ],
     [
-        "pages\/organic-deployment-architecture-2\/index.html",
-        "4SQj43J0GwLUbAmMqVvy8g"
+        "pages\/item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e\/index.html",
+        "jvvETebwVb6hoxYUoy9w"
     ],
     [
-        "pages\/legacy-of-human-hierarchy-2\/index.html",
-        "WeSXbhZ8wePfSz8KQ1opiA"
+        "pages\/item-bf9b2910-4880-c87f-4026-143bb334d1a6\/index.html",
+        "XZA46by6X0E1u8tCCLDqbg"
     ],
     [
-        "pages\/transform-control-2\/index.html",
-        "T7uoRQIeu8gvjxNhRN8FQ"
+        "pages\/item-e479640f-e5e2-189a-1ae1-2a3f44d01a59\/index.html",
+        "kfP1TXPzStr74eDCn5r5Q"
     ],
     [
-        "pages\/transforming-industry-through-information-altruism-2\/index.html",
-        "Pz0votjYrXzLSoHNUHua8w"
+        "pages\/item-92c8d1d5-e579-930b-2c57-e9753e9dfefe\/index.html",
+        "jrvGJt0mNlrq6QLB22zsA"
     ],
     [
-        "pages\/sustainable-systems-development-a-moral-issue-2\/index.html",
-        "2fEDg1YpoRdjv9gi1wzg"
+        "pages\/item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d\/index.html",
+        "TpPCNPDHdcUD8UXOWw7X2Q"
+    ],
+    [
+        "pages\/item-f7c4705e-c70b-6cf9-0623-095830584d4d\/index.html",
+        "gchKB7HPSfapZMLoRofrA"
+    ],
+    [
+        "pages\/item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e\/index.html",
+        "D5nVyHw3HUW2v2yoPJaipw"
+    ],
+    [
+        "pages\/item-093425c7-cba0-e10b-60f8-9bf6afd32f9a\/index.html",
+        "ftQ39ucIFE39UDDrQ0AkQ"
+    ],
+    [
+        "pages\/item-f8a9a36b-2d96-17ec-0a07-356191bb57ff\/index.html",
+        "CAKgp1VqMYAmdjQMew5g"
+    ],
+    [
+        "pages\/item-2ddc5396-01fe-60fc-5c23-fa40abae58e9\/index.html",
+        "pmH1IoIMZFJu3WgQ0XvOiA"
+    ],
+    [
+        "pages\/item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70\/index.html",
+        "2MmrExEykfyoDmgcQYnaGA"
+    ],
+    [
+        "pages\/item-07d2884a-9e17-32f2-3175-0887f02bb49c\/index.html",
+        "scdWFkdiQiwFHfd2Fdmupw"
+    ],
+    [
+        "pages\/item-25e65b02-61b2-b987-7e86-601a241f74c9\/index.html",
+        "oYbFAdL5kPlW97aN0igXmw"
+    ],
+    [
+        "pages\/item-c6866e7a-1981-8c76-293a-0b96181e4945\/index.html",
+        "MEZVeUpvD8OBUfoBKAg"
     ],
     [
         "index.html",
-        "WGa3vji4VdX4pB29a5rsbQ"
+        "GFcOE8tmwQEHYUhHUBf1w"
     ],
     [
-        "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
-        "RMuKEMmXQwyCiEFWW59N0A"
+        "files\/haxcms-managed\/512x512-1500x500.png",
+        "Gye1epISgdbXEjiHWMi9g"
     ],
     [
-        "files\/haxcms-managed\/310x310-IMG_20190823_102434 2.jpg",
-        "x5VRkvbVlfcnhZvQ2eLZA"
+        "files\/haxcms-managed\/256x256-1500x500.png",
+        "wYX1VgDTta9uUWcVtDA0w"
     ],
     [
-        "files\/haxcms-managed\/192x192-IMG_20190823_102434 2.jpg",
-        "wTVCFKtpmsW0SvRGrAFw"
+        "files\/haxcms-managed\/192x192-1500x500.png",
+        "Uf14YUzaADww6vbWV4BHQ"
     ],
     [
-        "files\/haxcms-managed\/150x150-IMG_20190823_102434 2.jpg",
-        "gjkMQhlMXvrthcbqBSc8Q"
+        "files\/haxcms-managed\/144x144-1500x500.png",
+        "YJEvCivxoYjOgJlKiCcDig"
     ],
     [
-        "files\/haxcms-managed\/144x144-IMG_20190823_102434 2.jpg",
-        "J9XNQQWTXSKLPJmyOoAWA"
+        "files\/haxcms-managed\/96x96-1500x500.png",
+        "HCb5BUW8TtQyV9sY1RF2XQ"
     ],
     [
-        "files\/haxcms-managed\/96x96-IMG_20190823_102434 2.jpg",
-        "HzYZ8IvE9wfJHAEjkgONRQ"
+        "files\/haxcms-managed\/72x72-1500x500.png",
+        "TW5WomPhIrnVvyqD7GCZPA"
     ],
     [
-        "files\/haxcms-managed\/72x72-IMG_20190823_102434 2.jpg",
-        "bP4mQkAWnVEa1PFiTobA"
-    ],
-    [
-        "files\/haxcms-managed\/70x70-IMG_20190823_102434 2.jpg",
-        "QHr7eI2l4ETGVE2tmIedQ"
-    ],
-    [
-        "files\/haxcms-managed\/48x48-IMG_20190823_102434 2.jpg",
-        "VC1M2eBkPS47I02q1j2I4A"
-    ],
-    [
-        "files\/haxcms-managed\/36x36-IMG_20190823_102434 2.jpg",
-        "aP82luzmv19QDAnjWvW0aA"
-    ],
-    [
-        "files\/haxcms-managed\/16x16-IMG_20190823_102434 2.jpg",
-        "MC2oEa4LYQvAnSJAw65c2w"
+        "files\/haxcms-managed\/48x48-1500x500.png",
+        "s64m38F04VaEXq5B1FzP3A"
     ],
     [
         "manifest.json",
-        "gmNXxVtnfpUk2yLp2YOQ"
+        "rz7UjnPckWRWJymE2WqjA"
     ],
     [
         "site.json",
-        "k4Qe5WEKdekvndP8LszHWQ"
+        "q0CwGnf3C7wHYODLAQFDFQ"
     ],
     [
         "404.html",
-        "QEzLbAYRfRrqwxyIGIpfNQ"
-    ],
-    [
-        "files\/._243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
-        "sRGPEVw6CaCFhA2NyCeqw"
-    ],
-    [
-        "files\/agency.jpg",
-        "heuFcUVfQMUlmlSNOVyOQ"
-    ],
-    [
-        "files\/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
-        "JpT29cZTxByMKCs67l6A"
-    ],
-    [
-        "files\/ipad2.jpg",
-        "AmsTaVcswbLHUOQ77CJ69g"
-    ],
-    [
-        "files\/._2019-05-24_11-14-49.jpg",
-        "Ws7qzV0D7JKfGxq0n7r43w"
-    ],
-    [
-        "files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
-        "1dFIchnn58zwLHvrvWVzg"
-    ],
-    [
-        "files\/._89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
-        "ju9eOCu4n0p9oNNZmvrzXA"
-    ],
-    [
-        "files\/IMG_20190819_205859.jpg",
-        "5QBi9DgW1FYBuP2KH9bcqg"
-    ],
-    [
-        "files\/collapse.jpg",
-        "9AhNkigqf3OSXyOx3jlB6w"
-    ],
-    [
-        "files\/._.DS_Store",
-        "A0pQqDXkb1dum938Ip9Mxw"
-    ],
-    [
-        "files\/headshot143493.3299999684.jpg",
-        "gJwD9axCQTt2nMKKzPDdOA"
-    ],
-    [
-        "files\/android22.jpg",
-        "Y9MlD6h5MVcxCbXV59lfPw"
-    ],
-    [
-        "files\/headshot.jpg",
-        "JkwKNRVzizk5HjpprMaLPQ"
-    ],
-    [
-        "files\/IMG_20190713_122826.jpg",
-        "uCQ1SsTycMdzlS4XBpcoQ"
-    ],
-    [
-        "files\/ff3.jpg",
-        "aARwUXVR7yGVvQYTTUDhQ"
-    ],
-    [
-        "files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
-        "Ow96pIX28xlDg55FlYD8Q"
-    ],
-    [
-        "files\/IMG_20190726_110706.jpg",
-        "6723pAlAbqZ0WnHHK7ow"
-    ],
-    [
-        "files\/headshot14025.480000011157.jpg",
-        "XnigKEEcgLIJqWDMxlN4A"
-    ],
-    [
-        "files\/ie8.jpg",
-        "bCJvIk5u73GlkEVmq9OaQ"
-    ],
-    [
-        "files\/creatinglife.jpg",
-        "8yfMVUAQdIq3is7axjDBA"
-    ],
-    [
-        "files\/IMG_20190713_115919.jpg",
-        "8E2o48IrottbOuTP31HNg"
-    ],
-    [
-        "files\/2019-05-24_11-14-49.jpg",
-        "HKAmOmArCq11EM1PS8hSw"
-    ],
-    [
-        "files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
-        "xhhQhctjxuk4fJxGxfwGw"
-    ],
-    [
-        "files\/edtechjoker.jpg",
-        "SV16KwJAobEPF83aqpyJzQ"
-    ],
-    [
-        "files\/IMG_20190729_213151.jpg",
-        "m9Oqr4VylyamKBOO6t9rxA"
-    ],
-    [
-        "files\/headshot495331.4750000136.jpg",
-        "p3KLjW1ynrj2YWafHWoMw"
-    ],
-    [
-        "files\/headshot3389968.250000001.jpg",
-        "a1IjCWVuT80Jcqr1cM3gw"
-    ],
-    [
-        "files\/drunkenux.jpg",
-        "cgrT7GXih0Szj5xkf9UpBA"
-    ],
-    [
-        "files\/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
-        "MOfRwci0ijhdYtKrZJgoQ"
-    ],
-    [
-        "files\/safari4.jpg",
-        "FQDtEWPImlz125IU6ExsA"
-    ],
-    [
-        "files\/edtechjoker.gif",
-        "53CIQlkqpVRe4lT85qaJQ"
-    ],
-    [
-        "files\/headshot522511.73000002746.jpg",
-        "6MD5JYySNuHQ6gSM4ZQ8Q"
-    ],
-    [
-        "files\/headshot451242.7200000384.jpg",
-        "wdcjAmi7h8NoO34DVEePsA"
-    ],
-    [
-        "files\/color-spectrum.jpg",
-        "DFSsTizZxcq8wsHHUSU7Rw"
-    ],
-    [
-        "files\/snowflake.jpg",
-        "5dt4nAk47PuOAoEuQBg"
-    ],
-    [
-        "files\/IMG_20190729_103418.jpg",
-        "usgbaGcdv75VjkZ5rdeENQ"
-    ],
-    [
-        "files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
-        "Ho2sa0rCeT7Kac3f0x29uQ"
-    ],
-    [
-        "files\/IMG_20190221_184100.jpg",
-        "qhEbl6kNiJpyJ5enib19g"
-    ],
-    [
-        "files\/headshot511743.1799999904.jpg",
-        "R637p9fdcA9HCiCZ5NHE4Q"
-    ],
-    [
-        "files\/IMG_20190726_105535.jpg",
-        "8mAikag0Iwwh8mG9sCwzqw"
-    ],
-    [
-        "files\/headshot504645.5449999776.jpg",
-        "09HayoCYHBzqoUKUJnDwA"
-    ],
-    [
-        "files\/ie6.jpg",
-        "0stdTxGFUHdc7qAvBKmXg"
-    ],
-    [
-        "files\/headshot3408605.23.jpg",
-        "z77zUoHK2sWjSeTi04Pusg"
-    ],
-    [
-        "files\/._IMG_20190127_153429.jpg",
-        "o7NZhAVUXdFv9PwpRG0A"
-    ],
-    [
-        "files\/headshot533131.1700000078.jpg",
-        "uYa5u8X2mBeGl0UEsSTdEw"
-    ],
-    [
-        "files\/._3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
-        "U4imMD90WwXH0qaLWK983g"
-    ],
-    [
-        "files\/complexlife.jpg",
-        "FgtyZtkjKWo5gOtiFurHg"
-    ],
-    [
-        "files\/._IMG_20190221_184100.jpg",
-        "wpywaqcdQrn6xzSeSoEA"
-    ],
-    [
-        "files\/IMG_20190127_153429.jpg",
-        "yd4LYpwHWIv1yKGKmkQd4Q"
-    ],
-    [
-        "files\/IMG_20190716_102855.jpg",
-        "ms7WdmwvAsGo5dwGzXdLUQ"
-    ],
-    [
-        "files\/._935b7d832386eaf3173d063a70fe5000fc03dc1c-ngdle-university-uni-side.jpg",
-        "6z2iSBLctFChuNECTL32Q"
-    ],
-    [
-        "files\/headshot14076.185000012629.jpg",
-        "0x4WCdPB4GyYJ5IMxw"
-    ],
-    [
-        "files\/IMG_20190307_142300.jpg",
-        "c387SyJ8R3SqkbiEerHqg"
-    ],
-    [
-        "files\/._037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
-        "MkwEm1KVDLqsacNQFVcSg"
-    ],
-    [
-        "files\/bridge.jpg",
-        "ABnWktPUavyklcTBuzrxFg"
+        "0BBVAns5rLQLPevl6LRa9A"
     ],
     [
         "files\/935b7d832386eaf3173d063a70fe5000fc03dc1c-ngdle-university-uni-side.jpg",
         "5c7Gwqut1iFxr8npV0XPEw"
     ],
     [
-        "files\/EBd7L7eXkAAOW_d.jpg",
-        "84JUWrlsDVAciy6S9zA"
+        "files\/headshot143493.3299999684.jpg",
+        "gJwD9axCQTt2nMKKzPDdOA"
     ],
     [
-        "files\/container.jpg",
-        "2z8CQpVm2zKutbkjxOA1pA"
-    ],
-    [
-        "files\/IMG_20190823_102434 2.jpg",
-        "78cjrqsJ4FniDgCxzAsQ"
-    ],
-    [
-        "files\/IMG_20190729_213158.jpg",
-        "g4uN2RkhSt9VFaohPFOxyA"
+        "files\/headshot533131.1700000078.jpg",
+        "uYa5u8X2mBeGl0UEsSTdEw"
     ],
     [
         "files\/headshot422070.074999996.jpg",
         "LUnzN4NO7ByKLmet2KpuA"
     ],
     [
+        "files\/IMG_20190726_105535.jpg",
+        "8mAikag0Iwwh8mG9sCwzqw"
+    ],
+    [
+        "files\/ie8.jpg",
+        "bCJvIk5u73GlkEVmq9OaQ"
+    ],
+    [
+        "files\/mini-P1010017.JPG",
+        "J3QTcxtgHCegLFPDMKzvEA"
+    ],
+    [
+        "files\/IMG_20190729_213158.jpg",
+        "g4uN2RkhSt9VFaohPFOxyA"
+    ],
+    [
+        "files\/headshot522511.73000002746.jpg",
+        "6MD5JYySNuHQ6gSM4ZQ8Q"
+    ],
+    [
+        "files\/android22.jpg",
+        "Y9MlD6h5MVcxCbXV59lfPw"
+    ],
+    [
+        "files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
+        "Ow96pIX28xlDg55FlYD8Q"
+    ],
+    [
+        "files\/safari4.jpg",
+        "FQDtEWPImlz125IU6ExsA"
+    ],
+    [
+        "files\/IMG_20190713_122826.jpg",
+        "uCQ1SsTycMdzlS4XBpcoQ"
+    ],
+    [
+        "files\/1500x500.jpeg",
+        "Hd8biz9zCkHj9opnCOCSw"
+    ],
+    [
+        "files\/container.jpg",
+        "2z8CQpVm2zKutbkjxOA1pA"
+    ],
+    [
+        "files\/headshot495331.4750000136.jpg",
+        "p3KLjW1ynrj2YWafHWoMw"
+    ],
+    [
+        "files\/IMG_20190819_205859.jpg",
+        "5QBi9DgW1FYBuP2KH9bcqg"
+    ],
+    [
+        "files\/headshot511743.1799999904.jpg",
+        "R637p9fdcA9HCiCZ5NHE4Q"
+    ],
+    [
+        "files\/1500x5001.jpeg",
+        "gylvQfuUTvaoxP0OFPuA9w"
+    ],
+    [
         "files\/headshot529121.6300000087.jpg",
         "WqqMjfZOFxJDYejOQxFXQ"
     ],
     [
+        "files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
+        "1dFIchnn58zwLHvrvWVzg"
+    ],
+    [
+        "files\/ie6.jpg",
+        "0stdTxGFUHdc7qAvBKmXg"
+    ],
+    [
+        "files\/EBd7L7eXkAAOW_d.jpg",
+        "84JUWrlsDVAciy6S9zA"
+    ],
+    [
+        "files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
+        "xhhQhctjxuk4fJxGxfwGw"
+    ],
+    [
+        "files\/IMG_20190716_102855.jpg",
+        "ms7WdmwvAsGo5dwGzXdLUQ"
+    ],
+    [
+        "files\/IMG_20190729_213151.jpg",
+        "m9Oqr4VylyamKBOO6t9rxA"
+    ],
+    [
+        "files\/edtechjoker.gif",
+        "53CIQlkqpVRe4lT85qaJQ"
+    ],
+    [
+        "files\/IMG_20190726_110706.jpg",
+        "6723pAlAbqZ0WnHHK7ow"
+    ],
+    [
+        "files\/IMG_20190713_115919.jpg",
+        "8E2o48IrottbOuTP31HNg"
+    ],
+    [
+        "files\/headshot504645.5449999776.jpg",
+        "09HayoCYHBzqoUKUJnDwA"
+    ],
+    [
         "files\/IMG_20190713_185619.jpg",
         "fHWEWlbpxUmMF70B2vTwQ"
+    ],
+    [
+        "files\/ff3.jpg",
+        "aARwUXVR7yGVvQYTTUDhQ"
+    ],
+    [
+        "files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
+        "Ho2sa0rCeT7Kac3f0x29uQ"
+    ],
+    [
+        "files\/ipad2.jpg",
+        "AmsTaVcswbLHUOQ77CJ69g"
+    ],
+    [
+        "files\/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
+        "JpT29cZTxByMKCs67l6A"
+    ],
+    [
+        "files\/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
+        "MOfRwci0ijhdYtKrZJgoQ"
+    ],
+    [
+        "files\/edtechjoker.jpg",
+        "SV16KwJAobEPF83aqpyJzQ"
+    ],
+    [
+        "files\/IMG_20190729_103418.jpg",
+        "usgbaGcdv75VjkZ5rdeENQ"
+    ],
+    [
+        "files\/headshot14025.480000011157.jpg",
+        "XnigKEEcgLIJqWDMxlN4A"
+    ],
+    [
+        "files\/headshot451242.7200000384.jpg",
+        "wdcjAmi7h8NoO34DVEePsA"
+    ],
+    [
+        "files\/PXL_20220729_131000960.jpg",
+        "VjPBFcvGq6hYGxIVpTRdA"
+    ],
+    [
+        "files\/headshot14076.185000012629.jpg",
+        "0x4WCdPB4GyYJ5IMxw"
+    ],
+    [
+        "files\/IMG_20190221_184100.jpg",
+        "qhEbl6kNiJpyJ5enib19g"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

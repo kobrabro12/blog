@@ -1,87 +1,88 @@
 {
-    "id": "deea4d65-63cb-4e0d-8270-4beccd662063",
+    "id": "99e4b4fb-bc10-4540-96b1-c12c79982fdf",
     "title": "bto-pro",
-    "author": "Bryan Ollendyke",
-    "description": "Loud, yelly, abrasive, caring; dreaming the future into reality.",
+    "author": "",
+    "description": "Mind of the Information Altruist",
     "license": "by-sa",
     "metadata": {
         "author": {
+            "image": "files\/PXL_20220729_131000960.jpg",
             "name": "Bryan Ollendyke",
-            "image": "files\/headshot511743.1799999904.jpg",
-            "socialLink": "https:\/\/twitter.com\/btopro",
-            "email": "btopro@outlook.com"
+            "email": "btopro@outlook.com",
+            "socialLink": "https:\/\/www.linkedin.com\/in\/btopro\/"
         },
         "site": {
             "name": "btopro",
-            "domain": "https:\/\/btopro.com",
-            "created": 1548653466,
-            "updated": 1583808502,
+            "logo": "files\/1500x500.jpeg",
             "settings": {
+                "lang": "en-US",
+                "publishPagesOn": true,
                 "pathauto": false,
-                "publishPagesOn": false,
-                "forceUpgrade": false,
-                "sw": false
+                "sw": false,
+                "forceUpgrade": true
             },
+            "created": 1698074988,
+            "updated": 1698076319,
             "git": {
                 "vendor": "github",
-                "branch": "master",
-                "staticBranch": "gh-pages",
-                "url": "git@github.com:btopro\/blog.git",
-                "autoPush": false,
-                "publicRepoUrl": "https:\/\/github.com\/btopro\/blog\/tree\/master\/"
+                "branch": "gh-pages"
             },
-            "static": {
-                "cdn": "cdn.waxam.io",
-                "lastPublished": 1595962103,
-                "publishedLocation": "https:\/\/btopro.com",
-                "offline": false
-            },
-            "logo": "files\/IMG_20190823_102434 2.jpg",
-            "version": "1.1.1"
+            "version": "7.0.18",
+            "domain": "https:\/\/btopro.com",
+            "static": {}
         },
         "theme": {
             "element": "haxor-slevin",
             "path": "@lrnwebcomponents\/haxor-slevin\/haxor-slevin.js",
-            "name": "Coder blog",
+            "name": "Haxor Blog theme",
+            "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
             "variables": {
-                "image": "assets\/banner.jpg",
-                "hexCode": "#ffffff",
-                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
-                "icon": "device:battery-charging-full"
-            }
+                "image": "files\/1500x5001.jpeg",
+                "imageAlt": "",
+                "imageLink": "",
+                "hexCode": "#aeff00",
+                "cssVariable": "--simple-colors-default-theme-purple-7",
+                "icon": "av:add-to-queue"
+            },
+            "regions": {}
         },
         "node": {
             "fields": {}
+        },
+        "build": {
+            "version": "7.0.18",
+            "structure": "import",
+            "type": "haxcms"
         }
     },
     "items": [
         {
             "id": "item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0",
             "indent": 0,
-            "location": "pages\/the-climb-1\/index.html",
+            "location": "pages\/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0\/index.html",
             "slug": "the-climb-1",
             "order": "0",
             "parent": null,
             "title": "The Climb",
-            "description": "It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]  if we're going to get to 2020 and what's to come in that year... there",
+            "description": "",
             "metadata": {
-                "created": 1577734575,
-                "updated": 1583808501,
-                "readtime": 7,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "7",
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 19,
+                    "headings": "1",
+                    "paragraphs": "19",
                     "schema": [],
                     "tags": {
-                        "p": 19,
-                        "lrndesign-blockquote": 1,
-                        "ol": 1,
-                        "video-player": 1,
-                        "h2": 1,
-                        "ul": 1,
-                        "grid-plate": 1
+                        "p": "19",
+                        "lrndesign-blockquote": "1",
+                        "ol": "1",
+                        "video-player": "1",
+                        "h2": "1",
+                        "ul": "1",
+                        "grid-plate": "1"
                     },
-                    "elements": 25
+                    "elements": "25"
                 },
                 "files": [
                     {
@@ -90,7 +91,7 @@
                         "url": "files\/edtechjoker.gif",
                         "type": "image\/gif",
                         "name": "edtechjoker.gif",
-                        "size": 838403
+                        "size": "838403"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/edtechjoker.jpg",
@@ -98,7 +99,14 @@
                         "url": "files\/edtechjoker.jpg",
                         "type": "image\/jpeg",
                         "name": "edtechjoker.jpg",
-                        "size": 68012
+                        "size": "68012"
+                    },
+                    {
+                        "fullUrl": "\/sites\/btopro\/files\/PXL_20220729_131000960.jpg",
+                        "url": "files\/PXL_20220729_131000960.jpg",
+                        "type": "image\/jpeg",
+                        "name": "PXL_20220729_131000960.jpg",
+                        "size": 138328
                     }
                 ]
             }
@@ -106,70 +114,86 @@
         {
             "id": "item-88a3c232-54d6-4179-8059-634223f201c4",
             "indent": 0,
-            "location": "pages\/keep-moving-week-0\/index.html",
+            "location": "pages\/item-88a3c232-54d6-4179-8059-634223f201c4\/index.html",
             "slug": "keep-moving-week-0",
-            "order": 0,
+            "order": "0",
             "parent": null,
             "title": "Keep moving: Week 0",
-            "description": "I've felt 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some m",
+            "description": "",
             "metadata": {
-                "created": 1585017550,
-                "updated": 1586802778,
-                "readtime": 10,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "10",
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 6,
+                    "headings": "1",
+                    "paragraphs": "6",
                     "schema": [],
                     "tags": {
-                        "p": 6,
-                        "ul": 2,
-                        "h2": 1
+                        "p": "6",
+                        "ul": "2",
+                        "h2": "1"
                     },
-                    "elements": 9
+                    "elements": "9"
                 },
-                "published": true
+                "published": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/sites\/btopro\/files\/1500x500.jpeg",
+                        "url": "files\/1500x500.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "1500x500.jpeg",
+                        "size": 118690
+                    },
+                    {
+                        "fullUrl": "\/sites\/btopro\/files\/mini-P1010017.JPG",
+                        "url": "files\/mini-P1010017.JPG",
+                        "type": "image\/jpeg",
+                        "name": "mini-P1010017.JPG",
+                        "size": 130121
+                    }
+                ]
             }
         },
         {
             "id": "item-1235ea3a-9254-4b93-8df3-8909fddcce88",
             "indent": 0,
-            "location": "pages\/information-altruism-2-0\/index.html",
+            "location": "pages\/item-1235ea3a-9254-4b93-8df3-8909fddcce88\/index.html",
             "slug": "information-altruism-2-0",
             "order": "1",
             "parent": null,
             "title": "Information Altruism 2.0",
-            "description": "In 2006 I started Graduate school at Penn State. I didn't know why I was there other then to get an advanced degree and be exposed to different ideas. In that exposure though, I found my purpose. My t",
+            "description": "",
             "metadata": {
-                "created": 1583808501,
-                "updated": 1584211351,
-                "readtime": 7,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "7",
                 "contentDetails": {
-                    "headings": 6,
-                    "paragraphs": 18,
+                    "headings": "6",
+                    "paragraphs": "18",
                     "schema": [],
                     "tags": {
-                        "p": 18,
-                        "h2": 3,
-                        "ul": 1,
-                        "ol": 2,
-                        "h3": 3
+                        "p": "18",
+                        "h2": "3",
+                        "ul": "1",
+                        "ol": "2",
+                        "h3": "3"
                     },
-                    "elements": 27
+                    "elements": "27"
                 }
             }
         },
         {
             "id": "item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91",
             "indent": 0,
-            "location": "pages\/why-i-started-hax-camp-1\/index.html",
+            "location": "pages\/item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91\/index.html",
             "slug": "why-i-started-hax-camp-1",
             "order": "2",
             "parent": null,
             "title": "Why I started hax-camp",
-            "description": "Hi. I'm Bryan Ollendyke, and I have a vision of the future and, I think, a way to get there. I'm not fancy. I don't have big money. I don't have important people on high; I have something far more imp",
+            "description": "",
             "metadata": {
-                "created": 1568225571,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/EBd7L7eXkAAOW_d.jpg",
@@ -177,7 +201,7 @@
                         "url": "files\/EBd7L7eXkAAOW_d.jpg",
                         "type": "image\/jpeg",
                         "name": "EBd7L7eXkAAOW_d.jpg",
-                        "size": 1546770
+                        "size": "1546770"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190729_213158.jpg",
@@ -185,7 +209,7 @@
                         "url": "files\/IMG_20190729_213158.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190729_213158.jpg",
-                        "size": 192990
+                        "size": "192990"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190819_205859.jpg",
@@ -193,7 +217,7 @@
                         "url": "files\/IMG_20190819_205859.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190819_205859.jpg",
-                        "size": 141777
+                        "size": "141777"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190729_103418.jpg",
@@ -201,7 +225,7 @@
                         "url": "files\/IMG_20190729_103418.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190729_103418.jpg",
-                        "size": 13500
+                        "size": "13500"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190729_213151.jpg",
@@ -209,7 +233,7 @@
                         "url": "files\/IMG_20190729_213151.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190729_213151.jpg",
-                        "size": 174216
+                        "size": "174216"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190726_110706.jpg",
@@ -217,7 +241,7 @@
                         "url": "files\/IMG_20190726_110706.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190726_110706.jpg",
-                        "size": 173441
+                        "size": "173441"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190726_105535.jpg",
@@ -225,7 +249,7 @@
                         "url": "files\/IMG_20190726_105535.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190726_105535.jpg",
-                        "size": 158038
+                        "size": "158038"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190716_102855.jpg",
@@ -233,7 +257,7 @@
                         "url": "files\/IMG_20190716_102855.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190716_102855.jpg",
-                        "size": 124200
+                        "size": "124200"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot14025.480000011157.jpg",
@@ -241,7 +265,7 @@
                         "url": "files\/headshot14025.480000011157.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot14025.480000011157.jpg",
-                        "size": 207453
+                        "size": "207453"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/IMG_20190823_102434 2.jpg",
@@ -249,7 +273,7 @@
                         "url": "files\/IMG_20190823_102434 2.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190823_102434 2.jpg",
-                        "size": 100516
+                        "size": "100516"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot143493.3299999684.jpg",
@@ -257,7 +281,7 @@
                         "url": "files\/headshot143493.3299999684.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot143493.3299999684.jpg",
-                        "size": 258395
+                        "size": "258395"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/IMG_20190729_103418.jpg",
@@ -265,7 +289,7 @@
                         "url": "files\/IMG_20190729_103418.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190729_103418.jpg",
-                        "size": 13500
+                        "size": "13500"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot495331.4750000136.jpg",
@@ -273,7 +297,7 @@
                         "url": "files\/headshot495331.4750000136.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot495331.4750000136.jpg",
-                        "size": 228989
+                        "size": "228989"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot504645.5449999776.jpg",
@@ -281,7 +305,7 @@
                         "url": "files\/headshot504645.5449999776.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot504645.5449999776.jpg",
-                        "size": 241173
+                        "size": "241173"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot511743.1799999904.jpg",
@@ -289,7 +313,7 @@
                         "url": "files\/headshot511743.1799999904.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot511743.1799999904.jpg",
-                        "size": 190065
+                        "size": "190065"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot14076.185000012629.jpg",
@@ -297,13 +321,13 @@
                         "url": "files\/headshot14076.185000012629.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot14076.185000012629.jpg",
-                        "size": 165743
+                        "size": "165743"
                     }
                 ],
-                "readtime": 4,
+                "readtime": "4",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 18,
+                    "headings": "0",
+                    "paragraphs": "18",
                     "schema": [
                         {
                             "resource": "#3ad05175-0f0a-9aa3-bd92",
@@ -316,101 +340,101 @@
                         }
                     ],
                     "tags": {
-                        "p": 18,
-                        "video-player": 1,
-                        "multiple-choice": 1,
-                        "grid-plate": 1
+                        "p": "18",
+                        "video-player": "1",
+                        "multiple-choice": "1",
+                        "grid-plate": "1"
                     },
-                    "elements": 21
+                    "elements": "21"
                 }
             }
         },
         {
             "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
             "indent": 0,
-            "location": "pages\/abstractionism-1\/index.html",
+            "location": "pages\/item-25c16bd5-a817-4df1-b147-88e448309a4b\/index.html",
             "slug": "abstractionism-1",
             "order": "3",
             "parent": null,
             "title": "Abstractionism",
-            "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).This has been happening",
+            "description": "",
             "metadata": {
-                "created": 1571929384,
-                "updated": 1583808501,
-                "readtime": 3,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "3",
                 "contentDetails": {
-                    "headings": 5,
-                    "paragraphs": 35,
+                    "headings": "5",
+                    "paragraphs": "35",
                     "schema": [],
                     "tags": {
-                        "p": 35,
-                        "h2": 5
+                        "p": "35",
+                        "h2": "5"
                     },
-                    "elements": 40
+                    "elements": "40"
                 }
             }
         },
         {
             "id": "item-0589f6d1-3184-4e46-a856-7522d2a1b435",
             "indent": 0,
-            "location": "pages\/villains-and-visionaries\/index.html",
+            "location": "pages\/item-0589f6d1-3184-4e46-a856-7522d2a1b435\/index.html",
             "slug": "villains-and-visionaries",
             "order": "4",
             "parent": null,
             "title": "Villains and Visionaries",
-            "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pla",
+            "description": "",
             "metadata": {
-                "created": 1571929282,
-                "updated": 1583808501,
-                "readtime": 3,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "3",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 12,
+                    "headings": "0",
+                    "paragraphs": "12",
                     "schema": [],
                     "tags": {
-                        "p": 12
+                        "p": "12"
                     },
-                    "elements": 12
+                    "elements": "12"
                 }
             }
         },
         {
             "id": "item-7080d384-ade3-441e-867f-4d5b955f99a2",
             "indent": 0,
-            "location": "pages\/our-values-empowerment-1\/index.html",
+            "location": "pages\/item-7080d384-ade3-441e-867f-4d5b955f99a2\/index.html",
             "slug": "our-values-empowerment-1",
             "order": "5",
             "parent": null,
             "title": "Our Values: Empowerment",
-            "description": "Movements claiming to be without leaders are bullshit. Everything starts somewhere and with someone or a group of someones. It's critical in my mind, as the person starting HAX, to frame what it is th",
+            "description": "",
             "metadata": {
-                "created": 1571929041,
-                "updated": 1586986966,
-                "readtime": 3,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "3",
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 19,
+                    "headings": "1",
+                    "paragraphs": "19",
                     "schema": [],
                     "tags": {
-                        "p": 19,
-                        "h3": 1
+                        "p": "19",
+                        "h3": "1"
                     },
-                    "elements": 20
+                    "elements": "20"
                 }
             }
         },
         {
             "id": "item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7",
             "indent": 0,
-            "location": "pages\/catching-gman-1\/index.html",
+            "location": "pages\/item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7\/index.html",
             "slug": "catching-gman-1",
             "order": "6",
             "parent": null,
             "title": "Catching Gman",
-            "description": "Cut to ribbons tonight by a memory maintained and a thank you I didn&#39;t expect.Let me explain how my second child, the one I&#39;ve had more trouble relating to if I am perfectly honest, amazes me more by",
+            "description": "",
             "metadata": {
-                "created": 1571932740,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot422070.074999996.jpg",
@@ -418,7 +442,7 @@
                         "url": "files\/headshot422070.074999996.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot422070.074999996.jpg",
-                        "size": 199646
+                        "size": "199646"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot451242.7200000384.jpg",
@@ -426,7 +450,7 @@
                         "url": "files\/headshot451242.7200000384.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot451242.7200000384.jpg",
-                        "size": 223650
+                        "size": "223650"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot522511.73000002746.jpg",
@@ -434,7 +458,7 @@
                         "url": "files\/headshot522511.73000002746.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot522511.73000002746.jpg",
-                        "size": 210524
+                        "size": "210524"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot529121.6300000087.jpg",
@@ -442,7 +466,7 @@
                         "url": "files\/headshot529121.6300000087.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot529121.6300000087.jpg",
-                        "size": 216612
+                        "size": "216612"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot533131.1700000078.jpg",
@@ -450,13 +474,20 @@
                         "url": "files\/headshot533131.1700000078.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot533131.1700000078.jpg",
-                        "size": 227296
+                        "size": "227296"
+                    },
+                    {
+                        "fullUrl": "\/sites\/btopro\/files\/1500x5001.jpeg",
+                        "url": "files\/1500x5001.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "1500x5001.jpeg",
+                        "size": 118690
                     }
                 ],
-                "readtime": 5,
+                "readtime": "5",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 24,
+                    "headings": "0",
+                    "paragraphs": "24",
                     "schema": [
                         {
                             "resource": "#48fe53f8-f89e-bf0b-407b",
@@ -464,78 +495,78 @@
                         }
                     ],
                     "tags": {
-                        "p": 24,
-                        "lrndesign-blockquote": 1
+                        "p": "24",
+                        "lrndesign-blockquote": "1"
                     },
-                    "elements": 25
+                    "elements": "25"
                 }
             }
         },
         {
             "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
             "indent": 0,
-            "location": "pages\/the-infinite-void-1\/index.html",
+            "location": "pages\/item-2d2887cc-08c8-4f22-8554-abcce1823282\/index.html",
             "slug": "the-infinite-void-1",
             "order": "7",
             "parent": null,
             "title": "The infinite void",
-            "description": "Staring off, into nothing. Spacing out, focusing on the sound and the feeling of the sun beating down on my arms. I don't know what it is.. but when I see others relax at the beach I can't help but fe",
+            "description": "",
             "metadata": {
-                "created": 1571928965,
-                "updated": 1583808501,
-                "readtime": 3,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "3",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 12,
+                    "headings": "0",
+                    "paragraphs": "12",
                     "schema": [],
                     "tags": {
-                        "p": 12
+                        "p": "12"
                     },
-                    "elements": 12
+                    "elements": "12"
                 }
             }
         },
         {
             "id": "item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711",
             "indent": 0,
-            "location": "pages\/my-first-time-on-stage-2\/index.html",
+            "location": "pages\/item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711\/index.html",
             "slug": "my-first-time-on-stage-2",
             "order": "8",
             "parent": null,
             "title": "My first time on stage",
-            "description": "This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker.If you haven't followed the references, I'm code na",
+            "description": "",
             "metadata": {
-                "created": 1567105783,
-                "updated": 1583808501,
-                "readtime": 8,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "8",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 29,
+                    "headings": "0",
+                    "paragraphs": "29",
                     "schema": [],
                     "tags": {
-                        "p": 29,
-                        "ul": 2
+                        "p": "29",
+                        "ul": "2"
                     },
-                    "elements": 31
+                    "elements": "31"
                 }
             }
         },
         {
             "id": "item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a",
             "indent": 0,
-            "location": "pages\/annabella-2\/index.html",
+            "location": "pages\/item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a\/index.html",
             "slug": "annabella-2",
             "order": "9",
             "parent": null,
             "title": "Annabella",
-            "description": "The wheels squeaked on the cart, boosting my kid sister I placed her in the front part kids sit in. Five years old, happy to have someone who could lift her high. I was fifteen when we went to a rando",
+            "description": "",
             "metadata": {
-                "created": 1564284842,
-                "updated": 1583808501,
-                "readtime": 8,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "8",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 37,
+                    "headings": "0",
+                    "paragraphs": "37",
                     "schema": [
                         {
                             "resource": "#2b95c77e-01c9-6a24-2a2f",
@@ -547,39 +578,39 @@
                         }
                     ],
                     "tags": {
-                        "p": 37,
-                        "lrndesign-blockquote": 1,
-                        "video-player": 1,
-                        "blockquote": 1
+                        "p": "37",
+                        "lrndesign-blockquote": "1",
+                        "video-player": "1",
+                        "blockquote": "1"
                     },
-                    "elements": 40
+                    "elements": "40"
                 }
             }
         },
         {
             "id": "item-006601d9-4063-4bd9-ba32-3e959b631d31",
             "indent": 0,
-            "location": "pages\/hey-remember-when-2\/index.html",
+            "location": "pages\/item-006601d9-4063-4bd9-ba32-3e959b631d31\/index.html",
             "slug": "hey-remember-when-2",
             "order": "10",
             "parent": null,
             "title": "Hey, remember when",
-            "description": "A couch. It had to be the couch. The bastard scurries away, unheeding in the warnings of the past weeks. Undeterred in his quest for one thing. One, insatiable goal.To build a nest, in my &#34;Effing&#34; co",
+            "description": "",
             "metadata": {
-                "created": 1563756349,
-                "updated": 1583808501,
-                "readtime": 4,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "4",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 21,
+                    "headings": "0",
+                    "paragraphs": "21",
                     "schema": [],
                     "tags": {
-                        "p": 21,
-                        "meme-maker": 1,
-                        "ol": 1,
-                        "full-width-image": 3
+                        "p": "21",
+                        "meme-maker": "1",
+                        "ol": "1",
+                        "full-width-image": "3"
                     },
-                    "elements": 26
+                    "elements": "26"
                 },
                 "files": [
                     {
@@ -588,7 +619,7 @@
                         "url": "files\/IMG_20190713_185619.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190713_185619.jpg",
-                        "size": 833595
+                        "size": "833595"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190713_115919.jpg",
@@ -596,7 +627,7 @@
                         "url": "files\/IMG_20190713_115919.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190713_115919.jpg",
-                        "size": 1228849
+                        "size": "1228849"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/IMG_20190713_122826.jpg",
@@ -604,28 +635,28 @@
                         "url": "files\/IMG_20190713_122826.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190713_122826.jpg",
-                        "size": 536118
+                        "size": "536118"
                     }
                 ],
                 "fields": {
-                    "images": {},
+                    "images": [],
                     "subtitle": "",
-                    "tags": {}
+                    "tags": []
                 }
             }
         },
         {
             "id": "item-e3d7d519-9549-4e44-9ab8-b9df805a3531",
             "indent": 0,
-            "location": "pages\/open-community-pedagogy-2\/index.html",
+            "location": "pages\/item-e3d7d519-9549-4e44-9ab8-b9df805a3531\/index.html",
             "slug": "open-community-pedagogy-2",
             "order": "11",
             "parent": null,
             "title": "Open Community Pedagogy",
-            "description": "  This instructional designer didn't need to know HTML in order to convey an instructional concept.  Your right! No one should need to understand HTML in order to contribute meaningful knowledge to t",
+            "description": "",
             "metadata": {
-                "created": 1561129642,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/color-spectrum.jpg",
@@ -633,13 +664,13 @@
                         "url": "files\/scale-50\/color-spectrum.jpg",
                         "type": "image\/jpeg",
                         "name": "color-spectrum.jpg",
-                        "size": 78574
+                        "size": "78574"
                     }
                 ],
-                "readtime": 2,
+                "readtime": "2",
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 5,
+                    "headings": "1",
+                    "paragraphs": "5",
                     "schema": [
                         {
                             "resource": "#14d3e7f4-6c51-533f-5986",
@@ -647,27 +678,27 @@
                         }
                     ],
                     "tags": {
-                        "self-check": 1,
-                        "p": 5,
-                        "h2": 1,
-                        "ul": 1
+                        "self-check": "1",
+                        "p": "5",
+                        "h2": "1",
+                        "ul": "1"
                     },
-                    "elements": 8
+                    "elements": "8"
                 }
             }
         },
         {
             "id": "item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc",
             "indent": 0,
-            "location": "pages\/stand-against-the-ocean-2\/index.html",
+            "location": "pages\/item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc\/index.html",
             "slug": "stand-against-the-ocean-2",
             "order": "12",
             "parent": null,
             "title": "Stand against the ocean",
-            "description": "The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be",
+            "description": "",
             "metadata": {
-                "created": 1560976855,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/IMG_20190307_142300.jpg",
@@ -675,13 +706,13 @@
                         "url": "files\/scale-50\/IMG_20190307_142300.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190307_142300.jpg",
-                        "size": 98301
+                        "size": "98301"
                     }
                 ],
-                "readtime": 2,
+                "readtime": "2",
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 9,
+                    "headings": "1",
+                    "paragraphs": "9",
                     "schema": [
                         {
                             "resource": "#2a70bb89-4959-afee-809a",
@@ -689,32 +720,32 @@
                         }
                     ],
                     "tags": {
-                        "meme-maker": 1,
-                        "p": 9,
-                        "h2": 1,
-                        "hr": 1,
-                        "video-player": 1
+                        "meme-maker": "1",
+                        "p": "9",
+                        "h2": "1",
+                        "hr": "1",
+                        "video-player": "1"
                     },
-                    "elements": 13
+                    "elements": "13"
                 }
             }
         },
         {
             "id": "item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2",
             "indent": 0,
-            "location": "pages\/edtechjoker-2\/index.html",
+            "location": "pages\/item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2\/index.html",
             "slug": "edtechjoker-2",
             "order": "13",
             "parent": null,
             "title": "EdTechJoker",
-            "description": "Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a",
+            "description": "",
             "metadata": {
-                "created": 1560392061,
-                "updated": 1583808501,
-                "readtime": 4,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "4",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 16,
+                    "headings": "0",
+                    "paragraphs": "16",
                     "schema": [
                         {
                             "resource": "#38020ce8-4c27-cdc1-9060",
@@ -722,37 +753,37 @@
                         }
                     ],
                     "tags": {
-                        "p": 16,
-                        "video-player": 1
+                        "p": "16",
+                        "video-player": "1"
                     },
-                    "elements": 17
+                    "elements": "17"
                 }
             }
         },
         {
             "id": "item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814",
             "indent": 0,
-            "location": "pages\/technical-weapons-2\/index.html",
+            "location": "pages\/item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814\/index.html",
             "slug": "technical-weapons-2",
             "order": "14",
             "parent": null,
             "title": "Technical weapons",
-            "description": "Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl",
+            "description": "",
             "metadata": {
-                "created": 1559789483,
-                "updated": 1583808501,
-                "readtime": 6,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "6",
                 "contentDetails": {
-                    "headings": 7,
-                    "paragraphs": 49,
+                    "headings": "7",
+                    "paragraphs": "49",
                     "schema": [],
                     "tags": {
-                        "p": 49,
-                        "h2": 6,
-                        "h3": 1,
-                        "meme-maker": 1
+                        "p": "49",
+                        "h2": "6",
+                        "h3": "1",
+                        "meme-maker": "1"
                     },
-                    "elements": 57
+                    "elements": "57"
                 },
                 "files": [
                     {
@@ -761,7 +792,7 @@
                         "url": "files\/scale-50\/headshot3389968.250000001.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot3389968.250000001.jpg",
-                        "size": 276959
+                        "size": "276959"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/headshot3408605.23.jpg",
@@ -769,7 +800,7 @@
                         "url": "files\/scale-50\/headshot3408605.23.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot3408605.23.jpg",
-                        "size": 255873
+                        "size": "255873"
                     }
                 ]
             }
@@ -777,19 +808,19 @@
         {
             "id": "item-73248929-e4a5-44eb-aea5-8e2373a34b69",
             "indent": 0,
-            "location": "pages\/i-made-a-thing-2\/index.html",
+            "location": "pages\/item-73248929-e4a5-44eb-aea5-8e2373a34b69\/index.html",
             "slug": "i-made-a-thing-2",
             "order": "15",
             "parent": null,
             "title": "I made a thing",
-            "description": "Hey hey, ho ho. Welcome. To the revolution!!Come say hi at Apereo 2019 or Domains 2019.",
+            "description": "",
             "metadata": {
-                "created": 1559336489,
-                "updated": 1583808501,
-                "readtime": 1,
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "1",
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 2,
+                    "headings": "0",
+                    "paragraphs": "2",
                     "schema": [
                         {
                             "resource": "#cdcc0336-59b6-9b44-a040",
@@ -797,10 +828,10 @@
                         }
                     ],
                     "tags": {
-                        "p": 2,
-                        "video-player": 1
+                        "p": "2",
+                        "video-player": "1"
                     },
-                    "elements": 3
+                    "elements": "3"
                 },
                 "files": [
                     {
@@ -809,7 +840,7 @@
                         "url": "files\/scale-50\/headshot18171.065.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot18171.065.jpg",
-                        "size": 150157
+                        "size": "150157"
                     },
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/headshot61007.78000000003.jpg",
@@ -817,7 +848,7 @@
                         "url": "files\/scale-50\/headshot61007.78000000003.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot61007.78000000003.jpg",
-                        "size": 135577
+                        "size": "135577"
                     }
                 ]
             }
@@ -825,15 +856,15 @@
         {
             "id": "item-04fb0667-5539-4d0a-b841-a203d6117d69",
             "indent": 0,
-            "location": "pages\/the-web-components-high-performance-video-2\/index.html",
+            "location": "pages\/item-04fb0667-5539-4d0a-b841-a203d6117d69\/index.html",
             "slug": "the-web-components-high-performance-video-2",
             "order": "16",
             "parent": null,
             "title": "THE web components high performance video",
-            "description": "I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someo",
+            "description": "",
             "metadata": {
-                "created": 1558709795,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/2019-05-24_11-14-49.jpg",
@@ -841,13 +872,13 @@
                         "url": "files\/scale-50\/2019-05-24_11-14-49.jpg",
                         "type": "image\/jpeg",
                         "name": "2019-05-24_11-14-49.jpg",
-                        "size": 30556
+                        "size": "30556"
                     }
                 ],
-                "readtime": 2,
+                "readtime": "2",
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 6,
+                    "headings": "1",
+                    "paragraphs": "6",
                     "schema": [
                         {
                             "resource": "#3e3cee5f-bc3f-b445-8b9f",
@@ -855,33 +886,33 @@
                         }
                     ],
                     "tags": {
-                        "p": 6,
-                        "h2": 1,
-                        "img": 1,
-                        "ul": 1,
-                        "video-player": 1
+                        "p": "6",
+                        "h2": "1",
+                        "img": "1",
+                        "ul": "1",
+                        "video-player": "1"
                     },
-                    "elements": 10
+                    "elements": "10"
                 },
                 "fields": {
-                    "images": {},
+                    "images": [],
                     "subtitle": "",
-                    "tags": {}
+                    "tags": []
                 }
             }
         },
         {
             "id": "item-70f48666-098d-42fa-8b9d-064f3e678583",
             "indent": 0,
-            "location": "pages\/ocean\/index.html",
+            "location": "pages\/item-70f48666-098d-42fa-8b9d-064f3e678583\/index.html",
             "slug": "ocean",
             "order": "17",
             "parent": null,
             "title": "Ocean",
-            "description": "Now and then, life feels like your adrift in an ocean of work on a sinking ship. There's water so choppy that it feels like you can't see land off in the distance let alone dream of swimming there. Th",
+            "description": "",
             "metadata": {
-                "created": 1556907679,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/headshot.jpg",
@@ -889,7 +920,7 @@
                         "url": "files\/scale-50\/headshot.jpg",
                         "type": "image\/jpeg",
                         "name": "headshot.jpg",
-                        "size": 32993
+                        "size": "32993"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/collapse.jpg",
@@ -897,24 +928,24 @@
                         "url": "files\/scale-50\/collapse.jpg",
                         "type": "image\/jpeg",
                         "name": "collapse.jpg",
-                        "size": 2620344
+                        "size": "2620344"
                     }
                 ],
-                "readtime": 6
+                "readtime": "6"
             }
         },
         {
             "id": "item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74",
             "indent": 0,
-            "location": "pages\/drunken-ux-interview-2\/index.html",
+            "location": "pages\/item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74\/index.html",
             "slug": "drunken-ux-interview-2",
             "order": "18",
             "parent": null,
             "title": "Drunken UX interview",
-            "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb",
+            "description": "",
             "metadata": {
-                "created": 1554140865,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
@@ -922,30 +953,30 @@
                         "url": "files\/scale-50\/IMG_20190127_153429.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190127_153429.jpg",
-                        "size": 27242
+                        "size": "27242"
                     }
                 ],
                 "fields": {
-                    "images": {},
+                    "images": [],
                     "subtitle": "Drunken Experience?",
-                    "tags": {}
+                    "tags": []
                 },
-                "readtime": 6
+                "readtime": "6"
             }
         },
         {
             "id": "item-15cbf071-ff46-4ec6-90dd-35c57537af97",
             "indent": 0,
-            "location": "pages\/fortify-2\/index.html",
+            "location": "pages\/item-15cbf071-ff46-4ec6-90dd-35c57537af97\/index.html",
             "slug": "fortify-2",
             "order": "19",
             "parent": null,
             "title": "Fortify",
-            "description": "\"FORT. NIGHT.\"They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort",
+            "description": "",
             "metadata": {
                 "siteName": "btopro",
-                "created": 1550810167,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
@@ -953,24 +984,24 @@
                         "url": "files\/IMG_20190221_184100.jpg",
                         "type": "image\/jpeg",
                         "name": "IMG_20190221_184100.jpg",
-                        "size": 132868
+                        "size": "132868"
                     }
                 ],
-                "readtime": 3
+                "readtime": "3"
             }
         },
         {
             "id": "item-8f85b86c-0619-4fb5-8c19-39b49c11e96b",
             "indent": 0,
-            "location": "pages\/all-screens-have-rights-2\/index.html",
+            "location": "pages\/item-8f85b86c-0619-4fb5-8c19-39b49c11e96b\/index.html",
             "slug": "all-screens-have-rights-2",
             "order": "20",
             "parent": null,
             "title": "All screens have rights",
-            "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned",
+            "description": "",
             "metadata": {
-                "created": 1553786677,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie8.jpg",
@@ -978,7 +1009,7 @@
                         "url": "files\/ie8.jpg",
                         "type": "image\/jpeg",
                         "name": "ie8.jpg",
-                        "size": 33248
+                        "size": "33248"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/safari4.jpg",
@@ -986,7 +1017,7 @@
                         "url": "files\/safari4.jpg",
                         "type": "image\/jpeg",
                         "name": "safari4.jpg",
-                        "size": 31316
+                        "size": "31316"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/ff3.jpg",
@@ -994,7 +1025,7 @@
                         "url": "files\/ff3.jpg",
                         "type": "image\/jpeg",
                         "name": "ff3.jpg",
-                        "size": 27317
+                        "size": "27317"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/android22.jpg",
@@ -1002,7 +1033,7 @@
                         "url": "files\/android22.jpg",
                         "type": "image\/jpeg",
                         "name": "android22.jpg",
-                        "size": 19865
+                        "size": "19865"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/ipad2.jpg",
@@ -1010,7 +1041,7 @@
                         "url": "files\/ipad2.jpg",
                         "type": "image\/jpeg",
                         "name": "ipad2.jpg",
-                        "size": 28313
+                        "size": "28313"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie6.jpg",
@@ -1018,128 +1049,128 @@
                         "url": "files\/ie6.jpg",
                         "type": "image\/jpeg",
                         "name": "ie6.jpg",
-                        "size": 33838
+                        "size": "33838"
                     }
                 ],
-                "readtime": 5
+                "readtime": "5"
             }
         },
         {
             "id": "item-7502f3ce-134f-4c88-beaf-85e539c0e801",
             "indent": 0,
-            "location": "pages\/reclaim-the-web-2\/index.html",
+            "location": "pages\/item-7502f3ce-134f-4c88-beaf-85e539c0e801\/index.html",
             "slug": "reclaim-the-web-2",
             "order": "21",
             "parent": null,
             "title": "Reclaim the web",
-            "description": "Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p",
+            "description": "",
             "metadata": {
-                "created": 1553524583,
-                "updated": 1583808501,
-                "readtime": 3
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "3"
             }
         },
         {
             "id": "item-985e5628-b3e6-44e5-85dc-c4d7be7bd754",
             "indent": 0,
-            "location": "pages\/structured-anarchy-2\/index.html",
+            "location": "pages\/item-985e5628-b3e6-44e5-85dc-c4d7be7bd754\/index.html",
             "slug": "structured-anarchy-2",
             "order": "22",
             "parent": null,
             "title": "Structured Anarchy",
-            "description": "A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS. \u00a0I am writing now to talk about how I\u2019ve begun working towards that goal that you might",
+            "description": "",
             "metadata": {
                 "siteName": "btopro",
-                "created": 1300665600,
-                "updated": 1583808501,
-                "readtime": 4
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "4"
             }
         },
         {
             "id": "item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d",
             "indent": 0,
-            "location": "pages\/haxcms-theme-layer-code-review-2\/index.html",
+            "location": "pages\/item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d\/index.html",
             "slug": "haxcms-theme-layer-code-review-2",
             "order": "23",
             "parent": null,
             "title": "HAXcms Theme layer Code Review",
-            "description": "Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s",
+            "description": "",
             "metadata": {
-                "created": 1551471215,
-                "updated": 1583808501,
-                "readtime": 1
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "1"
             }
         },
         {
             "id": "item-cd716dd0-59b0-a24d-1ddb-2779369c52b2",
             "indent": 0,
-            "location": "pages\/2018-innovation-submission-2\/index.html",
+            "location": "pages\/item-cd716dd0-59b0-a24d-1ddb-2779369c52b2\/index.html",
             "slug": "2018-innovation-submission-2",
             "order": "24",
             "parent": null,
             "title": "2018 Innovation Submission",
-            "description": "This is my submission to the TLT 2018 Open Innovation Challenge. We have amazing capabilities and solutions available to us as an R1 research institution. But like many of fellow institutions, we ",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501,
-                "readtime": 1
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "1"
             }
         },
         {
             "id": "item-44797f99-e67b-41ce-a32f-57ccafea33ec",
             "indent": 0,
-            "location": "pages\/elms-ln-code-review-series-part-1-2\/index.html",
+            "location": "pages\/item-44797f99-e67b-41ce-a32f-57ccafea33ec\/index.html",
             "slug": "elms-ln-code-review-series-part-1-2",
             "order": "25",
             "parent": null,
             "title": "ELMS:LN Code review series Part 1",
-            "description": "  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this ",
+            "description": "",
             "metadata": {
-                "created": 1551458253,
-                "updated": 1583808501,
-                "readtime": 1
+                "created": 1698074988,
+                "updated": 1698074988,
+                "readtime": "1"
             }
         },
         {
             "id": "item-c97a8e67-971e-4e92-8b38-e348c780d072",
             "indent": 0,
-            "location": "pages\/golden-shimmering-joy-2\/index.html",
+            "location": "pages\/item-c97a8e67-971e-4e92-8b38-e348c780d072\/index.html",
             "slug": "golden-shimmering-joy-2",
             "order": "26",
             "parent": null,
             "title": "Golden, shimmering, joy",
-            "description": "I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His auto",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-5e860e67-2444-0304-6180-9cb7dee92321",
             "indent": 0,
-            "location": "pages\/common-web-component-state-question-2\/index.html",
+            "location": "pages\/item-5e860e67-2444-0304-6180-9cb7dee92321\/index.html",
             "slug": "common-web-component-state-question-2",
             "order": "27",
             "parent": null,
             "title": "Common web component state question",
-            "description": "I wanted to post an answer I gave recently to a web component question post training that we gave at Open Apereo. I asked Toben and he said it was ok if I posted the question \/ answer here because it'",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-e165f124-11d5-4b9a-06ed-7b6bf1802ca8",
             "indent": 0,
-            "location": "pages\/ngdle-is-really-just-enigma-misspelled-2\/index.html",
+            "location": "pages\/item-e165f124-11d5-4b9a-06ed-7b6bf1802ca8\/index.html",
             "slug": "ngdle-is-really-just-enigma-misspelled-2",
             "order": "28",
             "parent": null,
             "title": "NGDLE is really just Enigma misspelled",
-            "description": "I mean look at it! It's a bunch of random letters that's hard to pronounced or use in a sentence. Years after initial usage, people still have difficulty saying what one is beyond pictures of childhoo",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -1147,7 +1178,7 @@
                         "url": "files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
                         "type": "image\/jpeg",
                         "name": "e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
-                        "size": 112990
+                        "size": "112990"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -1155,7 +1186,7 @@
                         "url": "files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
                         "type": "image\/jpeg",
                         "name": "e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
-                        "size": 112990
+                        "size": "112990"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/935b7d832386eaf3173d063a70fe5000fc03dc1c-ngdle-university-uni-side.jpg",
@@ -1163,7 +1194,7 @@
                         "url": "files\/935b7d832386eaf3173d063a70fe5000fc03dc1c-ngdle-university-uni-side.jpg",
                         "type": "image\/jpeg",
                         "name": "935b7d832386eaf3173d063a70fe5000fc03dc1c-ngdle-university-uni-side.jpg",
-                        "size": 64238
+                        "size": "64238"
                     }
                 ]
             }
@@ -1171,491 +1202,491 @@
         {
             "id": "item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0",
             "indent": 0,
-            "location": "pages\/compartmentalizing-2\/index.html",
+            "location": "pages\/item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0\/index.html",
             "slug": "compartmentalizing-2",
             "order": "29",
             "parent": null,
             "title": "Compartmentalizing",
-            "description": "bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lov",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a",
             "indent": 0,
-            "location": "pages\/occupy-the-bridge-2\/index.html",
+            "location": "pages\/item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a\/index.html",
             "slug": "occupy-the-bridge-2",
             "order": "30",
             "parent": null,
             "title": "OCCUPY... the bridge",
-            "description": "Bridges\u00a0 get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the bridge",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-46aa6443-ebf1-62b2-6523-760490d5ce9b",
             "indent": 0,
-            "location": "pages\/when-educators-left-the-lms-2\/index.html",
+            "location": "pages\/item-46aa6443-ebf1-62b2-6523-760490d5ce9b\/index.html",
             "slug": "when-educators-left-the-lms-2",
             "order": "31",
             "parent": null,
             "title": "When Educators left the LMS",
-            "description": "While not seeing it beyond previews and reviews, the movie When God left the building\n reviews an intreging concept: that people who leave the christian church are just leaving the building and pursui",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-8cef1ad3-7cc7-778a-b125-1d85f265742d",
             "indent": 0,
-            "location": "pages\/the-lms-is-cable-we-are-roku-expect-us-2\/index.html",
+            "location": "pages\/item-8cef1ad3-7cc7-778a-b125-1d85f265742d\/index.html",
             "slug": "the-lms-is-cable-we-are-roku-expect-us-2",
             "order": "32",
             "parent": null,
             "title": "The LMS is Cable, We are Roku. Expect Us",
-            "description": "Cable\nIn the 40s and 50s, the Cable industry was born.\nBy the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-6c53744c-1b33-97a1-976f-90484f5bc450",
             "indent": 0,
-            "location": "pages\/innovation-s-four-ingredients-2\/index.html",
+            "location": "pages\/item-6c53744c-1b33-97a1-976f-90484f5bc450\/index.html",
             "slug": "innovation-s-four-ingredients-2",
             "order": "33",
             "parent": null,
             "title": "Innovation's four ingredients",
-            "description": "I saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about car",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-401610da-127f-602f-5298-265f5eea00ee",
             "indent": 0,
-            "location": "pages\/straddling-the-abyss-2\/index.html",
+            "location": "pages\/item-401610da-127f-602f-5298-265f5eea00ee\/index.html",
             "slug": "straddling-the-abyss-2",
             "order": "34",
             "parent": null,
             "title": "Straddling the Abyss",
-            "description": "The tight rope walker\nHe looks to his left..\ncertain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward, ",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-f82147b6-1844-d3c0-9515-01130ce85c79",
             "indent": 0,
-            "location": "pages\/the-knowledge-decentralization-manifesto-2\/index.html",
+            "location": "pages\/item-f82147b6-1844-d3c0-9515-01130ce85c79\/index.html",
             "slug": "the-knowledge-decentralization-manifesto-2",
             "order": "35",
             "parent": null,
             "title": "The Knowledge Decentralization Manifesto",
-            "description": "Access to knowledge is a control system.\nAs the \"Apple of Eden\n\" unlocked the power to question so too is the case with all modern knowledge transfer technologies. Knowledge corrupts established thoug",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9",
             "indent": 0,
-            "location": "pages\/the-knowledge-decentralization-manifesto-the-prolog-2\/index.html",
+            "location": "pages\/item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9\/index.html",
             "slug": "the-knowledge-decentralization-manifesto-the-prolog-2",
             "order": "36",
             "parent": null,
             "title": "The Knowledge Decentralization Manifesto (The Prolog)",
-            "description": "This is the start of a manifesto.Consider this background readingThere's an argument I heard brought up by a high level manager at a land grant institution (cough) that I've NEVER heard anyone in",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-79649f12-a6d2-98f5-3c0b-8b88f2a24457",
             "indent": 0,
-            "location": "pages\/hax-apereo-piece-2\/index.html",
+            "location": "pages\/item-79649f12-a6d2-98f5-3c0b-8b88f2a24457\/index.html",
             "slug": "hax-apereo-piece-2",
             "order": "37",
             "parent": null,
             "title": "HAX apereo piece",
-            "description": "Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media ",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-c9e2488a-44dd-f0d4-4b3f-651245add81a",
             "indent": 0,
-            "location": "pages\/the-perfect-cup-of-coffee-2\/index.html",
+            "location": "pages\/item-c9e2488a-44dd-f0d4-4b3f-651245add81a\/index.html",
             "slug": "the-perfect-cup-of-coffee-2",
             "order": "38",
             "parent": null,
             "title": "The perfect cup of coffee",
-            "description": "(post via @btopro on twitter)good people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into @",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0",
             "indent": 0,
-            "location": "pages\/watch-the-ripples-and-you-ll-miss-the-waves-2\/index.html",
+            "location": "pages\/item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0\/index.html",
             "slug": "watch-the-ripples-and-you-ll-miss-the-waves-2",
             "order": "39",
             "parent": null,
             "title": "Watch the ripples and you'll miss the waves",
-            "description": "  \"I don't understand why you give this stuff away, it's worth a lot. I mean screw capitalism, yea I get it I mean right there. But Universities pay a lot of money for these things. Why make them for",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-40122e25-5673-4544-133f-2acb042dbb23",
             "indent": 0,
-            "location": "pages\/i-challenge-you-to-transform-education-together-2\/index.html",
+            "location": "pages\/item-40122e25-5673-4544-133f-2acb042dbb23\/index.html",
             "slug": "i-challenge-you-to-transform-education-together-2",
             "order": "40",
             "parent": null,
             "title": "I challenge you to Transform Education; together",
-            "description": "Institutions and employees within them will remain at rest unto acted upon by an internal or external force. Externally, this is the preasures of society, markets and learners demanding change. Intern",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3",
             "indent": 0,
-            "location": "pages\/ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-2\/index.html",
+            "location": "pages\/item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3\/index.html",
             "slug": "ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-2",
             "order": "41",
             "parent": null,
             "title": "NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.",
-            "description": "I'm done with talk about the Next Generation Digital Learning Environment; it's time for action. I have had a plan for laying out the future of technology in higher education that I've formulated sinc",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-4080a73d-360e-7a65-131b-705b8c6169e7",
             "indent": 0,
-            "location": "pages\/actually-curing-edtech-2\/index.html",
+            "location": "pages\/item-4080a73d-360e-7a65-131b-705b8c6169e7\/index.html",
             "slug": "actually-curing-edtech-2",
             "order": "42",
             "parent": null,
             "title": "Actually, curing edtech",
-            "description": "I read an article recently by Educause Review and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of ",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-1f14703a-1e61-d454-f03a-52a94333e9d1",
             "indent": 0,
-            "location": "pages\/in-my-own-words-zero-cost-education-2\/index.html",
+            "location": "pages\/item-1f14703a-1e61-d454-f03a-52a94333e9d1\/index.html",
             "slug": "in-my-own-words-zero-cost-education-2",
             "order": "43",
             "parent": null,
             "title": "In my own words: Zero cost education.",
-            "description": "I was recently given a question on twitter from a twitter-friend and fellow edtech industry person that I felt was worth expanding into a cohesive blog post.> I really would love to know your deeper ",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-bea307e8-0af9-4518-dc18-c5323302165c",
             "indent": 0,
-            "location": "pages\/education-technology-action-2\/index.html",
+            "location": "pages\/item-bea307e8-0af9-4518-dc18-c5323302165c\/index.html",
             "slug": "education-technology-action-2",
             "order": "44",
             "parent": null,
             "title": "Education, Technology... Action.",
-            "description": "The only barrier is an internet connection and a device to access a multi-verse of easy to use options, the weight of published opinion has lessened. At one time, people's endorsements made a differen",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-897d5115-b6de-2c55-afa7-ba3262f4d9ca",
             "indent": 0,
-            "location": "pages\/pure-joy-2\/index.html",
+            "location": "pages\/item-897d5115-b6de-2c55-afa7-ba3262f4d9ca\/index.html",
             "slug": "pure-joy-2",
             "order": "45",
             "parent": null,
             "title": "Pure Joy",
-            "description": "The family gathered, friends came and we all shared a laugh.Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. \"I have to start getting ready for bed can",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2",
             "indent": 0,
-            "location": "pages\/creating-the-decentralized-instructional-experience-app-2\/index.html",
+            "location": "pages\/item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2\/index.html",
             "slug": "creating-the-decentralized-instructional-experience-app-2",
             "order": "46",
             "parent": null,
             "title": "Creating the decentralized instructional experience app",
-            "description": "This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the log",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-1222b362-d24d-0aa7-20e7-724767f57656",
             "indent": 0,
-            "location": "pages\/using-webcomponents-to-unearth-the-ngdle-2\/index.html",
+            "location": "pages\/item-1222b362-d24d-0aa7-20e7-724767f57656\/index.html",
             "slug": "using-webcomponents-to-unearth-the-ngdle-2",
             "order": "47",
             "parent": null,
             "title": "Using Webcomponents to unearth the NGDLE",
-            "description": "I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look o",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-be6f30a2-8a4d-e986-6af3-930f91e00464",
             "indent": 0,
-            "location": "pages\/this-is-not-reality-2\/index.html",
+            "location": "pages\/item-be6f30a2-8a4d-e986-6af3-930f91e00464\/index.html",
             "slug": "this-is-not-reality-2",
             "order": "48",
             "parent": null,
             "title": "This is not reality",
-            "description": "Chapter 1: The ShowerA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in th",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0",
             "indent": 0,
-            "location": "pages\/playing-for-40-2\/index.html",
+            "location": "pages\/item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0\/index.html",
             "slug": "playing-for-40-2",
             "order": "49",
             "parent": null,
             "title": "Playing for 40",
-            "description": "A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through impa",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-e8c71c40-1351-7293-ae61-2e01b348f71f",
             "indent": 0,
-            "location": "pages\/dood-2\/index.html",
+            "location": "pages\/item-e8c71c40-1351-7293-ae61-2e01b348f71f\/index.html",
             "slug": "dood-2",
             "order": "50",
             "parent": null,
             "title": "Dood",
-            "description": "dudes crying.dude\u2019s crying.dude, is, crying.This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much mor",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-930234f4-c1d5-1d04-b08a-fddc47aa98dd",
             "indent": 0,
-            "location": "pages\/generation-uine-2\/index.html",
+            "location": "pages\/item-930234f4-c1d5-1d04-b08a-fddc47aa98dd\/index.html",
             "slug": "generation-uine-2",
             "order": "51",
             "parent": null,
             "title": "Generation Uine",
-            "description": "I'd like to put a positive spin on Millennials \/ Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read arti",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-8099a4ba-8fbc-a60f-7451-ac12d8d17409",
             "indent": 0,
-            "location": "pages\/birthday-party-2\/index.html",
+            "location": "pages\/item-8099a4ba-8fbc-a60f-7451-ac12d8d17409\/index.html",
             "slug": "birthday-party-2",
             "order": "52",
             "parent": null,
             "title": "Birthday party",
-            "description": "A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in a",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-773011dc-d235-36bf-7c70-fb0f8a4f4f1c",
             "indent": 0,
-            "location": "pages\/-alt-reality-2\/index.html",
+            "location": "pages\/item-773011dc-d235-36bf-7c70-fb0f8a4f4f1c\/index.html",
             "slug": "-alt-reality-2",
             "order": "53",
             "parent": null,
             "title": "[Alt] + {{reality}}",
-            "description": "Our construction of reality is not the only one. This has always been the case, but I often fall victim to the assumption that because we now have access to more information that we will congeal to a",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e",
             "indent": 0,
-            "location": "pages\/end-of-summer-2\/index.html",
+            "location": "pages\/item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e\/index.html",
             "slug": "end-of-summer-2",
             "order": "54",
             "parent": null,
             "title": "End of Summer",
-            "description": "The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thing",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-bf9b2910-4880-c87f-4026-143bb334d1a6",
             "indent": 0,
-            "location": "pages\/combating-the-rise-of-authoritarianism-2\/index.html",
+            "location": "pages\/item-bf9b2910-4880-c87f-4026-143bb334d1a6\/index.html",
             "slug": "combating-the-rise-of-authoritarianism-2",
             "order": "55",
             "parent": null,
             "title": "Combating the rise of authoritarianism",
-            "description": "You may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the mas",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-e479640f-e5e2-189a-1ae1-2a3f44d01a59",
             "indent": 0,
-            "location": "pages\/attacking-the-false-binary-of-politics-2\/index.html",
+            "location": "pages\/item-e479640f-e5e2-189a-1ae1-2a3f44d01a59\/index.html",
             "slug": "attacking-the-false-binary-of-politics-2",
             "order": "56",
             "parent": null,
             "title": "Attacking the false Binary (of politics)",
-            "description": "I sat, getting dressed in the locker room before pickup hockey. It's a local league with a mix of local people so it's as diverse as...well, the middle of no-where male dominated sports league\u00a0can be",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-92c8d1d5-e579-930b-2c57-e9753e9dfefe",
             "indent": 0,
-            "location": "pages\/singularity-digital-activism-and-saving-our-institutions-2\/index.html",
+            "location": "pages\/item-92c8d1d5-e579-930b-2c57-e9753e9dfefe\/index.html",
             "slug": "singularity-digital-activism-and-saving-our-institutions-2",
             "order": "57",
             "parent": null,
             "title": "Singularity, Digital Activism, and saving our institutions",
-            "description": "*This talk was originally posted on elmsln.org. I've removed it there and moved it here because even though it's about Drupal \/ ELMSLN, it's the first talk I gave that I started speaking my mind and t",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808501
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d",
             "indent": 0,
-            "location": "pages\/ddosa-2\/index.html",
+            "location": "pages\/item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d\/index.html",
             "slug": "ddosa-2",
             "order": "58",
             "parent": null,
             "title": "DDoSA",
-            "description": "We live in the age of Citizen agents\u200f. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have been ",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808502
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-f7c4705e-c70b-6cf9-0623-095830584d4d",
             "indent": 0,
-            "location": "pages\/occutea-wallparty-2\/index.html",
+            "location": "pages\/item-f7c4705e-c70b-6cf9-0623-095830584d4d\/index.html",
             "slug": "occutea-wallparty-2",
             "order": "59",
             "parent": null,
             "title": "OccuTea WallParty",
-            "description": "I, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.I am an observer of politics that tries to \"play the game\" a bit differently. There are tells a",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808502
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e",
             "indent": 0,
-            "location": "pages\/efficiency-as-activism-2\/index.html",
+            "location": "pages\/item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e\/index.html",
             "slug": "efficiency-as-activism-2",
             "order": "60",
             "parent": null,
             "title": "Efficiency as Activism",
-            "description": "Efficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with in",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808502
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-093425c7-cba0-e10b-60f8-9bf6afd32f9a",
             "indent": 0,
-            "location": "pages\/rate-of-perception-2\/index.html",
+            "location": "pages\/item-093425c7-cba0-e10b-60f8-9bf6afd32f9a\/index.html",
             "slug": "rate-of-perception-2",
             "order": "61",
             "parent": null,
             "title": "Rate of perception",
-            "description": "I remember in high school talking about biology and as a test, you have to poke your arm with a small pin (lightly) and report when you can tell the difference between where it is and where your brain",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808502
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-f8a9a36b-2d96-17ec-0a07-356191bb57ff",
             "indent": 0,
-            "location": "pages\/ministry-of-information-2\/index.html",
+            "location": "pages\/item-f8a9a36b-2d96-17ec-0a07-356191bb57ff\/index.html",
             "slug": "ministry-of-information-2",
             "order": "62",
             "parent": null,
             "title": "Ministry of information",
-            "description": "Are we witness to 1940s style crowd manipulation through propaganda without realizing it? Have you watched the news lately? Does it go by a single day without having a \"Get social\" or \"#HotToday\" kind",
+            "description": "",
             "metadata": {
-                "created": 1548824000,
-                "updated": 1583808502
+                "created": 1698074988,
+                "updated": 1698074988
             }
         },
         {
             "id": "item-2ddc5396-01fe-60fc-5c23-fa40abae58e9",
             "indent": 0,
-            "location": "pages\/organic-deployment-architecture-2\/index.html",
+            "location": "pages\/item-2ddc5396-01fe-60fc-5c23-fa40abae58e9\/index.html",
             "slug": "organic-deployment-architecture-2",
             "order": "63",
             "parent": null,
             "title": "Organic Deployment Architecture",
-            "description": "Decentralized deployment architectureAll deployments currently imply a central authority, whether a company or developer running some kind of master system with control over the rest of the network.",
+            "description": "",
             "metadata": {
-                "created": 1451007640,
-                "updated": 1583808502,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
@@ -1663,7 +1694,7 @@
                         "url": "files\/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
                         "type": "image\/jpeg",
                         "name": "3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
-                        "size": 37511
+                        "size": "37511"
                     },
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/container.jpg",
@@ -1671,7 +1702,7 @@
                         "url": "files\/container.jpg",
                         "type": "image\/jpeg",
                         "name": "container.jpg",
-                        "size": 41825
+                        "size": "41825"
                     }
                 ]
             }
@@ -1679,15 +1710,15 @@
         {
             "id": "item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70",
             "indent": 0,
-            "location": "pages\/legacy-of-human-hierarchy-2\/index.html",
+            "location": "pages\/item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70\/index.html",
             "slug": "legacy-of-human-hierarchy-2",
             "order": "64",
             "parent": null,
             "title": "Legacy of Human Hierarchy",
-            "description": "The hierarchy of humanity is changing.Sorry, let me rephrase.. The hierarchy of humanity\u00a0must\u00a0change in order to survive and remain relevant. Because the way in which we've accessed information h",
+            "description": "",
             "metadata": {
-                "created": 1449884440,
-                "updated": 1583808502,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
@@ -1695,7 +1726,7 @@
                         "url": "files\/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
                         "type": "image\/jpeg",
                         "name": "037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
-                        "size": 28645
+                        "size": "28645"
                     }
                 ]
             }
@@ -1703,15 +1734,15 @@
         {
             "id": "item-07d2884a-9e17-32f2-3175-0887f02bb49c",
             "indent": 0,
-            "location": "pages\/transform-control-2\/index.html",
+            "location": "pages\/item-07d2884a-9e17-32f2-3175-0887f02bb49c\/index.html",
             "slug": "transform-control-2",
             "order": "65",
             "parent": null,
             "title": "Transform Control",
-            "description": "The old addage of IT managers of the 90's was that technology didn't matter. As in, it didn't matter which technology you choose, just that you align with one and execute. This mindset was wrought w",
+            "description": "",
             "metadata": {
-                "created": 1449884440,
-                "updated": 1583808502,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
@@ -1719,7 +1750,7 @@
                         "url": "files\/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
                         "type": "image\/jpeg",
                         "name": "2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
-                        "size": 65965
+                        "size": "65965"
                     }
                 ]
             }
@@ -1727,15 +1758,15 @@
         {
             "id": "item-25e65b02-61b2-b987-7e86-601a241f74c9",
             "indent": 0,
-            "location": "pages\/transforming-industry-through-information-altruism-2\/index.html",
+            "location": "pages\/item-25e65b02-61b2-b987-7e86-601a241f74c9\/index.html",
             "slug": "transforming-industry-through-information-altruism-2",
             "order": "66",
             "parent": null,
             "title": "Transforming industry through information altruism",
-            "description": "This posting is a refinement of a concept that I presented earlier: Using OSS to disrupt industries.Through the title, I am suggesting that there are negative network-effects in the form of social ",
+            "description": "",
             "metadata": {
-                "created": 1295574040,
-                "updated": 1583808502,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
@@ -1743,7 +1774,7 @@
                         "url": "files\/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
                         "type": "image\/jpeg",
                         "name": "89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
-                        "size": 54050
+                        "size": "54050"
                     }
                 ]
             }
@@ -1751,15 +1782,15 @@
         {
             "id": "item-c6866e7a-1981-8c76-293a-0b96181e4945",
             "indent": 0,
-            "location": "pages\/sustainable-systems-development-a-moral-issue-2\/index.html",
+            "location": "pages\/item-c6866e7a-1981-8c76-293a-0b96181e4945\/index.html",
             "slug": "sustainable-systems-development-a-moral-issue-2",
             "order": "67",
             "parent": null,
             "title": "Sustainable Systems Development: A moral issue",
-            "description": "Sustainability has been a \"hot\" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of ",
+            "description": "",
             "metadata": {
-                "created": 1277516440,
-                "updated": 1583808502,
+                "created": 1698074988,
+                "updated": 1698074988,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
@@ -1767,7 +1798,7 @@
                         "url": "files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
                         "type": "image\/jpeg",
                         "name": "243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
-                        "size": 12098
+                        "size": "12098"
                     }
                 ]
             }
