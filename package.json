@@ -24,7 +24,6 @@
     "@web/dev-server": "0.3.0"
   },
   "scripts": {
-    "gh-pages": "rm build && rm dist && rm node_modules && rm wc-registry.json",
     "start": "yarn run dev",
     "dev": "web-dev-server -c web-dev-server.haxcms.config.cjs",
     "dev-theme": "cd custom && yarn start"
