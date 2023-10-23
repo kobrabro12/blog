@@ -159,13 +159,13 @@
             "indent": 0,
             "location": "pages\/item-8e045593-79fd-401d-b380-1029001f5574\/index.html",
             "slug": "page",
-            "order": 2,
+            "order": -1,
             "parent": null,
             "title": "Arrival",
             "description": "Some decades, nothing happens. Other days, decades happen.That sentiment about sums up what the last few weeks have been like. As if everyone began to realize what we built, all at once, after years",
             "metadata": {
                 "created": 1698076822,
-                "updated": 1698078398,
+                "updated": 1698079028,
                 "images": [],
                 "videos": [
                     "https:\/\/youtu.be\/iPGgdRGyUtM?si=tkME13Ni2qPOeTts",
