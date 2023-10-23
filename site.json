@@ -155,6 +155,22 @@
             }
         },
         {
+            "id": "item-8e045593-79fd-401d-b380-1029001f5574",
+            "indent": 0,
+            "location": "pages\/item-8e045593-79fd-401d-b380-1029001f5574\/index.html",
+            "slug": "page",
+            "order": "1",
+            "parent": null,
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1698076822,
+                "updated": 1698076822,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-1235ea3a-9254-4b93-8df3-8909fddcce88",
             "indent": 0,
             "location": "pages\/item-1235ea3a-9254-4b93-8df3-8909fddcce88\/index.html",
