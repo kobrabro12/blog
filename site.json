@@ -19,15 +19,16 @@
                 "publishPagesOn": true,
                 "pathauto": false,
                 "sw": false,
-                "forceUpgrade": true
+                "forceUpgrade": true,
+                "gaID": "G-YTXEQB1N21"
             },
             "created": 1698074988,
-            "updated": 1704217126,
+            "updated": 1704219877,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
             },
-            "version": "7.0.18",
+            "version": "8.0.0",
             "domain": "https:\/\/btopro.com",
             "static": {}
         },
@@ -44,7 +45,11 @@
                 "cssVariable": "--simple-colors-default-theme-purple-7",
                 "icon": "av:add-to-queue"
             },
-            "regions": {}
+            "regions": {
+                "header": "",
+                "footerPrimary": "",
+                "footerSecondary": ""
+            }
         },
         "node": {
             "fields": {}
