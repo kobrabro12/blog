@@ -60,14 +60,14 @@
             "id": "item-e69dc923-a3a6-4052-8726-9aeec9c2105c",
             "indent": 0,
             "location": "pages\/item-e69dc923-a3a6-4052-8726-9aeec9c2105c\/index.html",
-            "slug": "page",
+            "slug": "the-teachable",
             "order": 0,
             "parent": null,
             "title": "The Teachable",
             "description": "Skill is the learned behavior of repetition and desire to improve. In the thousands of touches on the puck or taps of the keyboard, we start to loose sight of what was once learned behavior, now view",
             "metadata": {
                 "created": "1704214231",
-                "updated": 1704217125,
+                "updated": 1704217273,
                 "images": [
                     "files\/image.png"
                 ],
@@ -97,11 +97,13 @@
                         "size": 757956
                     }
                 ],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "7",
-                "status": ""
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 7,
+                "status": "",
+                "image": "files\/Screenshot from 2024-01-02 12-41-02.png",
+                "tags": "coaching,hockey,life,family"
             }
         },
         {
