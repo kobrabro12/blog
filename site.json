@@ -23,7 +23,7 @@
                 "gaID": "G-YTXEQB1N21"
             },
             "created": 1698074988,
-            "updated": 1704219877,
+            "updated": 1704219893,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
@@ -42,7 +42,7 @@
                 "imageAlt": "",
                 "imageLink": "",
                 "hexCode": "#aeff00",
-                "cssVariable": "--simple-colors-default-theme-purple-7",
+                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
                 "icon": "av:add-to-queue"
             },
             "regions": {
