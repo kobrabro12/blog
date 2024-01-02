@@ -3,89 +3,91 @@
   <title>bto-pro</title>
   <link href="" rel="self" />
   <subtitle>Mind of the Information Altruist</subtitle>
-  <updated>2023-10-23T15:51:59+00:00</updated>
+  <updated>2024-01-02T17:38:46+00:00</updated>
   <author>
       <name></name>
   </author>
   <id></id>
   <entry>
-    <title>The Climb</title>
-    <id>item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <title>Sustainable Systems Development: A moral issue</title>
+    <id>item-c6866e7a-1981-8c76-293a-0b96181e4945</id>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="the-climb-1"/>
+    <link href="sustainable-systems-development-a-moral-issue-2"/>
     
     <content type="html">
-      <![CDATA[ <p>It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]</p>
-<lrndesign-blockquote author="btopro" display-mode="default" style="width: 100%;">  <span>if we're going to get to 2020 and what's to come in that year... there's going to be a lot of pain this year</span>
-</lrndesign-blockquote>
-<p>I said then, that 2019 was going to be a climb, the death march toward what we are to become. The royal we as in me personally, but also the "we" as in our little team of core developers.</p>
-<p>Wow, did I have no idea what would change for me this year at the end of 2018 leading into 2019... Not all full thoughts but here's what I can remember about the year.</p>
-<p>My boss put in notice early 2019, like 2 days in, leaving me without a direct super visor until about July. My new manager is actively seeking to expand our project and champion it internally to complement our external championing. This was a huge change for me throughout the year and I think is starting to be reflected in some of the work I'm doing that won't be discussed more openly until July 2020.</p>
-<p>I co-presented on <a href="https://www.youtube.com/watch?v=Akn6keIYZ3k&feature=emb_title">Web Components with RedHat at DrupalCon Seattle</a>
-, in which I announced <b>HAXcms</b>
- and showed an early prototype; with HAX ultimately being presented on at nine events I can think of off the top of my head by different members of the team, we've started to get outside feedback, and implementations, the most impressive of which being...</p>
-<p>HAXcms can now be installed in Reclaim Hosting! HAXcms is still early on and hell it was incredibly early on at the time they added it, but we've already had contributions and UX reports from people using it via Reclaim hosting (a huge win). I met Jim and Tim at BYU API Unconference where we talked HAX, indieweb and immediately hit it off. They took me and Potter out for dinner the last night there saying that they wanted to be able to tell people they took us out to eat once before we "hit it big". Every time I've gone to BYU I've come away with something unexpected and meeting them, getting encouragement from people I really respect in the field, it meant a lot and was definitely not something I expected.</p>
-<p>ELMS:LN has largely moved to a collective of projects as opposed to a single platform. Between HAX, HAXcms, HAXiam, LRNWebcomponents, WCFactory and ELMSLN itself, it's far more an organization of supported projects then one monolith.</p>
-<p>While still supported, it is largely being driven by HAX related projects and efforts which will hollow out the Drupal theme layer in order to allow HAXcms themes to drive the UI layer. The platform removed (literally) <i>100s of thousands of lines of code</i>
- and over 50 modules this year as a result of advancements in web components. We also adopted V1 spec elements in production courses ~ March, meaning we successfully switched out all this code live with 1000s of students with all of I think 3 people reporting issues (because they were accessing at the exact moment the JS assets were all upgraded, a simple cache clear fix).<br/></p>
-<p>After meeting Jim at BYU, he mentioned that I should attend Reclaim Hosting's Domain's conference. I not only had a topic accepted... but I finally resolved my abrasiveness and love of tech with what actually drives me and what I actually feel about education. If you want to see the <a href="https://www.youtube.com/watch?v=Eksr9y4nxQ4&list=PLpK5svzslv8qi8YZjqJqKS2hLEGwnUPF0&index=19">1st talk I've ever done completely free of the weight of perception, here ya go</a>
-. I met <a href="https://twitter.com/OnlineCrsLady">Laura Gibbs</a>
- as a result of my rambling (mention her in the talk as a ranted) she started experimenting with HAXcms, which was still highly experimental and gave invaluable feedback about time to first usage and helped improve HAXcms to the point that I could teach with it in the Fall.</p>
-<p>I'm sorry what? Yeah, I started teaching this Fall and began putting into action the "second research project" I mentioned at the Domain's conference which I call EdTechJoker. I wasn't supposed to teach... if the establishment had it's way. But over a long enough timeline, you get one person that can lower a ladder and recognize those that don't just talk change but live it.</p>
-<p>I got my ladder, and after getting to present to the faculty of the college I graduated from 14 years ago, I think we're going to start shaking things up in a big way. The course follows a three act play:</p>
-<ol><li>Web fundamentals / building yourself as a brand</li>
-<li>Content Management systems / FOSS</li>
-<li>Activism through technology selection</li>
-</ol>
-<p><span>The course revolves around students understanding how the web works, some of the technologies that ride on top of it but also learning how to better communicate through written and spoken word about technology. They had to create their own brand in order to communicate about tech topics as someone getting into the field. And so, 36 students later, here we are with 1 semester complete, high reviews, tons of UX feedback for HAX (24 items, 18 resolved already), and hopefully a lot more open minds about the way education and the web both work.</span></p>
-<p><span>My off the hook, raw, real style of speaking and critiquing structures as well as pointing out how things actually work on the web I hope inspire others to enact greater change in society. We are more than the technology we select and it is more than just a choice, choices (all of them) have politics.</span></p>
-<p><span>It was a highlight of my career, something I've always wanted to do and the tip of the spear as I'm currently slated to teach 46 in Spring of 2020 and while not the focus, the money I am getting from this course is going to go towards helping me bootstrap my dream; the vision I have of what I am to accomplish with this life...</span></p>
-<p>With this additional flexibility, relationships forged, tooling enhancements and general need for community... I organized the 1st ever <a href="https://hax.camp">hax-camp that Duke hosted</a>
- and we had over 40 people come to learn about web components, including the whole HAXTheWeb core team.</p>
-<p>I gave a "what's this community for" style lunch address in which I expressed better then I probably ever have been able to, the point of web components and what problem HAX is trying to solve (namely, decentralize power structures). You can <a href="https://www.youtube.com/watch?v=f_tEA9O9pco&t=1s">watch it here if you want</a>
-, or attend <b>one of the four hax-camp's that are anticipated to take place in 2020</b>
-.</p>
-<p>Michigan (part of Apereo), DC (unannounced sponsor), PSU (hax-camp psu), Duke (hax-camp duke) are all planned for 2020 and I'll be attending all of them. I'll also have my HAX hockey jerseys that I'll be giving out in exchange for people completing scavenger hunts.</p>
-<p>If you want to know what they are like, Check out <a href="https://blog.timowens.io/reflections-on-hax-camp/">Tim's take</a>
- or <a href="https://bavatuesdays.com/hax-the-web-haxcamp/">Jim's take</a>
- on what it is and why they are supporting HAX (both in the editor showing up in Reclaim hosting as well as financially in the case of hax-camp Duke). I can't wait to see them again in BYU this year and swap stories about where things are and where we're both going.</p>
-<p>We also improved our tooling, did 4 refactors of our web components ultimately arriving almost entirely at LitElement based elements and seeing a rather ridiculous level of improvement to the HAX editor in the last year. If you don't believe me, I've included a video of where we were last year (I do these intentionally as I forget what we looked like).</p>
-<video-player accent-color="purple" dark iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" media-title="HAX early 2019" preload="metadata" source="https://www.youtube.com/watch?v=A7r9NKEMri0" source-type="youtube" sticky-corner="top-right" youtube-id="A7r9NKEMri0" sources="[]" tracks="[]"></video-player>
-<h2>HAX specific facts to close us out</h2>
-<ul><li>WordPress, ClassicPress, Backdrop, Drupal 7/8, ELMS:LN, and GravCMS all have HAX integrations</li>
-<li>HAXcms now powers <a href="https://haxtheweb.org">haxtheweb.org</a>
-, <a href="https://wcfactory.js.org">wcfactory.js.org</a>
-, this website, <a href="https://hax.camp">hax.camp</a>
- and dozens of OER course websites on hax.psu (to be fully announced in July 2020).</li>
-<li>HAXiam is being used to teach courses at Penn State</li>
-<li>HAX is now enabled in all our courses that use ELMS:LN and multiple instructors and instructional designers use it daily to create content</li>
-<li>HAX is entirely LitElement + VannillaJS, leading to a leaner, faster package that produces content more accurately</li>
-<li>hax-camp 2019 was a huge success, 4 more planned for 2020</li>
-<li>HAX is currently having a formal UX audit performed by a government agency</li>
-<li>EdTechJoker identified 24 issues in UX in HAX, of which 18 are already resolved and implemented</li>
-<li>HAX capable elements now have 0 dependencies and only require supplying a <i><b>haxProperties</b>
-</i>
- method</li>
+      <![CDATA[ <full-width-image style="width: 50%;" source="files/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg" caption="Sustainable systems development"></full-width-image>
+<p>Sustainability has been a "hot" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of a technical and moral spin. Sustainability is all about planning for the future of humanity. What our children and the world's children will experience as a result of our actions today.</p>
+<p>Do you think your house will be standing 100 years from now? How about 1000s, like the pantheon? No? Me neither. This is the issue I've come to with systems design. I came into a world where people did things with a lack of planning for the future directions it would take us. I didn't create the issues, but it is all of our responsibility to fix it.</p>
+<p>How many systems have you used that needed to be explained to you far beyond 5 minutes? How many wasteful positions do you see that maintain a single, custom system? How many <span style="font-size: 13px;">additional</span> positions do you see as a result of poor, bloated work-flows? How many people know how to do your job?</p>
+<p>This all brings me to the issue of morality in systems design / implementation. Systems should be designed in such a way that they are not only easy to use but easy to maintain and sustain for decades, not months and years.  Breaking down the walls between those creating the system and those in need of a system isn't just a best practice, it's a moral prerogative.</p>
+<p>The technical elites (haves) have a moral obligation to design and develop systems in such a way that everyone (even have nots) can use them.<b> Experience design (UX) is not just a "nice to have" requirement, it is a moral issue.</b>
+
+
+ It is immoral to design something that allows the system to be dependent upon your knowledge (or any small group of people) to continue running.</p>
+<p>Yeah, believe me, it's very tempting to hand a system off to a client who has no clue what they're doing and intentionally design it so you'll always have to be involved.</p>
+<h2 class="hax-active">big money big money no Wammies... STOP.</h2>
+<p>It's also far more difficult to design in such a way that you don't have to be involved (even as much) in the future.  Let's face it, that's less money for you and probably more work to get a product out to the client.</p>
+<p>There has been a bit of a code of ethics push in the Drupal community which has had me thinking about all this so I'd like to make one of my own.  These are some of the principles that I strive towards in everything I write and in every interaction with those in the community:</p>
+<ul><li style="">It is immoral to design something that only you understand how it works</li>
+
+
+
+<li style="">Systems must be designed with user-groups in mind (UX)</li>
+
+
+
+<li style=""><b><i>Every line of code should seek to empower people to never have to know it exists</i>
+
+
+</b>
+
+
+</li>
+
+
+
+<li style="">Solutions must be simple, elegant and understandable by the those tasked with managing the system after it is deployed.</li>
+
+
+
+<li style="">Talk early, and talk often. The more transparent you are in your design, development, and delivery processes the easier it would be for someone else to pick up your work and run with it</li>
+
+
+
+<li style=""><b>Be passionate in the code you write; if you're not into it, move on</b>
+
+
+</li>
+
+
+
+<li style="">We can write code to do lots of good and bad things; Don't take a job where you don't agree with the result</li>
+
+
+
+<li style="">Feedback, positive or negative is feedback and should be responded to in the same way</li>
+
+
+
+<li style="">Leverage developed code as much as you can so that glue / custom modules are as small as possible</li>
+
+
+
+<li style="">Realize that your never done (and be satisfied with it), you're simply advancing the ball a little further down the field every day, month, year, generation</li>
+
+
+
 </ul>
-<grid-plate breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="2-1" responsive-size="md" editmode dataeditable datahaxray="grid plate" column-widths="[&quot;66.6666667%&quot;,&quot;33.3333337%&quot;]">    <p slot="col-2">As I said at <b>hax-camp</b>
-, I am now <i>btopro</i>
- version 4.0;</p>
-<p slot="col-2">A Developer Activist..</p>
-<p slot="col-2"><i><b>The EdTechJoker.</b>
-</i>
-</p>
-<p class="grid-plate-active-item" slot="col-2">May 2020 bring our vision to life.</p>
-    <a11y-gif-player alt="EdTechJoker animation glitching through the screen" src="files/edtechjoker.gif" src-without-animation="files/edtechjoker.jpg" tooltip="Toggle animation" slot="col-1" style="width: 100%;" __playing></a11y-gif-player>
-</grid-plate>
+<p><span style="caret-color: rgb(0, 0, 0);"><br/></span></p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Actually, curing edtech</title>
     <id>item-4080a73d-360e-7a65-131b-705b8c6169e7</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="actually-curing-edtech-2"/>
@@ -143,7 +145,7 @@ This false narrative is what perpetuates the cycles of us training people, them 
   <entry>
     <title>This is not reality</title>
     <id>item-be6f30a2-8a4d-e986-6af3-930f91e00464</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="this-is-not-reality-2"/>
@@ -199,7 +201,7 @@ Chapter 8: The upside down</h2>
   <entry>
     <title>Using Webcomponents to unearth the NGDLE</title>
     <id>item-1222b362-d24d-0aa7-20e7-724767f57656</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="using-webcomponents-to-unearth-the-ngdle-2"/>
@@ -274,7 +276,7 @@ In the coming months through demonstration, documentation and seemingly impossib
   <entry>
     <title>Creating the decentralized instructional experience app</title>
     <id>item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="creating-the-decentralized-instructional-experience-app-2"/>
@@ -320,7 +322,7 @@ Let's get faculty and staff out of the business of understanding HTML and instea
   <entry>
     <title>Pure Joy</title>
     <id>item-897d5115-b6de-2c55-afa7-ba3262f4d9ca</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="pure-joy-2"/>
@@ -350,7 +352,7 @@ He laid down and made me rush through prayers because he had to go to sleep. He 
   <entry>
     <title>Education, Technology... Action.</title>
     <id>item-bea307e8-0af9-4518-dc18-c5323302165c</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="education-technology-action-2"/>
@@ -362,7 +364,7 @@ He laid down and made me rush through prayers because he had to go to sleep. He 
   <entry>
     <title>In my own words: Zero cost education.</title>
     <id>item-1f14703a-1e61-d454-f03a-52a94333e9d1</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="in-my-own-words-zero-cost-education-2"/>
@@ -374,7 +376,7 @@ He laid down and made me rush through prayers because he had to go to sleep. He 
   <entry>
     <title>NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.</title>
     <id>item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-2"/>
@@ -386,7 +388,7 @@ He laid down and made me rush through prayers because he had to go to sleep. He 
   <entry>
     <title>Dood</title>
     <id>item-e8c71c40-1351-7293-ae61-2e01b348f71f</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="dood-2"/>
@@ -424,7 +426,7 @@ I've been the happiest wreck I've been probably since he was born.</p>
   <entry>
     <title>I challenge you to Transform Education; together</title>
     <id>item-40122e25-5673-4544-133f-2acb042dbb23</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="i-challenge-you-to-transform-education-together-2"/>
@@ -485,7 +487,7 @@ Two engines</h2>
   <entry>
     <title>Watch the ripples and you'll miss the waves</title>
     <id>item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="watch-the-ripples-and-you-ll-miss-the-waves-2"/>
@@ -527,7 +529,7 @@ These little pieces; these little things. While we've been putting out these rip
   <entry>
     <title>The perfect cup of coffee</title>
     <id>item-c9e2488a-44dd-f0d4-4b3f-651245add81a</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="the-perfect-cup-of-coffee-2"/>
@@ -564,7 +566,7 @@ Fin.</p>
   <entry>
     <title>HAX apereo piece</title>
     <id>item-79649f12-a6d2-98f5-3c0b-8b88f2a24457</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="hax-apereo-piece-2"/>
@@ -577,7 +579,7 @@ Fin.</p>
   <entry>
     <title>The Knowledge Decentralization Manifesto (The Prolog)</title>
     <id>item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="the-knowledge-decentralization-manifesto-the-prolog-2"/>
@@ -589,7 +591,7 @@ Fin.</p>
   <entry>
     <title>The Knowledge Decentralization Manifesto</title>
     <id>item-f82147b6-1844-d3c0-9515-01130ce85c79</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="the-knowledge-decentralization-manifesto-2"/>
@@ -718,7 +720,7 @@ All knowledge is produced in any location that best meets its needs (Solution Y)
   <entry>
     <title>Playing for 40</title>
     <id>item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="playing-for-40-2"/>
@@ -776,7 +778,7 @@ How do we get there?</h2>
   <entry>
     <title>Generation Uine</title>
     <id>item-930234f4-c1d5-1d04-b08a-fddc47aa98dd</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="generation-uine-2"/>
@@ -815,7 +817,7 @@ Be.</h3>
   <entry>
     <title>Innovation's four ingredients</title>
     <id>item-6c53744c-1b33-97a1-976f-90484f5bc450</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="innovation-s-four-ingredients-2"/>
@@ -841,7 +843,7 @@ Be.</h3>
   <entry>
     <title>Efficiency as Activism</title>
     <id>item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="efficiency-as-activism-2"/>
@@ -865,7 +867,7 @@ Be.</h3>
   <entry>
     <title>Transforming industry through information altruism</title>
     <id>item-25e65b02-61b2-b987-7e86-601a241f74c9</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="transforming-industry-through-information-altruism-2"/>
@@ -894,7 +896,7 @@ Be.</h3>
   <entry>
     <title>Transform Control</title>
     <id>item-07d2884a-9e17-32f2-3175-0887f02bb49c</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="transform-control-2"/>
@@ -930,7 +932,7 @@ Be.</h3>
   <entry>
     <title>Legacy of Human Hierarchy</title>
     <id>item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="legacy-of-human-hierarchy-2"/>
@@ -985,7 +987,7 @@ Be.</h3>
   <entry>
     <title>Organic Deployment Architecture</title>
     <id>item-2ddc5396-01fe-60fc-5c23-fa40abae58e9</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="organic-deployment-architecture-2"/>
@@ -1099,7 +1101,7 @@ Be.</h3>
   <entry>
     <title>Ministry of information</title>
     <id>item-f8a9a36b-2d96-17ec-0a07-356191bb57ff</id>
-    <updated>2023-10-23T15:29:48+00:00</updated>
+    <updated>2024-01-02T17:38:46+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="ministry-of-information-2"/>
