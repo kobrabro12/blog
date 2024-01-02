@@ -51,6 +51,10 @@ var precacheConfig = [
         "9G5xoMFONQw2rcx3IAGaZw"
     ],
     [
+        "pages\/item-e69dc923-a3a6-4052-8726-9aeec9c2105c\/index.html",
+        "3H6B6KmX386hNEFM2Xfg"
+    ],
+    [
         "pages\/item-1235ea3a-9254-4b93-8df3-8909fddcce88\/index.html",
         "Ritx5swWPWZg9XrLYyypg"
     ],
@@ -356,7 +360,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "SXDht80twRaAqQTHiLRZEg"
+        "6oVQiCOh5X1zc9g2ZGkNw"
     ],
     [
         "404.html",
@@ -429,6 +433,10 @@ var precacheConfig = [
     [
         "files\/IMG_20190819_205859.jpg",
         "5QBi9DgW1FYBuP2KH9bcqg"
+    ],
+    [
+        "files\/image.png",
+        "zGH84epX7zP9vUeB7h8kg"
     ],
     [
         "files\/headshot511743.1799999904.jpg",

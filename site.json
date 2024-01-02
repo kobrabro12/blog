@@ -193,7 +193,16 @@
                 "created": 1704214231,
                 "updated": 1704214231,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "files": [
+                    {
+                        "fullUrl": "\/sites\/btopro\/files\/image.png",
+                        "url": "files\/image.png",
+                        "type": "image\/png",
+                        "name": "image.png",
+                        "size": 284384
+                    }
+                ]
             }
         },
         {
