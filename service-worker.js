@@ -360,7 +360,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "6oVQiCOh5X1zc9g2ZGkNw"
+        "Nuyk7TBlovSd7Wn2M3Zz1w"
     ],
     [
         "404.html",
@@ -477,6 +477,10 @@ var precacheConfig = [
     [
         "files\/edtechjoker.gif",
         "53CIQlkqpVRe4lT85qaJQ"
+    ],
+    [
+        "files\/PXL_20231229_200725896.jpg",
+        "thVCM3wBs2dGDqAmXKMjQ"
     ],
     [
         "files\/IMG_20190726_110706.jpg",

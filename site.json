@@ -201,6 +201,13 @@
                         "type": "image\/png",
                         "name": "image.png",
                         "size": 284384
+                    },
+                    {
+                        "fullUrl": "\/sites\/btopro\/files\/PXL_20231229_200725896.jpg",
+                        "url": "files\/PXL_20231229_200725896.jpg",
+                        "type": "image\/jpeg",
+                        "name": "PXL_20231229_200725896.jpg",
+                        "size": 1896047
                     }
                 ]
             }
