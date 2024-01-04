@@ -3,139 +3,102 @@
   <title>bto-pro</title>
   <link href="" rel="self" />
   <subtitle>Mind of the Information Altruist</subtitle>
-  <updated>2024-01-02T18:24:53+00:00</updated>
+  <updated>2024-01-04T19:24:18+00:00</updated>
   <author>
       <name></name>
   </author>
   <id></id>
   <entry>
-    <title>Sustainable Systems Development: A moral issue</title>
-    <id>item-c6866e7a-1981-8c76-293a-0b96181e4945</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <title>The LMS is Cable, We are Roku. Expect Us</title>
+    <id>item-8cef1ad3-7cc7-778a-b125-1d85f265742d</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="sustainable-systems-development-a-moral-issue-2"/>
+    <link href="the-lms-is-cable-we-are-roku-expect-us-2"/>
     
     <content type="html">
-      <![CDATA[ <full-width-image style="width: 50%;" source="files/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg" caption="Sustainable systems development"></full-width-image>
-<p>Sustainability has been a "hot" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of a technical and moral spin. Sustainability is all about planning for the future of humanity. What our children and the world's children will experience as a result of our actions today.</p>
-<p>Do you think your house will be standing 100 years from now? How about 1000s, like the pantheon? No? Me neither. This is the issue I've come to with systems design. I came into a world where people did things with a lack of planning for the future directions it would take us. I didn't create the issues, but it is all of our responsibility to fix it.</p>
-<p>How many systems have you used that needed to be explained to you far beyond 5 minutes? How many wasteful positions do you see that maintain a single, custom system? How many <span style="font-size: 13px;">additional</span> positions do you see as a result of poor, bloated work-flows? How many people know how to do your job?</p>
-<p>This all brings me to the issue of morality in systems design / implementation. Systems should be designed in such a way that they are not only easy to use but easy to maintain and sustain for decades, not months and years.  Breaking down the walls between those creating the system and those in need of a system isn't just a best practice, it's a moral prerogative.</p>
-<p>The technical elites (haves) have a moral obligation to design and develop systems in such a way that everyone (even have nots) can use them.<b> Experience design (UX) is not just a "nice to have" requirement, it is a moral issue.</b>
+      <![CDATA[ <h2>Cable</h2>
+<p class="highlight"><span class="dropcaps dropcaps-i">I</span>n the 40s and 50s, the Cable industry was born.
+By the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on the American consumer. Cable TV was everywhere by the 90s and currently more then 1/2 of all households have cable based TV. It's a massive industry that's dominated by a handful of players. Those players are the brokers of what is allowed to appear on their listings and as channel options expanded, people increasingly felt like there's "nothing on". Still, a majority of people have it because of ease of access (hit the power button on TV and entertainment is there, 0 cognitive load).
+Sound familiar? The Cable industry is very similar to the LMS industry. It's been around forever (since early 90s) and has been dominated by only a handful of players in the space. They effectively have a monopoly on the way that educational material is presented and transferred from instructor to learner. They control that pipeline and no matter how many channels (or LTI based apps) you have, everyone still complains there's "nothing on".</p>
+<h2>Cord cutting</h2>
+<p>While you may have read the term in the news more recently, cord cutting has been a trend since the lat 2000s when Hulu and Netflix began their streaming services, allowing people to go "over the top" so to speak and skip cable while continuing to get information and entertainment. But it really hasn't taken off until recently? If there were options out there, why is it only now getting so much publicity? Hulu and Netflix have been around for about 9 years, why are the currently disrupting cable?</p>
+<h2>Enter, the Roku</h2>
+<p>Roku is a device that came out 2008 as a device for streaming Netflix and by 2010 starts to support other apps like Hulu and..well.. anyone that wanted on it. You see Roku had an open source SDK that effectively said "if you implement this and notify us, you'll show up in our channel listing". This allowed anyone that had media to stream access to peoples' homes that had a Roku box connected to a TV.
+Other reasons Roku was transformative from a user experience perspective:</p>
+<ul>
+<li>Single box to attach to TV using existing standards (HDMI or RCA)</li>
 
+<li>Approachable input device (simple remote) with Power button activation via TV</li>
 
- It is immoral to design something that allows the system to be dependent upon your knowledge (or any small group of people) to continue running.</p>
-<p>Yeah, believe me, it's very tempting to hand a system off to a client who has no clue what they're doing and intentionally design it so you'll always have to be involved.</p>
-<h2 class="hax-active">big money big money no Wammies... STOP.</h2>
-<p>It's also far more difficult to design in such a way that you don't have to be involved (even as much) in the future.  Let's face it, that's less money for you and probably more work to get a product out to the client.</p>
-<p>There has been a bit of a code of ethics push in the Drupal community which has had me thinking about all this so I'd like to make one of my own.  These are some of the principles that I strive towards in everything I write and in every interaction with those in the community:</p>
-<ul><li style="">It is immoral to design something that only you understand how it works</li>
+<li>No need to understand URLs after initial on-screen directions to setup an account</li>
 
+<li>Icons / images in big bright squares telling you what you are going to access</li>
 
+<li>Start watching / searching within that universe of media
+The Roku has transformed the space because it took all those URLs that were always available for Netflix, Hulu, Youtube, Vimeo and the rest, and turned it into something that non-technical people could hook up in 5 minutes. The ease of use and approachability of the technology allowed it to start to decentralize and disrupt the cable industry (which as of this writing is in <a href="http://www.businessinsider.com/espn-losing-subscribers-not-ratings-viewers-2017-9" target="_blank" rel="nofollow" class="external-link no-image">free-fall</a>
+)
+<h2>The LMS is Cable</h2>
 
-<li style="">Systems must be designed with user-groups in mind (UX)</li>
+<p>So if the LMS is similar in positioning to Cable, how can we achieve our Roku moment where people decentralized and collapse the usage of the LMS (forcing it to transform how it behaves)? The industry has plenty of "Hulu" and "Netflix" counterparts in the form of systems that start to behave so much like something different that people adopt them in full and they start to look like LMSs of their own. Start with a video quiz tool, add badging, add certification, add a series of trainings, add quizzing, add rosters... HEY! This looks like an LMS (see: <a href="https://darcynorman.net/2013/02/15/normans-law-of-elearning-tool-convergence/" target="_blank" rel="nofollow" class="external-link no-image">D’ARCY NORMAN effect</a>
+).
+So how do we build NGDLE solutions in such a way that they don't just become the next LMS which is trying desperately not to be an LMS, yet is, yet claims it's not... and the cycle repeats.</p>
 
+<h2>NGDLE worldview</h2>
 
+<p>There has to be a way around the current dichotomy of Cable everyone hates and random URLs that have the things people want yet are too hard to use to reach mass adoption; and we're starting to build an attempt at it.
+If your familiar with ELMS: Learning Network, a system with lots of individual systems interconnected, then when I say our Roku moment isn't actually ELMS you'll say Waaaaaah?!
+Imagine ELMS:LN and it's suite of tools was mostly a backend, administrative functioning system. What if courses, studios, discussions, media and what not were viewed as individual apps on a Roku-esk interface geared towards education. Now, imagine traditional ELMS:LN "apps" are just some of the apps available and we instead showed everything that people could leverage, ELMS and otherwise.</p>
 
-<li style=""><b><i>Every line of code should seek to empower people to never have to know it exists</i>
+<h2>HAX, Education's Roku moment</h2>
 
+<p>HAX (see other posts here) is short for Headless Authoring eXperience. Imagine though if you weren't just making a webpage though, you were actually constructing a course environment. Then imagine that you did all of this from your laptop, desktop or mobile device. What if a desktop app was your remote control for the construction of <a href="https://btopro.com/blog/creating-the-decentralized-instructional-experience-app" target="_blank" rel="nofollow" class="external-link no-image">educational experiences</a>
+. You can call those courses if you like, but the primary focus is on crafting an engaging, high fidelity experience and making it as easy as possible to do.</p>
 
-</b>
+<h2>HAX's "apps"</h2>
 
+<p>HAX brings to the table two concepts that will provide us with our Roku moment our industry so desperately needs. Sources, and Gizmos (wtf?).</p>
 
-</li>
+<h3>Sources</h3>
 
-
-
-<li style="">Solutions must be simple, elegant and understandable by the those tasked with managing the system after it is deployed.</li>
-
-
-
-<li style="">Talk early, and talk often. The more transparent you are in your design, development, and delivery processes the easier it would be for someone else to pick up your work and run with it</li>
-
-
-
-<li style=""><b>Be passionate in the code you write; if you're not into it, move on</b>
-
-
-</li>
-
-
-
-<li style="">We can write code to do lots of good and bad things; Don't take a job where you don't agree with the result</li>
-
-
-
-<li style="">Feedback, positive or negative is feedback and should be responded to in the same way</li>
-
-
-
-<li style="">Leverage developed code as much as you can so that glue / custom modules are as small as possible</li>
-
-
-
-<li style="">Realize that your never done (and be satisfied with it), you're simply advancing the ball a little further down the field every day, month, year, generation</li>
-
-
-
-</ul>
-<p><span style="caret-color: rgb(0, 0, 0);"><br/></span></p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Actually, curing edtech</title>
-    <id>item-4080a73d-360e-7a65-131b-705b8c6169e7</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="actually-curing-edtech-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-i">I</span> read an article recently by <a href="https://er.educause.edu/articles/2017/4/the-rise-of-educational-technology-as-a-sociocultural-and-ideological-phenomenon" target="_blank" rel="nofollow" class="external-link no-image">Educause Review</a>
- and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of affairs in education as it relates to edtech...</p>
-<h2>Ding</h2>
-<p>Ok class, pencils down. Now; Who can tell me what is wrong with the following argument?</p>
-<ul><li>We live in a techno-centric worldview where technology is the driver of outcomes</li>
-
-<li>Education is historically non-profit driven, while technology is profit driven</li>
-
-<li>Therefore, part of the commoditization of education can be attributed to edtech</li>
-
-<li>
-<em>To fix this we recommend kindly helping to inform our edtech overlords sliiiightly better in theory to maaaaaybe help us actually have the thing we want</em>
-
-<h2>We ask stations to pause for a moment of head-esplod-ification</h2>
-
-<p>What, the, actually F is that!? So let me get this straight. Education is important as a social good, it's something that generally speaking still isn't completely driven by a pure profit motive. It's situated somewhere between socialist utopia (Everyone has access <em>maaaan</em>
-) and capitalist utopia (Everyone competes and knowledge is part of that competition). And you address concerns of "Weeellll it seems like these technology vendors have no real foundation in education / instructional principles" with the equivalent of the "meh" emoji followed by a hands up in the air?
-I read this article and went off on a total drill down rant on twitter (unfortunately against someone who's an edtech provider and he wasn't the target it just sorta happened that way). They for once, finally, omg finally identify the problem: That edtech producers don't work in Education and have almost no clue wtf they are doing other then making something shiny. There is little to no research behind what they do. <strong>AND THEY ARE PURELY PROFIT DRIVEN</strong>
-. So check, check, check and then your conclusion is... but oh well, let's keep on keeping on while acknolwedging this is the case.
-<em>{deep breathe}</em>
+<p>A HAX Source is anything that has or can be given information, media, content, etc. If you are supplying that information, it would look like an upload field:
 </p>
+<figure class="image"><img alt="Upload field in the Gizmo browser" src="/images/2/a/8/d/7/2a8d74afa5140271b6f0c649a120fa1cf8ab531b-2017-12-2113-42-55.jpeg"/><figcaption>Upload field in the Gizmo browser</figcaption>
+</figure>
 
-<h2>NOOOO.</h2>
+So you would drag and drop a file to upload, let's say it's a .mp4 file. HAX would ask it's available sources who can handle video. Youtube and Vimeo and anything else would raise their hands. You'd select where you want the video to go and it would start uploading to that source.<p></p>
 
-<p>You will not fix the problem of a techno-centric society driven education further to the brink through edtech (article's point, not mine) BY REPEATING THE SAME DAMN PATTERN WE HAVE BEEN. Stop. Stop with this bullshit narrative that magically those in silicon valley, or worse, the very students you bring in to train, build up the knowledge of and send out the door are some how inherently supporior at the production of educational technology then the institutions that are doing the training!
-This false narrative is what perpetuates the cycles of us training people, them leaving and immediately forming companies with knowledge of our problem space and then selling us into insane contracts for things that aren't actually hitting the mark.</p>
+<h3>Gizmos</h3>
 
-<h2>Don't believe me?</h2>
+<p>Gizmos (architecturally <a href="https://btopro.com/blog/betting-on-webcomponents-to-bring-about-ngdle" target="_blank" rel="nofollow" class="external-link no-image">webcomponents</a>
+) in HAX are your way of presenting information visually. So we either supply media for a source (our .mp4 file) or we search and select one:
+</p>
+<figure class="image"><img alt="Search sources of information for content" src="/images/f/5/2/8/9/f5289f6ea7389f0fc33fc2881b89d876e253c25f-2017-12-2114-02-25.jpeg"/><figcaption>Search sources of information for content</figcaption>
+</figure>
 
-<p>Instructure, all the rage with C levels becasue they adopted Twitter Boostrap and React in a world driven by home-made solutions, did just that. A bunch of students said "blackboard sucks" and threw something together rather quickly which is superior to it. Think for a second then... why can't we collectively do the same? NO! </p>
+The source says "Hey, I've got something that looks like a video, can any Gizmos handle video". Our Gizmos raise their hand as to who can display video, the user selects the Gizmo for the job:
+<figure class="image"><img alt="Gizmo browser to select the right display for the job" src="/images/c/6/6/a/e/c66ae63df2f34fd4a25b1d491f7c55fc29037251-2017-12-2114-02-38.jpeg"/><figcaption>Gizmo browser to select the right display for the job</figcaption>
+</figure>
 
-<h2>Why can't we do better then that?</h2>
+Then they are presented a form for filling in additional details:
+<figure class="image"><img alt="Form fields for configuring how to embed this" src="/images/5/4/7/c/8/547c8824829e5067ab1ee347227a5de453c0c596-2017-12-2114-30-55.jpeg"/><figcaption>Form fields for configuring how to embed this</figcaption>
+</figure>
 
-<p>If you want to stop edtech driving us around collectively and being part of the techno-centric worldview that forces education to be more about money then learning, then you've gotta defeat this narrative. I view our team and those we collaborate with as being among the first to plant that flag in the ground. We are educators, trainers, designers, technologists, students, learners, and administrators all working together with a singular purpose to solve this problem. We are going to deliver solutions that are not profit motive driven, that are more open, more accessible, <em>have research backing</em>
-, and are ultimately better then anything you will see produced external to education.</p>
+After filling out the form, it'll get placed into the content and you can go about doing what you do best. Teach.
+<figure class="image"><img alt="Video placed in the page" src="/images/a/c/9/4/b/ac94b93754650a2f42c1af7a0ce307880b5b1c28-2017-12-2114-34-51.jpeg"/><figcaption>Video placed in the page</figcaption>
+</figure>
+<p></p>
 
-<h2>Don't believe it?</h2>
+<h3>Desktop app</h3>
 
-<p>Watch us! This is just a small glimpse of what we have coming to all systems near you..</p>
-
-<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe src="https://www.youtube.com/embed/videoseries?list=PLJQupiji7J5dqyIVrKfPOujZKuqbmgJKm" frameborder="0" gesture="media" allowfullscreen="" id="fitvid310970"></iframe>
-</div>
-
+<p>Now imagine if <a href="https://github.com/LRNWebComponents/hax-desktop-app" target="_blank" rel="nofollow" class="external-link no-image">HAX were a desktop app</a>
+, built using the same methodology as Roku where there are distributed apps that are all pulled together. Because of webcomponents and an awesome desktop builder called Electron, we can pursue both at the same time. We'll be able to improve the distributed building capabilities in ELMS:LN while also putting these capabilities in a desktop publishing app.
+The app will then be able to write HTML which can work anywhere, with or without ELMS:LN / other sources, and then also have the ability to deploy to ELMS:LN's course delivery capabilities, or a static location, or a git repo, or any LMS.
+By building LMS and system agnostic, we can deploy anywhere. In the coming months you'll start to see the Roku vision rolling out with additional accessibility, usability and integrations available.
+The NGDLE will be built out of legos and deployed like Roku.
+<a href="https://www.elmsln.org/stranger-things/" target="_blank" rel="nofollow" class="external-link no-image">We are ELMS:LN</a>
+.
+Expect Us.</p>
 </li>
 
 </ul>
@@ -145,7 +108,7 @@ This false narrative is what perpetuates the cycles of us training people, them 
   <entry>
     <title>This is not reality</title>
     <id>item-be6f30a2-8a4d-e986-6af3-930f91e00464</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="this-is-not-reality-2"/>
@@ -199,399 +162,42 @@ Chapter 8: The upside down</h2>
     </content>
   </entry>
   <entry>
-    <title>Using Webcomponents to unearth the NGDLE</title>
-    <id>item-1222b362-d24d-0aa7-20e7-724767f57656</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <title>Straddling the Abyss</title>
+    <id>item-401610da-127f-602f-5298-265f5eea00ee</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="using-webcomponents-to-unearth-the-ngdle-2"/>
+    <link href="straddling-the-abyss-2"/>
     
     <content type="html">
-      <![CDATA[ <p>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look outside the island of edtech first, always asking "What can I bring back to our space to make it better?". 10 years ago, that was Drupal. I evangelized Drupal everywhere I could, wrote hundreds of modules, positively impacted tens of 1000s of sites in and out of education while making it possible for individual developers to leverage open source automation to do awesome things. Today I write to talk about the next thing I want to bring back to our island which I think is <em>the</em>
- technology to bring about an open ecosystem for the Next Generation Digital Learning Environment (NGDLE).</p>
-<h2><a id="user-content-webcomponents-explained" class="anchor" aria-hidden href="#webcomponents-explained"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Webcomponents explained</h2>
-<p>That technology, is webcomponents. Webcomponents, which you can find out more about on <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents.org</a>
- is a four part browser standard that fundamentally changes what's possible in web based application development. The important thing to know is that webcomponents allows developers to define <em>custom HTML elements and expresses how the browser handles them</em>
-. So, bringing this back to education: <em>We can use this technology standard in order to build <a href="https://github.com/LRNWebComponents/">pedagogically focused, valid, HTML tags</a>
-</em>
-.</p>
-<h3><a id="user-content-quick-note" class="anchor" aria-hidden href="#quick-note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Quick note</h3>
-<p>This is a standard that all major browser vendors have committed to adopting and largely have, though polyfills are required to get full browser support. It also is leaving the IE6/7/8/9/10 world behind (the good news is, <a href="http://www.telegraph.co.uk/technology/microsoft/12087103/Microsoft-to-kill-off-Internet-Explorer-8-9-and-10.html" rel="nofollow">so has Microsoft</a>
-).</p>
-<h2><a id="user-content-ngdle-backstory" class="anchor" aria-hidden href="#ngdle-backstory"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-NGDLE backstory</h2>
-<p>For <a href="http://btopro.wordpress.com" rel="nofollow">four years</a>
- I've been building <a href="https://www.elmsln.org/" rel="nofollow">ELMS: Learning Network</a>
-; trying to build a platform that can produce and sustain innovation in educational technology. For about that long, Educause has talked about the concept of NGDLE; what it might look like, what it might do, how to do it. Because it's a big concept to unpack, it's taken a few years to get people all on board with the idea and to agree that it's not an LMS (much like webcomponents was proposed in 2011 yet didn't become a real thing implemented until 2016). Because of the patterns of behaviors and methodology of ELMS:LN I currently consider it the only public NGDLE. For that reason, we're misunderstood but if NGDLE is Lego'ing / app-ifying the LMS; ELMS:LN wants to be the grid-plate. The fundamental base-plate to be plugged into. A routing system to stitch it all together and satisfy the need that no vendor will ever provide: a middleware to pull our ecosystems together.</p>
-<h2><a id="user-content-so-how-do-we-all-lego" class="anchor" aria-hidden href="#so-how-do-we-all-lego"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-So how do we all lego</h2>
-<p>Ok, so back to webcomponents. If we have a gridplate (you could provide your own, I'm not suggesting ELMS:LN be the only one) then we need lego bricks to plug into the board. But what fits that paradigm? Webcomponents allow you to take simple forms of HTML and build it up into increasingly complex elements. Let's look at a simple concept of a custom tag and how it would start to get towards pedagogically centric HTML.</p>
-<p>Just like HTML, custom tags can go into other custom tags. It can also use and retain semantic meaning just like HTML markup. So let's imagine that we had a semantic, custom element that provides the same thing as above. Now we have a tag called <code>paper-button</code>
- and every time I want to do above, I put that tag. Ok, now let's say I want a comment card. A comment card might be:</p>
-<p>Which I can then use in something bigger and now I have a tag called <a href="https://lrnwebcomponents.github.io/lrnsys-comment/components/lrnsys-comment/demo/#" rel="nofollow">comment-list</a>
- or <code>discussion-board</code>
-. A discussion-board could be made out of any number of other smaller lego brick tags. Now I wire it up to a backend to save the data and I've got a fully functional HTML element that can be shared and remixed anywhere and so long as someone provides a backend to store it, it's going to work.</p>
-<h2><a id="user-content-critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right" class="anchor" aria-hidden href="#critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Critical concepts that webcomponents provide to NGDLE if we do this right</h2>
-<ol>
-<li>Visual consistency - right now when using multiple systems everyone decrys the cognitive load on students. webcomponents can provide a common visual design language and templated approach to help alleviate this. Everything will feel like it's the same (even if it's not)</li>
-
-<li>Accessibility - Because most accessibility mistakes happen when HTML is created, this allows us to make elements with high accessibility baked in, eliminating the ability for end-users to make that design element inaccessible.</li>
-
-<li>Maintainability - If we were to produce a tag such as <code>lrn-assignment</code>
- that expressed an assignment's properties visually, we can now swap out the guts of that tag and so long as the properties going into it are the same we don't need to update any existing content produced.</li>
-
-<li>Interoperability - By design, anything that imports the custom element (which is jsut an HTML file supplying the definition of what to do with that tag) will work. These will work in any system because it's the user's browser that's unpacking what it is and the specification itself gives the element definition and encapsulation.</li>
-
-<li>Standards based approach - by using a common methodology for front-end creation, we can standardize the UX and interaction patterns of our users and allow developers to all work together and utilize each other's lego bricks.</li>
-
-<li>Schema without Schema - We can start to wire up our custom elements to be schematized for indexing by search engines or our own advanced crawlers, ensuring there is additional semantic meaning to our content no matter where it lives. This has <a href="http://oerschema.org" rel="nofollow">huge implications for OER</a>
- for example.</li>
-
-<li>Common Authoring - Because <a href="http://haxtheweb.org" rel="nofollow">we just made this</a>
- and it works anywhere.</li>
-
-</ol>
-<h2><a id="user-content-anywhere" class="anchor" aria-hidden href="#anywhere"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Anywhere?</h2>
-<p>Yeah, anywhere. HAX is another step towards my vision of NGDLE and the solutions we can craft when we work in this approach. An authoring experience that can pull data from anywhere and assemble it in a standards based format (HTML) which can be deployed anywhere. Imagine having identical authoring and instructional capabilities regardless of where an instructor is assembling a course. Open system? Do it in the open. Closed to the institution? Do it in the LMS. Training exercise or learning module on a random blog? Yeah, with an NGDLE based authoring approach, everything can be a mini-LMS and everything can feed other things to make new Learning experiences.
-In the coming months through demonstration, documentation and seemingly impossible levels of progress (webcomponents + elmsln make application development trivial) I'll begin to show the path towards anyone building an NGDLE. What it provides users, How we are sharing things across institutions and systems, and how we can start to dissolve all learning systems into the NGDLE based worldview to provide better solutions for instructors and more engaging learning spaces online for learners.</p>
+      <![CDATA[ <h2>The tight rope walker</h2>
+<p class="highlight"><span class="dropcaps dropcaps-h">H</span>e looks to his left..</p>
+<p>certain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward, only to move forward step by step. Step too far one way and risk having to over correct. Over correct too far and the entire thing comes to a stand still at best; at worst, the journey is over.</p>
+<p>I got to talk to my wife the other night before bed. It's intended as it sounds; rare lately. 2018 has been very busy for us. Lots of travel, lots of juggling schedules of kids, jobs, extra work on both our parts, and so as any parents of two young children know the conversation time without the noise of life is often rare. It was in this moment that I used a phrase I haven't fully explained previously.</p>
+<p>It was that of where my work is heading and the creeping abyss that I see myself needing to avoid. She asked what I meant by having to approach the abyss (in reference to our work and where it's going). I'm not really one to bring conversations that are really personal in matter up in a public form but if none speak that which is abnormal then all that remains is what others claim as normalcy.</p>
+<h2>Everyone is miserable at the top</h2>
+<p>So how can we get to the top without becoming miserable in the process or losing our soul? I have yet to meet anyone or hear of anyone (but one person) who has done the whole parable of the fisher thing and not ended up the same as they left off. The parable is a man is fishing by a lake and someone says "wow you're really good at this, you should form a company and sell these fish to others". And so he either relates the following or lives it but basically it goes that if you stop doing what you love just because you love it and turn it into a financial enterprise, you had better make sure you never lose sight of that love or you'll risk it just becoming another job. A job the fisherman wants to ultimately escape and go back to sitting by the lake and fishing alone.</p>
+<p>Without having to detail who these people are (nor should I) I can sadly tell you that most people I've met that run open source projects that have taken off are often broken people. Maybe I just know the wrong ones, but so many fall to the social ills that plague us all yet are even easier to come by when money and "power" come into play. Drugs, sex, broken homes, distance from family and friends, unfulfillment in the life's work they have selected. If these weren't common problems in our space you wouldn't see so many conference talks about topics of Burn out, imposter syndrome and generally being a person outside of tech.</p>
+<p>This, is the abyss. Fame. Vanity. The whole lot of the typical "7 deadly sins" as it were. This is the abyss that from day one I've recognized and made sure never to cross over. It doesn't mean I don't have fun at events, it doesn't mean I don't have friends in the communities I partake. But it does mean that I'm always in control of myself and any situation I'm a part of. I can't let go, and I won't; even if it seems I'm there in my mind I've carved out a safe place to hide.</p>
+<p>Never get so deep into your work that you forget why you were doing the work in the first place. Never proceed through life without purpose, vision, intention, desire, love, hope or dreams. Find your why, embrace it and never let go. It seems silly, but finding your Why, having guiding principles and living them are what separate a fulfilling life from an empty one. It's all mindset, and prioritizing things to ensure you achieve what you've set out to do.</p>
+<h2>Why then...</h2>
+<p>My parents told me only more recently, that part of their desire to do the best in life they could was to provide a better existance for me and my sisters. It resonated immediately... as my early presentations when I'd launch into what I was doing always started with Why I was doing it (followed by silly pictures of my kids). My Why's are simple, solid, and core to my being</p>
+<p>Because my (and your) children deserve a better world then the already pretty awesome one I was given</p>
+<p>Because we can always do better</p>
+<p>Because education raises all ships and allows us to bring greater understanding and joy to this world as a result</p>
+<p>Because money isn't everything</p>
+<p>Because with great power, comes great responsibility.</p>
+<p>Because this is my calling.</p>
+<h2>Always have something to look up to, something to chase, and a hero</h2>
+<video-player resource="#567e6b42-4a22-c7ad-4f65" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " responsive="" text-color-class="white-text" text-color="#ffffff" video-style="style1" style="width: 100%;" source="https://www.youtube.com/watch?v=wD2cVhC-63I" src="https://www.youtube-nocookie.com/embed/wD2cVhC-63I?showinfo=0&controls=1&rel=0" iframed="" width="560" height="315" caption="Matthew McConaughey, Oscar® acceptance speech 2014." secondary-color="#ff6f00" secondary-color-class="amber darken-4" yt-nocookie="" yt-controls="" video-color="ull" class="x-scope video-player-0" sticky-corner="top-right" dark="">
+</video-player>
  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Creating the decentralized instructional experience app</title>
-    <id>item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="creating-the-decentralized-instructional-experience-app-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the logical extension to HAX for desktop over 2018 which could be utilized to decentralize instructional experience creation. If this sounds of use to your institution, good, let's work together on it.</p>
-<h2><a id="user-content-problem" class="anchor" aria-hidden href="#problem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Problem</h2>
-<p>Faculty and staff have no idea what they can use at our institution. No matter how many registries of information or solutions we provide, people will need to practically be marketted to just to know they exist in the sea of information about what makes the university work. Beyond this, there is no way to provide continuous innovation to those not at high-touch units which work hand in hand with faculty to produce highly experimental course spaces and approaches. Even if we could find the things we need, very few of them talk to each other, their user experiences are all over the map, and most aren't very good for creating materials without needing to understand technical topics (like HTML). This isn't a PSU specific problem, Duke has an illustration that highlights 93+ solutions available to faculty, many of which don't talk even if they knew them all.
-How to solve the problem of finding and once getting there creating engaging experiences?</p>
-<h2><a id="user-content-leading-questions" class="anchor" aria-hidden href="#leading-questions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Leading questions</h2>
-<ul>
-<li>What if faculty and staff involved in producing instructional experiences had an app that told them what services existed and made it instantly possible to use?</li>
-
-<li>What would it look like institutionally and what would the use experience look like?</li>
-
-<li>What needs would we have technically in order to support this?</li>
-
-</ul>
-<h2><a id="user-content-vision" class="anchor" aria-hidden href="#vision"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Vision</h2>
-<p>This is the vision of HAX, a distributed instructional creation tool. <a href="http://haxtheweb.org/" rel="nofollow">HAX can be viewed as a public demo here</a>
-. The important thing to keep in mind with this is that desktop publishing of applications can be done using HTML, making them far easier to build when you just make it work on the web. Imagine if users could log into the app on their laptop or phone and just create. Creating a new course? Start one on your local machine and with the press of a button publish it to Canvas, Drupal, ELMS:LN, GravCMS or a static website. Want to see what colleagues have shared from their courses? Fork their materials by searching an institution protected repository right from the app or connect to global shared object repositories. Instead of trying to market to faculty and staff what services are available, have people utilize a unified app which connects to the registry of everything available to them for teaching and learning.
-Want to stream video? Upload it to the app and it'll publish it to youtube or the video provider the university supports. Want to create H5P but don't understand hosting? Build it in the app and it'll save to the correct, FERPA valid location. Want to create a slideshow? Drag and drop a series of images which automatically get uploaded to Amazon S3 and then click a UI to "build" your slideshow. Worry about accessibility? HAX will take care of it for you automatically and without the ability to make in-accessible content. Content in HAX is accessible by default due to the game changing technology called <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents</a>
-.
-Let's get faculty and staff out of the business of understanding HTML and instead build materials that allow them to leverage the services the institution provides without increased cognitive load.</p>
-<h2><a id="user-content-2018" class="anchor" aria-hidden href="#2018"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-2018</h2>
-<p>The ELMS:LN team has begun work on such a desktop app called <a href="https://github.com/LRNWebComponents/hax-desktop-app">HAX deskop app</a>
- which seeks to achieve this vision. Help us make this a reality in 2018 and beyond as we seek to empower faculty and align technology deployments with academic freedom and student curiosity.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Pure Joy</title>
-    <id>item-897d5115-b6de-2c55-afa7-ba3262f4d9ca</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="pure-joy-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p>The family gathered, friends came and we all shared a laugh.</p>
-<p>Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. "I have to start getting ready for bed can I brush my teeth?" A 7 year old is never one to demand they be put to bed when up snacking and well, not sleeping. But this wasn't an average day. This was December 24th.</p>
-<h2><a id="user-content-why-do-you-want-to-get-ready-for-bed" class="anchor" aria-hidden href="#why-do-you-want-to-get-ready-for-bed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-"Why do you want to get ready for bed?"</h2>
-<h2><a id="user-content-because-i-have-to-get-ready-for-bed-and-go-to-sleep-so-santa-can-come-at-midnight" class="anchor" aria-hidden href="#because-i-have-to-get-ready-for-bed-and-go-to-sleep-so-santa-can-come-at-midnight"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-"Because, I have to get ready for bed and go to sleep so Santa can come at Midnight!"</h2>
-<p>He was very excited for Christmas this year, more so then any previous. His cousin was in town, his brother was also at an age he could grasp the brevity of the day. It is among the peak of the family joy meter when it comes to kiddo happiness.
-He laid down and made me rush through prayers because he had to go to sleep. He is a wonderful, funny, thoughtful little boy; and after all the hours worked, time on this machine worked, it is incredibly rewarding to sit back and watch them. I'm not taking these years for granted, I know they are fleeting; I can barely hold my boys at night to put into bed or rock them to calm down after a bad dream.</p>
-<p>I got my wife a book this year called <em>The Book of Happiness</em>
-. And it's a large, blank book. It's a replica from the movie Up that the main character and his wife build and I was going to write in it but instead, I left it blank. Because it's not my story to write and build; It's our story, and the pages of our lives we write together are the ones we need to document together. The smiles from a surprise trip, or a long awaited one, the tokens of places visited, artwork, treasures. These are all we'll have left one day. Not the presents, the wrapping, the food; just the few single pages of the incredible story we wrote together.</p>
-<p>Right now though, we're in the think of our story. I pray our pages are many in this book, but no matter what the ending, these will always be years colored with pure golden sunshine. The light that only children bring to our lives as parents. The golden years of our little family growing together, as we all get to be apart of a memorable phenomena:
-<em><strong>Pure Joy</strong>
-</em>
-.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Education, Technology... Action.</title>
-    <id>item-bea307e8-0af9-4518-dc18-c5323302165c</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="education-technology-action-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p></p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>In my own words: Zero cost education.</title>
-    <id>item-1f14703a-1e61-d454-f03a-52a94333e9d1</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="in-my-own-words-zero-cost-education-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p></p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.</title>
-    <id>item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p></p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Dood</title>
-    <id>item-e8c71c40-1351-7293-ae61-2e01b348f71f</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="dood-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p>dudes crying.
-dude’s crying.
-dude, is, crying.
-This dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need much more then that.
-We went to a <a href="http://borntobebravetour.com/" rel="nofollow">father son thing about fatherhood and raising sons of integrity</a>
-; youth group sorta stuff, a good mix of message, prayer, and fun. The part I wasn't ready for was the label breaking. We had a part where we talked about labels; labels placed on you by others and that you know who you are and you know who God wants you to be and that no one else knows that and can define those labels, those gifts you've been given.</p>
-<h2><a id="user-content-label" class="anchor" aria-hidden href="#label"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Label</h2>
-<p>So for this part, your supposed to ask each other what a label people have given you has been (this is admittedly geared toward like 7-15 years old so that's more like teenager question). So I asked him if anyone's said anything mean to him or called him a name at school and he said no (we had very different school experiences apparently already).
-So I thought and went, ok, well I'm going to label you Smart and wrote smart on a duct tape (sticker) and placed it on him. Without being asked, he grabbed the pen and wrote on my sticker "Loved" with tears in his eyes he put it on me. I asked why he was crying (afterwards) and he told me "sometimes when people say really nice things about me I feel like... I feel so happy that I start to cry".</p>
-<h2><a id="user-content-stars2" class="anchor" aria-hidden href="#stars2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Stars+2</h2>
-<p>After this we sat and listened and watched some more. Heard some good stories about integrity (that cheez wiz has none) and how society will tell you that "being a real man" is about money, power, influence, attractiveness, having a wife; and that that's not what's really important. That it's what's on the inside, the person behind the labels and the "things" and the attractiveness that really matters. It was an uplifting message that we all have a role to play and that it's not what you have on the outside but how you live your life that really matters.
-We had to leave early because of school early in the morning so we waited for intermission and headed out. The building was on top of a hill overlooking the valley and it was very dark up there outside of the parking lot. As we walked toward the car I scooped him up on my shoulders and instead walked toward a pond in the dark. He wanted to know where we were going and I said he'd see when we got there.
-As we got beyond the flood lights of the parking lot I told him to stop and look up. The sky lit up with far more stars then we see at our house.
-“woahhhh there’s so many” he said.
-"You see those?"
-“Yes poppa”
-“I love you more then the stars in this sky”
-“wow… that’s so nice… I love you more then the stars in the sky… plus 2”
-“when I’m older like… 8 and your 54; I’ll still love you cause your the best poppa”
-I've been the happiest wreck I've been probably since he was born.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>I challenge you to Transform Education; together</title>
-    <id>item-40122e25-5673-4544-133f-2acb042dbb23</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="i-challenge-you-to-transform-education-together-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Institutions and employees within them will remain at rest unto acted upon by an internal or external force. Externally, this is the preasures of society, markets and learners demanding change. Internally, this is tempored radicals within the machine knowing the machine needs to change. But change is more complex then that, because preasures for change and the path toward change are not linear. It also means those with motivations to not remain at rest will exponentially increase in their ability to not stay at rest. One innovation after immense frustration kicks off dozens as opposed to one leading to one more.</p>
-<h2><a id="user-content-the-btopro-flow-of-educational-innovation" class="anchor" aria-hidden href="#the-btopro-flow-of-educational-innovation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-The Btopro Flow of Educational Innovation</h2>
-<p><a target="_blank" rel="noopener noreferrer" href="innovation.jpg"><img src="innovation.jpg" alt="Btopro's Flow of Educational Innovation" style="max-width:100%;"/></a>
-
-In my spectrum of educational innovation, I place Ease of the staff to manage on the same axes as frustration. Something is either easy or difficult, not much to note there. Vertically we see Sameness and Innovation. Now, The easier something is, the more the same it will remain. Once we've transitioned a technology to a resting state, say ethernet cable in the walls for Fiber connectivity, then we'd like it to remain the same and be easy to maintain (I know network engineers will say it's actually frustrating as hell and the same but let's imagine here). Once that technology is at rest and stabilized, we really don't want there to be innovation in that space.
-Innovation, both it's pursuit and what it takes to pursue, is a different animal. Innovation forces the individual and the organization to strive toward frustration. Frustration and perserverence lead to growth. For example, backend application development is very difficult at first. But once one masters MySQL and PHP (as examples), and then masters Ubuntu (operating system); now, the frustration subsides and the exponential inversion of the frustration, arching towards innovation can occur. And not just occur, but do so at scale.</p>
-<h3><a id="user-content-virtualization" class="anchor" aria-hidden href="#virtualization"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Virtualization</h3>
-<p>Another example. Now that you've mastered PHP/MySQL to make the underpinnings of an application. And Ubuntu for it to ride on. Learning Docker and doing something meaningful with it is relatively trivial. Using knowledge of Docker, you can virtualize and deploy the once impossibly complex and frustrating task, an infinite number of times. Your command of 1 application was greater effort then the now command of 1000s. And this, from an organizational perspective, is what leads to transformation.</p>
-<h2><a id="user-content-the-pathway-to-transformation" class="anchor" aria-hidden href="#the-pathway-to-transformation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-The pathway to transformation</h2>
-<p>What process are you engaged in now that will keep things the same? Is it reliance on legacy solutions? Perhaps staffing that "won't get us there" (whatever there is). Then it's possible you should accept your sameness and relegate the easy, stationary tasks to those that work there now. You must achieve stability with those best suited for stability. (note the bold) <em>This is also an incredibly important function of any organization. Without sameness, without ease of management, you do not have an organization to manage.</em>
-
-But the process of transformation of practice, of digging in and fundamentally enhancing what was frustrating into what is now easy (and eventually the same even if previously infinitely difficult) is a different task. It's not the same. It's not better, it's not worse. There may be more conferences to submit to and it might have more "glory" as we as humans tend to glorify and appreciate different and new more then old and stable. However, these are two very different car engines : innovation, and sameness.</p>
-<h2><a id="user-content-two-engines" class="anchor" aria-hidden href="#two-engines"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Two engines</h2>
-<p>It's critical that we as bringers of the new digital revolution realize this. If we are to bring our institutions into the future, we need a different set of engines in order to do so. You don't replace the HVAC system with a next generation HVAC system while maintaining the current one. You maintain the current one, explore new ones, and then when the time is right, start to make the switch. <em>We need to focus our organizations on the future and dedicate thought leadership and technical expertise specifically toward that</em>
-. Where are we going is just as critical as having those maintain where we collectively are now.
-<a target="_blank" rel="noopener noreferrer" href="ana-gabriel-9811.jpg"><img src="ana-gabriel-9811.jpg" alt="Leading out of the cave" style="max-width:100%;"/></a>
-
-<a href="https://unsplash.com/@agabriel?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge" title="Download free do whatever you want high-resolution photos from Ana Gabriel" rel="nofollow">
-<span>
-</span></a>
-</p>
-<a href="https://unsplash.com/@agabriel?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge" title="Download free do whatever you want high-resolution photos from Ana Gabriel" rel="nofollow">
-<title>unsplash-logo</title>
-
-
-
-<span>Ana Gabriel</span>
-</a>
-<a href="https://unsplash.com/@wes_c?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge" title="Download free do whatever you want high-resolution photos from Wes Carpani" rel="nofollow">
-<span>
-
-<title>unsplash-logo</title>
-
-
-</span>
-<span>Wes Carpani</span>
-</a>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Watch the ripples and you'll miss the waves</title>
-    <id>item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="watch-the-ripples-and-you-ll-miss-the-waves-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p class="hax-active"><br/></p>
-<lrndesign-blockquote author="- the forgotten" display-mode="hypercard" resource="#7bbfaf23-0684-72a0-b188" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org ">  <span>"I don't understand why you give this stuff away, it's worth a lot. I mean screw capitalism, yea I get it I mean right there. But Universities pay a lot of money for these things. Why make them for free? How does that get you rich"</span>
-</lrndesign-blockquote>
-<p>
-It's not the first time it's come up, though this was definitely a more direct line of questioning then is typical. It's these promptings though that convince me [sic] that we live in a simulation, or at least that I am. Nothing else could explain why these mile markers are placed in my path except divine intervention (which a simulation would surely be someone more powerful then us placing the VR googles on the Matrix bodies; but to be less silly...)
-We are reaching a critical inflection point in the near future. The point of singularity where I don't know where the road goes. It's one thing to project in 2015 the things we'd be working on by 2020. It's another to present an idea and call it Structured Anarchy about the systematic messiness of application development in institutions (education being just one). And.. it's an entirely different feeling and experience living the pieces falling into place. Seeing the alliances and relationships form, feeling the momentum (of what?) and the hair on the back of your neck stand up in disbelief that things could keep going the way they have been going. As we progress, let me assure you of one thing:</p>
-<h2><a id="user-content-this-was-all-according-to-plan" class="anchor" aria-hidden href="#this-was-all-according-to-plan"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-<em>This was all according to plan.</em>
-</h2>
-<p>See, it's like the human genome project. It takes years of effort to get the first 1% done and then after that a long time but less so to get to 2%. Then, after hitting that critical theashold (whatever it is, 10% we'll say) the rest is finished in a matter of weeks. How is this possible? There are 100 things and you did 10 in x time, the other 90 will surely take x*9.
-It's because programming (and deprogramming in the case of genome) can stack and repurpose knowledge and capabilities. Unlike lifting 100 boxes one at a time into a truck, with patterned software development once we lift 1 box we've liften 10. And once we lift 10 boxes we now can lift 100. The pattern of exponential growth in capability to solve problems is because of the field itself. You solve one problem in a modular way, you roll out the modular way in a pattern, and now you've got an exponential amount of capability just in that one problem space. Now modularly solve the next, and the problem those create, and combine these solutions to solve that one. Suddenly your exponential capabilities are solving things exponentially.
-It doesn't happen over night. These things take a very, very long time to develop. When I think back to the first outline designer I made it's hilarious. I "knew javascript" enough to slap some code together; but I couldn't make new code. I couldn't design things well beyond what I could do in MS paint. I didn't have version control. I didn't have a method of getting feedback and testing aside from hitting refresh tons of times.
-Now, I saw a huge aspect of the problem space solved in a single day. Is it because we already built that and now know what it is? Partly yes, past knowledge of the problem helps frame future solutions for sure. But the libraries and techniques we can now leverage mean that when we solve 1 problem (say... a button design) we're now solving that "problem" in every future project we take on. In this way, things that once took weeks and months of development (I'm not talking planning / ideating, coding, typing things, testing, etc) now can be done in hours and days.
-This is because our backend modularity and pattern based design now has a place on the front-end thanks to Webcomponents. Now we can pattern based deploy our modular front-end assets. Meaning that when we make a button better, we've made them all better. Meaning that when we need to build a new thing, the button can be assumed. Now button sounds small (and it is) but let's replace button with modal, card, menu, block, layout, grid system, navigation pattern, form entry method, json data loading, ANYTHING. ANY. THING. If we can build it as a component then we can repurpose it into others. This almost doesn't feel like coding based on how coding has felt the last 10 years, this feels like building things with legos (and I looooooved legos growing up).</p>
-<h2><a id="user-content-tiny-things" class="anchor" aria-hidden href="#tiny-things"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Tiny things</h2>
-<p>So while we trickle out small pieces (a <a href="https://github.com/LRNWebComponents/lrnsys-outline">outline</a>
-, a <a href="https://github.com/LRNWebComponents/responsive-grid">grid system</a>
-, a <a href="https://github.com/LRNWebComponents/pdf-element">PDF</a>
-, a <a href="https://github.com/LRNWebComponents/paper-audio-player">mp3 player</a>
-, a <a href="https://github.com/LRNWebComponents/video-player">video player</a>
-, a <a href="https://github.com/LRNWebComponents/lrndesign-gallery">gallery</a>
-, the list goes on) that's not really what we're building. These are just by-products of our new found capabilities. We don't have just these either. We've got <a href="https://github.com/LRNWebComponents">122 repos of these little pieces</a>
- and these are just the ones we've shared so far. When we get into full on apps (powering parts of elmsln) there are another 10 full on headless applications that are running there.
-These little pieces; these little things. While we've been putting out these ripples (<a href="https://www.youtube.com/watch?v=dhD6Y77eXmc" rel="nofollow">and some are very cool</a>
-) I implore you not to focus on them. But look out a bit further and see the tidal wave that's brewing. A wave which I assure you, is coming a shore soon.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>The perfect cup of coffee</title>
-    <id>item-c9e2488a-44dd-f0d4-4b3f-651245add81a</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="the-perfect-cup-of-coffee-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p>(post via <a href="https://twitter.com/btopro" rel="nofollow">@btopro on twitter</a>
-)</p>
-<p>good people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into <a href="https://twitter.com/DeathWishCoffee" rel="nofollow">@DeathWishCoffee</a>
-</p>
-<p>I remember as a child, and seeing the tools of my father or grandfather's workshop and thinking "wow... how did they amass all those tools" and they'd tell me "one at a time son. One at a time" (this is not my reality this was stolen from Gran Torino). Today. I have my toolshed</p>
-<p>The difference, is my toolshed is stocked with what assembles the perfect cup of coffee. Let me tell you, how to experience the perfect cup of Saturday afternoon coffee (I should NOT be drinking this this late in the day I'll be up for days).</p>
-<p>First. A gallon bottle of distilled water and a packet of <a href="https://twitter.com/thirdwavewater" rel="nofollow">@thirdwavewater</a>
- . Mix the two. Then get clear 20 oz coffee cup and fill it with the water almost to the top. Now get a <a href="https://twitter.com/BonavitaWorld" rel="nofollow">@BonavitaWorld</a>
- tea kettle with a digital readout and pour the water into it. Add 1 oz for steam loss</p>
-<p>Next take out an <a href="https://twitter.com/aeropresscom" rel="nofollow">@aeropresscom</a>
- coffee maker and <a href="https://twitter.com/DeathWishCoffee" rel="nofollow">@DeathWishCoffee</a>
- . Put 5 scoops (small scooper) of death wish into a grinder of your choice (I have a 14$ proctorsillex by <a href="https://twitter.com/HamiltonBeach" rel="nofollow">@HamiltonBeach</a>
-). Pulse grinder till beans are just above expresso level grinded.</p>
-<p>Start the Bonavita set at 195 degrees and select the hold setting. You want 195 not 195 then cool off to 193 or some other garbage temperature. Using the inverted pour method (<a href="http://coffeenate.com/how-to-make-coffee-with-the-aeropress-aeropress-video-tutorial/" rel="nofollow">described here</a>
-) pour the beans in and then slowly pour water.</p>
-<p>Let sit for 1 min ensure you've filled to the 3.5 line in the aeropress. After 1 min, apply "the btopro method" which is to press coffee to the 3 line (so .5 lines) to obtain suction, then slowly pull up on the brewer pump. (wwwhhaaaaa you say?)</p>
-<a href="https://giphy.com/embed/91fEJqgdsnu4E" rel="nofollow">https://giphy.com/embed/91fEJqgdsnu4E</a>
-<p>If successful, you will be able to pull air up from the cup through the filter without it moving, keeping a seal with the beans so that nothing leaks through but air pulses through the upper portions of the bean mash. This maximizes flavor... big time.</p>
-<p>after plunger reaches the top of the cup, stop and press down to the 1.5 line. Then slowly pull the plunger back up, and add additional water. Continue doing this until you've used all the water in the Bonavita; ensuring that you keep the temp at 195 the whole time</p>
-<p>Press till your cup is full; hopefully being able to run out of water and press all the way to the bottom. The last 5% the press can go down will pull extra oils out of the coffee beans (and believe me, with <a href="https://twitter.com/DeathWishCoffee" rel="nofollow">@DeathWishCoffee</a>
- you'll want the oils). And now, 1 last step (whhaaaa?)</p>
-<a href="https://giphy.com/embed/tu54GM19sqJOw" rel="nofollow">https://giphy.com/embed/tu54GM19sqJOw</a>
-<p>Get ANOTHER cup of similar size (or slightly larger), and slowly pour your full cup of coffee into this one until you hit about 95% empty. Very, slowly pour this last amount and you'll be able to trap any excessive sediment added via "the btopro method" and discard.</p>
-<p>And now. You have the ultimate cup of home brewed coffee. Perfect for enjoying while the kids are napping and you write an excessively long series of tweets about how you typically spend 15 minutes making a cup of coffee much to the critique of everyone you know and love.
-Fin.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>HAX apereo piece</title>
-    <id>item-79649f12-a6d2-98f5-3c0b-8b88f2a24457</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="hax-apereo-piece-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media from any backend storage system. This frees us to build the best authoring solution for the web. Not specifically for ELMS:LN, or Sakai, or Tsugi but for the web in general. HAX does this through a front-end technology called web components. Web components have been in the pipeline of the web for many years, but the time is finally right to start jumping on board and planning for how to use them in the future. Web components in short are a four part specification already in most browsers fully (or polyfill-ed in) which allows for the creation of new, custom html tags that the browser recognizes. This nets you modular / component driven development without the need for bloated frameworks like Angular, React, etc. HAX leverages this technology to build a form of web components authoring web components. This means that we can build new custom elements that any browser understands, and have it fire up a single JSON object and IF hax is around it will understand how to build a UI for it. HAX based content will never appear to have been made with HAX, because it's just writing data into web component properties the same way any developer could. This means faculty can start authoring advanced HTML without ever looking at it. It also means we as developers can build and expand our systems using open standards without frameworks limiting who can plug and play where. The #usetheplatform movement is lively and is ultimately the replacement for all frameworks or at least huge chunks of them while allowing us to share visual and functional assets. Interested in helping us #haxtheweb? Check out some links: * [http://haxtheweb.org](http://haxtheweb.org) - this is a demo which is completely headless * [https://github.com/LRNWebComponents](https://github.com/LRNWebComponents) - our open element library, currently north of 130 elements that work anywhere * [https://www.youtube.com/playlist?list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH](https://www.youtube.com/playlist?list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH) - #haxtheweb playlist of tutorials, demonstrations, and ramblings This is an effort that can benefit any Apereo project and the ELMS:LN core team would happily entertain collaborations to help bring HAX to more than just ELMS:LN's community. Currently there are HAX integrations for Drupal (6,7), BackdropCMS, GravCMS and ELMS:LN. HAX is slated to be the default authoring experience for ELMS:LN by Fall 2018 with pilot to real people happening Summer 2018. *[this piece was originally written for the Apereo newsletter](https://www.apereo.org/)</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>The Knowledge Decentralization Manifesto (The Prolog)</title>
-    <id>item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="the-knowledge-decentralization-manifesto-the-prolog-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p></p> ]]>
     </content>
   </entry>
   <entry>
     <title>The Knowledge Decentralization Manifesto</title>
     <id>item-f82147b6-1844-d3c0-9515-01130ce85c79</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="the-knowledge-decentralization-manifesto-2"/>
@@ -718,9 +324,419 @@ All knowledge is produced in any location that best meets its needs (Solution Y)
     </content>
   </entry>
   <entry>
+    <title>The Knowledge Decentralization Manifesto (The Prolog)</title>
+    <id>item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="the-knowledge-decentralization-manifesto-the-prolog-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAX apereo piece</title>
+    <id>item-79649f12-a6d2-98f5-3c0b-8b88f2a24457</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="hax-apereo-piece-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media from any backend storage system. This frees us to build the best authoring solution for the web. Not specifically for ELMS:LN, or Sakai, or Tsugi but for the web in general. HAX does this through a front-end technology called web components. Web components have been in the pipeline of the web for many years, but the time is finally right to start jumping on board and planning for how to use them in the future. Web components in short are a four part specification already in most browsers fully (or polyfill-ed in) which allows for the creation of new, custom html tags that the browser recognizes. This nets you modular / component driven development without the need for bloated frameworks like Angular, React, etc. HAX leverages this technology to build a form of web components authoring web components. This means that we can build new custom elements that any browser understands, and have it fire up a single JSON object and IF hax is around it will understand how to build a UI for it. HAX based content will never appear to have been made with HAX, because it's just writing data into web component properties the same way any developer could. This means faculty can start authoring advanced HTML without ever looking at it. It also means we as developers can build and expand our systems using open standards without frameworks limiting who can plug and play where. The #usetheplatform movement is lively and is ultimately the replacement for all frameworks or at least huge chunks of them while allowing us to share visual and functional assets. Interested in helping us #haxtheweb? Check out some links: * [http://haxtheweb.org](http://haxtheweb.org) - this is a demo which is completely headless * [https://github.com/LRNWebComponents](https://github.com/LRNWebComponents) - our open element library, currently north of 130 elements that work anywhere * [https://www.youtube.com/playlist?list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH](https://www.youtube.com/playlist?list=PLJQupiji7J5eTqv8JFiW8SZpSeKouZACH) - #haxtheweb playlist of tutorials, demonstrations, and ramblings This is an effort that can benefit any Apereo project and the ELMS:LN core team would happily entertain collaborations to help bring HAX to more than just ELMS:LN's community. Currently there are HAX integrations for Drupal (6,7), BackdropCMS, GravCMS and ELMS:LN. HAX is slated to be the default authoring experience for ELMS:LN by Fall 2018 with pilot to real people happening Summer 2018. *[this piece was originally written for the Apereo newsletter](https://www.apereo.org/)</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>The perfect cup of coffee</title>
+    <id>item-c9e2488a-44dd-f0d4-4b3f-651245add81a</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="the-perfect-cup-of-coffee-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>(post via <a href="https://twitter.com/btopro" rel="nofollow">@btopro on twitter</a>
+)</p>
+<p>good people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into <a href="https://twitter.com/DeathWishCoffee" rel="nofollow">@DeathWishCoffee</a>
+</p>
+<p>I remember as a child, and seeing the tools of my father or grandfather's workshop and thinking "wow... how did they amass all those tools" and they'd tell me "one at a time son. One at a time" (this is not my reality this was stolen from Gran Torino). Today. I have my toolshed</p>
+<p>The difference, is my toolshed is stocked with what assembles the perfect cup of coffee. Let me tell you, how to experience the perfect cup of Saturday afternoon coffee (I should NOT be drinking this this late in the day I'll be up for days).</p>
+<p>First. A gallon bottle of distilled water and a packet of <a href="https://twitter.com/thirdwavewater" rel="nofollow">@thirdwavewater</a>
+ . Mix the two. Then get clear 20 oz coffee cup and fill it with the water almost to the top. Now get a <a href="https://twitter.com/BonavitaWorld" rel="nofollow">@BonavitaWorld</a>
+ tea kettle with a digital readout and pour the water into it. Add 1 oz for steam loss</p>
+<p>Next take out an <a href="https://twitter.com/aeropresscom" rel="nofollow">@aeropresscom</a>
+ coffee maker and <a href="https://twitter.com/DeathWishCoffee" rel="nofollow">@DeathWishCoffee</a>
+ . Put 5 scoops (small scooper) of death wish into a grinder of your choice (I have a 14$ proctorsillex by <a href="https://twitter.com/HamiltonBeach" rel="nofollow">@HamiltonBeach</a>
+). Pulse grinder till beans are just above expresso level grinded.</p>
+<p>Start the Bonavita set at 195 degrees and select the hold setting. You want 195 not 195 then cool off to 193 or some other garbage temperature. Using the inverted pour method (<a href="http://coffeenate.com/how-to-make-coffee-with-the-aeropress-aeropress-video-tutorial/" rel="nofollow">described here</a>
+) pour the beans in and then slowly pour water.</p>
+<p>Let sit for 1 min ensure you've filled to the 3.5 line in the aeropress. After 1 min, apply "the btopro method" which is to press coffee to the 3 line (so .5 lines) to obtain suction, then slowly pull up on the brewer pump. (wwwhhaaaaa you say?)</p>
+<a href="https://giphy.com/embed/91fEJqgdsnu4E" rel="nofollow">https://giphy.com/embed/91fEJqgdsnu4E</a>
+<p>If successful, you will be able to pull air up from the cup through the filter without it moving, keeping a seal with the beans so that nothing leaks through but air pulses through the upper portions of the bean mash. This maximizes flavor... big time.</p>
+<p>after plunger reaches the top of the cup, stop and press down to the 1.5 line. Then slowly pull the plunger back up, and add additional water. Continue doing this until you've used all the water in the Bonavita; ensuring that you keep the temp at 195 the whole time</p>
+<p>Press till your cup is full; hopefully being able to run out of water and press all the way to the bottom. The last 5% the press can go down will pull extra oils out of the coffee beans (and believe me, with <a href="https://twitter.com/DeathWishCoffee" rel="nofollow">@DeathWishCoffee</a>
+ you'll want the oils). And now, 1 last step (whhaaaa?)</p>
+<a href="https://giphy.com/embed/tu54GM19sqJOw" rel="nofollow">https://giphy.com/embed/tu54GM19sqJOw</a>
+<p>Get ANOTHER cup of similar size (or slightly larger), and slowly pour your full cup of coffee into this one until you hit about 95% empty. Very, slowly pour this last amount and you'll be able to trap any excessive sediment added via "the btopro method" and discard.</p>
+<p>And now. You have the ultimate cup of home brewed coffee. Perfect for enjoying while the kids are napping and you write an excessively long series of tweets about how you typically spend 15 minutes making a cup of coffee much to the critique of everyone you know and love.
+Fin.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Watch the ripples and you'll miss the waves</title>
+    <id>item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="watch-the-ripples-and-you-ll-miss-the-waves-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p class="hax-active"><br/></p>
+<lrndesign-blockquote author="- the forgotten" display-mode="hypercard" resource="#7bbfaf23-0684-72a0-b188" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org ">  <span>"I don't understand why you give this stuff away, it's worth a lot. I mean screw capitalism, yea I get it I mean right there. But Universities pay a lot of money for these things. Why make them for free? How does that get you rich"</span>
+</lrndesign-blockquote>
+<p>
+It's not the first time it's come up, though this was definitely a more direct line of questioning then is typical. It's these promptings though that convince me [sic] that we live in a simulation, or at least that I am. Nothing else could explain why these mile markers are placed in my path except divine intervention (which a simulation would surely be someone more powerful then us placing the VR googles on the Matrix bodies; but to be less silly...)
+We are reaching a critical inflection point in the near future. The point of singularity where I don't know where the road goes. It's one thing to project in 2015 the things we'd be working on by 2020. It's another to present an idea and call it Structured Anarchy about the systematic messiness of application development in institutions (education being just one). And.. it's an entirely different feeling and experience living the pieces falling into place. Seeing the alliances and relationships form, feeling the momentum (of what?) and the hair on the back of your neck stand up in disbelief that things could keep going the way they have been going. As we progress, let me assure you of one thing:</p>
+<h2><a id="user-content-this-was-all-according-to-plan" class="anchor" aria-hidden href="#this-was-all-according-to-plan"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+<em>This was all according to plan.</em>
+</h2>
+<p>See, it's like the human genome project. It takes years of effort to get the first 1% done and then after that a long time but less so to get to 2%. Then, after hitting that critical theashold (whatever it is, 10% we'll say) the rest is finished in a matter of weeks. How is this possible? There are 100 things and you did 10 in x time, the other 90 will surely take x*9.
+It's because programming (and deprogramming in the case of genome) can stack and repurpose knowledge and capabilities. Unlike lifting 100 boxes one at a time into a truck, with patterned software development once we lift 1 box we've liften 10. And once we lift 10 boxes we now can lift 100. The pattern of exponential growth in capability to solve problems is because of the field itself. You solve one problem in a modular way, you roll out the modular way in a pattern, and now you've got an exponential amount of capability just in that one problem space. Now modularly solve the next, and the problem those create, and combine these solutions to solve that one. Suddenly your exponential capabilities are solving things exponentially.
+It doesn't happen over night. These things take a very, very long time to develop. When I think back to the first outline designer I made it's hilarious. I "knew javascript" enough to slap some code together; but I couldn't make new code. I couldn't design things well beyond what I could do in MS paint. I didn't have version control. I didn't have a method of getting feedback and testing aside from hitting refresh tons of times.
+Now, I saw a huge aspect of the problem space solved in a single day. Is it because we already built that and now know what it is? Partly yes, past knowledge of the problem helps frame future solutions for sure. But the libraries and techniques we can now leverage mean that when we solve 1 problem (say... a button design) we're now solving that "problem" in every future project we take on. In this way, things that once took weeks and months of development (I'm not talking planning / ideating, coding, typing things, testing, etc) now can be done in hours and days.
+This is because our backend modularity and pattern based design now has a place on the front-end thanks to Webcomponents. Now we can pattern based deploy our modular front-end assets. Meaning that when we make a button better, we've made them all better. Meaning that when we need to build a new thing, the button can be assumed. Now button sounds small (and it is) but let's replace button with modal, card, menu, block, layout, grid system, navigation pattern, form entry method, json data loading, ANYTHING. ANY. THING. If we can build it as a component then we can repurpose it into others. This almost doesn't feel like coding based on how coding has felt the last 10 years, this feels like building things with legos (and I looooooved legos growing up).</p>
+<h2><a id="user-content-tiny-things" class="anchor" aria-hidden href="#tiny-things"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Tiny things</h2>
+<p>So while we trickle out small pieces (a <a href="https://github.com/LRNWebComponents/lrnsys-outline">outline</a>
+, a <a href="https://github.com/LRNWebComponents/responsive-grid">grid system</a>
+, a <a href="https://github.com/LRNWebComponents/pdf-element">PDF</a>
+, a <a href="https://github.com/LRNWebComponents/paper-audio-player">mp3 player</a>
+, a <a href="https://github.com/LRNWebComponents/video-player">video player</a>
+, a <a href="https://github.com/LRNWebComponents/lrndesign-gallery">gallery</a>
+, the list goes on) that's not really what we're building. These are just by-products of our new found capabilities. We don't have just these either. We've got <a href="https://github.com/LRNWebComponents">122 repos of these little pieces</a>
+ and these are just the ones we've shared so far. When we get into full on apps (powering parts of elmsln) there are another 10 full on headless applications that are running there.
+These little pieces; these little things. While we've been putting out these ripples (<a href="https://www.youtube.com/watch?v=dhD6Y77eXmc" rel="nofollow">and some are very cool</a>
+) I implore you not to focus on them. But look out a bit further and see the tidal wave that's brewing. A wave which I assure you, is coming a shore soon.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>I challenge you to Transform Education; together</title>
+    <id>item-40122e25-5673-4544-133f-2acb042dbb23</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="i-challenge-you-to-transform-education-together-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Institutions and employees within them will remain at rest unto acted upon by an internal or external force. Externally, this is the preasures of society, markets and learners demanding change. Internally, this is tempored radicals within the machine knowing the machine needs to change. But change is more complex then that, because preasures for change and the path toward change are not linear. It also means those with motivations to not remain at rest will exponentially increase in their ability to not stay at rest. One innovation after immense frustration kicks off dozens as opposed to one leading to one more.</p>
+<h2><a id="user-content-the-btopro-flow-of-educational-innovation" class="anchor" aria-hidden href="#the-btopro-flow-of-educational-innovation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+The Btopro Flow of Educational Innovation</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="innovation.jpg"><img src="innovation.jpg" alt="Btopro's Flow of Educational Innovation" style="max-width:100%;"/></a>
+
+In my spectrum of educational innovation, I place Ease of the staff to manage on the same axes as frustration. Something is either easy or difficult, not much to note there. Vertically we see Sameness and Innovation. Now, The easier something is, the more the same it will remain. Once we've transitioned a technology to a resting state, say ethernet cable in the walls for Fiber connectivity, then we'd like it to remain the same and be easy to maintain (I know network engineers will say it's actually frustrating as hell and the same but let's imagine here). Once that technology is at rest and stabilized, we really don't want there to be innovation in that space.
+Innovation, both it's pursuit and what it takes to pursue, is a different animal. Innovation forces the individual and the organization to strive toward frustration. Frustration and perserverence lead to growth. For example, backend application development is very difficult at first. But once one masters MySQL and PHP (as examples), and then masters Ubuntu (operating system); now, the frustration subsides and the exponential inversion of the frustration, arching towards innovation can occur. And not just occur, but do so at scale.</p>
+<h3><a id="user-content-virtualization" class="anchor" aria-hidden href="#virtualization"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Virtualization</h3>
+<p>Another example. Now that you've mastered PHP/MySQL to make the underpinnings of an application. And Ubuntu for it to ride on. Learning Docker and doing something meaningful with it is relatively trivial. Using knowledge of Docker, you can virtualize and deploy the once impossibly complex and frustrating task, an infinite number of times. Your command of 1 application was greater effort then the now command of 1000s. And this, from an organizational perspective, is what leads to transformation.</p>
+<h2><a id="user-content-the-pathway-to-transformation" class="anchor" aria-hidden href="#the-pathway-to-transformation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+The pathway to transformation</h2>
+<p>What process are you engaged in now that will keep things the same? Is it reliance on legacy solutions? Perhaps staffing that "won't get us there" (whatever there is). Then it's possible you should accept your sameness and relegate the easy, stationary tasks to those that work there now. You must achieve stability with those best suited for stability. (note the bold) <em>This is also an incredibly important function of any organization. Without sameness, without ease of management, you do not have an organization to manage.</em>
+
+But the process of transformation of practice, of digging in and fundamentally enhancing what was frustrating into what is now easy (and eventually the same even if previously infinitely difficult) is a different task. It's not the same. It's not better, it's not worse. There may be more conferences to submit to and it might have more "glory" as we as humans tend to glorify and appreciate different and new more then old and stable. However, these are two very different car engines : innovation, and sameness.</p>
+<h2><a id="user-content-two-engines" class="anchor" aria-hidden href="#two-engines"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Two engines</h2>
+<p>It's critical that we as bringers of the new digital revolution realize this. If we are to bring our institutions into the future, we need a different set of engines in order to do so. You don't replace the HVAC system with a next generation HVAC system while maintaining the current one. You maintain the current one, explore new ones, and then when the time is right, start to make the switch. <em>We need to focus our organizations on the future and dedicate thought leadership and technical expertise specifically toward that</em>
+. Where are we going is just as critical as having those maintain where we collectively are now.
+<a target="_blank" rel="noopener noreferrer" href="ana-gabriel-9811.jpg"><img src="ana-gabriel-9811.jpg" alt="Leading out of the cave" style="max-width:100%;"/></a>
+
+<a href="https://unsplash.com/@agabriel?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge" title="Download free do whatever you want high-resolution photos from Ana Gabriel" rel="nofollow">
+<span>
+</span></a>
+</p>
+<a href="https://unsplash.com/@agabriel?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge" title="Download free do whatever you want high-resolution photos from Ana Gabriel" rel="nofollow">
+<title>unsplash-logo</title>
+
+
+
+<span>Ana Gabriel</span>
+</a>
+<a href="https://unsplash.com/@wes_c?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge" title="Download free do whatever you want high-resolution photos from Wes Carpani" rel="nofollow">
+<span>
+
+<title>unsplash-logo</title>
+
+
+</span>
+<span>Wes Carpani</span>
+</a>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.</title>
+    <id>item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Actually, curing edtech</title>
+    <id>item-4080a73d-360e-7a65-131b-705b8c6169e7</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="actually-curing-edtech-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-i">I</span> read an article recently by <a href="https://er.educause.edu/articles/2017/4/the-rise-of-educational-technology-as-a-sociocultural-and-ideological-phenomenon" target="_blank" rel="nofollow" class="external-link no-image">Educause Review</a>
+ and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of affairs in education as it relates to edtech...</p>
+<h2>Ding</h2>
+<p>Ok class, pencils down. Now; Who can tell me what is wrong with the following argument?</p>
+<ul><li>We live in a techno-centric worldview where technology is the driver of outcomes</li>
+
+<li>Education is historically non-profit driven, while technology is profit driven</li>
+
+<li>Therefore, part of the commoditization of education can be attributed to edtech</li>
+
+<li>
+<em>To fix this we recommend kindly helping to inform our edtech overlords sliiiightly better in theory to maaaaaybe help us actually have the thing we want</em>
+
+<h2>We ask stations to pause for a moment of head-esplod-ification</h2>
+
+<p>What, the, actually F is that!? So let me get this straight. Education is important as a social good, it's something that generally speaking still isn't completely driven by a pure profit motive. It's situated somewhere between socialist utopia (Everyone has access <em>maaaan</em>
+) and capitalist utopia (Everyone competes and knowledge is part of that competition). And you address concerns of "Weeellll it seems like these technology vendors have no real foundation in education / instructional principles" with the equivalent of the "meh" emoji followed by a hands up in the air?
+I read this article and went off on a total drill down rant on twitter (unfortunately against someone who's an edtech provider and he wasn't the target it just sorta happened that way). They for once, finally, omg finally identify the problem: That edtech producers don't work in Education and have almost no clue wtf they are doing other then making something shiny. There is little to no research behind what they do. <strong>AND THEY ARE PURELY PROFIT DRIVEN</strong>
+. So check, check, check and then your conclusion is... but oh well, let's keep on keeping on while acknolwedging this is the case.
+<em>{deep breathe}</em>
+</p>
+
+<h2>NOOOO.</h2>
+
+<p>You will not fix the problem of a techno-centric society driven education further to the brink through edtech (article's point, not mine) BY REPEATING THE SAME DAMN PATTERN WE HAVE BEEN. Stop. Stop with this bullshit narrative that magically those in silicon valley, or worse, the very students you bring in to train, build up the knowledge of and send out the door are some how inherently supporior at the production of educational technology then the institutions that are doing the training!
+This false narrative is what perpetuates the cycles of us training people, them leaving and immediately forming companies with knowledge of our problem space and then selling us into insane contracts for things that aren't actually hitting the mark.</p>
+
+<h2>Don't believe me?</h2>
+
+<p>Instructure, all the rage with C levels becasue they adopted Twitter Boostrap and React in a world driven by home-made solutions, did just that. A bunch of students said "blackboard sucks" and threw something together rather quickly which is superior to it. Think for a second then... why can't we collectively do the same? NO! </p>
+
+<h2>Why can't we do better then that?</h2>
+
+<p>If you want to stop edtech driving us around collectively and being part of the techno-centric worldview that forces education to be more about money then learning, then you've gotta defeat this narrative. I view our team and those we collaborate with as being among the first to plant that flag in the ground. We are educators, trainers, designers, technologists, students, learners, and administrators all working together with a singular purpose to solve this problem. We are going to deliver solutions that are not profit motive driven, that are more open, more accessible, <em>have research backing</em>
+, and are ultimately better then anything you will see produced external to education.</p>
+
+<h2>Don't believe it?</h2>
+
+<p>Watch us! This is just a small glimpse of what we have coming to all systems near you..</p>
+
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe src="https://www.youtube.com/embed/videoseries?list=PLJQupiji7J5dqyIVrKfPOujZKuqbmgJKm" frameborder="0" gesture="media" allowfullscreen="" id="fitvid310970"></iframe>
+</div>
+
+</li>
+
+</ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>In my own words: Zero cost education.</title>
+    <id>item-1f14703a-1e61-d454-f03a-52a94333e9d1</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="in-my-own-words-zero-cost-education-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Education, Technology... Action.</title>
+    <id>item-bea307e8-0af9-4518-dc18-c5323302165c</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="education-technology-action-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Pure Joy</title>
+    <id>item-897d5115-b6de-2c55-afa7-ba3262f4d9ca</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="pure-joy-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>The family gathered, friends came and we all shared a laugh.</p>
+<p>Then, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. "I have to start getting ready for bed can I brush my teeth?" A 7 year old is never one to demand they be put to bed when up snacking and well, not sleeping. But this wasn't an average day. This was December 24th.</p>
+<h2><a id="user-content-why-do-you-want-to-get-ready-for-bed" class="anchor" aria-hidden href="#why-do-you-want-to-get-ready-for-bed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+"Why do you want to get ready for bed?"</h2>
+<h2><a id="user-content-because-i-have-to-get-ready-for-bed-and-go-to-sleep-so-santa-can-come-at-midnight" class="anchor" aria-hidden href="#because-i-have-to-get-ready-for-bed-and-go-to-sleep-so-santa-can-come-at-midnight"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+"Because, I have to get ready for bed and go to sleep so Santa can come at Midnight!"</h2>
+<p>He was very excited for Christmas this year, more so then any previous. His cousin was in town, his brother was also at an age he could grasp the brevity of the day. It is among the peak of the family joy meter when it comes to kiddo happiness.
+He laid down and made me rush through prayers because he had to go to sleep. He is a wonderful, funny, thoughtful little boy; and after all the hours worked, time on this machine worked, it is incredibly rewarding to sit back and watch them. I'm not taking these years for granted, I know they are fleeting; I can barely hold my boys at night to put into bed or rock them to calm down after a bad dream.</p>
+<p>I got my wife a book this year called <em>The Book of Happiness</em>
+. And it's a large, blank book. It's a replica from the movie Up that the main character and his wife build and I was going to write in it but instead, I left it blank. Because it's not my story to write and build; It's our story, and the pages of our lives we write together are the ones we need to document together. The smiles from a surprise trip, or a long awaited one, the tokens of places visited, artwork, treasures. These are all we'll have left one day. Not the presents, the wrapping, the food; just the few single pages of the incredible story we wrote together.</p>
+<p>Right now though, we're in the think of our story. I pray our pages are many in this book, but no matter what the ending, these will always be years colored with pure golden sunshine. The light that only children bring to our lives as parents. The golden years of our little family growing together, as we all get to be apart of a memorable phenomena:
+<em><strong>Pure Joy</strong>
+</em>
+.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Creating the decentralized instructional experience app</title>
+    <id>item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="creating-the-decentralized-instructional-experience-app-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the logical extension to HAX for desktop over 2018 which could be utilized to decentralize instructional experience creation. If this sounds of use to your institution, good, let's work together on it.</p>
+<h2><a id="user-content-problem" class="anchor" aria-hidden href="#problem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Problem</h2>
+<p>Faculty and staff have no idea what they can use at our institution. No matter how many registries of information or solutions we provide, people will need to practically be marketted to just to know they exist in the sea of information about what makes the university work. Beyond this, there is no way to provide continuous innovation to those not at high-touch units which work hand in hand with faculty to produce highly experimental course spaces and approaches. Even if we could find the things we need, very few of them talk to each other, their user experiences are all over the map, and most aren't very good for creating materials without needing to understand technical topics (like HTML). This isn't a PSU specific problem, Duke has an illustration that highlights 93+ solutions available to faculty, many of which don't talk even if they knew them all.
+How to solve the problem of finding and once getting there creating engaging experiences?</p>
+<h2><a id="user-content-leading-questions" class="anchor" aria-hidden href="#leading-questions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Leading questions</h2>
+<ul>
+<li>What if faculty and staff involved in producing instructional experiences had an app that told them what services existed and made it instantly possible to use?</li>
+
+<li>What would it look like institutionally and what would the use experience look like?</li>
+
+<li>What needs would we have technically in order to support this?</li>
+
+</ul>
+<h2><a id="user-content-vision" class="anchor" aria-hidden href="#vision"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Vision</h2>
+<p>This is the vision of HAX, a distributed instructional creation tool. <a href="http://haxtheweb.org/" rel="nofollow">HAX can be viewed as a public demo here</a>
+. The important thing to keep in mind with this is that desktop publishing of applications can be done using HTML, making them far easier to build when you just make it work on the web. Imagine if users could log into the app on their laptop or phone and just create. Creating a new course? Start one on your local machine and with the press of a button publish it to Canvas, Drupal, ELMS:LN, GravCMS or a static website. Want to see what colleagues have shared from their courses? Fork their materials by searching an institution protected repository right from the app or connect to global shared object repositories. Instead of trying to market to faculty and staff what services are available, have people utilize a unified app which connects to the registry of everything available to them for teaching and learning.
+Want to stream video? Upload it to the app and it'll publish it to youtube or the video provider the university supports. Want to create H5P but don't understand hosting? Build it in the app and it'll save to the correct, FERPA valid location. Want to create a slideshow? Drag and drop a series of images which automatically get uploaded to Amazon S3 and then click a UI to "build" your slideshow. Worry about accessibility? HAX will take care of it for you automatically and without the ability to make in-accessible content. Content in HAX is accessible by default due to the game changing technology called <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents</a>
+.
+Let's get faculty and staff out of the business of understanding HTML and instead build materials that allow them to leverage the services the institution provides without increased cognitive load.</p>
+<h2><a id="user-content-2018" class="anchor" aria-hidden href="#2018"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+2018</h2>
+<p>The ELMS:LN team has begun work on such a desktop app called <a href="https://github.com/LRNWebComponents/hax-desktop-app">HAX deskop app</a>
+ which seeks to achieve this vision. Help us make this a reality in 2018 and beyond as we seek to empower faculty and align technology deployments with academic freedom and student curiosity.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Using Webcomponents to unearth the NGDLE</title>
+    <id>item-1222b362-d24d-0aa7-20e7-724767f57656</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="using-webcomponents-to-unearth-the-ngdle-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look outside the island of edtech first, always asking "What can I bring back to our space to make it better?". 10 years ago, that was Drupal. I evangelized Drupal everywhere I could, wrote hundreds of modules, positively impacted tens of 1000s of sites in and out of education while making it possible for individual developers to leverage open source automation to do awesome things. Today I write to talk about the next thing I want to bring back to our island which I think is <em>the</em>
+ technology to bring about an open ecosystem for the Next Generation Digital Learning Environment (NGDLE).</p>
+<h2><a id="user-content-webcomponents-explained" class="anchor" aria-hidden href="#webcomponents-explained"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Webcomponents explained</h2>
+<p>That technology, is webcomponents. Webcomponents, which you can find out more about on <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents.org</a>
+ is a four part browser standard that fundamentally changes what's possible in web based application development. The important thing to know is that webcomponents allows developers to define <em>custom HTML elements and expresses how the browser handles them</em>
+. So, bringing this back to education: <em>We can use this technology standard in order to build <a href="https://github.com/LRNWebComponents/">pedagogically focused, valid, HTML tags</a>
+</em>
+.</p>
+<h3><a id="user-content-quick-note" class="anchor" aria-hidden href="#quick-note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Quick note</h3>
+<p>This is a standard that all major browser vendors have committed to adopting and largely have, though polyfills are required to get full browser support. It also is leaving the IE6/7/8/9/10 world behind (the good news is, <a href="http://www.telegraph.co.uk/technology/microsoft/12087103/Microsoft-to-kill-off-Internet-Explorer-8-9-and-10.html" rel="nofollow">so has Microsoft</a>
+).</p>
+<h2><a id="user-content-ngdle-backstory" class="anchor" aria-hidden href="#ngdle-backstory"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+NGDLE backstory</h2>
+<p>For <a href="http://btopro.wordpress.com" rel="nofollow">four years</a>
+ I've been building <a href="https://www.elmsln.org/" rel="nofollow">ELMS: Learning Network</a>
+; trying to build a platform that can produce and sustain innovation in educational technology. For about that long, Educause has talked about the concept of NGDLE; what it might look like, what it might do, how to do it. Because it's a big concept to unpack, it's taken a few years to get people all on board with the idea and to agree that it's not an LMS (much like webcomponents was proposed in 2011 yet didn't become a real thing implemented until 2016). Because of the patterns of behaviors and methodology of ELMS:LN I currently consider it the only public NGDLE. For that reason, we're misunderstood but if NGDLE is Lego'ing / app-ifying the LMS; ELMS:LN wants to be the grid-plate. The fundamental base-plate to be plugged into. A routing system to stitch it all together and satisfy the need that no vendor will ever provide: a middleware to pull our ecosystems together.</p>
+<h2><a id="user-content-so-how-do-we-all-lego" class="anchor" aria-hidden href="#so-how-do-we-all-lego"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+So how do we all lego</h2>
+<p>Ok, so back to webcomponents. If we have a gridplate (you could provide your own, I'm not suggesting ELMS:LN be the only one) then we need lego bricks to plug into the board. But what fits that paradigm? Webcomponents allow you to take simple forms of HTML and build it up into increasingly complex elements. Let's look at a simple concept of a custom tag and how it would start to get towards pedagogically centric HTML.</p>
+<p>Just like HTML, custom tags can go into other custom tags. It can also use and retain semantic meaning just like HTML markup. So let's imagine that we had a semantic, custom element that provides the same thing as above. Now we have a tag called <code>paper-button</code>
+ and every time I want to do above, I put that tag. Ok, now let's say I want a comment card. A comment card might be:</p>
+<p>Which I can then use in something bigger and now I have a tag called <a href="https://lrnwebcomponents.github.io/lrnsys-comment/components/lrnsys-comment/demo/#" rel="nofollow">comment-list</a>
+ or <code>discussion-board</code>
+. A discussion-board could be made out of any number of other smaller lego brick tags. Now I wire it up to a backend to save the data and I've got a fully functional HTML element that can be shared and remixed anywhere and so long as someone provides a backend to store it, it's going to work.</p>
+<h2><a id="user-content-critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right" class="anchor" aria-hidden href="#critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Critical concepts that webcomponents provide to NGDLE if we do this right</h2>
+<ol>
+<li>Visual consistency - right now when using multiple systems everyone decrys the cognitive load on students. webcomponents can provide a common visual design language and templated approach to help alleviate this. Everything will feel like it's the same (even if it's not)</li>
+
+<li>Accessibility - Because most accessibility mistakes happen when HTML is created, this allows us to make elements with high accessibility baked in, eliminating the ability for end-users to make that design element inaccessible.</li>
+
+<li>Maintainability - If we were to produce a tag such as <code>lrn-assignment</code>
+ that expressed an assignment's properties visually, we can now swap out the guts of that tag and so long as the properties going into it are the same we don't need to update any existing content produced.</li>
+
+<li>Interoperability - By design, anything that imports the custom element (which is jsut an HTML file supplying the definition of what to do with that tag) will work. These will work in any system because it's the user's browser that's unpacking what it is and the specification itself gives the element definition and encapsulation.</li>
+
+<li>Standards based approach - by using a common methodology for front-end creation, we can standardize the UX and interaction patterns of our users and allow developers to all work together and utilize each other's lego bricks.</li>
+
+<li>Schema without Schema - We can start to wire up our custom elements to be schematized for indexing by search engines or our own advanced crawlers, ensuring there is additional semantic meaning to our content no matter where it lives. This has <a href="http://oerschema.org" rel="nofollow">huge implications for OER</a>
+ for example.</li>
+
+<li>Common Authoring - Because <a href="http://haxtheweb.org" rel="nofollow">we just made this</a>
+ and it works anywhere.</li>
+
+</ol>
+<h2><a id="user-content-anywhere" class="anchor" aria-hidden href="#anywhere"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Anywhere?</h2>
+<p>Yeah, anywhere. HAX is another step towards my vision of NGDLE and the solutions we can craft when we work in this approach. An authoring experience that can pull data from anywhere and assemble it in a standards based format (HTML) which can be deployed anywhere. Imagine having identical authoring and instructional capabilities regardless of where an instructor is assembling a course. Open system? Do it in the open. Closed to the institution? Do it in the LMS. Training exercise or learning module on a random blog? Yeah, with an NGDLE based authoring approach, everything can be a mini-LMS and everything can feed other things to make new Learning experiences.
+In the coming months through demonstration, documentation and seemingly impossible levels of progress (webcomponents + elmsln make application development trivial) I'll begin to show the path towards anyone building an NGDLE. What it provides users, How we are sharing things across institutions and systems, and how we can start to dissolve all learning systems into the NGDLE based worldview to provide better solutions for instructors and more engaging learning spaces online for learners.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Playing for 40</title>
     <id>item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="playing-for-40-2"/>
@@ -776,163 +792,116 @@ How do we get there?</h2>
     </content>
   </entry>
   <entry>
-    <title>Generation Uine</title>
-    <id>item-930234f4-c1d5-1d04-b08a-fddc47aa98dd</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <title>Sustainable Systems Development: A moral issue</title>
+    <id>item-c6866e7a-1981-8c76-293a-0b96181e4945</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="generation-uine-2"/>
+    <link href="sustainable-systems-development-a-moral-issue-2"/>
     
     <content type="html">
-      <![CDATA[ <p>I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read articles about Gen Y and come to a similar conclusion: Lazy, entitled, bored, unmotivated.
-<a href="https://www.youtube.com/watch?v=hER0Qp6QJNU" rel="nofollow">Simon Sinek on Millennials</a>
+      <![CDATA[ <full-width-image style="width: 50%;" source="files/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg" caption="Sustainable systems development"></full-width-image>
+<p>Sustainability has been a "hot" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of a technical and moral spin. Sustainability is all about planning for the future of humanity. What our children and the world's children will experience as a result of our actions today.</p>
+<p>Do you think your house will be standing 100 years from now? How about 1000s, like the pantheon? No? Me neither. This is the issue I've come to with systems design. I came into a world where people did things with a lack of planning for the future directions it would take us. I didn't create the issues, but it is all of our responsibility to fix it.</p>
+<p>How many systems have you used that needed to be explained to you far beyond 5 minutes? How many wasteful positions do you see that maintain a single, custom system? How many <span style="font-size: 13px;">additional</span> positions do you see as a result of poor, bloated work-flows? How many people know how to do your job?</p>
+<p>This all brings me to the issue of morality in systems design / implementation. Systems should be designed in such a way that they are not only easy to use but easy to maintain and sustain for decades, not months and years.  Breaking down the walls between those creating the system and those in need of a system isn't just a best practice, it's a moral prerogative.</p>
+<p>The technical elites (haves) have a moral obligation to design and develop systems in such a way that everyone (even have nots) can use them.<b> Experience design (UX) is not just a "nice to have" requirement, it is a moral issue.</b>
 
-I enjoy his positive spin on the "Millennial problem", that they (well.. we) find ourself coming into work contexts that we don't believe in. I'd like to expand out of just the positive things about Millennials and what we seek into a single word that I've started to hear to describe my own speaking style.</p>
-<h2><a id="user-content-how-do-you-get-away-with-that" class="anchor" aria-hidden href="#how-do-you-get-away-with-that"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-"How do you get away with that?"</h2>
-<p>I've been told since about the 2nd year in the working world (10 years into same career as of this writing) that I can seemingly say anything without retribution. Now obviously this isn't true; but there does seem to be a feeling at times that I'm able to say what people are thinking or address problems directly without emotion or concern for what the consequence.
-This may manifest in simple ways such as challenging the status quo or looking at a problem differently then the team is attacking it and not being affraid to say so. At other times this manifests as dropping the F word in meetings to emphasize how much I disagree with a current direction (not angrily, just to emphacize that we need to consider this seriously).
-So how is this possible? How do I have so many great friends and enemies (probably way more in this column for those that don't get me). It's because of a single word that I think we desperately lack in the world. It's because I'm <em>Genuine</em>
-.</p>
-<h2><a id="user-content-gen-uine" class="anchor" aria-hidden href="#gen-uine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Gen Uine</h2>
-<p>What does Generation Y stand for? Beats me, but I will say that I've noticed we are largely attracted to anything that is genuine. Society is marketing, image management, social studies, over produced vocals, and politicians that run on words like Hope and making things Great; yet still perpetuate the same levels of corruption as previous generations.
-We stop going to churches that speak yet don't provide action or community (for refernece I have a church I love and it's because of action and community). We stop watching things that are heavily produced in favor of organic expression online (I'm a cord cutter). We stop paying attention to anything that we don't believe in (I'm not apathetic, I just know what I can/'t influence and focus). We crave genuine discussion and see it avoided in much of the social sphere in favor of arguments from talking points memos fed to mouth pieces for/against whatever the topic (this is why I'm often misidentified as both Liberal and Conservative because I follow logic and truth, not ideological purity).
-Be, Genuine. Gen Uine is what I'd much rather be known as then a Millennial or Gen Y or even Bryan Ollendyke or btopro. I don't care if you like me, but I never want you to doubt where I stand on a subject. That's Gen Uine; that's "raw" that's real that's what we desperately lack in society and need to embrace if we're ever to fix the problems we face.
-How? Stop worrying about what other people think. Seek out facts, challenge bias. Speak up; for yourself and others. Don't follow the crowd and always question why a group feels the way it does and why you feel that way before joining a group.</p>
-<h3><a id="user-content-be" class="anchor" aria-hidden href="#be"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Be.</h3>
-<p><a href="https://en.oxforddictionaries.com/definition/genuine" rel="nofollow"><em>Gen Uine.</em>
-</a>
-</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Innovation's four ingredients</title>
-    <id>item-6c53744c-1b33-97a1-976f-90484f5bc450</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="innovation-s-four-ingredients-2"/>
-    
-    <content type="html">
-      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-i">I</span> saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about cars. What cars mean to them, what they represent in American culture, what they're experiences were with cars and why these designers got passionate about creating designs for new cars.</p>
-<p>While this is what Disney does to pass the time while waiting in a multiple hour line, this one stood out to me because while a Chevy commercial from start to finish, it was at least a cool and inspiring Chevy commercial. These four words had little descriptive signs to go with them early on in the ride (aka start of the line) which talked about the components to any new car or idea that they would come up with. I like these four concepts for building something new and wanted to bring them to our edTech world we build.</p>
-<h2>Line</h2>
-<p>Designers start with an idea.  We get an idea from anywhere, maybe something we saw we liked or something we're reacting to that we didn't. No matter what the idea though it starts with jotting it down. Taking notes, reflecting (with lots of coffee and music) about what we could build. Writing and drawing are the first phase to bringing something new into existence.</p>
-<h2>Clay</h2>
-<p>Then it's time to prototype the idea. We have to take it from sketches and, again with lots of coffee and music, bring that idea to reality on a screen. Maybe it's not the finished product, but it's enough of a sculpting of future reality that we can bring our vision to life in the eyes of someone attune to what we are expressing. The clay phase isn't finalized but it at least is semi-functional and allows us to get confirmation (or rejection) of the premise we're building against so that we can form it more fully later.</p>
-<h2>Math</h2>
-<p>Next after refinement as a block of clay it's time to take the idea and ensure it fits with the laws of physics. In edTech, our "laws of physics" is often constraints of delivering media on the web. Package size, dependencies on other existing things, extending our universe of tools to be as robust as possible without bloating it. Beyond this, our laws extend into actual laws like needing to account for accessibility and universal design.</p>
-<h2>Emotion</h2>
-<p>Passion for the car and what your building. We certainly align here and this word was really what lead me to want to write it down. If you don't have passion for what you're building, then you need to find some place that does bring you that satisfaction in life. We bring an undying passion to our work, knowing the creations we build are used to impact the minds of thousands. It's not easy designing future systems, especially not politically, but keeping in mind who we're here to serve makes it all worth it.</p>
-<p>You can see emotion in what I write, I'm told it's visible in what I say in presentations too (though that's usually the coffee + coffee + music doing that). I've been told lately it's infectious and that's really good to hear; cause several years ago @btopro wasn't as well received or appreciated for enthusiasm.  When your outside the <a innertext="Overton window" href="https://en.wikipedia.org/wiki/Overton_window" title="Overton window political theory" target="_blank" rel="nofollow" class="external-link no-image">Overton window</a>
 
-, people will reject what your saying. If you really do believe in what you're preaching, then it's on you not to try and change them (or you) but to change the way you message what you believe.</p>
-<p>Simple language changes can trigger a reaction of "wow I see it that way now" instead of "what are you pushing now?". Don't give up. Organizations want to remain at rest unless acted upon by an unstoppable force. Be that force of change in whatever you aspire to do.</p>
+ It is immoral to design something that allows the system to be dependent upon your knowledge (or any small group of people) to continue running.</p>
+<p>Yeah, believe me, it's very tempting to hand a system off to a client who has no clue what they're doing and intentionally design it so you'll always have to be involved.</p>
+<h2 class="hax-active">big money big money no Wammies... STOP.</h2>
+<p>It's also far more difficult to design in such a way that you don't have to be involved (even as much) in the future.  Let's face it, that's less money for you and probably more work to get a product out to the client.</p>
+<p>There has been a bit of a code of ethics push in the Drupal community which has had me thinking about all this so I'd like to make one of my own.  These are some of the principles that I strive towards in everything I write and in every interaction with those in the community:</p>
+<ul><li style="">It is immoral to design something that only you understand how it works</li>
+
+
+
+<li style="">Systems must be designed with user-groups in mind (UX)</li>
+
+
+
+<li style=""><b><i>Every line of code should seek to empower people to never have to know it exists</i>
+
+
+</b>
+
+
+</li>
+
+
+
+<li style="">Solutions must be simple, elegant and understandable by the those tasked with managing the system after it is deployed.</li>
+
+
+
+<li style="">Talk early, and talk often. The more transparent you are in your design, development, and delivery processes the easier it would be for someone else to pick up your work and run with it</li>
+
+
+
+<li style=""><b>Be passionate in the code you write; if you're not into it, move on</b>
+
+
+</li>
+
+
+
+<li style="">We can write code to do lots of good and bad things; Don't take a job where you don't agree with the result</li>
+
+
+
+<li style="">Feedback, positive or negative is feedback and should be responded to in the same way</li>
+
+
+
+<li style="">Leverage developed code as much as you can so that glue / custom modules are as small as possible</li>
+
+
+
+<li style="">Realize that your never done (and be satisfied with it), you're simply advancing the ball a little further down the field every day, month, year, generation</li>
+
+
+
+</ul>
+<p><span style="caret-color: rgb(0, 0, 0);"><br/></span></p>
  ]]>
     </content>
   </entry>
   <entry>
-    <title>Efficiency as Activism</title>
-    <id>item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <title>DDoSA</title>
+    <id>item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="efficiency-as-activism-2"/>
+    <link href="ddosa-2"/>
     
     <content type="html">
-      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-e">E</span>fficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with intention is activism and so, If you don't like someone, automate them.</p>
-<h3>Huh?</h3>
-<p>Automate them. Do your job in 90% of the time it takes to do, use the other 10% to study and analyze their process. What is it they do? How do they make money? Now, start to carve around that person via process modification. You can intentionally disrupt their job, all the while claiming it in the name of efficiency.</p>
-<h3>That's evil</h3>
-<p>Yeah, kind of; but not in any way different then what happens when corporations (now called Start-Ups because it's less evil sounding) intentionally enter a space in a different way to "Disrupt" a marketplace. Efficiency is generally viewed as a social good and a net positive but it destroys ways of doing business and the humans attached to those hierarchies. Can you imagine what it must be like to have been a telephone operator and see them wheel in a machine that automatically did routing, putting 1000s out of work?</p>
-<p>So, for those of you out there with root access to things; what will you do with these powers? What can you make the machine do that you cannot yet producing the same net effect? What percentage of your job can you automate in order to do other things to produce Magic?</p>
-<h3>Magic?</h3>
-<p>Yeah, Magic. That which we can't comprehend is indiscernible from Magic -- <a href="https://en.wikipedia.org/wiki/Clarke%27s_three_laws" target="_blank" rel="nofollow" class="external-link no-image">Clarke's three laws</a>
-. I got asked this weekend when I realized I could automate and no one would notice what i was doing. I looked up and way... thought... and said... 6 years ago. I've been able to automate for about 6 years, and I have. It's why what we're doing doesn't seem believable, because I've been working on the scaffolding of what it is we're standing on today, 3 years ago. I intentionally, painfully so at times, focused on under the hood automation rather then front-facing usability. Because you can always make people like the way something looks, you can never change what it's built on top of (or at least not easily).</p>
-<p>And so, when I say we can pick up and give you every innovation our group has made and let you produce new ones; and do so with exponentially increasing accuracy, capability, ease of use and ease of setup. I'm not lying, we're just making Magic, through efficiency, done so to empower others to produce innovations of their own. Ultimately seeking to boil self-empowerment down to choice. Do you copy and paste the line and liberate yourself and others? Do you help others to disrobe these cloaks, so invisibly <span style="font-size: 13px; line-height: 20px;">placed</span> upon creativity or do we continue onward without direct control of educational experiences?</p>
-<h3>What is my activist intention you may ask?</h3>
-<p>Empowerment. More importantly, what's yours? Who will you automate today?</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Transforming industry through information altruism</title>
-    <id>item-25e65b02-61b2-b987-7e86-601a241f74c9</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="transforming-industry-through-information-altruism-2"/>
-    
-    <content type="html">
-      <![CDATA[ <full-width-image source="files/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg" caption="Transform" style="width: 50%;"></full-width-image>
-<p>This posting is a refinement of a concept that I presented earlier: <i>Using OSS to disrupt industries.</i>
-</p>
-<p>Through the title, I am suggesting that there are negative network-effects in the form of social impact with open source systems.  In fact, I'll go so far to say that open source software can be used to collapse entire markets, both IT and non-IT.  Much like having access to capital allows you to invest in ventures that often times generate more capital (once rich it's easier to become super-rich), the more available source code is, the easier it is to free-up more and more source code.</p>
-<p>It also can cause closed-source projects to collapse (or at least their market to reduce) as more and more adopt open practices.  An unfortunate fact though is that information walling often results in more jobs.  The more hops information has to take, the more jobs were created to get there.  How many people got put out of jobs because automation happened in the phone switch industry?  I believe the same thing will soon be happening to those in the open source industry as the industry turns inward and puts itself out of work.  First it'll be some projects taking each other out of the next few years thanks to market forces but at least in the Drupal community, I'm already seeing cracks.</p>
-<p>People at the top asking for more and more control over the platform, even though it's the very thing that they went to open source to get away from.  Here are some other examples I could come up with of where giving away code has far greater consequences then just giving code away.</p>
-<p> </p>
-<h3>Digital altruism collapsing digital form</h3>
-<p>Open source is an iterative process which leads to the open sourcing of more technologies that enable more people to do more with less technical knowledge.  Apache leads to PHP / MySQL leads to Wordpress / Drupal systems.  As a result, I've seen Dreamweaver (as an example) go from a tool that I used to build websites to a tool that I use to build code to allow others to build websites.  This is the creative and destructive power of open source.</p>
-<h3>Digital altruism collapsing digital form and physical form</h3>
-<p>This doesn't have to just be contained to software platforms though.  Wikipedia, leads to freer access to information, leads to marginalization of paid information sources (books, Encarta, etc) which collapses the previous silo-ing of knowledge in sources that had a cost of entry.</p>
-<h3>Digital Altruism collapsing the IT industry</h3>
-<p>Previous web-development shops had coders, site layout and design, producers, copy editors, graphic artists, server manager, all with different talents and skills.  Now with the web landscape being as it is, the cost of entry has been lowered for everyone.  As such, I don't need to know layout / design because of captured, open knowledge, in the form themes / templates.  I don't need copy editors (or as many) because everyone can self-moderate content as well as use small publishing workflows to release content.  Server management consoles exist and captured knowledge in the form of things like MAMP and XAMPP (not to mention open source based services like wordpress.com) make it easy to get a site up and off the ground.  Come to think of it, I don't even need me, the coder, because other coders have captured install and configuration knowledge in the CMS like wordpress.com.</p>
-<p>No, the only person "needed" to produce a high quality website with new content is the content author and maybe a manager (though those could be the same person).</p>
-<p>What's the trend I'm seeing currently?  We're going from a world where there are less hubs and less authorities.  Where information can be created and disseminated so quickly that newspapers and traditional TV media aren't going away entirely, but are definitely being softened in tone.  If I want an opinion I can go anywhere and get it and that's great (most people already know this).</p>
-<p>But what I also see happening, is that we're collapsing our own industry.  I see less and less people wanting to get into the IT sector because those that have come before them have made things so easy, so wyziwig'ed, so fast that it's not interesting to them.  This will lead to less ideas, less choice, and only a few technical authorities who can effectively kick the door shut on all those who come after them.  A truly, Apple (and a few others) world of elite companies as well as a few elite open source advocates along for the ride.</p>
-<p>Connect the dots, speak out for more choice, question why someone is giving you something for free ;).</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Transform Control</title>
-    <id>item-07d2884a-9e17-32f2-3175-0887f02bb49c</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="transform-control-2"/>
-    
-    <content type="html">
-      <![CDATA[ <full-width-image source="files/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg" caption="Control" style="width: 50%;"></full-width-image>
-<p><br/></p>
-<p>The old addage of IT managers of the 90's was that technology didn't matter. As in, it didn't matter which technology you choose, just that you align with one and execute. This mindset was wrought with good intentions; solutions and people should matter, not how you get there. This was true in the days prior to frameworks, when languages were all we had.</p>
-<p>Now, very few people build anything from scratch (of any scale). They always use frameworks, whether CMS frameworks like Drupal or Wordpress, or system scaffolding frameworks like Symfony or Zend. Frameworks made technology selection matter. Why build in a year what you can produce 90% of in a minute. The only argument would be bloat of codebase and if the framework gave you the flexibility and <strong>control</strong>
- required. (Google's building quantum computers so... "Bloat" is a temporal construct)</p>
-<p>Then came the deployment argument. Do we do it internally where we can <strong>control</strong>
- access to the servers and know where the data lives? Or, are we comfortable with giving up that <strong>control</strong>
- in favor of flexibility by going to the cloud. The flexibility and <strong>control</strong>
- argument plays out in society at large all the time; but, I view technology as coming to a tipping point thanks to automated deployments, frameworks, and the future where <a href="https://www.youtube.com/watch?v=7Pq-S557XQU" target="_blank" rel="nofollow" class="external-link no-image">humans need not apply.</a>
-</p>
-<h2>Bitcoin</h2>
-<p>Bitcoin and the block chain will be the design methodology that shatters IT structures. We simply don't need human conceptions of structure dictating the <strong>control</strong>
- of information. Technology, and the future of humanity, is distributed, framework driven and managed by robots and automated deployment mechanisms. We no longer need human <strong>control</strong>
- structures to dictate who has access to what. Rather, human hierarchies (and too many of them) disempower through the distribution of decision making. Corporations do this all the time. BP spill, who do we blaim? eh, no one, it's a corporation. A named, yet faceless entity that controls oil flowing from the ground yet is unaccountable (weird huh?).</p>
-<h2>Where is innovation?</h2>
-<p>So what is empowerment if the hierarchy of humanity is no longer needed in order to achieve it? We always hear about those mythical beings working in a garage with nothing but a computer and an idea. Why did it work? Why was the individual so transformative when all the structures of the day were not? Why is it that innovation lives in the garage but not in the boardroom?</p>
-<p>Innovation is born of chaos and random chance... seemingly. It is a spark of imagination from the individual. The euphoria of bringing a new idea to life. In the unknown; that which we <a href="http://github.com/elmsln/dig" target="_blank" rel="nofollow" class="external-link no-image">DIG</a>
- up and bring to life. And so, it is not simply enough to create a product that contains the innovations and ideas of the individuals that produced them. We must empower, through frameworks that allow such a thing, and harness these once chaotic conceptions into sustainable realities. Provide the thing that <strong>control</strong>
- often claims to have the high ground on, sustainability through framework and automation.</p>
-<h2>The revolution will be decentralized</h2>
-<p>If the last 20 years of Silco projects have been about transfering power and wealth to a new power structure, the next revolution will be in transformation. It's not going to just be about improved consumer outcomes (cost, speed, access) and transfering wealth from one generation's VCs to the next. If we are to truely build a better society, we must seek to collapse structures, not simply build different ones that drive towards the same financial end.</p>
-<p>And so here we work, building an army of innovators by breaking the chains of technology that keep ideas from reality and stamped out in boardrooms and support forums. Welcome to the revolution, where authors give away their views on technology and its ability to transform society. We are here to change the notion of <strong>control</strong>
- by empowering everyone to be in <strong>control</strong>
- of their own destiny.</p>
+      <![CDATA[ <p>We live in the age of Citizen agents‏. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have been validated as having the ability to enact and broadcast change.</p>
+<p>You may have heard of DDoS in tech news. A DDoS is a Distributed Denial of Service. Basically a whole bunch of hackers (or if you're really smart, just one infecting many systems) perpetrates a DDoS by slamming certain systems with traffic. This has other names like orbital ion cannon, ping of death and "wiping a site from the internet". Basically you keep shelling a system from so many points of entry that firewalls can't identify the traffic as the same request so it makes the servers think that there's just a lot of people accessing.</p>
+<p>Today I'd like to propose a human based form of the same idea which we will dub a DDoSA - Distributed Denial of System Authority. Utilizing this technique individuals, much like a DDoS, can overwhelm a system of control with too many requests, rendering the controlling authority useless. There's too many "packets" for the organization to control which disrupts the organization's ability to effectively control the message, solutions, methods of practice, etc.</p>
+<h2>Let me explain with a bad example...</h2>
+<p>You are disgusted that people use Sharepoint to share documents. You suggest using DropBox but that's shut down as an individual because of security, policy, xyz. In order to correctly utilize DropBox, you don't need to go to anyone asking for permissions, you need to tell your friends to use DropBox. And then, when collaboration is through the roof and productivity is way up, you have your friends tell their friends. Soon, the entire organization is utilizing the non-standard tool in a peer-to-peer, occupy wall street fashion.</p>
+<p>So does it matter if DropBox is the christened solution of the organization? No, everyone just uses it. (This is unofficial Slack channels at most companies in a nutshell) People self-organize around what works best when friction to do so is limited (internet / free technologies).</p>
+<p>I often voice the opinion that policy is irrelevant in the face of automation; because, it is impossible to enforce that which automation can alleviate so easily. Make automation invisible (Slack) and highly usable (Slack) and you'll see citizen agents pop up all over the place.</p>
+<p>The person that implemented Sharepoint and told others to use it has no ability to keep pace with those rapidly utilizing and encouraging others to utilize DropBox. The capabilities are far greater then SharePoint. Maybe they have greater control over their files. What ever the case, the citizen agents are a more effective marketing tool then the lone individual from on high bringing a solution into the organization.</p>
+<h2>DDoSA in RL</h2>
+<p>DDoSAs have other names in real life. Sit ins. Arab Spring. Occupy Movement. Flooding prisons til they are over capacity with conscientious objectors. These are all the same, just applying the tactic to different mediums. Take quantity X that has stopgap X-1. Apply X against stopgap X-1. Watch stopgap X-1 become overwhelmed because X is always greater. Far more important then authority in pulling off a DDoSA is <a href="http://buytaert.net/open-source-and-social-capital" target="_blank" rel="nofollow" class="external-link no-image">social capital</a>
+. Social capital, while not as quantifiable as money, is a much deeper well to draw from once filled.</p>
+<p>It takes a lot longer to fill that well then making money, building social capital involves P2P connections and those take time to build (Occupy was months when at its height). But it is far more powerful then money as we move increasingly towards a block-chain-esk society (and, we are). I mean, several countries collapsed in part because of the power of the individuals that stopped believing in the authority of their governing structures.</p>
+<h2>DDoSA to reclaim control</h2>
+<p>The air about a situation in which you might see a DDoSA usually stems from a lack of control. Feelings of disempowerment drive some to apathy and others to organize. People strive make meaning of and be in control of the world around them. And so as our technologies get cheaper, easier, and faster they'll increasingly demand more order be established to help them pick through the chaos all around.</p>
+<p>To use a DDoSA in your organization currently plagued by Slack (I love slack, it's a straw-man) to get them to own the solution via something like <a href="http://www.mattermost.org/" target="_blank" rel="nofollow" class="external-link no-image">MatterMost</a>
+; you need to do the leg work and setup an instance. Then you need to get it integrated into your life and ensure it's easy to use, be the best first review that you can be for the new replacement technology. Then, you need to start getting people signed up on the mattermost instance by proxy. Friends, colleagues, to share a file, to go "hey have you seen...". Little by little, in dribs and drabs, you'll start tapping into that well of social capital in order to get your organization to stop standardizing on Slack and move over to MatterMost.</p>
+<p>What did people gain? Well, they still use a communication tool but maybe in this instance the surface  gain is in no longer paying Slack for a hosted instance. The social effects of this change could be far greater. Maybe without a paywall more people in the company can use the software. Maybe there's custom integration you can now write / pay for as a result of owning the technology. If the output to end users is the same, they won't question or review the additional impacts on the organization (no one questions things presented with a happy face).</p>
+<p>Maybe now your writing your own code, owning the process in one area which has you turn inward and move more things in-house. Maybe people have a greater comprehension for the power of open source and look to you as an expert. The impacts are far greater then just what technology will we use today; what's the philosophy behind this decision?</p>
+<p>Figure it out, own it, and spread it P2P.</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Legacy of Human Hierarchy</title>
     <id>item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="legacy-of-human-hierarchy-2"/>
@@ -987,7 +956,7 @@ Be.</h3>
   <entry>
     <title>Organic Deployment Architecture</title>
     <id>item-2ddc5396-01fe-60fc-5c23-fa40abae58e9</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="organic-deployment-architecture-2"/>
@@ -1101,7 +1070,7 @@ Be.</h3>
   <entry>
     <title>Ministry of information</title>
     <id>item-f8a9a36b-2d96-17ec-0a07-356191bb57ff</id>
-    <updated>2024-01-02T17:38:46+00:00</updated>
+    <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
     <link href="ministry-of-information-2"/>
@@ -1118,6 +1087,94 @@ Be.</h3>
  (and you know others are doing it too).</p>
 <p>What's to say this isn't happening right now? I've been trolled by hate-bots before. Mozilla controversy? Say the word Mozilla. Drumpft? Say his name, get attacked instantly. The easiest way to stop this? Ignore those bots seeking to put you in their echo chamber of hate. It keeps you from hyping twitter (and the hate brigades) agendas and maybe, just maybe will make you have a better outlook on the world too.</p>
 <p>Question everything.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Rate of perception</title>
+    <id>item-093425c7-cba0-e10b-60f8-9bf6afd32f9a</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="rate-of-perception-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>I remember in high school talking about biology and as a test, you have to poke your arm with a small pin (lightly) and report when you can tell the difference between where it is and where your brain is telling you "Hey that's in a new place". The point was to demonstrate that our nerve endings are only so far apart and as a result only so capable of measuring change.</p>
+<p>Has the same effect starting occurring to us all?</p>
+<p>Have we lost the ability to detect the change in our history currently taking place. Is the saturation of information and data points due to 24/7 news, twitter's instantaneous results, devices on everywhere at all times, radio, billboards, blog posts and magazines. Have we come to a point where there is so much data we are simply filtering it all our, no longer having enough time to dig deep enough to evaluate the truthfulness of the statements?</p>
+<p>When you have people lying to your face on TV and others refuting their claims, their recourse is often boiled down to "google ____ you'll see". Will you see? Will you take the time to verify claims or counter claims? Or do you do what too many do (myself included); look for the likes, hearts and retweets and use social validation as a sign of confirming correctness. Isn't that what all the others pushing that RT button did? Assume; assume with all the information they are getting bombarded with that their 20 seconds to read a tweet, process it, laugh and/or get angry and decide to RT... was this really enough to ingest, process, explore and assess?</p>
+<p>Has technology eliminated our ability to do the hard work of looking.</p>
+<p>It is not to blame the media, or blame the technology platforms; but it is to blame the self. Without self control, self moderation as to how much data we consume and expose ourselves to that we're losing what it is to be human. We're losing the desire to process, to go beyond simply reacting but to really, genuinely question, process, and respond (or even better, NOT respond).</p>
+<p>Is there too much noise to really have things like facts matter? Are fact just what a large enough group of people say and feel? With access to so many so easily, it's easy to make the faulty assumption that quantity of agreement equates to quality of information.</p>
+<p>We are a culture drunk on data, and as a result, we're not paying attention to what any of it means. Be careful who you aggregate.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Efficiency as Activism</title>
+    <id>item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="efficiency-as-activism-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-e">E</span>fficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with intention is activism and so, If you don't like someone, automate them.</p>
+<h3>Huh?</h3>
+<p>Automate them. Do your job in 90% of the time it takes to do, use the other 10% to study and analyze their process. What is it they do? How do they make money? Now, start to carve around that person via process modification. You can intentionally disrupt their job, all the while claiming it in the name of efficiency.</p>
+<h3>That's evil</h3>
+<p>Yeah, kind of; but not in any way different then what happens when corporations (now called Start-Ups because it's less evil sounding) intentionally enter a space in a different way to "Disrupt" a marketplace. Efficiency is generally viewed as a social good and a net positive but it destroys ways of doing business and the humans attached to those hierarchies. Can you imagine what it must be like to have been a telephone operator and see them wheel in a machine that automatically did routing, putting 1000s out of work?</p>
+<p>So, for those of you out there with root access to things; what will you do with these powers? What can you make the machine do that you cannot yet producing the same net effect? What percentage of your job can you automate in order to do other things to produce Magic?</p>
+<h3>Magic?</h3>
+<p>Yeah, Magic. That which we can't comprehend is indiscernible from Magic -- <a href="https://en.wikipedia.org/wiki/Clarke%27s_three_laws" target="_blank" rel="nofollow" class="external-link no-image">Clarke's three laws</a>
+. I got asked this weekend when I realized I could automate and no one would notice what i was doing. I looked up and way... thought... and said... 6 years ago. I've been able to automate for about 6 years, and I have. It's why what we're doing doesn't seem believable, because I've been working on the scaffolding of what it is we're standing on today, 3 years ago. I intentionally, painfully so at times, focused on under the hood automation rather then front-facing usability. Because you can always make people like the way something looks, you can never change what it's built on top of (or at least not easily).</p>
+<p>And so, when I say we can pick up and give you every innovation our group has made and let you produce new ones; and do so with exponentially increasing accuracy, capability, ease of use and ease of setup. I'm not lying, we're just making Magic, through efficiency, done so to empower others to produce innovations of their own. Ultimately seeking to boil self-empowerment down to choice. Do you copy and paste the line and liberate yourself and others? Do you help others to disrobe these cloaks, so invisibly <span style="font-size: 13px; line-height: 20px;">placed</span> upon creativity or do we continue onward without direct control of educational experiences?</p>
+<h3>What is my activist intention you may ask?</h3>
+<p>Empowerment. More importantly, what's yours? Who will you automate today?</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>OccuTea WallParty</title>
+    <id>item-f7c4705e-c70b-6cf9-0623-095830584d4d</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="occutea-wallparty-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-i">I</span>, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.</p>
+<p>I am an observer of politics that tries to "play the game" a bit differently. There are tells at times to my "leanings" but I try very hard to make it difficult to understand how I view the world or who I stand with. As a result, I follow many people on both "sides" of many issues. I follow people of many parties, view points, and affiliations in order to better understand (140 characters at a time mind you) how they try to draw support for their truth being more correct then others. In doing this, I've identified a common thread that should form the 3rd major political party, but hasn't (yet) because the other two require us all to be divided (it sells better on the news).</p>
+<p>Let's abstract potentially negative messaging and viewpoints; what common threads exist between the two "extremist" (media deemed, not my own) political movements that make up both "major" political parties? Because if we study and understand the concerns of the "extremists" maybe we can figure out how to form a new camp that encompasses both.</p>
+<p>Two candidates right now are offshoots of grassroots activism the last decade.</p>
+<h3>Occupy</h3>
+<p>Bernie Sanders probably immediately comes to mind if you follow or believe in this political movement. It's largely (but not exclusively) thought of as:</p>
+<ul><li>Banks are corrupt</li>
+<li>Tax policy isn't tipped in the favor of the little guy</li>
+<li>The system is rigged so the rich keep getting richer</li>
+<li>Minorities are especially excluded and abused by this system of control</li>
+<li>We are in endless wars we have no business being in</li>
+<li>Politics needs reform to prevent corruption</li>
+</ul>
+<p>In this world view, Banks and The Rich are largely thought of as the source of corruption so we need government to be brought back into control of the people in order to eliminate the corruption.</p>
+<h3>Tea</h3>
+<p>There are several Republican figures that come to mind when the Tea Party is evoked but based on the principles of less government involvement, lower taxes and anti-corruption I'd have to say Ted Cruz is the spokesperson. Bullet points here:</p>
+<ul><li>Government is too big and corrupt (as a result)</li>
+<li>Taxes are too high (as a result of too big bureaucracy)</li>
+<li>The system is rigged, political elites keep getting richer</li>
+<li>Everyone is abused by this system</li>
+<li>Politics needs reform to prevent corruption</li>
+<li>In this world view, Government and hierarchies are largely to blame, not them in and of themselves, but because of the types of people that find their way into these hierarchies. For example, a complex tax code leads to it being written in a way to benefit some and not others.</li>
+</ul>
+<p>I largely ignore social issues in analysis and selection on candidates. It's weird to say but I've seen that social change is enacted from pressures from society as a whole. As a result, the rising up of people that are passionate about change is how to enact social change.</p>
+<h3>This is 2016</h3>
+<p>With the internet, with technology, with all our capabilities to spread positivity, crowd fund and disseminate information; how are we still here? A two party system with media coverage and collusion that leads us to largely all unhappy. We're allowing our media and social media to keep us apart. What can we agree on even in these two extreme propositions of Occupy and Tea Party movements.</p>
+<h3>Corruption is king</h3>
+<p>How can we reduce corruption? Both sides identify this but then have different views on Taxes (we aren't doing enough vs we're doing too much). This will be my tell as a classic liberal, but we need less of a system in order to have less corruption. This doesn't mean we don't need a system but we do need a less complex system (taxes and in general); and here's why.</p>
+<p>If you are a developer you may have heard of "legacy code" and the need to refactor code. Unlike other resources, having more code does not equate to having more effective code. Well friends, we're running on legacy code that is in desperate need of refactorring. We've got a great operating system, but we've been adding way too much functionality and it's bringing the whole thing down. We don't need to throw away everything we've ever done, but we do need to take those concepts and completely rewrite them for the modern era.</p>
+<p>Yes, Government needs it's Drupal 8 moment. Is the end product "the same"? In some ways yes. We still make a CMS, it still makes great websites and it's still responsive. But we're rooting out all the bloat that's weighing our awesome product down. We're doing things smarter, not always differently.</p>
+<p>Corruption and governmental refactoring needs to be the focus of a unified movement between Occupy and Tea people. Quit arguing over social policy, quit arguing your party or person vs their party or person. Look beyond parties, look at what we're doing to our country and unite to pull us back from the edge (where edge is Fascism, rioting because of corruption, further deepening of racial divides). Quit pointing the finger and start reaching out with love. Lay down your ideologies and realize this: We are all not that different, we all want the corruption to end. Seek out those that have this message. One says we can have less corruption through regulation while the other proposes solutions that involve tearing down parts of the institution to reduce corruption though there being less of it.</p>
+<p>Personally, I'm for the refactor (because where are these more perfect Angels) but align on anti-corruption and we will solve our problems.</p>
  ]]>
     </content>
   </entry>

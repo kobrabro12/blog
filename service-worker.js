@@ -43,6 +43,10 @@ var precacheConfig = [
         "jx0f9HWWu51zHAkbDEYMMw"
     ],
     [
+        "pages\/item-1c3a357d-2c98-4f1d-b9c6-5a0f66b2c40f\/index.html",
+        "PxhpfjCc8xsxhXVXdZAEA"
+    ],
+    [
         "pages\/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0\/index.html",
         "sWkJX7JFxLekg0D6iEU9bQ"
     ],
@@ -323,6 +327,10 @@ var precacheConfig = [
         "MEZVeUpvD8OBUfoBKAg"
     ],
     [
+        "pages\/item-5f281e5d-3162-4e83-8447-bd3c1e5a09e2\/index.html",
+        "gOlcKSYj2aJmTyUqDTjfNA"
+    ],
+    [
         "index.html",
         "M7c7Xx4uqUyNG7U9enYmWQ"
     ],
@@ -360,11 +368,11 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "DxBtd9Bs9EqjbKm0Rozjw"
+        "PLDvDRVatquxSSr5I9mQ"
     ],
     [
         "404.html",
-        "0BBVAns5rLQLPevl6LRa9A"
+        "2K43lrU0AoiRaHBqzu0g"
     ],
     [
         "files\/935b7d832386eaf3173d063a70fe5000fc03dc1c-ngdle-university-uni-side.jpg",
