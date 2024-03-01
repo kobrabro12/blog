@@ -106,58 +106,103 @@ Expect Us.</p>
     </content>
   </entry>
   <entry>
-    <title>This is not reality</title>
-    <id>item-be6f30a2-8a4d-e986-6af3-930f91e00464</id>
+    <title>Using Webcomponents to unearth the NGDLE</title>
+    <id>item-1222b362-d24d-0aa7-20e7-724767f57656</id>
     <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="this-is-not-reality-2"/>
+    <link href="using-webcomponents-to-unearth-the-ngdle-2"/>
     
     <content type="html">
-      <![CDATA[ <h2><a id="user-content-chapter-1-the-shower" class="anchor" aria-hidden href="#chapter-1-the-shower"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+      <![CDATA[ <p>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look outside the island of edtech first, always asking "What can I bring back to our space to make it better?". 10 years ago, that was Drupal. I evangelized Drupal everywhere I could, wrote hundreds of modules, positively impacted tens of 1000s of sites in and out of education while making it possible for individual developers to leverage open source automation to do awesome things. Today I write to talk about the next thing I want to bring back to our island which I think is <em>the</em>
+ technology to bring about an open ecosystem for the Next Generation Digital Learning Environment (NGDLE).</p>
+<h2><a id="user-content-webcomponents-explained" class="anchor" aria-hidden href="#webcomponents-explained"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
 </svg>
 </a>
-Chapter 1: The Shower</h2>
-<p>A Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in the pressense of light, synapese fire off randomly. These random firings of "light" dance in the retina of the Developer seeking the answer to a problem. The retinas of the developer see the sparks trickel away as color fades back in.
-The developer pauses.. then does it again, this time focusing on those whips of ocular static fizzle away. The whips form a pattern that looks like a central star that everything is firing out and away, creating their own central stars to fire out and away from. The occular misfires form a fractual image in the minds eye.</p>
-<h2><a id="user-content-chapter-2-the-fractal" class="anchor" aria-hidden href="#chapter-2-the-fractal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Chapter 2: The fractal</h2>
-<p>The developer talks through how a fractal could be used in the design of a system. The developer writes down the fractal. The developer sees a video the next day expressing, visually, the concept of divergent ideas spawning ohter divergent ideas, expressed as a series of hexagons firing off at a tangent and forming new hexagons. The developer recreates the pattern on a whiteboard and begins to theorize how this pattern could be used to represent systems.</p>
-<h2><a id="user-content-chapter-3-the-monster-within" class="anchor" aria-hidden href="#chapter-3-the-monster-within"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Chapter 3: The monster within</h2>
-<p>The developer explains this to one other person over two hours. The manager is excited but leaves with: "Who else would ever understand how any of this works though." The developer smiles, "I guess I'll just have to build it to find out". The developer works on prototypes, burning through hundreds of hours beyond what normal projects there are to pursue. The idea is like a dagger in his mind. He starts shutting down from the rest of the world and focusing solely on this one idea. This one fractal.</p>
-<h2><a id="user-content-chapter-4-the-friend" class="anchor" aria-hidden href="#chapter-4-the-friend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Chapter 4: The friend</h2>
-<p>He explains an early prototype to a friend. The friend is intrigued but doesn't get it or see how it's the fractal. The developer keeps pushing on, convinced there is a fractal there. The developer makes prototype after prototype, pouring through hours of tutorials and producing posts and videos looking for someone to understand what he's claiming to have discovered. No one gets it. Again, and again, over the next 2 years, the developer repeats this cycle, trying desperately to get someone to understand the picture in his mind now layed out as code and directory trees. Symlinks and .gitignores. But no one. Gets it.</p>
-<h2><a id="user-content-chapter-5-the-group" class="anchor" aria-hidden href="#chapter-5-the-group"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Chapter 5: The group</h2>
-<p>Until... Someone does. Two people actually. And then from two, three, and three, four; and four, five; and five, a dozen, and dozens. Until the fractal no longer is some obscure concept it's the way of visualizing and attacking the problem. The Developer is no longer a developer, and no longer is a young developer either...</p>
-<h2><a id="user-content-chapter-6-the-team" class="anchor" aria-hidden href="#chapter-6-the-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Chapter 6: The team</h2>
-<p>The Developer is part of a team. A Team hell bent on innovation. A Team that doesn't accept the world and the educational system the way it is but dreams of what it can be, what it will be. A Team that believes education is not a pidgenholed public service job but the place that fosters and grows innovations of it's own. A Team believes that noone is better then the sun of it's parts.</p>
-<h2><a id="user-content-chapter-7-the-way-forward" class="anchor" aria-hidden href="#chapter-7-the-way-forward"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Chapter 7: The way forward</h2>
-<p>A Team of Developers, instructors, instructional designers, designers, students, management; of mixed talents and backgrounds and abilities, form a new fractal pattern within a traditionally stasis laden system.</p>
-<h2><a id="user-content-chapter-8-the-upside-down" class="anchor" aria-hidden href="#chapter-8-the-upside-down"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Chapter 8: The upside down</h2>
-<p>The Developer is no longer alone in the wilderness. The Developer is now part of the Team poised to change education, and the world. Join <em>us</em>
+Webcomponents explained</h2>
+<p>That technology, is webcomponents. Webcomponents, which you can find out more about on <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents.org</a>
+ is a four part browser standard that fundamentally changes what's possible in web based application development. The important thing to know is that webcomponents allows developers to define <em>custom HTML elements and expresses how the browser handles them</em>
+. So, bringing this back to education: <em>We can use this technology standard in order to build <a href="https://github.com/LRNWebComponents/">pedagogically focused, valid, HTML tags</a>
+</em>
 .</p>
-<iframe src="https://www.elmsln.org/stranger-things/" width="100%" height="500px"></iframe>
-<a href="https://www.elmsln.org/stranger-things/">Stranger Things...</a>
+<h3><a id="user-content-quick-note" class="anchor" aria-hidden href="#quick-note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Quick note</h3>
+<p>This is a standard that all major browser vendors have committed to adopting and largely have, though polyfills are required to get full browser support. It also is leaving the IE6/7/8/9/10 world behind (the good news is, <a href="http://www.telegraph.co.uk/technology/microsoft/12087103/Microsoft-to-kill-off-Internet-Explorer-8-9-and-10.html" rel="nofollow">so has Microsoft</a>
+).</p>
+<h2><a id="user-content-ngdle-backstory" class="anchor" aria-hidden href="#ngdle-backstory"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+NGDLE backstory</h2>
+<p>For <a href="http://btopro.wordpress.com" rel="nofollow">four years</a>
+ I've been building <a href="https://www.elmsln.org/" rel="nofollow">ELMS: Learning Network</a>
+; trying to build a platform that can produce and sustain innovation in educational technology. For about that long, Educause has talked about the concept of NGDLE; what it might look like, what it might do, how to do it. Because it's a big concept to unpack, it's taken a few years to get people all on board with the idea and to agree that it's not an LMS (much like webcomponents was proposed in 2011 yet didn't become a real thing implemented until 2016). Because of the patterns of behaviors and methodology of ELMS:LN I currently consider it the only public NGDLE. For that reason, we're misunderstood but if NGDLE is Lego'ing / app-ifying the LMS; ELMS:LN wants to be the grid-plate. The fundamental base-plate to be plugged into. A routing system to stitch it all together and satisfy the need that no vendor will ever provide: a middleware to pull our ecosystems together.</p>
+<h2><a id="user-content-so-how-do-we-all-lego" class="anchor" aria-hidden href="#so-how-do-we-all-lego"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+So how do we all lego</h2>
+<p>Ok, so back to webcomponents. If we have a gridplate (you could provide your own, I'm not suggesting ELMS:LN be the only one) then we need lego bricks to plug into the board. But what fits that paradigm? Webcomponents allow you to take simple forms of HTML and build it up into increasingly complex elements. Let's look at a simple concept of a custom tag and how it would start to get towards pedagogically centric HTML.</p>
+<p>Just like HTML, custom tags can go into other custom tags. It can also use and retain semantic meaning just like HTML markup. So let's imagine that we had a semantic, custom element that provides the same thing as above. Now we have a tag called <code>paper-button</code>
+ and every time I want to do above, I put that tag. Ok, now let's say I want a comment card. A comment card might be:</p>
+<p>Which I can then use in something bigger and now I have a tag called <a href="https://lrnwebcomponents.github.io/lrnsys-comment/components/lrnsys-comment/demo/#" rel="nofollow">comment-list</a>
+ or <code>discussion-board</code>
+. A discussion-board could be made out of any number of other smaller lego brick tags. Now I wire it up to a backend to save the data and I've got a fully functional HTML element that can be shared and remixed anywhere and so long as someone provides a backend to store it, it's going to work.</p>
+<h2><a id="user-content-critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right" class="anchor" aria-hidden href="#critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Critical concepts that webcomponents provide to NGDLE if we do this right</h2>
+<ol>
+<li>Visual consistency - right now when using multiple systems everyone decrys the cognitive load on students. webcomponents can provide a common visual design language and templated approach to help alleviate this. Everything will feel like it's the same (even if it's not)</li>
+
+<li>Accessibility - Because most accessibility mistakes happen when HTML is created, this allows us to make elements with high accessibility baked in, eliminating the ability for end-users to make that design element inaccessible.</li>
+
+<li>Maintainability - If we were to produce a tag such as <code>lrn-assignment</code>
+ that expressed an assignment's properties visually, we can now swap out the guts of that tag and so long as the properties going into it are the same we don't need to update any existing content produced.</li>
+
+<li>Interoperability - By design, anything that imports the custom element (which is jsut an HTML file supplying the definition of what to do with that tag) will work. These will work in any system because it's the user's browser that's unpacking what it is and the specification itself gives the element definition and encapsulation.</li>
+
+<li>Standards based approach - by using a common methodology for front-end creation, we can standardize the UX and interaction patterns of our users and allow developers to all work together and utilize each other's lego bricks.</li>
+
+<li>Schema without Schema - We can start to wire up our custom elements to be schematized for indexing by search engines or our own advanced crawlers, ensuring there is additional semantic meaning to our content no matter where it lives. This has <a href="http://oerschema.org" rel="nofollow">huge implications for OER</a>
+ for example.</li>
+
+<li>Common Authoring - Because <a href="http://haxtheweb.org" rel="nofollow">we just made this</a>
+ and it works anywhere.</li>
+
+</ol>
+<h2><a id="user-content-anywhere" class="anchor" aria-hidden href="#anywhere"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Anywhere?</h2>
+<p>Yeah, anywhere. HAX is another step towards my vision of NGDLE and the solutions we can craft when we work in this approach. An authoring experience that can pull data from anywhere and assemble it in a standards based format (HTML) which can be deployed anywhere. Imagine having identical authoring and instructional capabilities regardless of where an instructor is assembling a course. Open system? Do it in the open. Closed to the institution? Do it in the LMS. Training exercise or learning module on a random blog? Yeah, with an NGDLE based authoring approach, everything can be a mini-LMS and everything can feed other things to make new Learning experiences.
+In the coming months through demonstration, documentation and seemingly impossible levels of progress (webcomponents + elmsln make application development trivial) I'll begin to show the path towards anyone building an NGDLE. What it provides users, How we are sharing things across institutions and systems, and how we can start to dissolve all learning systems into the NGDLE based worldview to provide better solutions for instructors and more engaging learning spaces online for learners.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Innovation's four ingredients</title>
+    <id>item-6c53744c-1b33-97a1-976f-90484f5bc450</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="innovation-s-four-ingredients-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-i">I</span> saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about cars. What cars mean to them, what they represent in American culture, what they're experiences were with cars and why these designers got passionate about creating designs for new cars.</p>
+<p>While this is what Disney does to pass the time while waiting in a multiple hour line, this one stood out to me because while a Chevy commercial from start to finish, it was at least a cool and inspiring Chevy commercial. These four words had little descriptive signs to go with them early on in the ride (aka start of the line) which talked about the components to any new car or idea that they would come up with. I like these four concepts for building something new and wanted to bring them to our edTech world we build.</p>
+<h2>Line</h2>
+<p>Designers start with an idea.  We get an idea from anywhere, maybe something we saw we liked or something we're reacting to that we didn't. No matter what the idea though it starts with jotting it down. Taking notes, reflecting (with lots of coffee and music) about what we could build. Writing and drawing are the first phase to bringing something new into existence.</p>
+<h2>Clay</h2>
+<p>Then it's time to prototype the idea. We have to take it from sketches and, again with lots of coffee and music, bring that idea to reality on a screen. Maybe it's not the finished product, but it's enough of a sculpting of future reality that we can bring our vision to life in the eyes of someone attune to what we are expressing. The clay phase isn't finalized but it at least is semi-functional and allows us to get confirmation (or rejection) of the premise we're building against so that we can form it more fully later.</p>
+<h2>Math</h2>
+<p>Next after refinement as a block of clay it's time to take the idea and ensure it fits with the laws of physics. In edTech, our "laws of physics" is often constraints of delivering media on the web. Package size, dependencies on other existing things, extending our universe of tools to be as robust as possible without bloating it. Beyond this, our laws extend into actual laws like needing to account for accessibility and universal design.</p>
+<h2>Emotion</h2>
+<p>Passion for the car and what your building. We certainly align here and this word was really what lead me to want to write it down. If you don't have passion for what you're building, then you need to find some place that does bring you that satisfaction in life. We bring an undying passion to our work, knowing the creations we build are used to impact the minds of thousands. It's not easy designing future systems, especially not politically, but keeping in mind who we're here to serve makes it all worth it.</p>
+<p>You can see emotion in what I write, I'm told it's visible in what I say in presentations too (though that's usually the coffee + coffee + music doing that). I've been told lately it's infectious and that's really good to hear; cause several years ago @btopro wasn't as well received or appreciated for enthusiasm.  When your outside the <a innertext="Overton window" href="https://en.wikipedia.org/wiki/Overton_window" title="Overton window political theory" target="_blank" rel="nofollow" class="external-link no-image">Overton window</a>
+
+, people will reject what your saying. If you really do believe in what you're preaching, then it's on you not to try and change them (or you) but to change the way you message what you believe.</p>
+<p>Simple language changes can trigger a reaction of "wow I see it that way now" instead of "what are you pushing now?". Don't give up. Organizations want to remain at rest unless acted upon by an unstoppable force. Be that force of change in whatever you aspire to do.</p>
  ]]>
     </content>
   </entry>
@@ -659,297 +704,118 @@ Let's get faculty and staff out of the business of understanding HTML and instea
     </content>
   </entry>
   <entry>
-    <title>Using Webcomponents to unearth the NGDLE</title>
-    <id>item-1222b362-d24d-0aa7-20e7-724767f57656</id>
+    <title>This is not reality</title>
+    <id>item-be6f30a2-8a4d-e986-6af3-930f91e00464</id>
     <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="using-webcomponents-to-unearth-the-ngdle-2"/>
+    <link href="this-is-not-reality-2"/>
     
     <content type="html">
-      <![CDATA[ <p>I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look outside the island of edtech first, always asking "What can I bring back to our space to make it better?". 10 years ago, that was Drupal. I evangelized Drupal everywhere I could, wrote hundreds of modules, positively impacted tens of 1000s of sites in and out of education while making it possible for individual developers to leverage open source automation to do awesome things. Today I write to talk about the next thing I want to bring back to our island which I think is <em>the</em>
- technology to bring about an open ecosystem for the Next Generation Digital Learning Environment (NGDLE).</p>
-<h2><a id="user-content-webcomponents-explained" class="anchor" aria-hidden href="#webcomponents-explained"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+      <![CDATA[ <h2><a id="user-content-chapter-1-the-shower" class="anchor" aria-hidden href="#chapter-1-the-shower"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
 </svg>
 </a>
-Webcomponents explained</h2>
-<p>That technology, is webcomponents. Webcomponents, which you can find out more about on <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents.org</a>
- is a four part browser standard that fundamentally changes what's possible in web based application development. The important thing to know is that webcomponents allows developers to define <em>custom HTML elements and expresses how the browser handles them</em>
-. So, bringing this back to education: <em>We can use this technology standard in order to build <a href="https://github.com/LRNWebComponents/">pedagogically focused, valid, HTML tags</a>
-</em>
+Chapter 1: The Shower</h2>
+<p>A Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in the pressense of light, synapese fire off randomly. These random firings of "light" dance in the retina of the Developer seeking the answer to a problem. The retinas of the developer see the sparks trickel away as color fades back in.
+The developer pauses.. then does it again, this time focusing on those whips of ocular static fizzle away. The whips form a pattern that looks like a central star that everything is firing out and away, creating their own central stars to fire out and away from. The occular misfires form a fractual image in the minds eye.</p>
+<h2><a id="user-content-chapter-2-the-fractal" class="anchor" aria-hidden href="#chapter-2-the-fractal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 2: The fractal</h2>
+<p>The developer talks through how a fractal could be used in the design of a system. The developer writes down the fractal. The developer sees a video the next day expressing, visually, the concept of divergent ideas spawning ohter divergent ideas, expressed as a series of hexagons firing off at a tangent and forming new hexagons. The developer recreates the pattern on a whiteboard and begins to theorize how this pattern could be used to represent systems.</p>
+<h2><a id="user-content-chapter-3-the-monster-within" class="anchor" aria-hidden href="#chapter-3-the-monster-within"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 3: The monster within</h2>
+<p>The developer explains this to one other person over two hours. The manager is excited but leaves with: "Who else would ever understand how any of this works though." The developer smiles, "I guess I'll just have to build it to find out". The developer works on prototypes, burning through hundreds of hours beyond what normal projects there are to pursue. The idea is like a dagger in his mind. He starts shutting down from the rest of the world and focusing solely on this one idea. This one fractal.</p>
+<h2><a id="user-content-chapter-4-the-friend" class="anchor" aria-hidden href="#chapter-4-the-friend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 4: The friend</h2>
+<p>He explains an early prototype to a friend. The friend is intrigued but doesn't get it or see how it's the fractal. The developer keeps pushing on, convinced there is a fractal there. The developer makes prototype after prototype, pouring through hours of tutorials and producing posts and videos looking for someone to understand what he's claiming to have discovered. No one gets it. Again, and again, over the next 2 years, the developer repeats this cycle, trying desperately to get someone to understand the picture in his mind now layed out as code and directory trees. Symlinks and .gitignores. But no one. Gets it.</p>
+<h2><a id="user-content-chapter-5-the-group" class="anchor" aria-hidden href="#chapter-5-the-group"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 5: The group</h2>
+<p>Until... Someone does. Two people actually. And then from two, three, and three, four; and four, five; and five, a dozen, and dozens. Until the fractal no longer is some obscure concept it's the way of visualizing and attacking the problem. The Developer is no longer a developer, and no longer is a young developer either...</p>
+<h2><a id="user-content-chapter-6-the-team" class="anchor" aria-hidden href="#chapter-6-the-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 6: The team</h2>
+<p>The Developer is part of a team. A Team hell bent on innovation. A Team that doesn't accept the world and the educational system the way it is but dreams of what it can be, what it will be. A Team that believes education is not a pidgenholed public service job but the place that fosters and grows innovations of it's own. A Team believes that noone is better then the sun of it's parts.</p>
+<h2><a id="user-content-chapter-7-the-way-forward" class="anchor" aria-hidden href="#chapter-7-the-way-forward"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 7: The way forward</h2>
+<p>A Team of Developers, instructors, instructional designers, designers, students, management; of mixed talents and backgrounds and abilities, form a new fractal pattern within a traditionally stasis laden system.</p>
+<h2><a id="user-content-chapter-8-the-upside-down" class="anchor" aria-hidden href="#chapter-8-the-upside-down"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+</svg>
+</a>
+Chapter 8: The upside down</h2>
+<p>The Developer is no longer alone in the wilderness. The Developer is now part of the Team poised to change education, and the world. Join <em>us</em>
 .</p>
-<h3><a id="user-content-quick-note" class="anchor" aria-hidden href="#quick-note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Quick note</h3>
-<p>This is a standard that all major browser vendors have committed to adopting and largely have, though polyfills are required to get full browser support. It also is leaving the IE6/7/8/9/10 world behind (the good news is, <a href="http://www.telegraph.co.uk/technology/microsoft/12087103/Microsoft-to-kill-off-Internet-Explorer-8-9-and-10.html" rel="nofollow">so has Microsoft</a>
-).</p>
-<h2><a id="user-content-ngdle-backstory" class="anchor" aria-hidden href="#ngdle-backstory"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-NGDLE backstory</h2>
-<p>For <a href="http://btopro.wordpress.com" rel="nofollow">four years</a>
- I've been building <a href="https://www.elmsln.org/" rel="nofollow">ELMS: Learning Network</a>
-; trying to build a platform that can produce and sustain innovation in educational technology. For about that long, Educause has talked about the concept of NGDLE; what it might look like, what it might do, how to do it. Because it's a big concept to unpack, it's taken a few years to get people all on board with the idea and to agree that it's not an LMS (much like webcomponents was proposed in 2011 yet didn't become a real thing implemented until 2016). Because of the patterns of behaviors and methodology of ELMS:LN I currently consider it the only public NGDLE. For that reason, we're misunderstood but if NGDLE is Lego'ing / app-ifying the LMS; ELMS:LN wants to be the grid-plate. The fundamental base-plate to be plugged into. A routing system to stitch it all together and satisfy the need that no vendor will ever provide: a middleware to pull our ecosystems together.</p>
-<h2><a id="user-content-so-how-do-we-all-lego" class="anchor" aria-hidden href="#so-how-do-we-all-lego"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-So how do we all lego</h2>
-<p>Ok, so back to webcomponents. If we have a gridplate (you could provide your own, I'm not suggesting ELMS:LN be the only one) then we need lego bricks to plug into the board. But what fits that paradigm? Webcomponents allow you to take simple forms of HTML and build it up into increasingly complex elements. Let's look at a simple concept of a custom tag and how it would start to get towards pedagogically centric HTML.</p>
-<p>Just like HTML, custom tags can go into other custom tags. It can also use and retain semantic meaning just like HTML markup. So let's imagine that we had a semantic, custom element that provides the same thing as above. Now we have a tag called <code>paper-button</code>
- and every time I want to do above, I put that tag. Ok, now let's say I want a comment card. A comment card might be:</p>
-<p>Which I can then use in something bigger and now I have a tag called <a href="https://lrnwebcomponents.github.io/lrnsys-comment/components/lrnsys-comment/demo/#" rel="nofollow">comment-list</a>
- or <code>discussion-board</code>
-. A discussion-board could be made out of any number of other smaller lego brick tags. Now I wire it up to a backend to save the data and I've got a fully functional HTML element that can be shared and remixed anywhere and so long as someone provides a backend to store it, it's going to work.</p>
-<h2><a id="user-content-critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right" class="anchor" aria-hidden href="#critical-concepts-that-webcomponents-provide-to-ngdle-if-we-do-this-right"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Critical concepts that webcomponents provide to NGDLE if we do this right</h2>
-<ol>
-<li>Visual consistency - right now when using multiple systems everyone decrys the cognitive load on students. webcomponents can provide a common visual design language and templated approach to help alleviate this. Everything will feel like it's the same (even if it's not)</li>
-
-<li>Accessibility - Because most accessibility mistakes happen when HTML is created, this allows us to make elements with high accessibility baked in, eliminating the ability for end-users to make that design element inaccessible.</li>
-
-<li>Maintainability - If we were to produce a tag such as <code>lrn-assignment</code>
- that expressed an assignment's properties visually, we can now swap out the guts of that tag and so long as the properties going into it are the same we don't need to update any existing content produced.</li>
-
-<li>Interoperability - By design, anything that imports the custom element (which is jsut an HTML file supplying the definition of what to do with that tag) will work. These will work in any system because it's the user's browser that's unpacking what it is and the specification itself gives the element definition and encapsulation.</li>
-
-<li>Standards based approach - by using a common methodology for front-end creation, we can standardize the UX and interaction patterns of our users and allow developers to all work together and utilize each other's lego bricks.</li>
-
-<li>Schema without Schema - We can start to wire up our custom elements to be schematized for indexing by search engines or our own advanced crawlers, ensuring there is additional semantic meaning to our content no matter where it lives. This has <a href="http://oerschema.org" rel="nofollow">huge implications for OER</a>
- for example.</li>
-
-<li>Common Authoring - Because <a href="http://haxtheweb.org" rel="nofollow">we just made this</a>
- and it works anywhere.</li>
-
-</ol>
-<h2><a id="user-content-anywhere" class="anchor" aria-hidden href="#anywhere"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Anywhere?</h2>
-<p>Yeah, anywhere. HAX is another step towards my vision of NGDLE and the solutions we can craft when we work in this approach. An authoring experience that can pull data from anywhere and assemble it in a standards based format (HTML) which can be deployed anywhere. Imagine having identical authoring and instructional capabilities regardless of where an instructor is assembling a course. Open system? Do it in the open. Closed to the institution? Do it in the LMS. Training exercise or learning module on a random blog? Yeah, with an NGDLE based authoring approach, everything can be a mini-LMS and everything can feed other things to make new Learning experiences.
-In the coming months through demonstration, documentation and seemingly impossible levels of progress (webcomponents + elmsln make application development trivial) I'll begin to show the path towards anyone building an NGDLE. What it provides users, How we are sharing things across institutions and systems, and how we can start to dissolve all learning systems into the NGDLE based worldview to provide better solutions for instructors and more engaging learning spaces online for learners.</p>
+<iframe src="https://www.elmsln.org/stranger-things/" width="100%" height="500px"></iframe>
+<a href="https://www.elmsln.org/stranger-things/">Stranger Things...</a>
  ]]>
     </content>
   </entry>
   <entry>
-    <title>Playing for 40</title>
-    <id>item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0</id>
+    <title>When Educators left the LMS</title>
+    <id>item-46aa6443-ebf1-62b2-6523-760490d5ce9b</id>
     <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="playing-for-40-2"/>
+    <link href="when-educators-left-the-lms-2"/>
     
     <content type="html">
-      <![CDATA[ <p>A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through imparted knowledge.
-> ..thank you for teaching me more about being a developer than my degree did
-Now, the compliment wasn't meant as a swipe at his education, meerly that "on the job" training was more impactful. As we talked, things came to money and endevours he was undertaking which didn't pay anything currently but gave him something to keep busy.
-I've been thinking about writing for awhile and so my response to him (more or less) is what follows. It's less a reponse for him then it is for you, whoever you are. Many, many years ago I went on a rant about getting off the bench and into the game; And the concept keeps coming back to me as I see the view from 2017 looking back on btopro in 2012 when I wrote that. Oh Bryan, if only I could have told you how the next 5 years would play out.
-I felt it important in talks, blogging, social media, to always reference that this was my life. That I wasn't going away (at least of my own doing) as a way of trying to solidify my commitments to you, the future of education or those currently engaged in it, that these ideas will not dissipate. I will not bow to the monsters of edtech.
-Today, I write to these ends as a means of illustrating the next 5 years. Where I see us going, and how bright the future is.</p>
-<h2><a id="user-content-dr-jonas-salk" class="anchor" aria-hidden href="#dr-jonas-salk"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Dr. Jonas Salk</h2>
-<p>So this is written before it's written about me.
-</p>
-<p>I'm not here for fame.</p>
-<p>I'm not here for treasure.</p>
-<p>I'm not here for ego.</p>
-<p>I'm not here for "work-life balance".</p>
-<p>I'm not here for traditional advancement.</p>
-<p>I'm here to solve problems using the God given talents and fortunate circumstances I find myself in. I recognition, appreciate, and seek to pursue the fullness of the oppurtunity I have before me. It comes to simple truths.</p>
-<p>I <strong>know</strong>
- <em>we</em>
- will change the world. In the last year, ELMS:LN has grown from two people with lines to contributing to the platform to five, internally. Externally there is also a developer at another organization with another one starting soon and <strong>multiple contributions coming from random individuals across the globe</strong>
-.</p>
-<p>I'm here to be like Dr. Jonas Salk, a hero of mine, who when asked who owned the patent on the cure said:</p>
-<p></p>
-<h2><a id="user-content-playing-for-40" class="anchor" aria-hidden href="#playing-for-40"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-"playing for 40"</h2>
-<p>> You see every day, every week and every year of my life I'm always 10 years away from being my hero - <a href="https://youtu.be/wD2cVhC-63I?t=3m11s" rel="nofollow">https://youtu.be/wD2cVhC-63I?t=3m11s</a>
+      <![CDATA[ <p class="highlight"><span class="dropcaps dropcaps-w">W</span>hile not seeing it beyond previews and reviews, the movie <a href="https://www.amazon.com/When-Left-Building-Group-Productions/dp/1470742136" target="_blank" rel="nofollow" class="external-link no-image">When God left the building</a>
+ reviews an intreging concept: that people who leave the christian church are just leaving the building and pursuing God in ways that connect better with them. I bring this idea up because I see parallels with instructors and the building provided for them, the learning management system.
+As someone who works on the side of building tools to escape the monotony; I can see both sides. Staff, instructional or otherwise, tend to want people to use the same thing. This helps from a support perspective; I mean, it's hard to support people in lots of tools, especially those unknown to the support staff. Faculty on the other hand, at times, want control and the freedom to use whatever they want in order to properly teach the subject in question.</p>
+<p class="highlight">How best to reach these people?
+If we just funnel more functionality into a learning management system, they aren't coming back. Sometimes it's far more than just the fact that the LMS doesn't provide the capabilities they need; it's a fundamental distrust of a system who's three letter acronym invokes feelings of rage in many. It is also, even if unknowingly, a stand against authoritan system integrations (<em>huh?</em>
+).
+When a solution, any solution, is promoted by an organization as the one source of truth; some will naturally have an affinity towards literally anything else. The positioning of the system as the one and only, is a pure authoritarian stance; we must have control of this transaction (even if just in perception). Academia is built on the principle of exploration, academic freedom, and diversity. It has many libertarian and socialist leanings just in its positioning in society (education for all, freedom to explore and expand thought). These two forces; the deployment of centralized, singular solutions, is by default antithetical to the institutions which they are deployed within.
+So what to do? Well, this is where I can confuse many at times since I'm perceived as having my own LMS (it's not but that's ok). <em>Speaks directly to faculty</em>
+: I want you to use whatever makes the most sense for you, that teaches your subject matter in the way that makes the most impact, and that doesn't cripple you financially or grading wise to utilize. Maximum freedom; what we produce or otherwise. However; where this stance differs is this: While the Church of LMS wants you to come back and retain membership as the one pathway to educational success. ELMS:LN spins off technologies into spheres outside of the traditional LMS church in order to meet you where it made sense for you.
+You want to have your own content outside of any system? There's a project for that, and we'll make it easy to integrate afterwards. YOU are in control, we adapted to you. It's just a small part of why we build software completely outside of an LMS context which can build up the educational prowess of other solutions.
+Take our latest content authoring experience we've been working on - <a href="http://haxtheweb.org" target="_blank" rel="nofollow" class="external-link no-image">HAX</a>
+. This is ELMS:LN's next generation authoring solution.... built entirely outside of ELMS; in fact at the moment, it's not talking to anything it's just a static website. Why? Let's cover just a few of the "targets" this can then radically transform into educational technology:</p>
+<ul>
+<li>Any CMS that integrates HAX (which currently Drupal 7, Drupal 8, Backdrop, and GravCMS are all on the roadmap)</li>
 
-Knowing our history, seeing where we're heading and what is soon to come.. I feel it important to share the phrase I've been focusing on to keep myself grounded. I keep telling people I'm "playing for 40". This is definitely a departure in mindset from me 5 years ago who would claim a stake in the ground for success based on today. No. I'm behaving as if we're only half way there...and I always will.
-I love that clip from the video above; I'm always 10 years away from being my hero. Right now, one of my hero's is me at 40. Now, for context, that's 6.5 years away (oi i'm getting old). But it's true. I'm not focusing on today, I'm focusing on where I see us heading in the next 6.5 years as a community and thinking about how we get to that spot.
-Right now, ELMS as a project idea is 10 years old. The Learning Network that we breathe is currently ~4 years old. So if we're only 1/2 way to wher I envision us being... what does that look like? Who do we want to be when we grow up?</p>
-<h2><a id="user-content-dreaming-reality" class="anchor" aria-hidden href="#dreaming-reality"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-Dreaming reality</h2>
-<p>Feb 18th, 2024:
-Get every university on earth to have a level, technical playing field. Ideas should be the drivers of the future, not who's knowledge economy is more built up or financial situation better. Level the technical playing field, start to level other inequalities and disparities in education.
-Try to impact every possible learner within or without institutions. Both through formal adoption as well as empowering those with knowledge and information to freely produce, disseminate and mentor with those who are in need of that knowledge.
-I believe that through free solutions that work every and anywhere, we can transform education and through transformation of education we can create a better, more perfect society.</p>
-<h2><a id="user-content-how-do-we-get-there" class="anchor" aria-hidden href="#how-do-we-get-there"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
-</svg>
-</a>
-How do we get there?</h2>
-<p>Together. It is a small part of a much more complex ecosystem (society), but I believe that by creating the highest quality authoring and learner experiences imaginable and requiring those toolsets be open source that we can do our small part in making that dream a reality.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Sustainable Systems Development: A moral issue</title>
-    <id>item-c6866e7a-1981-8c76-293a-0b96181e4945</id>
-    <updated>2024-01-04T19:24:18+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="sustainable-systems-development-a-moral-issue-2"/>
-    
-    <content type="html">
-      <![CDATA[ <full-width-image style="width: 50%;" source="files/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg" caption="Sustainable systems development"></full-width-image>
-<p>Sustainability has been a "hot" topic for the last five plus years now. It is often talked about in the context of the environmentalist movement or farming, but allow me to give the concept a bit of a technical and moral spin. Sustainability is all about planning for the future of humanity. What our children and the world's children will experience as a result of our actions today.</p>
-<p>Do you think your house will be standing 100 years from now? How about 1000s, like the pantheon? No? Me neither. This is the issue I've come to with systems design. I came into a world where people did things with a lack of planning for the future directions it would take us. I didn't create the issues, but it is all of our responsibility to fix it.</p>
-<p>How many systems have you used that needed to be explained to you far beyond 5 minutes? How many wasteful positions do you see that maintain a single, custom system? How many <span style="font-size: 13px;">additional</span> positions do you see as a result of poor, bloated work-flows? How many people know how to do your job?</p>
-<p>This all brings me to the issue of morality in systems design / implementation. Systems should be designed in such a way that they are not only easy to use but easy to maintain and sustain for decades, not months and years.  Breaking down the walls between those creating the system and those in need of a system isn't just a best practice, it's a moral prerogative.</p>
-<p>The technical elites (haves) have a moral obligation to design and develop systems in such a way that everyone (even have nots) can use them.<b> Experience design (UX) is not just a "nice to have" requirement, it is a moral issue.</b>
+<li>Static webpages / single page demonstrations which can be identical in every way to the real thing</li>
 
+<li><a href="https://github.com/LRNWebComponents/hax-desktop-app" target="_blank" rel="nofollow" class="external-link no-image">Desktop publishing</a>
+ to do everything completely offline or via local development</li>
 
- It is immoral to design something that allows the system to be dependent upon your knowledge (or any small group of people) to continue running.</p>
-<p>Yeah, believe me, it's very tempting to hand a system off to a client who has no clue what they're doing and intentionally design it so you'll always have to be involved.</p>
-<h2 class="hax-active">big money big money no Wammies... STOP.</h2>
-<p>It's also far more difficult to design in such a way that you don't have to be involved (even as much) in the future.  Let's face it, that's less money for you and probably more work to get a product out to the client.</p>
-<p>There has been a bit of a code of ethics push in the Drupal community which has had me thinking about all this so I'd like to make one of my own.  These are some of the principles that I strive towards in everything I write and in every interaction with those in the community:</p>
-<ul><li style="">It is immoral to design something that only you understand how it works</li>
-
-
-
-<li style="">Systems must be designed with user-groups in mind (UX)</li>
-
-
-
-<li style=""><b><i>Every line of code should seek to empower people to never have to know it exists</i>
-
-
-</b>
-
-
+<li><em>any LMS that wants to have an authoring experience second to none</em>
 </li>
 
+<li>any tool that doesn't fit into those buckets or other solution that needs a flexible editor</li>
 
+<li><a href="/blog/the-day-educators-left-the-lms/www.elmsln.org">ELMS:LN</a>
 
-<li style="">Solutions must be simple, elegant and understandable by the those tasked with managing the system after it is deployed.</li>
-
-
-
-<li style="">Talk early, and talk often. The more transparent you are in your design, development, and delivery processes the easier it would be for someone else to pick up your work and run with it</li>
-
-
-
-<li style=""><b>Be passionate in the code you write; if you're not into it, move on</b>
-
-
-</li>
-
-
-
-<li style="">We can write code to do lots of good and bad things; Don't take a job where you don't agree with the result</li>
-
-
-
-<li style="">Feedback, positive or negative is feedback and should be responded to in the same way</li>
-
-
-
-<li style="">Leverage developed code as much as you can so that glue / custom modules are as small as possible</li>
-
-
-
-<li style="">Realize that your never done (and be satisfied with it), you're simply advancing the ball a little further down the field every day, month, year, generation</li>
-
-
+By creating an authoring experience for the production of educational materials or otherwise (It's a really nice website builder at minimum), we can reduce the cost of producing a high quality webpage (it's doing 3D rendering in the browser w/ VR I mean come on now!) and can also hook it up with all kind of meta-data that education needs (ala <a href="/blog/the-day-educators-left-the-lms/oerschema.org">OERSchema</a>
+). We can improve the quality of production, decrease cost of production, and do it in a uniform method no matter where it's been deployed. This is bringing church to people. It's connecting with them in the way they need because they have unique needs (snokeflake logo). It's the complete opposite stance of the LMS which says "Integrate with me, I am the one great source of truth".
+Because much like the emptying buildings in the film, it's not that Educators left education, they just will start teaching and educating in other ways and in other places. Because when everything can be a learning experience, we no longer need a dedicated building to provide it to us.</li>
 
 </ul>
-<p><span style="caret-color: rgb(0, 0, 0);"><br/></span></p>
  ]]>
     </content>
   </entry>
   <entry>
-    <title>DDoSA</title>
-    <id>item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d</id>
+    <title>Singularity, Digital Activism, and saving our institutions</title>
+    <id>item-92c8d1d5-e579-930b-2c57-e9753e9dfefe</id>
     <updated>2024-01-04T19:24:18+00:00</updated>
     <published>2023-10-23T15:29:48+00:00</published>
     <summary></summary>
-    <link href="ddosa-2"/>
+    <link href="singularity-digital-activism-and-saving-our-institutions-2"/>
     
     <content type="html">
-      <![CDATA[ <p>We live in the age of Citizen agents‏. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have been validated as having the ability to enact and broadcast change.</p>
-<p>You may have heard of DDoS in tech news. A DDoS is a Distributed Denial of Service. Basically a whole bunch of hackers (or if you're really smart, just one infecting many systems) perpetrates a DDoS by slamming certain systems with traffic. This has other names like orbital ion cannon, ping of death and "wiping a site from the internet". Basically you keep shelling a system from so many points of entry that firewalls can't identify the traffic as the same request so it makes the servers think that there's just a lot of people accessing.</p>
-<p>Today I'd like to propose a human based form of the same idea which we will dub a DDoSA - Distributed Denial of System Authority. Utilizing this technique individuals, much like a DDoS, can overwhelm a system of control with too many requests, rendering the controlling authority useless. There's too many "packets" for the organization to control which disrupts the organization's ability to effectively control the message, solutions, methods of practice, etc.</p>
-<h2>Let me explain with a bad example...</h2>
-<p>You are disgusted that people use Sharepoint to share documents. You suggest using DropBox but that's shut down as an individual because of security, policy, xyz. In order to correctly utilize DropBox, you don't need to go to anyone asking for permissions, you need to tell your friends to use DropBox. And then, when collaboration is through the roof and productivity is way up, you have your friends tell their friends. Soon, the entire organization is utilizing the non-standard tool in a peer-to-peer, occupy wall street fashion.</p>
-<p>So does it matter if DropBox is the christened solution of the organization? No, everyone just uses it. (This is unofficial Slack channels at most companies in a nutshell) People self-organize around what works best when friction to do so is limited (internet / free technologies).</p>
-<p>I often voice the opinion that policy is irrelevant in the face of automation; because, it is impossible to enforce that which automation can alleviate so easily. Make automation invisible (Slack) and highly usable (Slack) and you'll see citizen agents pop up all over the place.</p>
-<p>The person that implemented Sharepoint and told others to use it has no ability to keep pace with those rapidly utilizing and encouraging others to utilize DropBox. The capabilities are far greater then SharePoint. Maybe they have greater control over their files. What ever the case, the citizen agents are a more effective marketing tool then the lone individual from on high bringing a solution into the organization.</p>
-<h2>DDoSA in RL</h2>
-<p>DDoSAs have other names in real life. Sit ins. Arab Spring. Occupy Movement. Flooding prisons til they are over capacity with conscientious objectors. These are all the same, just applying the tactic to different mediums. Take quantity X that has stopgap X-1. Apply X against stopgap X-1. Watch stopgap X-1 become overwhelmed because X is always greater. Far more important then authority in pulling off a DDoSA is <a href="http://buytaert.net/open-source-and-social-capital" target="_blank" rel="nofollow" class="external-link no-image">social capital</a>
-. Social capital, while not as quantifiable as money, is a much deeper well to draw from once filled.</p>
-<p>It takes a lot longer to fill that well then making money, building social capital involves P2P connections and those take time to build (Occupy was months when at its height). But it is far more powerful then money as we move increasingly towards a block-chain-esk society (and, we are). I mean, several countries collapsed in part because of the power of the individuals that stopped believing in the authority of their governing structures.</p>
-<h2>DDoSA to reclaim control</h2>
-<p>The air about a situation in which you might see a DDoSA usually stems from a lack of control. Feelings of disempowerment drive some to apathy and others to organize. People strive make meaning of and be in control of the world around them. And so as our technologies get cheaper, easier, and faster they'll increasingly demand more order be established to help them pick through the chaos all around.</p>
-<p>To use a DDoSA in your organization currently plagued by Slack (I love slack, it's a straw-man) to get them to own the solution via something like <a href="http://www.mattermost.org/" target="_blank" rel="nofollow" class="external-link no-image">MatterMost</a>
-; you need to do the leg work and setup an instance. Then you need to get it integrated into your life and ensure it's easy to use, be the best first review that you can be for the new replacement technology. Then, you need to start getting people signed up on the mattermost instance by proxy. Friends, colleagues, to share a file, to go "hey have you seen...". Little by little, in dribs and drabs, you'll start tapping into that well of social capital in order to get your organization to stop standardizing on Slack and move over to MatterMost.</p>
-<p>What did people gain? Well, they still use a communication tool but maybe in this instance the surface  gain is in no longer paying Slack for a hosted instance. The social effects of this change could be far greater. Maybe without a paywall more people in the company can use the software. Maybe there's custom integration you can now write / pay for as a result of owning the technology. If the output to end users is the same, they won't question or review the additional impacts on the organization (no one questions things presented with a happy face).</p>
-<p>Maybe now your writing your own code, owning the process in one area which has you turn inward and move more things in-house. Maybe people have a greater comprehension for the power of open source and look to you as an expert. The impacts are far greater then just what technology will we use today; what's the philosophy behind this decision?</p>
-<p>Figure it out, own it, and spread it P2P.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Legacy of Human Hierarchy</title>
-    <id>item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70</id>
-    <updated>2024-01-04T19:24:18+00:00</updated>
-    <published>2023-10-23T15:29:48+00:00</published>
-    <summary></summary>
-    <link href="legacy-of-human-hierarchy-2"/>
-    
-    <content type="html">
-      <![CDATA[ <full-width-image source="files/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg" caption="Legacy" style="width: 50%;"></full-width-image>
-<p class="highlight"><span class="dropcaps dropcaps-t">T</span>he hierarchy of humanity is changing.</p>
-<p>Sorry, let me rephrase.. The hierarchy of humanity <strong>must</strong>
- change in order to survive and remain relevant. Because the way in which we've accessed information has changed, we no longer require authority to do anything from anyone.... as far as data-flows. See humans, we love hierarchy. Hierarchy dictates who gets access to what, who knows what, who can talk about who, who makes more money, where ideas stem from. All great, amazing... historical constructs.</p>
-<p>If we are to truly make the world a better place, we need start looking towards new structures; the structure of technology.</p>
-<h2>Deployment Hierarchy</h2>
-<p>Deployment Hierarchies are flattening thanks to virtualization and containerization (and the two combined). We can now build virtual networks that live as clusters of containers within other containers (very meta). What the hell am I talking about?</p>
-<h3>An example</h3>
-<p>Say you want to run Salesforce, Yammer, Google Apps, Canvas LMS, Box.net, any application from a "SaaS" vendor (more like <strong>control</strong>
- broker).</p>
-<p>The question I have for you... How many people do these companies hire when you send them your multi-million dollar contracts? What are their workflows? Do you really think you are paying for access to developers and their talents?</p>
-<p>No, you're having someone in sales probably click a button, that kicks off you being a customer. This gets picked up by the DevOps team's scripting engine and automatically provisions a new container of the infrastructure, plugging in the tokenized values for things like "My University" and "Company Logo here". The future of SaaS based products is increasingly automated (so stop paying someone to do what you can automate yourself if you plan to exist 50 years from now).</p>
-<h2>The legacy of human infrastructure</h2>
-<p>But we've already hired hundreds of people. But we've already got people managing them in a pyramid shaped structure. Oh, so you think you're the only one? No, everyone still organizes this way in the old world constructed before the dawn of deployment architecture. Instead of giving up though, how can we reenvision ourselves and our organizations to remain competitive (aka exist) the next 10 year transition.</p>
-<h2>Big Red Button</h2>
-<p>If your organization had a Big Red Button (that was easy) of sorts that did all the work for you, who would you allow to push it? Can everyone push the button if it produced new ideas, new products, better outcomes? Or is the HPPO (Highest Paid Person's Opinion) the only one that matters, the only idea allowed to be pushed into production. When we've dissolved the legacy infrastructure of humanity we'll be able to allow anyone with any idea to empower the organization to win. If we don't, they'll leave.</p>
-<p>We can group the parts of an organization into the three Es of social shift: <strong>Eliminate</strong>
-, <strong>Evolve</strong>
-, <strong>Emerge</strong>
-.</p>
-<h2>Eliminate</h2>
-<ul><li><strong>Committees</strong>
- - "Group" consensus that can't be met after a single meeting of a handful of people dictates that someone dictate the solution and path. Dissolve these immediately, people will be happier.</li>
-<li><strong>Vacated positions</strong>
- - Force the structures underneath these positions to reorganize, flatten, and allow that transformation to allow business processes to evolve.</li>
-</ul>
-<h2>Evolve</h2>
-<ul><li><strong>Business practices</strong>
- - Workflows in the human hierarchy were built around who knew what and could accomplish a task. The future deployment hierarchy empowers all members to push the big red button of change.</li>
-<li><strong>Trust</strong>
- - If you can't trust someone to push the big red button of progress, they shouldn't be on the team. Opening up room for failure ensures we aren't denied success in the process. Safe is dead.</li>
-</ul>
-<h2>Emerge</h2>
-<ul><li><strong>Pseudo structures</strong>
- - people across traditional organizational boundaries now operate as a crack team to solve problems. Over enough time, the traditional structures can be largely dissolved as these new pseudo structures become the institutional fabric of an organization.</li>
-</ul>
-<p>Organizations that don't align themselves with the properties of technology (<em>boundless</em>
-, <em>connected</em>
-, <em>structureless</em>
-) and instead adhere to traditional properties of the human hierarchy (<em>bound</em>
-, <em>separated</em>
-, <em>vertically oriented</em>
-) will surcome to those "competitors" who do transform.</p>
+      <![CDATA[ <p class="highlight">*This talk was originally posted on elmsln.org. I've removed it there and moved it here because even though it's about Drupal / ELMSLN, it's the first talk I gave that I started speaking my mind and talking about the bit-coin-ization of the world and structures that aren't sustainable.</p>
+<p> </p>
+<p>How can projects like ELMSLN improve the public sector and help transform our interactions with institutions? How can we bring about more collaboration that is peer to peer and institution to institution? These are some of the concepts that ELMSLN lead developer @btopro wrestles with daily.  Watch this rebroadcast of his DrupalCamp Wisconsin (2014) message to kickstart the day.</p>
+<video-player lang="en" preload="metadata" source="https://www.youtube.com/watch?v=-5KGGEwerJU" sticky-corner="top-right" youtube-id="-5KGGEwerJU" iframed source-type="youtube" is-a11y-media is-youtube></video-player>
  ]]>
     </content>
   </entry>
@@ -1175,6 +1041,37 @@ How do we get there?</h2>
 <p>Yes, Government needs it's Drupal 8 moment. Is the end product "the same"? In some ways yes. We still make a CMS, it still makes great websites and it's still responsive. But we're rooting out all the bloat that's weighing our awesome product down. We're doing things smarter, not always differently.</p>
 <p>Corruption and governmental refactoring needs to be the focus of a unified movement between Occupy and Tea people. Quit arguing over social policy, quit arguing your party or person vs their party or person. Look beyond parties, look at what we're doing to our country and unite to pull us back from the edge (where edge is Fascism, rioting because of corruption, further deepening of racial divides). Quit pointing the finger and start reaching out with love. Lay down your ideologies and realize this: We are all not that different, we all want the corruption to end. Seek out those that have this message. One says we can have less corruption through regulation while the other proposes solutions that involve tearing down parts of the institution to reduce corruption though there being less of it.</p>
 <p>Personally, I'm for the refactor (because where are these more perfect Angels) but align on anti-corruption and we will solve our problems.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>DDoSA</title>
+    <id>item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d</id>
+    <updated>2024-01-04T19:24:18+00:00</updated>
+    <published>2023-10-23T15:29:48+00:00</published>
+    <summary></summary>
+    <link href="ddosa-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p>We live in the age of Citizen agents‏. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have been validated as having the ability to enact and broadcast change.</p>
+<p>You may have heard of DDoS in tech news. A DDoS is a Distributed Denial of Service. Basically a whole bunch of hackers (or if you're really smart, just one infecting many systems) perpetrates a DDoS by slamming certain systems with traffic. This has other names like orbital ion cannon, ping of death and "wiping a site from the internet". Basically you keep shelling a system from so many points of entry that firewalls can't identify the traffic as the same request so it makes the servers think that there's just a lot of people accessing.</p>
+<p>Today I'd like to propose a human based form of the same idea which we will dub a DDoSA - Distributed Denial of System Authority. Utilizing this technique individuals, much like a DDoS, can overwhelm a system of control with too many requests, rendering the controlling authority useless. There's too many "packets" for the organization to control which disrupts the organization's ability to effectively control the message, solutions, methods of practice, etc.</p>
+<h2>Let me explain with a bad example...</h2>
+<p>You are disgusted that people use Sharepoint to share documents. You suggest using DropBox but that's shut down as an individual because of security, policy, xyz. In order to correctly utilize DropBox, you don't need to go to anyone asking for permissions, you need to tell your friends to use DropBox. And then, when collaboration is through the roof and productivity is way up, you have your friends tell their friends. Soon, the entire organization is utilizing the non-standard tool in a peer-to-peer, occupy wall street fashion.</p>
+<p>So does it matter if DropBox is the christened solution of the organization? No, everyone just uses it. (This is unofficial Slack channels at most companies in a nutshell) People self-organize around what works best when friction to do so is limited (internet / free technologies).</p>
+<p>I often voice the opinion that policy is irrelevant in the face of automation; because, it is impossible to enforce that which automation can alleviate so easily. Make automation invisible (Slack) and highly usable (Slack) and you'll see citizen agents pop up all over the place.</p>
+<p>The person that implemented Sharepoint and told others to use it has no ability to keep pace with those rapidly utilizing and encouraging others to utilize DropBox. The capabilities are far greater then SharePoint. Maybe they have greater control over their files. What ever the case, the citizen agents are a more effective marketing tool then the lone individual from on high bringing a solution into the organization.</p>
+<h2>DDoSA in RL</h2>
+<p>DDoSAs have other names in real life. Sit ins. Arab Spring. Occupy Movement. Flooding prisons til they are over capacity with conscientious objectors. These are all the same, just applying the tactic to different mediums. Take quantity X that has stopgap X-1. Apply X against stopgap X-1. Watch stopgap X-1 become overwhelmed because X is always greater. Far more important then authority in pulling off a DDoSA is <a href="http://buytaert.net/open-source-and-social-capital" target="_blank" rel="nofollow" class="external-link no-image">social capital</a>
+. Social capital, while not as quantifiable as money, is a much deeper well to draw from once filled.</p>
+<p>It takes a lot longer to fill that well then making money, building social capital involves P2P connections and those take time to build (Occupy was months when at its height). But it is far more powerful then money as we move increasingly towards a block-chain-esk society (and, we are). I mean, several countries collapsed in part because of the power of the individuals that stopped believing in the authority of their governing structures.</p>
+<h2>DDoSA to reclaim control</h2>
+<p>The air about a situation in which you might see a DDoSA usually stems from a lack of control. Feelings of disempowerment drive some to apathy and others to organize. People strive make meaning of and be in control of the world around them. And so as our technologies get cheaper, easier, and faster they'll increasingly demand more order be established to help them pick through the chaos all around.</p>
+<p>To use a DDoSA in your organization currently plagued by Slack (I love slack, it's a straw-man) to get them to own the solution via something like <a href="http://www.mattermost.org/" target="_blank" rel="nofollow" class="external-link no-image">MatterMost</a>
+; you need to do the leg work and setup an instance. Then you need to get it integrated into your life and ensure it's easy to use, be the best first review that you can be for the new replacement technology. Then, you need to start getting people signed up on the mattermost instance by proxy. Friends, colleagues, to share a file, to go "hey have you seen...". Little by little, in dribs and drabs, you'll start tapping into that well of social capital in order to get your organization to stop standardizing on Slack and move over to MatterMost.</p>
+<p>What did people gain? Well, they still use a communication tool but maybe in this instance the surface  gain is in no longer paying Slack for a hosted instance. The social effects of this change could be far greater. Maybe without a paywall more people in the company can use the software. Maybe there's custom integration you can now write / pay for as a result of owning the technology. If the output to end users is the same, they won't question or review the additional impacts on the organization (no one questions things presented with a happy face).</p>
+<p>Maybe now your writing your own code, owning the process in one area which has you turn inward and move more things in-house. Maybe people have a greater comprehension for the power of open source and look to you as an expert. The impacts are far greater then just what technology will we use today; what's the philosophy behind this decision?</p>
+<p>Figure it out, own it, and spread it P2P.</p>
  ]]>
     </content>
   </entry>
