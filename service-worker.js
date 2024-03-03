@@ -372,7 +372,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "rO96YqZASn6UOpGOupmzEA"
+        "oXUuCmTh9knozWmiF9Gg"
     ],
     [
         "404.html",
@@ -417,6 +417,10 @@ var precacheConfig = [
     [
         "files\/10uchampions.jpg",
         "FX6DjlorhiPJkgIJDrjWPQ"
+    ],
+    [
+        "files\/i-developed.jpg",
+        "yuAxxCWB0ly1qghCSNIrA"
     ],
     [
         "files\/android22.jpg",

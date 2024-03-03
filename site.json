@@ -161,7 +161,16 @@
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 3,
-                "tags": "inspire,hockey,future"
+                "tags": "inspire,hockey,future",
+                "files": [
+                    {
+                        "fullUrl": "\/sites\/btopro\/files\/i-developed.jpg",
+                        "url": "files\/i-developed.jpg",
+                        "type": "image\/jpeg",
+                        "name": "i-developed.jpg",
+                        "size": 247346
+                    }
+                ]
             }
         },
         {
