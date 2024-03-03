@@ -23,12 +23,12 @@
                 "gaID": "G-YTXEQB1N21"
             },
             "created": 1698074988,
-            "updated": 1704396335,
+            "updated": 1709488840,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
             },
-            "version": "8.0.0",
+            "version": "8.0.2",
             "domain": "https:\/\/btopro.com",
             "static": {}
         },
@@ -45,14 +45,7 @@
                 "cssVariable": "--simple-colors-default-theme-deep-purple-7",
                 "icon": "av:add-to-queue"
             },
-            "regions": {
-                "header": "",
-                "contentBottom": [
-                    "item-1c3a357d-2c98-4f1d-b9c6-5a0f66b2c40f"
-                ],
-                "footerPrimary": "",
-                "footerSecondary": ""
-            }
+            "regions": {}
         },
         "node": {
             "fields": {}
