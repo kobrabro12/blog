@@ -86,7 +86,7 @@ After filling out the form, it'll get placed into the content and you can go abo
 
 <h3>Desktop app</h3>
 
-<p>Now imagine if <a href="https://github.com/LRNWebComponents/hax-desktop-app" target="_blank" rel="nofollow" class="external-link no-image">HAX were a desktop app</a>
+<p>Now imagine if <a href="https://github.com/haxtheweb/hax-desktop-app" target="_blank" rel="nofollow" class="external-link no-image">HAX were a desktop app</a>
 , built using the same methodology as Roku where there are distributed apps that are all pulled together. Because of webcomponents and an awesome desktop builder called Electron, we can pursue both at the same time. We'll be able to improve the distributed building capabilities in ELMS:LN while also putting these capabilities in a desktop publishing app.
 The app will then be able to write HTML which can work anywhere, with or without ELMS:LN / other sources, and then also have the ability to deploy to ELMS:LN's course delivery capabilities, or a static location, or a git repo, or any LMS.
 By building LMS and system agnostic, we can deploy anywhere. In the coming months you'll start to see the Roku vision rolling out with additional accessibility, usability and integrations available.
@@ -115,7 +115,7 @@ Expect Us.</p>
 Webcomponents explained</h2>
 <p>That technology, is webcomponents. Webcomponents, which you can find out more about on <a href="https://www.webcomponents.org/" rel="nofollow">webcomponents.org</a>
  is a four part browser standard that fundamentally changes what's possible in web based application development. The important thing to know is that webcomponents allows developers to define <em>custom HTML elements and expresses how the browser handles them</em>
-. So, bringing this back to education: <em>We can use this technology standard in order to build <a href="https://github.com/LRNWebComponents/">pedagogically focused, valid, HTML tags</a>
+. So, bringing this back to education: <em>We can use this technology standard in order to build <a href="https://github.com/haxtheweb/">pedagogically focused, valid, HTML tags</a>
 </em>
 .</p>
 <h3><a id="user-content-quick-note" class="anchor" aria-hidden href="#quick-note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
@@ -438,12 +438,12 @@ This is because our backend modularity and pattern based design now has a place 
 </svg>
 </a>
 Tiny things</h2>
-<p>So while we trickle out small pieces (a <a href="https://github.com/LRNWebComponents/lrnsys-outline">outline</a>
-, a <a href="https://github.com/LRNWebComponents/responsive-grid">grid system</a>
-, a <a href="https://github.com/LRNWebComponents/pdf-element">PDF</a>
-, a <a href="https://github.com/LRNWebComponents/paper-audio-player">mp3 player</a>
-, a <a href="https://github.com/LRNWebComponents/video-player">video player</a>
-, a <a href="https://github.com/LRNWebComponents/lrndesign-gallery">gallery</a>
+<p>So while we trickle out small pieces (a <a href="https://github.com/haxtheweb/lrnsys-outline">outline</a>
+, a <a href="https://github.com/haxtheweb/responsive-grid">grid system</a>
+, a <a href="https://github.com/haxtheweb/pdf-element">PDF</a>
+, a <a href="https://github.com/haxtheweb/paper-audio-player">mp3 player</a>
+, a <a href="https://github.com/haxtheweb/video-player">video player</a>
+, a <a href="https://github.com/haxtheweb/lrndesign-gallery">gallery</a>
 , the list goes on) that's not really what we're building. These are just by-products of our new found capabilities. We don't have just these either. We've got <a href="https://github.com/LRNWebComponents">122 repos of these little pieces</a>
  and these are just the ones we've shared so far. When we get into full on apps (powering parts of elmsln) there are another 10 full on headless applications that are running there.
 These little pieces; these little things. While we've been putting out these ripples (<a href="https://www.youtube.com/watch?v=dhD6Y77eXmc" rel="nofollow">and some are very cool</a>
@@ -663,7 +663,7 @@ Let's get faculty and staff out of the business of understanding HTML and instea
 </svg>
 </a>
 2018</h2>
-<p>The ELMS:LN team has begun work on such a desktop app called <a href="https://github.com/LRNWebComponents/hax-desktop-app">HAX deskop app</a>
+<p>The ELMS:LN team has begun work on such a desktop app called <a href="https://github.com/haxtheweb/hax-desktop-app">HAX deskop app</a>
  which seeks to achieve this vision. Help us make this a reality in 2018 and beyond as we seek to empower faculty and align technology deployments with academic freedom and student curiosity.</p>
  ]]>
       </description>
@@ -746,7 +746,7 @@ Take our latest content authoring experience we've been working on - <a href="ht
 
 <li>Static webpages / single page demonstrations which can be identical in every way to the real thing</li>
 
-<li><a href="https://github.com/LRNWebComponents/hax-desktop-app" target="_blank" rel="nofollow" class="external-link no-image">Desktop publishing</a>
+<li><a href="https://github.com/haxtheweb/hax-desktop-app" target="_blank" rel="nofollow" class="external-link no-image">Desktop publishing</a>
  to do everything completely offline or via local development</li>
 
 <li><em>any LMS that wants to have an authoring experience second to none</em>
