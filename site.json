@@ -2233,6 +2233,20 @@
         "created": 1718126512020,
         "updated": 1718126512020
       }
+    },
+    {
+      "id": "item-9fbd10b7-fc5e-4406-b302-3e66a1d145ba",
+      "indent": 0,
+      "location": "pages/item-9fbd10b7-fc5e-4406-b302-3e66a1d145ba/index.html",
+      "slug": "page",
+      "order": 0,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1718126583497,
+        "updated": 1718126583498
+      }
     }
   ]
 }
