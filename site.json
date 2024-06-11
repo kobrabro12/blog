@@ -2303,6 +2303,20 @@
         "created": 1718126790883,
         "updated": 1718126790883
       }
+    },
+    {
+      "id": "item-26075fb2-4f61-4084-b768-bff888bd9452",
+      "indent": 0,
+      "location": "pages/item-26075fb2-4f61-4084-b768-bff888bd9452/index.html",
+      "slug": "page",
+      "order": 0,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1718126839610,
+        "updated": 1718126839610
+      }
     }
   ]
 }
