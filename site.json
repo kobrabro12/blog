@@ -2177,6 +2177,20 @@
         "created": 1718125631419,
         "updated": 1718125631419
       }
+    },
+    {
+      "id": "item-a0064641-1b62-42ec-a603-8e0f97a4c3e4",
+      "indent": 0,
+      "location": "pages/item-a0064641-1b62-42ec-a603-8e0f97a4c3e4/index.html",
+      "slug": "page",
+      "order": 0,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1718126045462,
+        "updated": 1718126045462
+      }
     }
   ]
 }
