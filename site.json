@@ -2165,20 +2165,6 @@
       }
     },
     {
-      "id": "item-a0064641-1b62-42ec-a603-8e0f97a4c3e4",
-      "indent": 0,
-      "location": "pages/item-a0064641-1b62-42ec-a603-8e0f97a4c3e4/index.html",
-      "slug": "page",
-      "order": 0,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1718126045462,
-        "updated": 1718126045462
-      }
-    },
-    {
       "id": "item-265aff7e-c13f-48e1-a48f-4b022a6c60bd",
       "indent": 0,
       "location": "pages/item-265aff7e-c13f-48e1-a48f-4b022a6c60bd/index.html",
