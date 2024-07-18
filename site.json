@@ -2164,23 +2164,6 @@
         "videos": [],
         "updated": 1704396258
       }
-    },
-    {
-      "id": "item-262524f4-d532-4807-be11-01b86b83745b",
-      "indent": 0,
-      "location": "pages/item-262524f4-d532-4807-be11-01b86b83745b/index.html",
-      "slug": "page",
-      "order": 10,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1718126968188,
-        "updated": 1721325427,
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
     }
   ]
 }
