@@ -2,7 +2,7 @@
   "id": "99e4b4fb-bc10-4540-96b1-c12c79982fdf",
   "title": "bto-pro",
   "author": "",
-  "description": "",
+  "description": "All things btopro on my own blog",
   "license": "by-sa",
   "metadata": {
     "author": {
@@ -23,14 +23,15 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1721325615,
+      "updated": 1721330205,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "8.0.2",
+      "version": "9.0.0",
       "domain": "https://btopro.com",
-      "static": {}
+      "static": {},
+      "tags": "blog, personal, website, haxtheweb, hax, btopro, bryan, author, family"
     },
     "theme": {
       "element": "haxor-slevin",
