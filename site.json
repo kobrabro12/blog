@@ -2185,7 +2185,17 @@
         "updated": 1721327987,
         "published": true,
         "hideInMenu": false,
-        "readtime": 4
+        "readtime": 4,
+        "files": [
+          {
+            "path": "[object Object]41tqb7.jpg",
+            "fullUrl": "//media/bto108a/AtticStorage/git/btopro/blog/files/41tqb7.jpg",
+            "url": "files/41tqb7.jpg",
+            "type": "image/jpeg",
+            "name": "41tqb7.jpg",
+            "size": 61625
+          }
+        ]
       }
     }
   ]
