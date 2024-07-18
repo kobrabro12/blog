@@ -2176,13 +2176,13 @@
       "order": 0,
       "parent": null,
       "title": "Go time",
-      "description": "The year is 2024, but do you know what season of life it is?&#160;I ask myself this a lot recently. What season is it? Seasons of life are different than seasons of the year but represent themes in t",
+      "description": "The year is 2024, but do you know what season of life it is?\nI ask myself this a lot recently. What season is it? Seasons of life are different than seasons of the year but represent themes in the sa",
       "metadata": {
         "locked": false,
         "created": 1721325576,
         "images": {},
         "videos": {},
-        "updated": 1721327987,
+        "updated": 1721329435,
         "published": true,
         "hideInMenu": false,
         "readtime": 4,
@@ -2195,7 +2195,8 @@
             "name": "41tqb7.jpg",
             "size": 61625
           }
-        ]
+        ],
+        "tags": "dx, 2025, revolution, hax9"
       }
     }
   ]
