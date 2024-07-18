@@ -62,13 +62,13 @@
       "indent": 0,
       "location": "pages/item-e69dc923-a3a6-4052-8726-9aeec9c2105c/index.html",
       "slug": "the-teachable",
-      "order": 0,
+      "order": 1,
       "parent": null,
       "title": "The Teachable",
       "description": "Skill is the learned behavior of repetition and desire to improve. In the thousands of touches on the puck or taps of the keyboard, we start to loose sight of what was once learned behavior, now view",
       "metadata": {
         "created": "1704214231",
-        "updated": 1704396257,
+        "updated": 1721325422,
         "images": [
           "files/image.png"
         ],
@@ -139,13 +139,13 @@
       "indent": 0,
       "location": "pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.html",
       "slug": "i-developed",
-      "order": -100,
+      "order": 0,
       "parent": null,
       "title": "I, Developed.",
       "description": "When I was a child, my parents helped me to develop. I had a loving home, that encouraged my growth and development in all aspects of life. Parents, thank you for developing your children this year",
       "metadata": {
         "created": 1709329865,
-        "updated": 1709488733,
+        "updated": 1721325421,
         "images": [],
         "videos": [
           "https://www.youtube.com/watch?v=wjA9-eSr9ao"
@@ -164,7 +164,8 @@
             "size": 247346
           }
         ],
-        "image": "files/i-developed.jpg"
+        "image": "files/i-developed.jpg",
+        "status": ""
       }
     },
     {
@@ -172,13 +173,13 @@
       "indent": 0,
       "location": "pages/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0/index.html",
       "slug": "the-climb-1",
-      "order": 1,
+      "order": 11,
       "parent": null,
       "title": "The Climb",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325427,
         "readtime": "7",
         "contentDetails": {
           "headings": "1",
@@ -230,13 +231,13 @@
       "indent": 0,
       "location": "pages/item-88a3c232-54d6-4179-8059-634223f201c4/index.html",
       "slug": "keep-moving-week-0",
-      "order": 2,
+      "order": 12,
       "parent": null,
       "title": "Keep moving: Week 0",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325428,
         "readtime": "10",
         "contentDetails": {
           "headings": "1",
@@ -275,13 +276,13 @@
       "indent": 0,
       "location": "pages/item-8e045593-79fd-401d-b380-1029001f5574/index.html",
       "slug": "arrival",
-      "order": 3,
+      "order": 13,
       "parent": null,
       "title": "Arrival",
       "description": "Some decades, nothing happens. Other days, decades happen.That sentiment about sums up what the last few weeks have been like. As if everyone began to realize what we built, all at once, after years",
       "metadata": {
         "created": "1698076822",
-        "updated": 1704396257,
+        "updated": 1721325428,
         "images": [],
         "videos": [
           "https://youtu.be/iPGgdRGyUtM?si=tkME13Ni2qPOeTts",
@@ -302,13 +303,13 @@
       "indent": 0,
       "location": "pages/item-1235ea3a-9254-4b93-8df3-8909fddcce88/index.html",
       "slug": "information-altruism-2-0",
-      "order": 4,
+      "order": 14,
       "parent": null,
       "title": "Information Altruism 2.0",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325429,
         "readtime": "7",
         "contentDetails": {
           "headings": "6",
@@ -333,13 +334,13 @@
       "indent": 0,
       "location": "pages/item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91/index.html",
       "slug": "why-i-started-hax-camp-1",
-      "order": 5,
+      "order": 15,
       "parent": null,
       "title": "Why I started hax-camp",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325430,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files//EBd7L7eXkAAOW_d.jpg",
@@ -503,13 +504,13 @@
       "indent": 0,
       "location": "pages/item-25c16bd5-a817-4df1-b147-88e448309a4b/index.html",
       "slug": "abstractionism-1",
-      "order": 6,
+      "order": 16,
       "parent": null,
       "title": "Abstractionism",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325430,
         "readtime": "3",
         "contentDetails": {
           "headings": "5",
@@ -531,13 +532,13 @@
       "indent": 0,
       "location": "pages/item-0589f6d1-3184-4e46-a856-7522d2a1b435/index.html",
       "slug": "villains-and-visionaries",
-      "order": 7,
+      "order": 17,
       "parent": null,
       "title": "Villains and Visionaries",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325431,
         "readtime": "3",
         "contentDetails": {
           "headings": "0",
@@ -558,13 +559,13 @@
       "indent": 0,
       "location": "pages/item-7080d384-ade3-441e-867f-4d5b955f99a2/index.html",
       "slug": "our-values-empowerment-1",
-      "order": 8,
+      "order": 18,
       "parent": null,
       "title": "Our Values: Empowerment",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325431,
         "readtime": "3",
         "contentDetails": {
           "headings": "1",
@@ -586,13 +587,13 @@
       "indent": 0,
       "location": "pages/item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7/index.html",
       "slug": "catching-gman-1",
-      "order": 9,
+      "order": 19,
       "parent": null,
       "title": "Catching Gman",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325432,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/headshot422070.074999996.jpg",
@@ -668,13 +669,13 @@
       "indent": 0,
       "location": "pages/item-2d2887cc-08c8-4f22-8554-abcce1823282/index.html",
       "slug": "the-infinite-void-1",
-      "order": 10,
+      "order": 20,
       "parent": null,
       "title": "The infinite void",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325432,
         "readtime": "3",
         "contentDetails": {
           "headings": "0",
@@ -695,13 +696,13 @@
       "indent": 0,
       "location": "pages/item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711/index.html",
       "slug": "my-first-time-on-stage-2",
-      "order": 11,
+      "order": 21,
       "parent": null,
       "title": "My first time on stage",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325433,
         "readtime": "8",
         "contentDetails": {
           "headings": "0",
@@ -723,13 +724,13 @@
       "indent": 0,
       "location": "pages/item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a/index.html",
       "slug": "annabella-2",
-      "order": 12,
+      "order": 22,
       "parent": null,
       "title": "Annabella",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325433,
         "readtime": "8",
         "contentDetails": {
           "headings": "0",
@@ -762,13 +763,13 @@
       "indent": 0,
       "location": "pages/item-006601d9-4063-4bd9-ba32-3e959b631d31/index.html",
       "slug": "hey-remember-when-2",
-      "order": 13,
+      "order": 23,
       "parent": null,
       "title": "Hey, remember when",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325434,
         "readtime": "4",
         "contentDetails": {
           "headings": "0",
@@ -823,13 +824,13 @@
       "indent": 0,
       "location": "pages/item-e3d7d519-9549-4e44-9ab8-b9df805a3531/index.html",
       "slug": "open-community-pedagogy-2",
-      "order": 14,
+      "order": 24,
       "parent": null,
       "title": "Open Community Pedagogy",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325435,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/color-spectrum.jpg",
@@ -868,13 +869,13 @@
       "indent": 0,
       "location": "pages/item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc/index.html",
       "slug": "stand-against-the-ocean-2",
-      "order": 15,
+      "order": 25,
       "parent": null,
       "title": "Stand against the ocean",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325435,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/IMG_20190307_142300.jpg",
@@ -914,13 +915,13 @@
       "indent": 0,
       "location": "pages/item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2/index.html",
       "slug": "edtechjoker-2",
-      "order": 16,
+      "order": 26,
       "parent": null,
       "title": "EdTechJoker",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325436,
         "readtime": "4",
         "contentDetails": {
           "headings": "0",
@@ -947,13 +948,13 @@
       "indent": 0,
       "location": "pages/item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814/index.html",
       "slug": "technical-weapons-2",
-      "order": 17,
+      "order": 27,
       "parent": null,
       "title": "Technical weapons",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325436,
         "readtime": "6",
         "contentDetails": {
           "headings": "7",
@@ -995,13 +996,13 @@
       "indent": 0,
       "location": "pages/item-73248929-e4a5-44eb-aea5-8e2373a34b69/index.html",
       "slug": "i-made-a-thing-2",
-      "order": 18,
+      "order": 28,
       "parent": null,
       "title": "I made a thing",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325437,
         "readtime": "1",
         "contentDetails": {
           "headings": "0",
@@ -1046,13 +1047,13 @@
       "indent": 0,
       "location": "pages/item-04fb0667-5539-4d0a-b841-a203d6117d69/index.html",
       "slug": "the-web-components-high-performance-video-2",
-      "order": 19,
+      "order": 29,
       "parent": null,
       "title": "THE web components high performance video",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325437,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/2019-05-24_11-14-49.jpg",
@@ -1097,13 +1098,13 @@
       "indent": 0,
       "location": "pages/item-70f48666-098d-42fa-8b9d-064f3e678583/index.html",
       "slug": "ocean",
-      "order": 20,
+      "order": 30,
       "parent": null,
       "title": "Ocean",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396257,
+        "updated": 1721325438,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/scale-50/headshot.jpg",
@@ -1133,13 +1134,13 @@
       "indent": 0,
       "location": "pages/item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74/index.html",
       "slug": "drunken-ux-interview-2",
-      "order": 21,
+      "order": 31,
       "parent": null,
       "title": "Drunken UX interview",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325438,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/scale-50/IMG_20190127_153429.jpg",
@@ -1166,14 +1167,14 @@
       "indent": 0,
       "location": "pages/item-15cbf071-ff46-4ec6-90dd-35c57537af97/index.html",
       "slug": "fortify-2",
-      "order": 22,
+      "order": 32,
       "parent": null,
       "title": "Fortify",
       "description": "",
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325439,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/IMG_20190221_184100.jpg",
@@ -1195,13 +1196,13 @@
       "indent": 0,
       "location": "pages/item-8f85b86c-0619-4fb5-8c19-39b49c11e96b/index.html",
       "slug": "all-screens-have-rights-2",
-      "order": 23,
+      "order": 33,
       "parent": null,
       "title": "All screens have rights",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325439,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/ie8.jpg",
@@ -1263,13 +1264,13 @@
       "indent": 0,
       "location": "pages/item-7502f3ce-134f-4c88-beaf-85e539c0e801/index.html",
       "slug": "reclaim-the-web-2",
-      "order": 24,
+      "order": 34,
       "parent": null,
       "title": "Reclaim the web",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325440,
         "readtime": "3",
         "published": "1",
         "locked": "",
@@ -1281,14 +1282,14 @@
       "indent": 0,
       "location": "pages/item-985e5628-b3e6-44e5-85dc-c4d7be7bd754/index.html",
       "slug": "structured-anarchy-2",
-      "order": 25,
+      "order": 35,
       "parent": null,
       "title": "Structured Anarchy",
       "description": "",
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325441,
         "readtime": "4",
         "published": "1",
         "locked": "",
@@ -1300,13 +1301,13 @@
       "indent": 0,
       "location": "pages/item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d/index.html",
       "slug": "haxcms-theme-layer-code-review-2",
-      "order": 26,
+      "order": 36,
       "parent": null,
       "title": "HAXcms Theme layer Code Review",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325441,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1318,13 +1319,13 @@
       "indent": 0,
       "location": "pages/item-cd716dd0-59b0-a24d-1ddb-2779369c52b2/index.html",
       "slug": "2018-innovation-submission-2",
-      "order": 27,
+      "order": 37,
       "parent": null,
       "title": "2018 Innovation Submission",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325442,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1336,13 +1337,13 @@
       "indent": 0,
       "location": "pages/item-44797f99-e67b-41ce-a32f-57ccafea33ec/index.html",
       "slug": "elms-ln-code-review-series-part-1-2",
-      "order": 28,
+      "order": 38,
       "parent": null,
       "title": "ELMS:LN Code review series Part 1",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325442,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1354,13 +1355,13 @@
       "indent": 0,
       "location": "pages/item-c97a8e67-971e-4e92-8b38-e348c780d072/index.html",
       "slug": "golden-shimmering-joy-2",
-      "order": 29,
+      "order": 39,
       "parent": null,
       "title": "Golden, shimmering, joy",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325443,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1371,13 +1372,13 @@
       "indent": 0,
       "location": "pages/item-5e860e67-2444-0304-6180-9cb7dee92321/index.html",
       "slug": "common-web-component-state-question-2",
-      "order": 30,
+      "order": 40,
       "parent": null,
       "title": "Common web component state question",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325443,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1388,13 +1389,13 @@
       "indent": 0,
       "location": "pages/item-e165f124-11d5-4b9a-06ed-7b6bf1802ca8/index.html",
       "slug": "ngdle-is-really-just-enigma-misspelled-2",
-      "order": 31,
+      "order": 41,
       "parent": null,
       "title": "NGDLE is really just Enigma misspelled",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325444,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -1431,13 +1432,13 @@
       "indent": 0,
       "location": "pages/item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0/index.html",
       "slug": "compartmentalizing-2",
-      "order": 32,
+      "order": 42,
       "parent": null,
       "title": "Compartmentalizing",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325444,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1448,13 +1449,13 @@
       "indent": 0,
       "location": "pages/item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a/index.html",
       "slug": "occupy-the-bridge-2",
-      "order": 33,
+      "order": 43,
       "parent": null,
       "title": "OCCUPY... the bridge",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325445,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1465,13 +1466,13 @@
       "indent": 0,
       "location": "pages/item-46aa6443-ebf1-62b2-6523-760490d5ce9b/index.html",
       "slug": "when-educators-left-the-lms-2",
-      "order": 34,
+      "order": 44,
       "parent": null,
       "title": "When Educators left the LMS",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325445,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1482,13 +1483,13 @@
       "indent": 0,
       "location": "pages/item-8cef1ad3-7cc7-778a-b125-1d85f265742d/index.html",
       "slug": "the-lms-is-cable-we-are-roku-expect-us-2",
-      "order": 35,
+      "order": 45,
       "parent": null,
       "title": "The LMS is Cable, We are Roku. Expect Us",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325446,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1499,13 +1500,13 @@
       "indent": 0,
       "location": "pages/item-6c53744c-1b33-97a1-976f-90484f5bc450/index.html",
       "slug": "innovation-s-four-ingredients-2",
-      "order": 36,
+      "order": 46,
       "parent": null,
       "title": "Innovation's four ingredients",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325446,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1516,13 +1517,13 @@
       "indent": 0,
       "location": "pages/item-401610da-127f-602f-5298-265f5eea00ee/index.html",
       "slug": "straddling-the-abyss-2",
-      "order": 37,
+      "order": 47,
       "parent": null,
       "title": "Straddling the Abyss",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325447,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1533,13 +1534,13 @@
       "indent": 0,
       "location": "pages/item-f82147b6-1844-d3c0-9515-01130ce85c79/index.html",
       "slug": "the-knowledge-decentralization-manifesto-2",
-      "order": 38,
+      "order": 48,
       "parent": null,
       "title": "The Knowledge Decentralization Manifesto",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325448,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1550,13 +1551,13 @@
       "indent": 0,
       "location": "pages/item-c150b20f-d7ed-4a1d-1ca5-7b4406c040a9/index.html",
       "slug": "the-knowledge-decentralization-manifesto-the-prolog-2",
-      "order": 39,
+      "order": 49,
       "parent": null,
       "title": "The Knowledge Decentralization Manifesto (The Prolog)",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325448,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1567,13 +1568,13 @@
       "indent": 0,
       "location": "pages/item-79649f12-a6d2-98f5-3c0b-8b88f2a24457/index.html",
       "slug": "hax-apereo-piece-2",
-      "order": 40,
+      "order": 50,
       "parent": null,
       "title": "HAX apereo piece",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325449,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1584,13 +1585,13 @@
       "indent": 0,
       "location": "pages/item-c9e2488a-44dd-f0d4-4b3f-651245add81a/index.html",
       "slug": "the-perfect-cup-of-coffee-2",
-      "order": 41,
+      "order": 51,
       "parent": null,
       "title": "The perfect cup of coffee",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325449,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1601,13 +1602,13 @@
       "indent": 0,
       "location": "pages/item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0/index.html",
       "slug": "watch-the-ripples-and-you-ll-miss-the-waves-2",
-      "order": 42,
+      "order": 52,
       "parent": null,
       "title": "Watch the ripples and you'll miss the waves",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325450,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1618,13 +1619,13 @@
       "indent": 0,
       "location": "pages/item-40122e25-5673-4544-133f-2acb042dbb23/index.html",
       "slug": "i-challenge-you-to-transform-education-together-2",
-      "order": 43,
+      "order": 53,
       "parent": null,
       "title": "I challenge you to Transform Education; together",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325450,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1635,13 +1636,13 @@
       "indent": 0,
       "location": "pages/item-1851779a-7fe1-2fa1-ddd5-0a926467a3e3/index.html",
       "slug": "ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-2",
-      "order": 44,
+      "order": 54,
       "parent": null,
       "title": "NGDLE, OER, Cost reduction, accessibility and Decentralization: the future of our institutions.",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325451,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1652,13 +1653,13 @@
       "indent": 0,
       "location": "pages/item-4080a73d-360e-7a65-131b-705b8c6169e7/index.html",
       "slug": "actually-curing-edtech-2",
-      "order": 45,
+      "order": 55,
       "parent": null,
       "title": "Actually, curing edtech",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325451,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1669,13 +1670,13 @@
       "indent": 0,
       "location": "pages/item-1f14703a-1e61-d454-f03a-52a94333e9d1/index.html",
       "slug": "in-my-own-words-zero-cost-education-2",
-      "order": 46,
+      "order": 56,
       "parent": null,
       "title": "In my own words: Zero cost education.",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325452,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1686,13 +1687,13 @@
       "indent": 0,
       "location": "pages/item-bea307e8-0af9-4518-dc18-c5323302165c/index.html",
       "slug": "education-technology-action-2",
-      "order": 47,
+      "order": 57,
       "parent": null,
       "title": "Education, Technology... Action.",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325453,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1703,13 +1704,13 @@
       "indent": 0,
       "location": "pages/item-897d5115-b6de-2c55-afa7-ba3262f4d9ca/index.html",
       "slug": "pure-joy-2",
-      "order": 48,
+      "order": 58,
       "parent": null,
       "title": "Pure Joy",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325453,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1720,13 +1721,13 @@
       "indent": 0,
       "location": "pages/item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2/index.html",
       "slug": "creating-the-decentralized-instructional-experience-app-2",
-      "order": 49,
+      "order": 59,
       "parent": null,
       "title": "Creating the decentralized instructional experience app",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325454,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1737,13 +1738,13 @@
       "indent": 0,
       "location": "pages/item-1222b362-d24d-0aa7-20e7-724767f57656/index.html",
       "slug": "using-webcomponents-to-unearth-the-ngdle-2",
-      "order": 50,
+      "order": 60,
       "parent": null,
       "title": "Using Webcomponents to unearth the NGDLE",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325454,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1754,13 +1755,13 @@
       "indent": 0,
       "location": "pages/item-be6f30a2-8a4d-e986-6af3-930f91e00464/index.html",
       "slug": "this-is-not-reality-2",
-      "order": 51,
+      "order": 61,
       "parent": null,
       "title": "This is not reality",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325455,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1771,13 +1772,13 @@
       "indent": 0,
       "location": "pages/item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0/index.html",
       "slug": "playing-for-40-2",
-      "order": 52,
+      "order": 62,
       "parent": null,
       "title": "Playing for 40",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1704396258,
+        "updated": 1721325455,
         "published": "1",
         "locked": "",
         "status": ""
@@ -2165,31 +2166,20 @@
       }
     },
     {
-      "id": "item-2d3f8583-317d-4026-8166-8baaadb149aa",
-      "indent": 0,
-      "location": "pages/item-2d3f8583-317d-4026-8166-8baaadb149aa/index.html",
-      "slug": "page",
-      "order": 0,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1718126102570,
-        "updated": 1718126102570
-      }
-    },
-    {
       "id": "item-a9d1b46d-84de-4eec-9e78-784ab0ed9f55",
       "indent": 0,
       "location": "pages/item-a9d1b46d-84de-4eec-9e78-784ab0ed9f55/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 3,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126512020,
-        "updated": 1718126512020
+        "updated": 1721325423,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -2197,13 +2187,16 @@
       "indent": 0,
       "location": "pages/item-9fbd10b7-fc5e-4406-b302-3e66a1d145ba/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 4,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126583497,
-        "updated": 1718126583498
+        "updated": 1721325424,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -2211,13 +2204,16 @@
       "indent": 0,
       "location": "pages/item-d9dc9ec6-85ee-4405-bda9-9fd956202335/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 5,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126704326,
-        "updated": 1718126704326
+        "updated": 1721325424,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -2225,13 +2221,16 @@
       "indent": 0,
       "location": "pages/item-38ebd3d1-9e3b-482a-af65-7bd169e4b56d/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 6,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126717758,
-        "updated": 1718126717758
+        "updated": 1721325425,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -2239,13 +2238,16 @@
       "indent": 0,
       "location": "pages/item-22f521f3-f5d4-4880-9827-eed4798bbd5d/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 7,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126732060,
-        "updated": 1718126732060
+        "updated": 1721325425,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -2253,13 +2255,16 @@
       "indent": 0,
       "location": "pages/item-55e20ead-f29c-42b4-8b80-644132b2023a/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 8,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126790883,
-        "updated": 1718126790883
+        "updated": 1721325426,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -2267,13 +2272,16 @@
       "indent": 0,
       "location": "pages/item-26075fb2-4f61-4084-b768-bff888bd9452/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 9,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126839610,
-        "updated": 1718126839610
+        "updated": 1721325426,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -2281,13 +2289,16 @@
       "indent": 0,
       "location": "pages/item-262524f4-d532-4807-be11-01b86b83745b/index.html",
       "slug": "page",
-      "order": 0,
+      "order": 10,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1718126968188,
-        "updated": 1718126968188
+        "updated": 1721325427,
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     }
   ]
