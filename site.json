@@ -2166,23 +2166,6 @@
       }
     },
     {
-      "id": "item-38ebd3d1-9e3b-482a-af65-7bd169e4b56d",
-      "indent": 0,
-      "location": "pages/item-38ebd3d1-9e3b-482a-af65-7bd169e4b56d/index.html",
-      "slug": "page",
-      "order": 6,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1718126717758,
-        "updated": 1721325425,
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
-    },
-    {
       "id": "item-22f521f3-f5d4-4880-9827-eed4798bbd5d",
       "indent": 0,
       "location": "pages/item-22f521f3-f5d4-4880-9827-eed4798bbd5d/index.html",
