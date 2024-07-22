@@ -23,12 +23,12 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1721330205,
+      "updated": 1721677538,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "9.0.0",
+      "version": "9.0.1",
       "domain": "https://btopro.com",
       "static": {},
       "tags": "blog, personal, website, haxtheweb, hax, btopro, bryan, author, family"
@@ -44,7 +44,7 @@
         "imageLink": "",
         "hexCode": "#aeff00",
         "cssVariable": "--simple-colors-default-theme-deep-purple-7",
-        "icon": "av:add-to-queue"
+        "icon": "hax:wizard-hat"
       },
       "regions": {}
     },
