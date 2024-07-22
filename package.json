@@ -1,7 +1,7 @@
 {
   "name": "btopro",
-  "version": "9.0.0",
-  "description": "",
+  "version": "9.0.1",
+  "description": "All things btopro on my own blog",
   "main": "index.html",
   "author": {
     "name": "btopro"

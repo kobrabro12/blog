@@ -2,9 +2,9 @@
 <browserconfig>
 	<msapplication>
 		<tile>
-			<square70x70logo src="assets/icon-72x72.png"/>
-			<square150x150logo src="assets/icon-144x144.png"/>
-			<square310x310logo src="assets/icon-256x256.png"/>
+			<square70x70logo src="files/haxcms-managed/72x72-1500x500.jpeg"/>
+			<square150x150logo src="files/haxcms-managed/144x144-1500x500.jpeg"/>
+			<square310x310logo src="files/haxcms-managed/256x256-1500x500.jpeg"/>
 			<TileColor>#aeff00</TileColor>
 		</tile>
 	</msapplication>
