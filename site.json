@@ -23,20 +23,20 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1721677538,
+      "updated": 1722292213,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "9.0.1",
+      "version": "9.0.2",
       "domain": "https://btopro.com",
       "static": {},
       "tags": "blog, personal, website, haxtheweb, hax, btopro, bryan, author, family"
     },
     "theme": {
-      "element": "haxor-slevin",
-      "path": "@haxtheweb/haxor-slevin/haxor-slevin.js",
-      "name": "Haxor Blog theme",
+      "element": "terrible-best-themes",
+      "path": "@haxtheweb/terrible-themes/lib/terrible-best-themes.js",
+      "name": "Terrible best hockey",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "files/1500x5001.jpeg",
