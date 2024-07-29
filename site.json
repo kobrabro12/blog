@@ -104,6 +104,14 @@
             "type": "image/jpeg",
             "name": "10uchampions.jpg",
             "size": "99213"
+          },
+          {
+            "path": "[object Object]headshot99487.jpg",
+            "fullUrl": "//Users/admin/Documents/GitHub/blog/files/headshot99487.jpg",
+            "url": "files/headshot99487.jpg",
+            "type": "image/jpeg",
+            "name": "headshot99487.jpg",
+            "size": 149810
           }
         ],
         "published": "1",
